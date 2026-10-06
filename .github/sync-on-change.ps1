@@ -2,17 +2,18 @@ param([switch]$Install)
 
 $ErrorActionPreference = 'Stop'
 $repoRoot = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
-$taskName = 'BayramdoekmeciGitHubAutoSync'
+$shortcutName = 'Bayramdoekmeci GitHub Auto-Sync.lnk'
 
 if ($Install) {
-    $action = New-ScheduledTaskAction -Execute 'powershell.exe' -Argument "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$PSCommandPath`""
-    $trigger = New-ScheduledTaskTrigger -AtLogOn
-    $settings = New-ScheduledTaskSettingsSet -MultipleInstances IgnoreNew -ExecutionTimeLimit ([TimeSpan]::Zero)
-    $principal = New-ScheduledTaskPrincipal -UserId ([Security.Principal.WindowsIdentity]::GetCurrent().Name) -LogonType Interactive -RunLevel Limited
-
-    Register-ScheduledTask -TaskName $taskName -Action $action -Trigger $trigger -Settings $settings -Principal $principal -Description 'Commits and pushes changes in the Bayramdoekmeci project.' -Force | Out-Null
-    Start-ScheduledTask -TaskName $taskName
-    Write-Output "Auto-sync installed and started. Task: $taskName"
+    $startupDirectory = [Environment]::GetFolderPath([Environment+SpecialFolder]::Startup)
+    $shortcutPath = Join-Path $startupDirectory $shortcutName
+    $shortcut = (New-Object -ComObject WScript.Shell).CreateShortcut($shortcutPath)
+    $shortcut.TargetPath = Join-Path $env:WINDIR 'System32\WindowsPowerShell\v1.0\powershell.exe'
+    $shortcut.Arguments = "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$PSCommandPath`""
+    $shortcut.WorkingDirectory = $repoRoot
+    $shortcut.Save()
+    Start-Process -FilePath $shortcut.TargetPath -ArgumentList $shortcut.Arguments -WindowStyle Hidden
+    Write-Output "Auto-sync installed and started from the current user's Startup folder."
     exit 0
 }
 
