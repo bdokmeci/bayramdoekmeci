@@ -1,0 +1,45 @@
+VOICE CONSISTENCY LOCK – IMPORTANT
+
+This video is part of a continuous series. The two characters must keep exactly the same voices in every clip. Do not redesign, reinterpret or randomize their voices between generations.
+LITTLE JOHN – LOCKED VOICE PROFILE:
+
+Male, approximately 30 years old. Native German speaker. Warm, friendly, confident and calm voice. Medium-low pitch, slightly deep but not overly bass-heavy. Natural conversational tone, clear pronunciation, relaxed speaking speed. Friendly professional bicycle advisor, knowledgeable without sounding like a salesman. Subtle dry humor. No exaggerated acting. No dialect. Standard German pronunciation.
+Keep his pitch, timbre, rhythm, speaking speed, accent and vocal personality identical in every scene.
+KUNDIN – LOCKED VOICE PROFILE:
+
+Female, approximately 23 years old. Native German speaker. Young adult voice, friendly, natural and curious. Medium pitch, clear and warm tone, slightly energetic but not high-pitched or childish. Natural conversational speaking speed. Authentic reactions, subtle humor, no exaggerated acting. No dialect. Standard German pronunciation.
+Keep her pitch, timbre, rhythm, speaking speed, accent and vocal personality identical in every scene.
+STRICT AUDIO RULES:
+
+Little John must always use the Little John voice profile (Litte-John-Stimme).
+
+The customer must always use the customer voice profile (Kundin-Stimme).
+
+Never swap voices.
+
+Never create a new interpretation of either voice.
+
+Do not change age, accent, pitch, vocal depth, speaking rhythm or personality between clips.
+
+Maintain continuous voice identity as if all clips were recorded during the same conversation, in the same room, on the same day, with the same microphones.
+Spoken language: German (Germany).
+
+Dialogue must sound natural, conversational and synchronized with the characters' mouth movements. Do not add any additional dialogue.
+
+Erstelle ein 2D Animation. Der Dialog zwischen Kundin und Little John ist dynamisch, lustig und in Deutscher Sprache. Die Szene spielt sich im Fahrradladen wo sich die Kundin zwei E-Bikes ansieht.
+
+Kundin:
+"Brauche ich echt einen so großen Akku wie alle sagen"?
+Little John:
+„Es kommt drauf an. Wie weit fährst du denn am Tag?“
+Kundin:
+„So zehn Kilometer. Arbeit, Einkaufen … manchmal noch zum Café.“
+
+
+Erstelle ein 2D Animation. Der Dialog zwischen Kundin und Little John ist dynamisch, lustig und in Deutscher Sprache. Die Szene spielt sich im Fahrradladen. Die Kundin steht vor einem E-Citybike mit Tiefeinstieg. Little Johns kleiner Hund sitzt daneben.
+
+Kundin: „Tiefeinstieg? Mega langweilig. Das ist doch was für alte Leute.“
+
+Little John: „Und im Alltag? Stell dir vor: Tasche am Lenker, Rock an, Ampel grün … und jetzt erstmal das Bein über den Sattel schwingen.“ 
+
+Die Kappe von Little John färben auf Magenta #E0458C und die Schuhe von Little John Schwarz färben. Alles andere so belassen wie es ist.
