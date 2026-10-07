@@ -24,6 +24,13 @@ sitemap.xml-Eintrag
 llms.txt-Eintrag
 - [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
 
+Technische Prüfung
+- 12 Browserfälle in Headless-Chrome: beide Seiten bei 360, 720, 1024 und 1440 CSS-px sowie mit reduzierter Bewegung und ohne JavaScript.
+- 720 CSS-px bei doppeltem Gerätefaktor als äquivalente Prüfung für ein 200-%-Layout.
+- Kein horizontales Scrollen; Architektur-Tabs, Chart-Vergleich, mobile Navigation, Escape-Fokus und FAQ geprüft.
+- HTML-Struktur, Metadatenlängen, interne Links, SVG-Beschriftungen, Alpine-Ausdrücke, identische Footer und FAQ-/JSON-LD-Übereinstimmung geprüft.
+- Haupttext-, Akzent- und CTA-Kontraste erfüllen WCAG AA.
+
 Vor Veröffentlichung prüfen
 - Kontaktangaben und Profil-URLs anhand des Briefings bestätigen.
 - Tatsächliche Buchbarkeit des Calendly-Termintyps prüfen.
