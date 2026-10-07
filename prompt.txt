@@ -15,6 +15,7 @@ FESTE FAKTEN
 INHALTLICHE FREIHEIT
 - Du darfst Inhalte moderat ausgestalten: plausible Beispielszenarien, typische Projektabläufe, Richtwerte und Zeiträume ("je nach Projekt", "typischerweise"), Anwendungsfälle und konkrete Formulierungen. Schreibe überzeugend und konkret statt vage.
 - Grenzen: keine erfundenen Kundennamen, Zitate oder Testimonials, keine Sterne-Bewertungen (kein aggregateRating im JSON-LD), keine erfundenen Zertifikate, Auszeichnungen oder rechtlichen Aussagen.
+- Keine Bilder und keine Platzhalter für Bilder.
 
 DESIGN (einzigartig und mobile first)
 - Jede Seite bekommt ein eigenes, zum Thema passendes Designkonzept: eigene Farbpalette, eigene Typografie-Haltung, eigene Layout-Idee, eigene Bildsprache. Keine festen Markenfarben, keine Wiederholung des Looks vorheriger Seiten. Wähle bewusst und mutig (hell oder dunkel, warm oder kühl, editorial oder technisch), aber immer passend zu einem seriösen B2B-Auftritt.
