@@ -1,4 +1,6 @@
+Hier ist der Prompt ohne Farbvorgaben. Die Anforderungen an Kontrast und Barrierefreiheit bleiben erhalten.
 
+```text
 Du bist ein WordPress / CMS Entwickler (m/w/d): Fokussiert auf Theme-/Plugin-Entwicklung, Plattform-Architektur, Performance-Optimierung und die Anbindung an Content Delivery Networks für den DACH-Markt. Erstelle auf Basis des Themas oben eine komplette Landingpage für https://bayramdoekmeci.de. Leite alles Nötige selbst ab: Haupt-Keyword, Suchintent, URL-Slug, Title, Description, H1, Aufbau, Texte, FAQ, Infografiken und strukturierte Daten. Stelle keine Rückfragen. Triff sinnvolle Annahmen und nenne sie am Ende in einer Zeile.
 
 FESTE FAKTEN
@@ -18,11 +20,22 @@ INHALTLICHE FREIHEIT
 - Keine Bilder und keine Platzhalter für Bilder.
 
 DESIGN (einzigartig und mobile first)
-- Jede Seite bekommt ein eigenes, zum Thema passendes Designkonzept: eigene Farbpalette, eigene Typografie-Haltung, eigene Layout-Idee, eigene Bildsprache. Keine festen Markenfarben, keine Wiederholung des Looks vorheriger Seiten. Wähle bewusst und mutig (hell oder dunkel, warm oder kühl, editorial oder technisch), aber immer passend zu einem seriösen B2B-Auftritt.
-- Vermeide generische KI-Optik: keine Lila-Verläufe auf Weiß, keine Standard-Kartenraster, keine Gradient-Texte, keine Allerweltsschriften. Setze auf starke Typografie, klare Hierarchie, gezielte Akzente und stimmige Abstände.
+- Jede Seite bekommt ein eigenes, zum Thema passendes Designkonzept: eigene Typografie-Haltung, eigene Layout-Idee, eigene visuelle Gestaltung. Keine Wiederholung des Looks vorheriger Seiten. Wähle bewusst und mutig (editorial oder technisch), aber immer passend zu einem seriösen B2B-Auftritt.
+- Vermeide generische KI-Optik: keine Standard-Kartenraster, keine Allerweltsschriften. Setze auf starke Typografie, klare Hierarchie, gezielte Akzente und stimmige Abstände.
 - Mobile first: Basis-CSS für 360 px Breite, Erweiterungen nur mit min-width-Breakpoints. Fluide Typografie mit clamp(), Touch-Ziele mindestens 44 px, kein horizontales Scrollen, Safe-Area-Insets beachten. Auf Mobilgeräten eine fixierte, dezente CTA-Leiste (Termin buchen oder WhatsApp) am unteren Rand, die keine Inhalte verdeckt.
 - Kontrast mindestens WCAG AA, sichtbarer Tastatur-Fokus, Layout funktioniert bei 200 % Zoom.
 - Schriften: Systemschriften-Stacks (auch kreativ kombiniert) oder selbst gehostete WOFF2-Dateien mit font-display: swap. Keine Google Fonts.
+
+MODERNE ANIMATIONEN, CHARTS UND INFOGRAFIKEN
+- Erstelle moderne, visuell hochwertige Animationen, animierte Charts und animierte Infografiken als festen Bestandteil des Designs. Sie sollen Zusammenhänge verständlich machen und der Seite einen eigenständigen, professionellen Charakter geben.
+- Entwickle eine zusammenhängende Bewegungssprache: präzise Übergänge, gestaffelte Einblendungen, dezente Mikrointeraktionen und Animationen, die beim Scrollen gezielt ausgelöst werden.
+- Erstelle mindestens ein animiertes Chart sowie 1 bis 3 animierte Infografiken. Wähle passende Darstellungen, etwa Balkendiagramme, Prozessabläufe, Architekturdiagramme, Zeitstrahlen oder interaktive Vergleiche. Vermeide rein dekorative Diagramme ohne Aussage.
+- Charts dürfen keine erfundenen Leistungswerte, Kundenergebnisse oder Statistiken als Fakten darstellen. Kennzeichne illustrative Beispieldaten direkt an der Darstellung. Wenn keine belastbaren Zahlen vorliegen, nutze qualitative Vergleiche oder Ablaufdarstellungen.
+- Animiere beispielsweise den Aufbau von Balken, das schrittweise Erscheinen von Prozessstationen und Verbindungen oder den Wechsel zwischen Vergleichsansichten. Verwende dafür transform und opacity, ohne Layout-Sprünge zu verursachen.
+- Setze alle Visualisierungen direkt mit HTML, CSS, Inline-SVG und Alpine.js um. Keine zusätzlichen Animations- oder Chart-Bibliotheken.
+- Keine Bilder, keine Stockfotos, keine Platzhalterbilder, keine leeren Bildflächen und keine Hinweise wie „Bild hier einfügen“. Charts und Infografiken müssen vollständig ausgearbeitet sein und echte Inhalte erklären.
+- Alle Visualisierungen müssen auf Mobilgeräten lesbar, vollständig responsive und barrierefrei sein. Ergänze eine gleichwertige Textfassung oder Datentabelle. Interaktive Elemente müssen per Tastatur bedienbar sein.
+- Respektiere prefers-reduced-motion: Zeige bei reduzierter Bewegung sofort den vollständigen Endzustand. Auch ohne JavaScript müssen sämtliche Inhalte und Aussagen sichtbar und verständlich bleiben.
 
 ANIMATIONEN (Alpine.js)
 - Nutze Alpine.js für hochwertige, dezente Animationen: Scroll-Reveal (per IntersectionObserver in x-init), gestaffelte Einblendungen, Tabs oder Akkordeons, animierte Infografiken, sanfte Hover- und Fokus-Effekte. Animierte Zähler nur für Werte, die zum Thema plausibel sind.
@@ -32,7 +45,7 @@ ANIMATIONEN (Alpine.js)
 
 INFOGRAFIKEN
 - Erstelle 1 bis 3 wirklich gute Infografiken, die zum Thema passen und etwas erklären, was Text allein schlechter kann: Prozess-/Ablaufdiagramm, Architektur- oder Systemskizze, Vorher/Nachher-Vergleich, Zeitstrahl der Zusammenarbeit, Technologie-Landkarte.
-- Umsetzung als Inline-SVG im Stil der Seite (Farben über CSS-Variablen), vollständig responsive (viewBox, mobil lesbar, Text nicht kleiner als 12 px, bei Bedarf vertikale Mobil-Variante), animiert per Alpine.js.
+- Umsetzung als Inline-SVG im Stil der Seite, vollständig responsive (viewBox, mobil lesbar, Text nicht kleiner als 12 px, bei Bedarf vertikale Mobil-Variante), animiert per Alpine.js.
 - Barrierefrei und GEO-tauglich: role="img" mit <title> und <desc>, direkt darunter eine gleichwertige Textfassung (nummerierte Liste oder Tabelle), denn KI-Systeme lesen den Text, nicht die Grafik.
 
 TECHNIK
@@ -64,8 +77,9 @@ GEO (Sichtbarkeit in KI-Antworten)
 - Ein Abschnitt mit Praxisbeispielen (Szenario, Vorgehen, Ergebnis), klar als "typisches Beispiel" formuliert.
 
 AUSGABE (in dieser Reihenfolge)
-1. Kurzübersicht: Haupt-Keyword, Suchintent, Slug, Title, Description, Designkonzept in 1 Satz (Palette, Typografie, Grundidee)
+1. Kurzübersicht: Haupt-Keyword, Suchintent, Slug, Title, Description, Designkonzept in 1 Satz (Typografie, Layout, Grundidee)
 2. Der vollständige HTML-Code in einem Codeblock
 3. Eintrag für die sitemap.xml
 4. Eine Zeile für die llms.txt (URL plus Kurzbeschreibung)
 5. Checkliste "Vor Veröffentlichung prüfen": TODOs, getroffene Annahmen, Fakten, die ich bestätigen muss
+```
