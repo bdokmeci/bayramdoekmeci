@@ -48,7 +48,7 @@ FOOTER (auf jeder Seite identisch, alle Links absolut)
 - LinkedIn mit LinkedIn-Icon: https://www.linkedin.com/in/bayramdoekmeci/
 - Termin buchen mit Kalender-Icon: https://calendly.com/bayramdokmeci/b2b
 - Tel./WhatsApp mit Telefon-Icon: https://wa.me/905078827795
-- Icons als Inline-SVG mit aria-hidden="true" plus sichtbarem Text, externe Links mit target="_blank" und rel="noopener noreferrer". Auf Mobilgeräten umbrechend, Touch-Ziele mindestens 44 px. Darunter: © 2026 MeinB2B.
+- Icons als Inline-SVG mit aria-hidden="true" plus sichtbarem Text, externe Links mit target="_blank" und rel="noopener noreferrer". Auf Mobilgeräten umbrechend, Touch-Ziele mindestens 44 px. Darunter: © 2026 Bayram Dökmeci.
 
 SEO
 - <html lang="de">, einzigartiger Title (max. 60 Zeichen) und Meta Description (max. 155 Zeichen) mit dem Haupt-Keyword, Canonical auf https://bayramdoekmeci.de/[slug]/, Robots-Meta, Open Graph, Twitter Card, Favicon (Inline-SVG). Trailing Slash konsistent.
