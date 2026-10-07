@@ -1,0 +1,36 @@
+LANDINGPAGES – BAYRAM DÖKMECI
+
+Startseite
+Haupt-Keyword: B2B-Webentwicklung
+Suchintent: Einen direkten technischen Partner für B2B-Websites und digitale Systeme finden.
+URL: https://bayramdoekmeci.de/
+Title: B2B-Webentwicklung & digitale Systeme | Bayram Dökmeci
+Description: B2B-Webentwicklung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt Websites, CMS und digitale Systeme. Direkt, remote, auf Deutsch.
+Design: Dunkles technisches Studio mit großer Systemtypografie, violetten Akzenten, nummerierten Leistungszeilen und interaktiven SVG-Systemskizzen.
+HTML-Code: index.html
+
+WordPress-Landingpage
+Haupt-Keyword: WordPress & CMS Entwickler
+Suchintent: Individuelle WordPress-Entwicklung für ein B2B- oder Agenturprojekt beauftragen.
+Slug: /wordpress-cms-entwickler/
+Title: WordPress & CMS Entwickler für DACH | Bayram Dökmeci
+Description: WordPress & CMS Entwickler für B2B und Agenturen in DACH. Individuelle Themes, Plugins, CMS-Architektur und CDN-Anbindung. Direkt mit Bayram Dökmeci.
+Design: Helles Content-Atelier mit warmer Papierfarbe, markanter Serifentypografie, rostfarbenen Akzenten und einer klaren redaktionellen Hierarchie.
+HTML-Code: wordpress-cms-entwickler/index.html
+
+sitemap.xml-Eintrag
+<url><loc>https://bayramdoekmeci.de/wordpress-cms-entwickler/</loc></url>
+
+llms.txt-Eintrag
+- [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
+
+Vor Veröffentlichung prüfen
+- Kontaktangaben und Profil-URLs anhand des Briefings bestätigen.
+- Tatsächliche Buchbarkeit des Calendly-Termintyps prüfen.
+- Beschriebene Kompetenzen und gewünschte White-Label-Zusammenarbeit bestätigen.
+- Bestehende Impressums- und Datenschutztexte separat auf Aktualität prüfen; bei externer Skriptauslieferung jsDelivr berücksichtigen.
+- Domain und Hosting-Konfiguration von Cloudflare Pages prüfen; das Projekt benötigt keinen Build-Schritt.
+- Seiten im Zielbrowser auf Mobilgeräten und bei 200 % Zoom prüfen.
+- Wenn die alte Startseite bereits indexiert war, die neue, eigenständige Startseiten-Canonical in der Search Console prüfen.
+
+Annahmen: Die Startseite dient als B2B-Leistungsübersicht; die bestehende CMS-URL bleibt eine eigenständige Spezialseite. Alle Praxisbeispiele und Chart-Daten sind illustrativ, ohne Messwerte oder Kundenergebnisversprechen. Kein bestimmter Projektpreis, Zeitrahmen oder Verfügbarkeitsstatus wird zugesagt.

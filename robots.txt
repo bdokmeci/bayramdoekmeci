@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /.github/
+Disallow: /prompt.txt
+Disallow: /landingpage-notizen.txt
+
+Sitemap: https://bayramdoekmeci.de/sitemap.xml

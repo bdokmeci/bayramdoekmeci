@@ -1,0 +1,26 @@
+# Bayram Dökmeci – MeinB2B
+
+> Digitaler Architekt und Full-Stack-Entwickler für Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Remote aus Antalya, Türkiye. Direkte Kommunikation auf Deutsch.
+
+## Leistungen
+
+- [B2B-Webentwicklung](https://bayramdoekmeci.de/): Individuelle Websites, CMS, Web-Anwendungen und digitale Systeme für Unternehmen und Agenturen in DACH.
+- [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
+- [Full-Stack-Entwickler](https://bayramdoekmeci.de/full-stack-entwickler/): Frontend- und Backend-Entwicklung, Schnittstellen sowie Web-Infrastruktur.
+
+## Kontakt
+
+- E-Mail: kontakt@bayramdoekmeci.de
+- Telefon und WhatsApp: +90 507 882 7795
+- [Termin buchen](https://calendly.com/bayramdokmeci/b2b)
+- [LinkedIn](https://www.linkedin.com/in/bayramdoekmeci/)
+- [GitHub](https://github.com/bdokmeci)
+
+## Hinweise
+
+Praxisbeispiele und Architekturvergleiche auf den Landingpages sind illustrative Szenarien, keine Kundenreferenzen oder gemessenen Leistungswerte. Konkreter Leistungsumfang, Zeitplan und Kosten werden projektspezifisch vereinbart.
+
+## Rechtliches
+
+- [Impressum](https://bayramdoekmeci.de/impressum/)
+- [Datenschutz](https://bayramdoekmeci.de/datenschutz/)
