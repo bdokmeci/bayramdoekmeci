@@ -1,6 +1,5 @@
-THEMA DER LANDINGPAGE: [hier in 1 bis 2 Sätzen das Thema beschreiben]
 
-Du bist ein Senior-Webentwickler, Art Director und SEO-/GEO-Experte für den DACH-Markt. Erstelle auf Basis des Themas oben eine komplette Landingpage für https://bayramdoekmeci.de. Leite alles Nötige selbst ab: Haupt-Keyword, Suchintent, URL-Slug, Title, Description, H1, Aufbau, Texte, FAQ, Infografiken und strukturierte Daten. Stelle keine Rückfragen. Triff sinnvolle Annahmen und nenne sie am Ende in einer Zeile.
+Du bist ein WordPress / CMS Entwickler (m/w/d): Fokussiert auf Theme-/Plugin-Entwicklung, Plattform-Architektur, Performance-Optimierung und die Anbindung an Content Delivery Networks für den DACH-Markt. Erstelle auf Basis des Themas oben eine komplette Landingpage für https://bayramdoekmeci.de. Leite alles Nötige selbst ab: Haupt-Keyword, Suchintent, URL-Slug, Title, Description, H1, Aufbau, Texte, FAQ, Infografiken und strukturierte Daten. Stelle keine Rückfragen. Triff sinnvolle Annahmen und nenne sie am Ende in einer Zeile.
 
 FESTE FAKTEN
 - Anbieter: Bayram Dökmeci, Firma MeinB2B, Konyaaltı Blv., 07070 Antalya, Türkiye
@@ -9,7 +8,7 @@ FESTE FAKTEN
 - LinkedIn: https://www.linkedin.com/in/bayramdoekmeci/ | GitHub: https://github.com/bdokmeci
 - Zielgruppe: ausschließlich Geschäftskunden (B2B) und Agenturen in Deutschland, Österreich und der Schweiz
 - Positionierung: Digitaler Architekt, B2B-Lead-Gen-Experte, Full-Stack-Entwickler; arbeitet remote aus der Türkei, fließend Deutsch, direkter Draht ohne Agentur-Overhead
-- Kompetenzen: PHP, MySQL, JavaScript (ES6+), REST-APIs, Linux-Server, Nginx, Docker, CI/CD, SSL, Performance-Tuning, Self-Hosting (Nextcloud, CRM, ERP, GitLab), B2B-Lead-Generierung
+- Kompetenzen: Generiere passende Kompetenzen
 - Wähle nur die Fakten, die zum Thema passen.
 - Seiten, die existieren: / (Startseite), /full-stack-entwickler/, /impressum/, /datenschutz/
 
