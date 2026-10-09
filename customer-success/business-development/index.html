@@ -41,17 +41,30 @@
     document.addEventListener('alpine:init', () => {
       Alpine.data('reveal', () => ({
         observer: null,
+        frame: null,
         watch() {
           if (matchMedia('(prefers-reduced-motion: reduce)').matches || !('IntersectionObserver' in window)) return;
           this.observer = new IntersectionObserver(entries => {
             if (entries.some(entry => entry.isIntersecting)) {
               this.$el.classList.add('in-view');
+              this.count();
               this.observer.disconnect();
             }
           }, { threshold: 0.08 });
           this.observer.observe(this.$el);
         },
-        destroy() { if (this.observer) this.observer.disconnect(); }
+        count() {
+          const numbers = Array.from(this.$el.querySelectorAll('[data-count]'), el => ({ el, value: Number(el.textContent) }));
+          if (!numbers.length) return;
+          const start = performance.now();
+          const tick = now => {
+            const progress = matchMedia('(prefers-reduced-motion: reduce)').matches ? 1 : Math.min((now - start) / 900, 1);
+            numbers.forEach(({ el, value }) => { el.textContent = Math.round(value * (1 - Math.pow(1 - progress, 3))); });
+            if (progress < 1) this.frame = requestAnimationFrame(tick);
+          };
+          this.frame = requestAnimationFrame(tick);
+        },
+        destroy() { if (this.observer) this.observer.disconnect(); if (this.frame) cancelAnimationFrame(this.frame); }
       }));
     });
     document.addEventListener('DOMContentLoaded', () => {
@@ -305,9 +318,9 @@
         <svg class="pipeline-svg" width="380" height="320" viewBox="0 0 380 320" role="img" aria-labelledby="pipeline-title pipeline-desc">
           <title id="pipeline-title">Drei Schritte zum qualifizierten B2B-Gespräch</title><desc id="pipeline-desc">Zuerst passende Zielkunden auswählen. Dann mit relevanter LinkedIn-Ansprache einen Dialog entwickeln. Schließlich Bedarf und nächsten Schritt klären und an den Vertrieb übergeben.</desc>
           <path d="M27 43v230" stroke="#60705e" stroke-width="2" stroke-dasharray="3 7"/>
-          <g class="diagram-step"><circle cx="27" cy="43" r="23" fill="#e4f16a"/><text x="27" y="49" font-size="16" fill="#212723" text-anchor="middle">01</text><text x="68" y="39" font-size="23" fill="#fffef9" font-weight="600">Zielkunden finden</text><text x="68" y="66" font-size="17" fill="#c3cbbd">Passung vor Kontaktmenge</text><path d="M68 86h302" stroke="#4d584e"/></g>
-          <g class="diagram-step" style="--delay:160ms"><circle cx="27" cy="145" r="23" fill="#e4f16a"/><text x="27" y="151" font-size="16" fill="#212723" text-anchor="middle">02</text><text x="68" y="141" font-size="23" fill="#fffef9" font-weight="600">Dialog entwickeln</text><text x="68" y="168" font-size="17" fill="#c3cbbd">Relevanz vor Massenansprache</text><path d="M68 188h302" stroke="#4d584e"/></g>
-          <g class="diagram-step" style="--delay:320ms"><circle cx="27" cy="247" r="23" fill="#e4f16a"/><text x="27" y="253" font-size="16" fill="#212723" text-anchor="middle">03</text><text x="68" y="243" font-size="23" fill="#fffef9" font-weight="600">Gespräch qualifizieren</text><text x="68" y="270" font-size="17" fill="#c3cbbd">Bedarf und nächsten Schritt klären</text></g>
+          <g class="diagram-step"><circle cx="27" cy="43" r="23" fill="#e4f16a"/><text x="27" y="49" font-size="18" fill="#212723" text-anchor="middle">01</text><text x="68" y="39" font-size="23" fill="#fffef9" font-weight="600">Zielkunden finden</text><text x="68" y="66" font-size="17" fill="#c3cbbd">Passung vor Kontaktmenge</text><path d="M68 86h302" stroke="#4d584e"/></g>
+          <g class="diagram-step" style="--delay:160ms"><circle cx="27" cy="145" r="23" fill="#e4f16a"/><text x="27" y="151" font-size="18" fill="#212723" text-anchor="middle">02</text><text x="68" y="141" font-size="23" fill="#fffef9" font-weight="600">Dialog entwickeln</text><text x="68" y="168" font-size="17" fill="#c3cbbd">Relevanz vor Massenansprache</text><path d="M68 188h302" stroke="#4d584e"/></g>
+          <g class="diagram-step" style="--delay:320ms"><circle cx="27" cy="247" r="23" fill="#e4f16a"/><text x="27" y="253" font-size="18" fill="#212723" text-anchor="middle">03</text><text x="68" y="243" font-size="23" fill="#fffef9" font-weight="600">Gespräch qualifizieren</text><text x="68" y="270" font-size="17" fill="#c3cbbd">Bedarf und nächsten Schritt klären</text></g>
         </svg>
         <figcaption id="pipeline-caption"><strong>So greifen die Schritte ineinander:</strong><ol><li>Zielkunden nach vereinbartem Profil auswählen.</li><li>Mit relevantem Anlass auf LinkedIn ansprechen.</li><li>Bedarf klären und an den Vertrieb übergeben.</li></ol></figcaption>
       </figure>
@@ -344,7 +357,7 @@
     <section class="section" aria-labelledby="metrics-title"><div class="wrap metrics-layout">
       <div><div class="section-intro"><p class="section-label label"><span>03 /</span> Qualität sichtbar machen</p><h2 id="metrics-title">Nicht jeder Kontakt<br>ist schon ein Lead.</h2><p>Wir trennen Recherche, Dialog und Vertriebschance. So wird erkennbar, an welcher Stelle der Prozess funktioniert und wo wir nachschärfen müssen.</p></div><dl><div class="definition"><dt>Zielaccount</dt><dd>Ein Unternehmen, das zum vereinbarten Zielkundenprofil passt.</dd></div><div class="definition"><dt>Relevanter Dialog</dt><dd>Ein Austausch mit einem passenden Ansprechpartner über eine konkrete geschäftliche Situation.</dd></div><div class="definition"><dt>Qualifiziertes Gespräch</dt><dd>Ein Termin mit dokumentiertem Bedarf, passender Rolle und gemeinsam geklärtem Gesprächsziel.</dd></div></dl></div>
       <figure class="chart-panel" x-data="reveal" x-init="watch()" data-reveal aria-labelledby="chart-caption"><div class="chart-header"><h3>Qualität vor Menge.</h3><span class="chart-example">BEISPIEL</span></div><p class="chart-note">Frei gewählte Beispieldaten zur Erklärung des Trichters. Keine Kundenergebnisse, Prognose oder Branchenwerte.</p>
-        <div class="chart" role="img" aria-label="Illustrativer Trichter: 100 recherchierte Zielaccounts, 40 passende Ansprechpartner, 12 relevante Dialoge, 4 qualifizierte Gespräche. Alle Zahlen sind frei gewählte Beispiele."><div class="chart-row"><div class="chart-row-head"><span>Recherchierte Zielaccounts</span><span class="chart-value">100</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:1"></div></div></div><div class="chart-row"><div class="chart-row-head"><span>Passende Ansprechpartner</span><span class="chart-value">40</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:.4;--delay:120ms"></div></div></div><div class="chart-row"><div class="chart-row-head"><span>Relevante Dialoge</span><span class="chart-value">12</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:.12;--delay:240ms"></div></div></div><div class="chart-row"><div class="chart-row-head"><span>Qualifizierte Gespräche</span><span class="chart-value">4</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:.04;--delay:360ms"></div></div></div></div><div class="chart-axis" aria-hidden="true"><span>0</span><span>50</span><span>100</span></div>
+        <div class="chart" role="img" aria-label="Illustrativer Trichter: 100 recherchierte Zielaccounts, 40 passende Ansprechpartner, 12 relevante Dialoge, 4 qualifizierte Gespräche. Alle Zahlen sind frei gewählte Beispiele."><div class="chart-row"><div class="chart-row-head"><span>Recherchierte Zielaccounts</span><span class="chart-value" data-count>100</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:1"></div></div></div><div class="chart-row"><div class="chart-row-head"><span>Passende Ansprechpartner</span><span class="chart-value" data-count>40</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:.4;--delay:120ms"></div></div></div><div class="chart-row"><div class="chart-row-head"><span>Relevante Dialoge</span><span class="chart-value" data-count>12</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:.12;--delay:240ms"></div></div></div><div class="chart-row"><div class="chart-row-head"><span>Qualifizierte Gespräche</span><span class="chart-value" data-count>4</span></div><div class="chart-track"><div class="chart-bar" style="--ratio:.04;--delay:360ms"></div></div></div></div><div class="chart-axis" aria-hidden="true"><span>0</span><span>50</span><span>100</span></div>
         <details class="data-details" open><summary>Beispieldaten als Tabelle</summary><table class="data-table"><caption>Illustrative Anzahlen je Prozessstufe.</caption><thead><tr><th scope="col">Stufe</th><th scope="col">Anzahl</th></tr></thead><tbody><tr><th scope="row">Zielaccounts</th><td>100</td></tr><tr><th scope="row">Ansprechpartner</th><td>40</td></tr><tr><th scope="row">Dialoge</th><td>12</td></tr><tr><th scope="row">Gespräche</th><td>4</td></tr></tbody></table></details><figcaption id="chart-caption">Entscheidend ist die nachvollziehbare Auswahl pro Stufe. Echte Quoten berechnen wir erst aus deinen Daten, mit eindeutigem Zeitraum und gemeinsam definierten Kriterien.</figcaption>
       </figure>
     </div></section>
