@@ -7,6 +7,8 @@
 - [B2B-Webentwicklung](https://bayramdoekmeci.de/): Individuelle Websites, CMS, Web-Anwendungen und digitale Systeme für Unternehmen und Agenturen in DACH.
 - [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
 - [Full-Stack-Entwickler](https://bayramdoekmeci.de/full-stack-entwickler/): Frontend- und Backend-Entwicklung, Schnittstellen sowie Web-Infrastruktur.
+- [Digitales Marketing](https://bayramdoekmeci.de/digitales-marketing/): Digitales Marketing für B2B und Agenturen in DACH: Performance, Leadgenerierung und MarTech mit Bayram Dökmeci. Direkt, remote und auf Deutsch.
+
 
 ## Kontakt
 
