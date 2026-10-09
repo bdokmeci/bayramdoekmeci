@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>B2B Design & Content für DACH | Bayram Dökmeci</title>
+  <meta name="description" content="B2B Design & Content für Unternehmen und Agenturen in DACH: Web-Assets, Motion Design und Markeninhalte. Direkt mit Bayram Dökmeci.">
+  <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+  <meta name="theme-color" content="#f4efe6">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="MeinB2B · Design">
+  <link rel="canonical" href="https://bayramdoekmeci.de/design-content/">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='11' fill='%23e66e4b'/%3E%3Cpath d='M10 11h20v18H10zM14 16h12M14 20h8M14 24h10' fill='none' stroke='%23212c2a' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="de_DE">
+  <meta property="og:site_name" content="Bayram Dökmeci">
+  <meta property="og:title" content="B2B Design & Content für DACH | Bayram Dökmeci">
+  <meta property="og:description" content="Visuelles Design, Web-Assets und Motion Content für konsistente B2B-Markenkommunikation. Direkt mit Bayram Dökmeci von MeinB2B.">
+  <meta property="og:url" content="https://bayramdoekmeci.de/design-content/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="B2B Design & Content | Bayram Dökmeci">
+  <meta name="twitter:description" content="Web-Assets, Motion Design und kanalübergreifende Inhalte für B2B-Unternehmen und Agenturen in DACH.">
+  <script>document.documentElement.classList.add('js');</script>
+  <style>
+    :root{--paper:#f4efe6;--surface:#fffaf2;--ink:#222d2b;--muted:#52605b;--line:#d7d0c4;--hot:#e66e4b;--blue:#b9d9d2;--dark:#263a36;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;--mono:"SFMono-Regular",Consolas,"Liberation Mono",monospace;color-scheme:light}
+    *,*::before,*::after{box-sizing:border-box}
+    html{scroll-behavior:smooth;scroll-padding-top:24px}
+    body{margin:0;background:var(--paper);color:var(--ink);font:clamp(1.125rem,.45vw + 1rem,1.25rem)/1.65 var(--sans);-webkit-font-smoothing:antialiased;padding-bottom:calc(94px + env(safe-area-inset-bottom,0px))}
+    ::selection{background:var(--hot);color:var(--ink)}
+    a{color:inherit;text-decoration:none}
+    p,h1,h2,h3,ul,ol,figure{margin:0}
+    h1,h2,h3{font-weight:650;line-height:1.06;letter-spacing:-.055em}
+    h1{font-size:clamp(3rem,10.5vw,7rem);max-width:12ch}
+    h2{font-size:clamp(2.35rem,7vw,4.5rem);max-width:15ch}
+    h3{font-size:clamp(1.4rem,3vw,1.8rem);letter-spacing:-.035em}
+    p+p{margin-top:1rem}
+    button{font:inherit;color:inherit;cursor:pointer}
+    a,button,summary{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+    a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #a5422a;outline-offset:5px;border-radius:4px}
+    svg{display:block;max-width:100%;flex-shrink:0}
+    .wrap{width:min(1200px,calc(100% - 40px));margin-inline:auto}
+    .skip{position:fixed;z-index:90;top:10px;left:10px;padding:12px 18px;background:var(--dark);color:white;transform:translateY(-150%)}
+    .skip:focus{transform:translateY(0)}
+    .mono{font-family:var(--mono)}
+    .muted{color:var(--muted)}
+    .icon{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+    .site-header{border-bottom:1px solid var(--line)}
+    .header-inner{min-height:78px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .brand{display:inline-flex;align-items:center;gap:11px;min-height:48px;font-size:1rem;font-weight:700;letter-spacing:-.035em}
+    .brand-mark{width:36px;height:36px;display:grid;place-items:center;border-radius:10px;background:var(--hot);font:700 14px var(--mono)}
+    .brand-note{display:block;color:var(--muted);font:10px/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase}
+    .header-link{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:8px 13px;border:1px solid var(--line);border-radius:7px;font-size:.9rem}
+    .header-link:hover{background:var(--surface)}
+    .breadcrumb{display:flex;align-items:center;flex-wrap:wrap;gap:8px;padding-top:14px;color:var(--muted);font-size:.9rem}
+    .breadcrumb a{display:inline-flex;align-items:center;min-height:48px;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:4px}
+    .eyebrow{display:flex;align-items:center;gap:9px;color:#9a432f;font:600 .77rem/1.5 var(--mono);letter-spacing:.09em;text-transform:uppercase}
+    .eyebrow::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--hot)}
+    .hero{padding:44px 0 76px}
+    .hero-grid{display:grid;gap:42px;align-items:center}
+    .hero-copy .eyebrow{margin-bottom:22px}
+    .hero h1 em{font-style:normal;color:#a84d35}
+    .quick-answer{max-width:60ch;margin-top:24px;padding-left:16px;border-left:3px solid var(--hot);color:var(--muted)}
+    .quick-answer strong{color:var(--ink)}
+    .answer-label{display:block;margin-bottom:7px;color:#9a432f;font:600 .75rem/1.5 var(--mono);letter-spacing:.08em;text-transform:uppercase}
+    .hero-actions,.actions{display:flex;flex-wrap:wrap;gap:11px;margin-top:26px}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:54px;padding:12px 18px;border:1px solid var(--dark);border-radius:7px;font-size:1rem;font-weight:650;text-align:center;line-height:1.35;transition:transform .2s,background .2s}
+    .btn:hover{transform:translateY(-2px)}
+    .btn-primary{background:var(--dark);color:#fff}
+    .btn-primary:hover{background:#172a26}
+    .btn-secondary{background:transparent}
+    .btn-secondary:hover{background:var(--surface)}
+    .hero-meta{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:19px;color:var(--muted);font-size:.9rem}
+    .hero-meta span{display:inline-flex;align-items:center;gap:7px}
+    .hero-meta span::before{content:"";width:5px;height:5px;border-radius:50%;background:#9a432f}
+    .artboard{position:relative;min-width:0;padding:15px;border:1px solid var(--line);border-radius:12px;background:#e8e1d5;box-shadow:10px 10px 0 #d6cbb9}
+    .artboard-head{display:flex;justify-content:space-between;gap:10px;padding:6px 5px 14px;color:var(--muted);font: .7rem var(--mono);letter-spacing:.06em;text-transform:uppercase}
+    .artboard svg{width:100%;height:auto}
+    .artboard-caption{display:flex;justify-content:space-between;gap:12px;padding:12px 5px 3px;color:var(--muted);font-size:.78rem}
+    .artboard-caption strong{color:var(--ink)}
+    .section{padding:72px 0;border-top:1px solid var(--line)}
+    .section-head{display:grid;gap:18px;margin-bottom:32px}
+    .section-index{color:#9a432f;font:600 .76rem var(--mono);letter-spacing:.08em}
+    .section-lead{max-width:60ch;color:var(--muted)}
+    .split{display:grid;gap:30px;align-items:start}
+    .service-grid{display:grid;gap:12px}
+    .service-card{min-height:100%;padding:23px 21px;border:1px solid var(--line);border-radius:9px;background:var(--surface)}
+    .card-no{display:block;margin-bottom:28px;color:#9a432f;font:600 .8rem var(--mono)}
+    .service-card h3{margin-bottom:11px}
+    .service-card p{color:var(--muted);font-size:1rem}
+    .deliverables{margin-top:18px;padding:0;list-style:none}
+    .deliverables li{padding:9px 0;border-top:1px solid var(--line);font-size:.9rem}
+    .flow-panel{padding:18px;border:1px solid var(--line);border-radius:11px;background:var(--dark);color:#f8f5ed}
+    .flow-top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-bottom:15px;border-bottom:1px solid #ffffff33;color:#cbd6ce;font: .75rem var(--mono);letter-spacing:.05em;text-transform:uppercase}
+    .flow-svg{width:100%;height:auto;margin:18px 0}
+    .flow-text{display:grid;gap:0;padding:0;list-style:none;counter-reset:stage}
+    .flow-text li{position:relative;padding:13px 12px 13px 45px;border-top:1px solid #ffffff2b;color:#e6e9df;font-size:.95rem;counter-increment:stage}
+    .flow-text li::before{content:"0" counter(stage);position:absolute;left:8px;color:#f19a78;font:600 .78rem var(--mono)}
+    .flow-text strong{color:white}
+    .flow-note{margin-top:14px;color:#cbd6ce;font-size:.85rem}
+    .channel-layout{display:grid;gap:25px}
+    .channel-chart{padding:22px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+    .chart-title{font-size:1.15rem;font-weight:650}
+    .chart-subtitle{margin-top:5px;color:var(--muted);font-size:.88rem}
+    .chart-row{display:grid;grid-template-columns:minmax(85px,1fr) 2fr;gap:12px;align-items:center;margin-top:19px;font-size:.9rem}
+    .bar-track{height:17px;border-radius:3px;background:#e5ded2;overflow:hidden}
+    .bar{height:100%;border-radius:3px;background:#a84d35;transform-origin:left;animation:grow .9s cubic-bezier(.2,.7,.2,1) both}
+    .bar.alt{background:#476c63}
+    .bar.wide{width:100%}.bar.mid{width:76%}.bar.small{width:52%}
+    .chart-key{display:flex;flex-wrap:wrap;gap:9px 19px;margin-top:20px;padding-top:14px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem}
+    .chart-key span{display:inline-flex;align-items:center;gap:7px}
+    .chart-key i{width:10px;height:10px;border-radius:2px;background:#a84d35}
+    .chart-key span+span i{background:#476c63}
+    .chart-caption{margin-top:13px;color:var(--muted);font-size:.82rem}
+    .channel-copy{display:grid;gap:18px}
+    .channel-copy h3{max-width:17ch}
+    .channel-copy p{color:var(--muted)}
+    .channel-list{display:grid;grid-template-columns:1fr;gap:0;padding:0;list-style:none}
+    .channel-list li{display:flex;align-items:flex-start;gap:12px;padding:12px 0;border-top:1px solid var(--line)}
+    .channel-list li::before{content:"↗";color:#a84d35;font-family:var(--mono)}
+    .example{display:grid;gap:20px;padding:24px;border-radius:10px;background:var(--blue)}
+    .example-label{font:600 .75rem var(--mono);letter-spacing:.08em;text-transform:uppercase}
+    .example h3{max-width:25ch}
+    .example-grid{display:grid;gap:0}
+    .example-grid div{padding:13px 0;border-top:1px solid #78958d}
+    .example-grid dt{margin-bottom:5px;color:#38574f;font:600 .73rem var(--mono);letter-spacing:.06em;text-transform:uppercase}
+    .example-grid dd{margin:0;font-size:.95rem}
+    .internal-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:25px}
+    .internal-links a{display:inline-flex;align-items:center;min-height:48px;padding:8px 13px;border:1px solid var(--line);border-radius:6px;font-size:.9rem}
+    .internal-links a:hover{background:var(--surface)}
+    .faq-list{border-top:1px solid var(--line)}
+    .faq-list details{border-bottom:1px solid var(--line)}
+    .faq-list summary{position:relative;display:flex;align-items:center;min-height:64px;padding:14px 38px 14px 0;font-weight:650;cursor:pointer;list-style:none}
+    .faq-list summary::-webkit-details-marker{display:none}
+    .faq-list summary::after{content:"+";position:absolute;right:5px;color:#9a432f;font:1.5rem var(--mono)}
+    .faq-list details[open] summary::after{content:"−"}
+    .faq-answer{max-width:72ch;padding:0 35px 20px 0;color:var(--muted);font-size:1rem}
+    .contact-section{padding:70px 0 82px}
+    .contact-panel{padding:26px 22px;border-radius:12px;background:var(--hot)}
+    .contact-panel .eyebrow{color:#392f29}
+    .contact-panel h2{margin-top:14px}
+    .contact-panel p{max-width:58ch;margin-top:13px}
+    .contact-panel .btn-primary{border-color:var(--dark)}
+    .contact-panel .btn-secondary{border-color:#49392f}
+    .direct-contact{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:18px;font-size:.92rem}
+    .direct-contact a{text-decoration:underline;text-underline-offset:4px}
+    .site-footer{padding:32px 0 24px;border-top:1px solid var(--line)}
+    .footer-top{display:grid;gap:24px}
+    .footer-brand p{margin-top:8px;color:var(--muted);font-size:.9rem}
+    .footer-nav{display:flex;flex-wrap:wrap;gap:4px;padding:0;list-style:none}
+    .footer-nav a{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:8px 10px;border-radius:5px;font-size:.88rem}
+    .footer-nav a:hover{background:#e7dfd3}
+    .footer-nav .icon{width:18px;height:18px}
+    .footer-bottom{display:flex;flex-wrap:wrap;justify-content:space-between;gap:9px;margin-top:23px;padding-top:15px;border-top:1px solid var(--line);color:var(--muted);font-size:.78rem}
+    .bottom-bar{position:fixed;z-index:40;right:0;bottom:0;left:0;display:flex;gap:9px;padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--line);background:#f4efe6f2;backdrop-filter:blur(12px)}
+    .bottom-bar .btn{flex:1;min-height:50px;padding:9px 10px;font-size:.9rem}
+    .reveal{opacity:1;transform:none}
+    .js .reveal-ready .reveal{opacity:0;transform:translateY(16px);transition:opacity .55s ease,transform .55s ease}
+    .js .reveal-ready .reveal.is-visible{opacity:1;transform:none}
+    @keyframes grow{from{transform:scaleX(.02)}to{transform:scaleX(1)}}
+    @media(min-width:700px){
+      .wrap{width:min(1200px,calc(100% - 64px))}
+      .hero{padding:54px 0 96px}
+      .hero-grid{grid-template-columns:minmax(0,1.08fr) minmax(340px,.92fr);gap:54px}
+      .artboard{padding:22px}
+      .section{padding:96px 0}
+      .section-head{grid-template-columns:.9fr 1.1fr;align-items:end;margin-bottom:40px}
+      .service-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+      .split{grid-template-columns:.85fr 1.15fr;gap:45px}
+      .channel-layout{grid-template-columns:1fr 1fr;gap:44px;align-items:center}
+      .example{padding:34px}
+      .example-grid{grid-template-columns:repeat(3,1fr);gap:18px}
+      .example-grid div{padding:15px 10px 0 0}
+      .contact-panel{padding:42px}
+      .footer-top{grid-template-columns:.75fr 1.25fr;align-items:start}
+      .bottom-bar{display:none}
+      body{padding-bottom:0}
+    }
+    @media(min-width:1020px){
+      .header-link{padding-inline:18px}
+      .hero-grid{gap:80px}
+      .artboard{transform:rotate(1.2deg)}
+      .section{padding:110px 0}
+      .split{gap:90px}
+      .service-card{padding:28px}
+      .flow-panel{padding:26px}
+      .channel-layout{gap:70px}
+    }
+    @media(prefers-reduced-motion:reduce){
+      *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+      .js .reveal-ready .reveal{opacity:1;transform:none}
+    }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@graph":[
+      {
+        "@type":"Person",
+        "@id":"https://bayramdoekmeci.de/#person",
+        "name":"Bayram Dökmeci",
+        "url":"https://bayramdoekmeci.de/",
+        "worksFor":{"@id":"https://bayramdoekmeci.de/#business"},
+        "sameAs":["https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"]
+      },
+      {
+        "@type":"ProfessionalService",
+        "@id":"https://bayramdoekmeci.de/#business",
+        "name":"MeinB2B",
+        "url":"https://bayramdoekmeci.de/",
+        "telephone":"+90 507 882 7795",
+        "email":"kontakt@bayramdoekmeci.de",
+        "address":{
+          "@type":"PostalAddress",
+          "streetAddress":"Konyaaltı Blv.",
+          "postalCode":"07070",
+          "addressLocality":"Antalya",
+          "addressCountry":"TR"
+        },
+        "areaServed":[
+          {"@type":"Country","name":"Deutschland"},
+          {"@type":"Country","name":"Österreich"},
+          {"@type":"Country","name":"Schweiz"}
+        ],
+        "founder":{"@id":"https://bayramdoekmeci.de/#person"}
+      },
+      {
+        "@type":"WebPage",
+        "@id":"https://bayramdoekmeci.de/design-content/#webpage",
+        "url":"https://bayramdoekmeci.de/design-content/",
+        "name":"B2B Design & Content für DACH | Bayram Dökmeci",
+        "description":"B2B Design & Content für Unternehmen und Agenturen in DACH: Web-Assets, Motion Design und Markeninhalte. Direkt mit Bayram Dökmeci.",
+        "inLanguage":"de",
+        "about":{"@id":"https://bayramdoekmeci.de/design-content/#service"},
+        "breadcrumb":{"@id":"https://bayramdoekmeci.de/design-content/#breadcrumb"},
+        "isPartOf":{"@id":"https://bayramdoekmeci.de/#website"}
+      },
+      {
+        "@type":"WebSite",
+        "@id":"https://bayramdoekmeci.de/#website",
+        "url":"https://bayramdoekmeci.de/",
+        "name":"Bayram Dökmeci – MeinB2B",
+        "inLanguage":"de"
+      },
+      {
+        "@type":"BreadcrumbList",
+        "@id":"https://bayramdoekmeci.de/design-content/#breadcrumb",
+        "itemListElement":[
+          {"@type":"ListItem","position":1,"name":"Startseite","item":"https://bayramdoekmeci.de/"},
+          {"@type":"ListItem","position":2,"name":"B2B Design & Content","item":"https://bayramdoekmeci.de/design-content/"}
+        ]
+      },
+      {
+        "@type":"Service",
+        "@id":"https://bayramdoekmeci.de/design-content/#service",
+        "name":"B2B Design & Content",
+        "serviceType":"Visuelles Design, Web-Assets, Motion Design und Content-Strategie",
+        "description":"Konzeption und Gestaltung von B2B-Web-Assets, digitalen Markenbausteinen, kurzen Motion-Inhalten und kanalübergreifenden Content-Systemen für Unternehmen und Agenturen in DACH.",
+        "provider":{"@id":"https://bayramdoekmeci.de/#business"},
+        "areaServed":[
+          {"@type":"Country","name":"Deutschland"},
+          {"@type":"Country","name":"Österreich"},
+          {"@type":"Country","name":"Schweiz"}
+        ],
+        "audience":{"@type":"BusinessAudience","audienceType":"B2B-Unternehmen und Agenturen"}
+      },
+      {
+        "@type":"FAQPage",
+        "@id":"https://bayramdoekmeci.de/design-content/#faq",
+        "mainEntity":[
+          {
+            "@type":"Question",
+            "name":"Welche Design- und Content-Leistungen bietet Bayram Dökmeci an?",
+            "acceptedAnswer":{"@type":"Answer","text":"Bayram Dökmeci unterstützt B2B-Unternehmen und Agenturen mit visuellem Design, konversionsorientierten Web-Assets, Marken-Updates, Motion Design und kanalübergreifender Content-Konzeption. Der Umfang wird passend zu Zielgruppe, Kanälen und vorhandenen Markenrichtlinien vereinbart."}
+          },
+          {
+            "@type":"Question",
+            "name":"Für wen eignet sich die Zusammenarbeit?",
+            "acceptedAnswer":{"@type":"Answer","text":"Das Angebot richtet sich ausschließlich an B2B-Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit eignet sich, wenn digitale Inhalte oder visuelle Markenbausteine konsistent und direkt mit einem deutschsprachigen Ansprechpartner umgesetzt werden sollen."}
+          },
+          {
+            "@type":"Question",
+            "name":"Wie läuft ein Design- oder Content-Projekt ab?",
+            "acceptedAnswer":{"@type":"Answer","text":"Zu Beginn werden Zielgruppe, Kommunikationsziel, Kanäle und vorhandene Markenmaterialien abgestimmt. Darauf folgen Konzept und Entwürfe, Feedbackrunden und die Ausarbeitung der vereinbarten Assets in passenden Formaten. Umfang und Zeitplan richten sich nach dem Projekt."}
+          },
+          {
+            "@type":"Question",
+            "name":"Welche Inhalte können für Social Media und Video entstehen?",
+            "acceptedAnswer":{"@type":"Answer","text":"Möglich sind zum Beispiel visuelle Social-Media-Bausteine, kurze Motion-Grafiken, Videoschnitte und Varianten für vereinbarte digitale Kanäle. Themen, Format, Materialgrundlage und Ausspielung werden vor der Produktion gemeinsam festgelegt."}
+          },
+          {
+            "@type":"Question",
+            "name":"Arbeitet Bayram Dökmeci auch mit Agenturen zusammen?",
+            "acceptedAnswer":{"@type":"Answer","text":"Ja. Agenturen in DACH können Bayram Dökmeci projektbezogen und direkt für Design- und Content-Aufgaben einbinden. Eine Zusammenarbeit im Hintergrund oder mit White-Label-Abstimmung kann nach Absprache vereinbart werden."}
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Zum Inhalt springen</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="https://bayramdoekmeci.de/" aria-label="Bayram Dökmeci – Startseite">
+        <span class="brand-mark" aria-hidden="true">B.</span>
+        <span>Bayram Dökmeci<span class="brand-note">Design · Content · MeinB2B</span></span>
+      </a>
+      <a class="header-link" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Projekt besprechen <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
+  <main id="main">
+    <div class="wrap">
+      <nav class="breadcrumb" aria-label="Brotkrumennavigation">
+        <a href="https://bayramdoekmeci.de/">Startseite</a><span aria-hidden="true">/</span><span aria-current="page">B2B Design &amp; Content</span>
+      </nav>
+    </div>
+    <section class="hero" aria-labelledby="page-title">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Visuelle Kommunikation für B2B</p>
+          <h1 id="page-title">B2B Design &amp; <em>Content</em>, der zusammenpasst.</h1>
+          <div class="quick-answer">
+            <span class="answer-label">Kurz gesagt</span>
+            <p><strong>Bayram Dökmeci von MeinB2B konzipiert und gestaltet digitale Markeninhalte für Unternehmen und Agenturen in DACH.</strong> Dazu gehören Web-Assets, visuelle Marken-Updates, Motion Design und kanalübergreifende Content-Konzepte – remote aus Antalya und direkt auf Deutsch.</p>
+          </div>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Termin buchen <span aria-hidden="true">↗</span></a>
+            <a class="btn btn-secondary" href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer">Per WhatsApp anfragen</a>
+          </div>
+          <div class="hero-meta"><span>Für B2B und Agenturen</span><span>Deutschsprachig</span><span>Remote aus Antalya</span></div>
+        </div>
+        <figure class="artboard reveal">
+          <div class="artboard-head"><span>Creative system / 01</span><span>Marke → Format</span></div>
+          <svg viewBox="0 0 520 400" role="img" aria-labelledby="art-title art-desc">
+            <title id="art-title">B2B-Markenbausteine werden zu kanalpassendem Content</title>
+            <desc id="art-desc">Eine Markenidee wird in ein visuelles System überführt und als Web-Asset, Social-Media-Inhalt oder Motion-Format adaptiert.</desc>
+            <rect x="10" y="10" width="500" height="380" rx="12" fill="#fffaf2"/>
+            <path d="M260 112v46M260 158H126v35m134-35v35m0-35h134v35" fill="none" stroke="#8b958d" stroke-width="2" stroke-dasharray="5 6"/>
+            <rect x="150" y="44" width="220" height="72" rx="8" fill="#263a36"/>
+            <text x="260" y="76" fill="#f8f5ed" text-anchor="middle" font-size="14" font-family="sans-serif">MARKENKERN</text>
+            <text x="260" y="99" fill="#b9d9d2" text-anchor="middle" font-size="12" font-family="sans-serif">Botschaft · Ton · visuelle Regeln</text>
+            <rect x="34" y="195" width="184" height="142" rx="7" fill="#e8e1d5" stroke="#c8beb0"/>
+            <rect x="50" y="211" width="152" height="15" rx="3" fill="#e66e4b"/>
+            <rect x="50" y="238" width="91" height="9" rx="3" fill="#52605b"/>
+            <rect x="50" y="254" width="126" height="7" rx="3" fill="#b1b0a8"/>
+            <rect x="50" y="276" width="68" height="42" rx="3" fill="#b9d9d2"/>
+            <rect x="126" y="276" width="76" height="42" rx="3" fill="#263a36"/>
+            <text x="126" y="359" fill="#222d2b" text-anchor="middle" font-size="12" font-family="sans-serif">WEB-ASSETS</text>
+            <rect x="236" y="195" width="48" height="142" rx="7" fill="#f2c4ae"/>
+            <circle cx="260" cy="224" r="11" fill="#a84d35"/>
+            <path d="M247 268h26m-21 9h16m-21 9h26" stroke="#a84d35" stroke-width="4" stroke-linecap="round"/>
+            <text x="260" y="359" fill="#222d2b" text-anchor="middle" font-size="12" font-family="sans-serif">MOTION</text>
+            <rect x="302" y="195" width="184" height="142" rx="7" fill="#263a36"/>
+            <rect x="318" y="211" width="152" height="84" rx="4" fill="#b9d9d2"/>
+            <path d="M341 268l34-31 24 18 31-28 22 18" fill="none" stroke="#263a36" stroke-width="5"/>
+            <rect x="318" y="306" width="110" height="8" rx="4" fill="#d7d0c4"/>
+            <text x="394" y="359" fill="#222d2b" text-anchor="middle" font-size="12" font-family="sans-serif">SOCIAL / VIDEO</text>
+            <circle cx="260" cy="158" r="5" fill="#e66e4b"/>
+          </svg>
+          <figcaption class="artboard-caption"><strong>Ein Kern. Passende Ausspielungen.</strong><span>Schema, kein Kundenprojekt</span></figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="service-title">
+      <div class="wrap">
+        <div class="section-head">
+          <p class="section-index">01 / Leistung</p>
+          <div><h2 id="service-title">Ein visuelles System statt einzelner Zufallstreffer.</h2><p class="section-lead">Wenn Website, Präsentation und Social Content unterschiedliche Geschichten erzählen, fehlt der rote Faden. Die Arbeit verbindet klare Gestaltung mit Inhalten, die zu Marke, Zielgruppe und Kanal passen.</p></div>
+        </div>
+        <div class="service-grid">
+          <article class="service-card reveal">
+            <span class="card-no">01 — DIGITAL / VISUAL</span>
+            <h3>Design für digitale Touchpoints</h3>
+            <p>Visuelle Bausteine für B2B-Websites, Landingpages, Präsentationen und Kampagnen – abgestimmt auf bestehende Markenrichtlinien und konkrete Kommunikationsziele.</p>
+            <ul class="deliverables"><li>Web- und Kampagnen-Assets</li><li>Layout- und Marken-Updates</li><li>Präsentationsgrafiken</li></ul>
+          </article>
+          <article class="service-card reveal">
+            <span class="card-no">02 — MOTION / VIDEO</span>
+            <h3>Bewegte Inhalte mit Zweck</h3>
+            <p>Kurze Motion-Grafiken und Videoschnitt für digitale Kanäle. Format, Länge und Varianten werden aus dem Einsatz abgeleitet, nicht losgelöst davon produziert.</p>
+            <ul class="deliverables"><li>Motion Design und Animation</li><li>Schnitt und Formatadaptionen</li><li>Assets für Social und Präsentationen</li></ul>
+          </article>
+          <article class="service-card reveal">
+            <span class="card-no">03 — CONTENT / SYSTEM</span>
+            <h3>Kanalübergreifende Content-Konzepte</h3>
+            <p>Eine konsistente visuelle und textliche Linie für DACH-Zielgruppen – damit ein Thema in passenden Formaten wiedererkennbar bleibt.</p>
+            <ul class="deliverables"><li>Content- und Themenstruktur</li><li>Redaktionelle Leitlinien</li><li>Bausteine zur Wiederverwendung</li></ul>
+          </article>
+        </div>
+        <div class="internal-links" aria-label="Weitere Leistungen">
+          <a href="https://bayramdoekmeci.de/digitales-marketing/">Digitales Marketing für B2B</a>
+          <a href="https://bayramdoekmeci.de/wordpress-cms-entwickler/">WordPress &amp; CMS Entwicklung</a>
+          <a href="https://bayramdoekmeci.de/">Alle B2B-Leistungen ansehen</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="process-title">
+      <div class="wrap split">
+        <div>
+          <p class="section-index">02 / Zusammenarbeit</p>
+          <h2 id="process-title">Vom Briefing zum nutzbaren Asset.</h2>
+          <p class="section-lead">Der Ablauf schafft Klarheit, bevor Gestaltung in Produktion geht. Feedback und Übergabe werden auf den vereinbarten Umfang abgestimmt.</p>
+        </div>
+        <div class="flow-panel reveal">
+          <div class="flow-top"><span>Arbeitsablauf</span><span>01 → 04</span></div>
+          <svg class="flow-svg" viewBox="0 0 720 142" role="img" aria-labelledby="flow-title flow-desc">
+            <title id="flow-title">Vier Schritte eines Design- und Content-Projekts</title>
+            <desc id="flow-desc">Abstimmung von Ziel und Rahmen, Entwicklung des Konzepts, Ausarbeitung und Feedback, anschließend Übergabe der fertigen Dateien.</desc>
+            <path d="M75 54H645" stroke="#83958d" stroke-width="2" stroke-dasharray="5 7"/>
+            <g font-family="sans-serif" text-anchor="middle">
+              <circle cx="85" cy="54" r="24" fill="#e66e4b"/><text x="85" y="60" fill="#222d2b" font-size="15" font-weight="700">01</text>
+              <circle cx="267" cy="54" r="24" fill="#b9d9d2"/><text x="267" y="60" fill="#222d2b" font-size="15" font-weight="700">02</text>
+              <circle cx="449" cy="54" r="24" fill="#b9d9d2"/><text x="449" y="60" fill="#222d2b" font-size="15" font-weight="700">03</text>
+              <circle cx="631" cy="54" r="24" fill="#e66e4b"/><text x="631" y="60" fill="#222d2b" font-size="15" font-weight="700">04</text>
+              <text x="85" y="106" fill="#f8f5ed" font-size="13">Briefing</text>
+              <text x="267" y="106" fill="#f8f5ed" font-size="13">Konzept</text>
+              <text x="449" y="106" fill="#f8f5ed" font-size="13">Ausarbeitung</text>
+              <text x="631" y="106" fill="#f8f5ed" font-size="13">Übergabe</text>
+            </g>
+          </svg>
+          <ol class="flow-text">
+            <li><strong>Ziel und Rahmen klären:</strong> Zielgruppe, Markenmaterial, Kanäle, Formate und Zuständigkeiten abstimmen.</li>
+            <li><strong>Konzept entwickeln:</strong> Kernbotschaft und visuelle Richtung für die vereinbarten Inhalte festlegen.</li>
+            <li><strong>Entwürfe ausarbeiten:</strong> Assets erstellen, Feedback bündeln und abgestimmte Anpassungen umsetzen.</li>
+            <li><strong>Sauber übergeben:</strong> Finaldateien und vereinbarte Varianten in nutzbaren Formaten bereitstellen.</li>
+          </ol>
+          <p class="flow-note">Umfang, Feedbackschleifen und Zeitplan werden projektspezifisch vereinbart.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="channels-title">
+      <div class="wrap channel-layout">
+        <figure class="channel-chart reveal">
+          <figcaption>
+            <p class="chart-title">Ein Thema, passende Formate</p>
+            <p class="chart-subtitle">Illustrative Zuordnung – keine Leistungskennzahlen</p>
+          </figcaption>
+          <div role="img" aria-label="Qualitativer Formatvergleich: Web-Assets und Social-Inhalte können als einzelne Assets oder wiederverwendbare Varianten geplant werden.">
+            <div class="chart-row"><span>Web-Asset</span><div class="bar-track"><div class="bar wide"></div></div></div>
+            <div class="chart-row"><span>Social-Post</span><div class="bar-track"><div class="bar mid alt"></div></div></div>
+            <div class="chart-row"><span>Motion-Clip</span><div class="bar-track"><div class="bar small"></div></div></div>
+            <div class="chart-row"><span>Präsentation</span><div class="bar-track"><div class="bar mid alt"></div></div></div>
+          </div>
+          <div class="chart-key"><span><i aria-hidden="true"></i>Einzelnes Format</span><span><i aria-hidden="true"></i>Adaptierbare Variante</span></div>
+          <p class="chart-caption">Balken zeigen nur unterschiedliche Formatbeispiele; Länge und Reihenfolge stehen nicht für Aufwand, Reichweite oder Wirkung.</p>
+          <table class="sr-only">
+            <caption>Beispiele möglicher Content-Formate</caption>
+            <thead><tr><th>Format</th><th>Beispielhafte Verwendung</th></tr></thead>
+            <tbody><tr><td>Web-Asset</td><td>Website oder Landingpage</td></tr><tr><td>Social-Post</td><td>Organischer oder bezahlter Social Content</td></tr><tr><td>Motion-Clip</td><td>Kurzer animierter Inhalt</td></tr><tr><td>Präsentation</td><td>B2B-Unternehmenspräsentation</td></tr></tbody>
+          </table>
+        </figure>
+        <div class="channel-copy">
+          <p class="section-index">03 / Gestaltung mit Kontext</p>
+          <h2 id="channels-title">Jeder Kanal bekommt das passende Format.</h2>
+          <p>Ein Content-Baustein lässt sich nicht immer unverändert überall einsetzen. Die Botschaft bleibt konsistent; Aufbau, Umfang und visuelle Gewichtung orientieren sich am jeweiligen Touchpoint.</p>
+          <ul class="channel-list">
+            <li><span><strong>Website:</strong> klare Hierarchie und visuelle Orientierung für zentrale Aussagen.</span></li>
+            <li><span><strong>Social Media:</strong> kompakte, wiedererkennbare Inhalte, passend zum vereinbarten Kanal.</span></li>
+            <li><span><strong>Video und Motion:</strong> Bewegung und Schnitt, die eine konkrete Aussage verständlich machen.</span></li>
+            <li><span><strong>Präsentation:</strong> nachvollziehbare Visuals für Gespräche, Pitches oder interne Kommunikation.</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="example-title">
+      <div class="wrap">
+        <div class="example reveal">
+          <p class="example-label">Typisches Beispiel · illustratives Szenario</p>
+          <h2 id="example-title">Ein B2B-Anbieter braucht einen einheitlichen Auftritt für eine neue Lösung.</h2>
+          <dl class="example-grid">
+            <div><dt>Szenario</dt><dd>Website, Social-Beiträge und Vertriebspräsentation erklären dieselbe Lösung bisher mit unterschiedlichen Aussagen und Bildstilen.</dd></div>
+            <div><dt>Vorgehen</dt><dd>Kernbotschaft und vorhandene Markenregeln abstimmen, daraus ein visuelles Set entwickeln und die Inhalte je Kanal passend ausarbeiten.</dd></div>
+            <div><dt>Ergebnis</dt><dd>Ein vereinbarter Satz konsistenter, kanalbezogener Dateien, die das Team für Website, Social Media und Gespräche einsetzen kann.</dd></div>
+          </dl>
+          <p><strong>Hinweis:</strong> Das ist ein beispielhafter Ablauf, keine Referenz oder Aussage über ein konkretes Kundenergebnis.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="faq-title">
+      <div class="wrap split">
+        <div><p class="section-index">04 / FAQ</p><h2 id="faq-title">Häufige Fragen zu B2B Design &amp; Content.</h2><p class="section-lead">Konkret zu Leistungsumfang, Zusammenarbeit und Einsatzgebiet.</p></div>
+        <div class="faq-list">
+          <details><summary>Welche Design- und Content-Leistungen bietet Bayram Dökmeci an?</summary><div class="faq-answer"><p>Bayram Dökmeci unterstützt B2B-Unternehmen und Agenturen mit visuellem Design, konversionsorientierten Web-Assets, Marken-Updates, Motion Design und kanalübergreifender Content-Konzeption. Der Umfang wird passend zu Zielgruppe, Kanälen und vorhandenen Markenrichtlinien vereinbart.</p></div></details>
+          <details><summary>Für wen eignet sich die Zusammenarbeit?</summary><div class="faq-answer"><p>Das Angebot richtet sich ausschließlich an B2B-Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit eignet sich, wenn digitale Inhalte oder visuelle Markenbausteine konsistent und direkt mit einem deutschsprachigen Ansprechpartner umgesetzt werden sollen.</p></div></details>
+          <details><summary>Wie läuft ein Design- oder Content-Projekt ab?</summary><div class="faq-answer"><p>Zu Beginn werden Zielgruppe, Kommunikationsziel, Kanäle und vorhandene Markenmaterialien abgestimmt. Darauf folgen Konzept und Entwürfe, Feedbackrunden und die Ausarbeitung der vereinbarten Assets in passenden Formaten. Umfang und Zeitplan richten sich nach dem Projekt.</p></div></details>
+          <details><summary>Welche Inhalte können für Social Media und Video entstehen?</summary><div class="faq-answer"><p>Möglich sind zum Beispiel visuelle Social-Media-Bausteine, kurze Motion-Grafiken, Videoschnitte und Varianten für vereinbarte digitale Kanäle. Themen, Format, Materialgrundlage und Ausspielung werden vor der Produktion gemeinsam festgelegt.</p></div></details>
+          <details><summary>Arbeitet Bayram Dökmeci auch mit Agenturen zusammen?</summary><div class="faq-answer"><p>Ja. Agenturen in DACH können Bayram Dökmeci projektbezogen und direkt für Design- und Content-Aufgaben einbinden. Eine Zusammenarbeit im Hintergrund oder mit White-Label-Abstimmung kann nach Absprache vereinbart werden.</p></div></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact-section" id="kontakt" aria-labelledby="contact-title">
+      <div class="wrap">
+        <div class="contact-panel">
+          <p class="eyebrow">Der nächste Schritt</p>
+          <h2 id="contact-title">Was soll deine Marke als Nächstes erzählen?</h2>
+          <p>Teile Zielgruppe, geplante Kanäle und den aktuellen Stand deiner Inhalte. Gemeinsam klären wir, welche Design- oder Content-Unterstützung für dein B2B-Projekt sinnvoll ist.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Termin buchen <span aria-hidden="true">↗</span></a>
+            <a class="btn btn-secondary" href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer">WhatsApp schreiben</a>
+          </div>
+          <div class="direct-contact"><a href="mailto:kontakt@bayramdoekmeci.de">kontakt@bayramdoekmeci.de</a><a href="tel:+905078827795">+90 507 882 7795</a></div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <a class="brand" href="https://bayramdoekmeci.de/"><span class="brand-mark" aria-hidden="true">&lt;/&gt;</span><span>Bayram Dökmeci<span class="brand-note">MeinB2B · Antalya, Türkiye</span></span></a>
+          <p>Gute Inhalte. Klare Gestaltung. Direkte Zusammenarbeit.</p>
+        </div>
+        <nav aria-label="Footer-Navigation">
+          <ul class="footer-nav">
+            <li><a href="https://bayramdoekmeci.de/">Startseite</a></li>
+            <li><a href="https://bayramdoekmeci.de/impressum/">Impressum</a></li>
+            <li><a href="https://bayramdoekmeci.de/datenschutz/">Datenschutz</a></li>
+            <li><a href="https://www.linkedin.com/in/bayramdoekmeci/" target="_blank" rel="noopener noreferrer"><svg class="icon" width="20" height="20" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 10v7m0-10v.01m4 10v-7m0 3c0-4 6-4 6 0v4"/></svg>LinkedIn</a></li>
+            <li><a href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer"><svg class="icon" width="20" height="20" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 11h18m-14 4h2m4 0h2"/></svg>Termin buchen</a></li>
+            <li><a href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer"><svg class="icon" width="20" height="20" aria-hidden="true" viewBox="0 0 24 24"><path d="m7 3 3 5-3 2c1.5 3.5 3.5 5.5 7 7l2-3 5 3c0 3-2 5-4 4C9 19 5 15 3 7 2 5 4 3 7 3Z"/></svg>Tel. / WhatsApp</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="footer-bottom"><p>© 2026 Bayram Dökmeci.</p><p>Für B2B-Unternehmen und Agenturen in DACH</p></div>
+    </div>
+  </footer>
+  <nav class="bottom-bar" aria-label="Schneller Kontakt">
+    <a class="btn btn-primary" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer"><svg class="icon" width="20" height="20" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 11h18m-14 4h2m4 0h2"/></svg>Termin buchen</a>
+    <a class="btn btn-secondary" href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+  </nav>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.9/dist/cdn.min.js"></script>
+  <script>
+    (() => {
+      if (!('IntersectionObserver' in window) || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      document.documentElement.classList.add('reveal-ready');
+      const observer = new IntersectionObserver((entries, currentObserver) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+            currentObserver.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.12 });
+      document.querySelectorAll('.reveal').forEach(element => observer.observe(element));
+    })();
+  </script>
+</body>
+</html>
