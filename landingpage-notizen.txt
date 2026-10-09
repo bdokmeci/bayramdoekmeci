@@ -41,3 +41,40 @@ Vor Veröffentlichung prüfen
 - Wenn die alte Startseite bereits indexiert war, die neue, eigenständige Startseiten-Canonical in der Search Console prüfen.
 
 Annahmen: Die Startseite dient als B2B-Leistungsübersicht; die bestehende CMS-URL bleibt eine eigenständige Spezialseite. Alle Praxisbeispiele und Chart-Daten sind illustrativ, ohne Messwerte oder Kundenergebnisversprechen. Kein bestimmter Projektpreis, Zeitrahmen oder Verfügbarkeitsstatus wird zugesagt.
+
+
+B2B-LEADGENERIERUNG / BUSINESS DEVELOPMENT (09.10.2026)
+Haupt-Keyword: B2B Leadgenerierung
+Suchintent: Einen direkten Partner für B2B-Neukundengewinnung über LinkedIn und CRM-gestützte Vertriebsprozesse beauftragen.
+URL: https://bayramdoekmeci.de/customer-success/business-development/
+HTML-Code: customer-success/business-development/index.html
+Title: B2B Leadgenerierung mit LinkedIn | Bayram Dökmeci (49 Zeichen)
+Description: B2B Leadgenerierung für DACH: Bayram Dökmeci verbindet LinkedIn, klare Zielkundenprofile und Marketing Automation. Direkt zusammenarbeiten. Termin buchen. (154 Zeichen)
+Design: Helles Papier, dunkles Prozesspanel, rostfarbene Typografie und limettengrüne Kontaktfläche. Systemschriften, 18–20 px Basistext, native Details-Elemente und feste mobile Kontaktleiste.
+
+sitemap.xml-Eintrag (bereits ergänzt)
+<url><loc>https://bayramdoekmeci.de/customer-success/business-development/</loc></url>
+
+llms.txt-Eintrag (bereits ergänzt)
+- [B2B Leadgenerierung & Business Development](https://bayramdoekmeci.de/customer-success/business-development/): Zielkundenrecherche, persönliche LinkedIn-Ansprache, Marketing Automation und qualifizierte Vertriebsübergabe für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+
+Umsetzung und Prüfung
+- Die bestehende leere Datei im Business-Development-Verzeichnis wurde ausgefüllt. Die vorhandene URL-Struktur bleibt erhalten.
+- Kontextuelle eingehende Links aus Customer Success und Digitales Marketing ergänzt; drei weiterführende Leistungslinks auf der neuen Seite.
+- Ein H1, eindeutiger Canonical, Open Graph, Twitter-Metadaten, sechs wortgleiche FAQ-/Schema-Antworten und JSON-LD-Graph mit Person, ProfessionalService, WebPage, BreadcrumbList, Service, FAQPage.
+- Anbieter-IDs stimmen mit den bestehenden Seiten überein (#person und #business).
+- Zwei animierte SVG-Prozessgrafiken mit Titel, Beschreibung und gleichwertiger sichtbarer Textfassung; animierter Beispieltrichter samt Zählern und Datentabelle.
+- Ausschließlich Alpine.js 3.14.9 als externe Abhängigkeit. Keine Bilder, Formulare, eingebetteten Kontaktanbieter oder Tracking-Skripte.
+- Headless-Chrome: 360, 390, 720, 800, 1024 und 1440 CSS-px; zusätzlich ohne JavaScript, mit reduzierter Bewegung und bei 720 CSS-px mit Gerätefaktor 2 als Reflow-Prüfung für ein 1440-px-Fenster bei 200 % Zoom.
+- Kein horizontaler Überlauf, keine JavaScript-Laufzeitfehler, mindestens 48 px hohe sichtbare Bedienelemente. FAQ, Escape-Schließen des Mobilmenüs und Endwerte des Charts geprüft.
+- Nach Vergrößerung der SVG-Ziffern sind die Beschriftungen bei 360 und 800 CSS-px mindestens 12 px groß.
+- Haupttext-Kontraste geprüft: mindestens 5,61:1 für die eingesetzten hellen/dunklen Textkombinationen.
+- Desktop- und Mobilansicht als Screenshots visuell geprüft. Die integrierte Vorschau war nicht verfügbar; Prüfung erfolgte im isolierten lokalen Headless-Browser.
+
+Einordnung
+- Eintrag in llms.txt und FAQ-Auszeichnung sind Strukturhilfen, keine Garantie für Indexierung, Rankings oder KI-Zitate. Die Seite enthält keine solchen Versprechen.
+- ProfessionalService bleibt gemäß Briefing und vorhandener Website enthalten; Schema.org führt diesen Typ als veraltet. Service beschreibt die konkrete Leistung zusätzlich.
+- Hosting/Cloudflare-Konfiguration wurde nicht geändert. Produktionsindexierung und echte Nutzungsdaten wurden nicht geprüft.
+- Referenzen: https://developers.google.com/search/docs/appearance/ai-features und https://schema.org/ProfessionalService
+
+Annahmen: Die vorbereitete Business-Development-URL bleibt bestehen; Ziel sind B2B-Unternehmen und Agenturen in DACH, alle Beispieldaten sind illustrativ und Preise sowie Zeitpläne werden individuell vereinbart.
