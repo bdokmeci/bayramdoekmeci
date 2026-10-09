@@ -45,6 +45,7 @@
     .mono{font-family:var(--mono)}
     .muted{color:var(--muted)}
     .icon{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+    .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
     .site-header{border-bottom:1px solid var(--line)}
     .header-inner{min-height:78px;display:flex;align-items:center;justify-content:space-between;gap:16px}
     .brand{display:inline-flex;align-items:center;gap:11px;min-height:48px;font-size:1rem;font-weight:700;letter-spacing:-.035em}
@@ -102,6 +103,9 @@
     .channel-chart{padding:22px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
     .chart-title{font-size:1.15rem;font-weight:650}
     .chart-subtitle{margin-top:5px;color:var(--muted);font-size:.88rem}
+    .chart-controls{display:flex;flex-wrap:wrap;gap:7px;margin-top:16px}
+    .chart-controls button{min-height:48px;padding:8px 11px;border:1px solid var(--line);border-radius:5px;background:transparent;font-size:.83rem}
+    .chart-controls button[aria-pressed="true"]{background:var(--dark);border-color:var(--dark);color:#fff}
     .chart-row{display:grid;grid-template-columns:minmax(85px,1fr) 2fr;gap:12px;align-items:center;margin-top:19px;font-size:.9rem}
     .bar-track{height:17px;border-radius:3px;background:#e5ded2;overflow:hidden}
     .bar{height:100%;border-radius:3px;background:#a84d35;transform-origin:left;animation:grow .9s cubic-bezier(.2,.7,.2,1) both}
@@ -435,16 +439,21 @@
 
     <section class="section" aria-labelledby="channels-title">
       <div class="wrap channel-layout">
-        <figure class="channel-chart reveal">
+        <figure class="channel-chart reveal" x-data="{format:'alle'}">
           <figcaption>
             <p class="chart-title">Ein Thema, passende Formate</p>
             <p class="chart-subtitle">Illustrative Zuordnung – keine Leistungskennzahlen</p>
           </figcaption>
+          <div class="chart-controls" role="group" aria-label="Content-Formate filtern">
+            <button type="button" x-on:click="format='alle'" x-bind:aria-pressed="format==='alle'">Alle Formate</button>
+            <button type="button" x-on:click="format='digital'" x-bind:aria-pressed="format==='digital'">Digitale Inhalte</button>
+            <button type="button" x-on:click="format='bewegung'" x-bind:aria-pressed="format==='bewegung'">Motion &amp; Video</button>
+          </div>
           <div role="img" aria-label="Qualitativer Formatvergleich: Web-Assets und Social-Inhalte können als einzelne Assets oder wiederverwendbare Varianten geplant werden.">
-            <div class="chart-row"><span>Web-Asset</span><div class="bar-track"><div class="bar wide"></div></div></div>
-            <div class="chart-row"><span>Social-Post</span><div class="bar-track"><div class="bar mid alt"></div></div></div>
-            <div class="chart-row"><span>Motion-Clip</span><div class="bar-track"><div class="bar small"></div></div></div>
-            <div class="chart-row"><span>Präsentation</span><div class="bar-track"><div class="bar mid alt"></div></div></div>
+            <div class="chart-row" x-show="format==='alle'||format==='digital'"><span>Web-Asset</span><div class="bar-track"><div class="bar wide"></div></div></div>
+            <div class="chart-row" x-show="format==='alle'||format==='digital'"><span>Social-Post</span><div class="bar-track"><div class="bar mid alt"></div></div></div>
+            <div class="chart-row" x-show="format==='alle'||format==='bewegung'"><span>Motion-Clip</span><div class="bar-track"><div class="bar small"></div></div></div>
+            <div class="chart-row" x-show="format==='alle'||format==='digital'"><span>Präsentation</span><div class="bar-track"><div class="bar mid alt"></div></div></div>
           </div>
           <div class="chart-key"><span><i aria-hidden="true"></i>Einzelnes Format</span><span><i aria-hidden="true"></i>Adaptierbare Variante</span></div>
           <p class="chart-caption">Balken zeigen nur unterschiedliche Formatbeispiele; Länge und Reihenfolge stehen nicht für Aufwand, Reichweite oder Wirkung.</p>
