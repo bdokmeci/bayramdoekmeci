@@ -13,6 +13,8 @@
 - [B2B Design & Content](https://bayramdoekmeci.de/design-content/): Visuelles Design, Conversion-orientierte Web-Assets, Motion Design und kanalübergreifende B2B-Inhalte für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
 - [Videoproduktion & Motion Graphics](https://bayramdoekmeci.de/videoproduktion/): White-Label-Videoproduktion, Social-Media-Videoschnitt, Motion Graphics, 3D-Produktanimationen und VFX für Unternehmen und Agenturen in DACH. Projektbezogen oder als monatliche Zusammenarbeit mit Bayram Dökmeci von MeinB2B.
 
+- [Shopware Wartung & QA](https://bayramdoekmeci.de/shopware/): Shopware-Wartung, manuelle und automatisierte QA-Tests sowie Shopify-Theme- und App-Betreuung für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, projektbezogen oder mit individuell vereinbartem monatlichem Leistungsumfang.
+
 ## Kontakt
 
 - E-Mail: kontakt@bayramdoekmeci.de

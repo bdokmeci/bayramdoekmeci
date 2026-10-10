@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Shopware Wartung & QA für B2B | Bayram Dökmeci</title>
+  <meta name="description" content="Shopware Wartung & QA für Unternehmen und Agenturen in DACH. Tests, Updates und Shopify-Betreuung mit Bayram Dökmeci. Direkt und auf Deutsch.">
+  <meta name="robots" content="index,follow,max-snippet:-1">
+  <meta name="theme-color" content="#0b192b">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="canonical" href="https://bayramdoekmeci.de/shopware/">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%230b192b'/%3E%3Cpath d='M18 17v30h12a10 10 0 0 0 0-20H18m28-10v30H34a10 10 0 0 1 0-20h12' fill='none' stroke='%23dfc7a4' stroke-width='4'/%3E%3C/svg%3E">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="de_DE">
+  <meta property="og:url" content="https://bayramdoekmeci.de/shopware/">
+  <meta property="og:site_name" content="Bayram Dökmeci · MeinB2B">
+  <meta property="og:title" content="Shopware Wartung & QA · Ihr Shop in guten Händen">
+  <meta property="og:description" content="Durchdachte Tests, planbare Wartung und ein direkter Ansprechpartner. Für Unternehmen und Agenturen in DACH.">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Shopware Wartung & QA | Bayram Dökmeci">
+  <meta name="twitter:description" content="Durchdachte Tests und planbare Wartung für Shopware und Shopify. Persönlich, remote und auf Deutsch.">
+  <style>
+    :root{--navy:#0b192b;--deep:#081423;--panel:#11253c;--panel-light:#152d47;--blue:#367ed0;--sky:#a9d5ff;--sand:#dfc7a4;--white:#f4f5f3;--muted:#b3c1d2;--line:#2b3e53;--ink:#15243a;--radius:24px;color-scheme:dark}
+    *,*::before,*::after{box-sizing:border-box}
+    html{scroll-behavior:smooth;scroll-padding-top:100px}
+    body{margin:0;background:var(--navy);color:var(--white);font:400 1.125rem/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;padding-bottom:calc(88px + env(safe-area-inset-bottom))}
+    ::selection{background:var(--sand);color:var(--navy)}
+    h1,h2,h3,p,figure{margin:0}
+    h1,h2,h3{font-weight:550;line-height:1.1;letter-spacing:-.045em;text-wrap:balance}
+    h2{font-size:clamp(2.15rem,5vw,3.75rem)}
+    h3{font-size:1.5rem;letter-spacing:-.03em}
+    p{color:var(--muted)}
+    a{color:inherit;text-underline-offset:5px;text-decoration-thickness:1px}
+    a,button,summary{-webkit-tap-highlight-color:transparent}
+    button{font:inherit;cursor:pointer}
+    button,a,summary{touch-action:manipulation}
+    button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--sky);outline-offset:5px}
+    svg{display:block;max-width:100%;flex-shrink:0}
+    button{color:inherit}
+    [hidden]{display:none!important}
+    .wrap{width:min(100% - 40px,1240px);margin-inline:auto}
+    .section{padding-block:76px}
+    .eyebrow{display:flex;align-items:center;gap:10px;font-size:.75rem;font-weight:650;line-height:1.5;letter-spacing:.15em;text-transform:uppercase;color:var(--sky)}
+    .eyebrow::before{content:"";width:20px;height:1px;background:currentColor}
+    .section-head{display:grid;gap:22px;margin-bottom:38px}
+    .section-head h2{margin-top:18px}
+    .section-head>p{max-width:490px}
+    .sand{color:var(--sand)}.sky{color:var(--sky)}
+    .small{font-size:.875rem;line-height:1.6}
+    .icon{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.65;stroke-linecap:round;stroke-linejoin:round}
+    .button{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:56px;padding:14px 22px;border:1px solid transparent;border-radius:8px;font-size:1rem;line-height:1.4;font-weight:650;text-decoration:none;transition:background .2s,transform .2s,border-color .2s}
+    .button:hover{transform:translateY(-3px)}
+    .button-primary{background:var(--sand);color:var(--navy)}
+    .button-primary:hover{background:#eddbc0}
+    .button-outline{border-color:#43566c;background:transparent;color:var(--white)}
+    .button-outline:hover{background:var(--panel-light);border-color:var(--sky)}
+    .text-link{display:inline-flex;gap:12px;align-items:center;min-height:48px;text-decoration:none;font-size:1rem;font-weight:600}
+    .text-link:hover{text-decoration:underline}
+    .skip{position:fixed;top:12px;left:12px;transform:translateY(-180%);z-index:100;background:var(--sand);color:var(--navy);padding:12px 20px;border-radius:8px}
+    .skip:focus{transform:translateY(0)}
+    .site-header{position:relative;z-index:30;border-bottom:1px solid var(--line);background:var(--navy)}
+    .header-row{min-height:86px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+    .brand{display:inline-flex;align-items:center;gap:12px;min-height:48px;text-decoration:none}
+    .brand-mark{width:38px;height:42px;color:var(--sand)}
+    .brand-name{font-size:.96rem;line-height:1.35;font-weight:650;letter-spacing:-.02em}
+    .brand-name small{display:block;color:var(--muted);font-size:.62rem;letter-spacing:.16em;font-weight:500;text-transform:uppercase;margin-top:3px}
+    .desktop-nav,.header-cta{display:none}
+    .mobile-nav{position:relative}
+    .mobile-nav summary{list-style:none;display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;font-size:.875rem;cursor:pointer}
+    .mobile-nav summary::-webkit-details-marker{display:none}
+    .mobile-nav[open] summary{color:var(--sand)}
+    .mobile-nav nav{position:absolute;right:0;top:60px;width:min(290px,calc(100vw - 40px));display:grid;padding:16px;background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:0 20px 60px #0006}
+    .mobile-nav nav a{padding:12px;min-height:48px;text-decoration:none;border-radius:6px}
+    .mobile-nav nav a:hover{background:var(--panel-light)}
+    .breadcrumb{display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-size:.75rem;color:var(--muted);padding-top:16px}
+    .breadcrumb a{display:inline-flex;align-items:center;min-height:48px;text-decoration:none}
+    .breadcrumb a:hover{color:var(--sand)}
+    .breadcrumb span[aria-current]{color:var(--sand)}
+    .hero{position:relative;padding-top:28px;padding-bottom:56px}
+    .hero-grid{display:grid;gap:46px;align-items:center}
+    h1{font-size:clamp(3.5rem,8.1vw,6.3rem);line-height:1.025;letter-spacing:-.065em}
+    h1 .eyebrow{letter-spacing:.14em;margin-bottom:24px;font-size:.75rem;line-height:1.5;font-weight:650}
+    h1 em{font-style:normal;color:var(--sand)}
+    .hero-summary{margin-top:28px;max-width:510px}
+    .hero-summary strong{display:block;color:var(--white);font-size:.75rem;text-transform:uppercase;letter-spacing:.12em;margin-bottom:8px;font-weight:600}
+    .hero-summary p{font-size:1.125rem;line-height:1.7}
+    .hero-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+    .hero-actions .button{flex:1 1 200px}
+    .hero-note{display:flex;align-items:center;gap:10px;margin-top:18px;font-size:.8rem;color:var(--muted)}
+    .hero-note svg{color:var(--sky);width:18px;height:18px}
+    .commerce-visual{position:relative;min-width:0}
+    .visual-top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 6px 14px;font-size:.65rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+    .visual-top .tag{color:var(--sand);letter-spacing:.08em}
+    .shop-panel{border:1px solid #3c536f;border-radius:18px;background:linear-gradient(140deg,#1a3552 0%,#10253c 55%,#0e2239 100%);box-shadow:0 30px 70px #020b1740;overflow:hidden}
+    .panel-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 20px;border-bottom:1px solid #38506b;color:var(--muted);font-size:.75rem}
+    .window-dots{display:flex;gap:5px}.window-dots i{width:6px;height:6px;border-radius:50%;background:#68829d}.window-dots i:first-child{background:var(--sand)}
+    .panel-heading{padding:24px 24px 0}
+    .panel-heading p{font-size:.72rem;color:var(--sky);letter-spacing:.13em;text-transform:uppercase;margin-bottom:7px}
+    .panel-heading h2{font-size:clamp(1.65rem,3.4vw,2rem);letter-spacing:-.04em}
+    .journey-svg{width:100%;height:auto;margin-top:8px}
+    .flow-line{stroke-dasharray:5 7}
+    .flow-text{font-family:inherit;fill:var(--white);font-size:17px;font-weight:550;letter-spacing:-.02em}
+    .flow-label{font-family:inherit;fill:var(--muted);font-size:13px}
+    .journey-caption{padding:0 24px 24px;font-size:.8rem;color:var(--muted)}
+    .journey-caption strong{color:var(--sky);font-weight:550}
+    .release-note{display:flex;align-items:center;gap:16px;margin:16px 0 0;padding:20px;border:1px solid #49617a;border-radius:12px;background:var(--panel-light)}
+    .release-icon{display:grid;place-items:center;width:44px;height:44px;flex-shrink:0;border:1px solid #6d89a4;border-radius:50%;color:var(--sand)}
+    .release-note strong{display:block;font-size:1rem;font-weight:550;line-height:1.4}
+    .release-note p{font-size:.8rem;line-height:1.5;margin-top:3px}
+    .release-arrow{margin-left:auto;color:var(--sky)}
+    .trust-strip{border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+    .trust-grid{display:grid;grid-template-columns:1fr 1fr;gap:0;padding-block:14px}
+    .trust-item{padding:16px 12px;display:flex;flex-direction:column;gap:2px}
+    .trust-item strong{font-size:1rem;color:var(--white);font-weight:550}
+    .trust-item span{font-size:.7rem;color:var(--muted)}
+    .trust-item:nth-child(even){border-left:1px solid var(--line)}
+    .services-grid{display:grid;gap:14px}
+    .service-card{padding:28px;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel);position:relative;transition:transform .25s,border-color .25s}
+    .service-card:hover{transform:translateY(-5px);border-color:#6385a6}
+    .service-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:32px}
+    .service-top>.icon{width:32px;height:32px;color:var(--sky)}
+    .service-number{font-size:.75rem;letter-spacing:.08em;color:var(--muted)}
+    .service-card h3{margin-bottom:14px}
+    .service-card p{font-size:1rem;line-height:1.7}
+    .check-list{list-style:none;display:grid;gap:12px;padding:0;margin:24px 0 0}
+    .check-list li{display:flex;gap:10px;align-items:flex-start;font-size:1rem;color:var(--muted)}
+    .check-list li::before{content:"↗";color:var(--sand);line-height:1.6}
+    .service-card.featured{background:var(--sand);color:var(--ink);border-color:var(--sand)}
+    .service-card.featured :is(p,li,.service-number){color:#35485a}
+    .service-card.featured .icon,.service-card.featured .check-list li::before{color:#244e7d}
+    .platform-note{margin-top:24px;display:flex;align-items:flex-start;gap:12px;font-size:1rem}
+    .platform-note .icon{margin-top:4px;color:var(--sand)}
+    .platform-note a{color:var(--sky)}
+    .coverage-section{background:var(--deep);border-block:1px solid var(--line)}
+    .coverage-grid{display:grid;gap:32px;align-items:start}
+    .coverage-copy h2{margin-block:18px 24px}
+    .coverage-copy>p{max-width:470px}
+    .coverage-legend{display:grid;gap:18px;margin-top:30px}
+    .legend-item{display:flex;align-items:flex-start;gap:14px;font-size:1rem}
+    .legend-item .legend-dot{width:10px;height:10px;background:var(--sky);border-radius:3px;flex-shrink:0;margin-top:8px}
+    .legend-item:nth-child(2) .legend-dot{background:var(--sand)}
+    .legend-item strong{display:block;color:var(--white);font-weight:550}
+    .legend-item p{font-size:1rem}
+    .chart-card{min-width:0;padding:24px;background:var(--panel);border:1px solid var(--line);border-radius:var(--radius)}
+    .chart-top{display:flex;justify-content:space-between;align-items:center;gap:14px;font-size:.75rem;color:var(--muted);margin-bottom:20px}
+    .chart-top strong{color:var(--sand);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;font-weight:550}
+    .chart-switch{display:flex;gap:4px;background:var(--deep);padding:5px;border:1px solid var(--line);border-radius:10px;margin-bottom:26px}
+    .chart-switch button{flex:1;min-height:48px;padding:9px 6px;background:transparent;border:0;border-radius:6px;font-size:.8rem;line-height:1.4;font-weight:550;color:var(--muted);transition:background .2s,color .2s}
+    .chart-switch button[aria-pressed="true"]{background:#b8daff;color:var(--navy)}
+    .chart-title{font-size:1.125rem;font-weight:550;letter-spacing:-.02em;margin-bottom:3px}
+    .chart-subtitle{font-size:.8rem;margin-bottom:24px}
+    .chart-bars{display:grid;gap:19px}
+    .bar-label{display:flex;justify-content:space-between;gap:16px;margin-bottom:8px;font-size:.875rem;color:var(--white)}
+    .bar-label strong{font-weight:500;color:var(--sky);font-variant-numeric:tabular-nums}
+    .bar-track{height:10px;background:#263b52;border-radius:3px;overflow:hidden}
+    .bar-fill{height:100%;width:100%;background:var(--sky);transform:scaleX(var(--value));transform-origin:left;border-radius:3px;transition:transform .7s cubic-bezier(.2,.65,.3,1)}
+    .bar-row:first-child .bar-fill{background:var(--sand)}
+    .bar-row:first-child .bar-label strong{color:var(--sand)}
+    .chart-caption{border-top:1px solid var(--line);margin-top:26px;padding-top:18px;font-size:.8rem;line-height:1.65}
+    .data-details{margin-top:10px}
+    .data-details summary{font-size:.8rem;cursor:pointer;min-height:48px;display:flex;align-items:center;gap:8px;color:var(--sky)}
+    .data-details summary::before{content:"+";font-size:1.1rem}
+    .data-details[open] summary::before{content:"−"}
+    .data-table{width:100%;border-collapse:collapse;font-size:.78rem;line-height:1.5;text-align:left}
+    .data-table caption{text-align:left;margin:8px 0 12px;color:var(--muted)}
+    .data-table th,.data-table td{padding:10px 5px;border-bottom:1px solid var(--line)}
+    .data-table th{font-weight:500;color:var(--white)}
+    .data-table td{color:var(--muted)}
+    .process-heading{max-width:680px}
+    .process-graphic{padding:24px 16px;background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);margin-bottom:26px}
+    .process-graphic svg{width:100%;height:auto;max-width:380px;margin-inline:auto}
+    .process-desktop{display:none}
+    .process-list{list-style:none;padding:0;margin:0;display:grid;gap:24px;counter-reset:process}
+    .process-list li{counter-increment:process;border-top:1px solid var(--line);padding-top:20px}
+    .process-list li::before{content:"0" counter(process);display:block;color:var(--sand);font-size:.8rem;margin-bottom:12px}
+    .process-list h3{font-size:1.25rem;margin-bottom:12px}
+    .process-list p{font-size:1rem;line-height:1.7}
+    .process-foot{margin-top:28px;font-size:.875rem;color:var(--muted)}
+    .collab{display:grid;gap:36px;padding:32px 26px;border-radius:var(--radius);background:var(--sand);color:var(--ink);position:relative}
+    .collab .eyebrow{color:#3d5870}
+    .collab h2{margin-block:20px}
+    .collab p{color:#35485a}
+    .collab-points{display:grid;gap:22px;list-style:none;padding:0;margin:0}
+    .collab-points li{border-bottom:1px solid #af9e86;padding-bottom:20px;display:flex;gap:16px}
+    .collab-points .icon{margin-top:2px;color:#375f82}
+    .collab-points h3{font-size:1.15rem;margin-bottom:7px}
+    .collab-points p{font-size:1rem;line-height:1.6}
+    .personal-signature{display:flex;align-items:center;gap:14px;margin-top:28px}
+    .initials{width:48px;height:48px;flex-shrink:0;background:var(--navy);color:var(--sand);border-radius:50%;display:grid;place-items:center;font-size:1rem;letter-spacing:-.06em}
+    .personal-signature strong{display:block;font-size:1rem;font-weight:600}
+    .personal-signature span{display:block;font-size:.75rem}
+    .examples-grid{display:grid;gap:20px}
+    .example{padding:28px 0;border-top:1px solid var(--line)}
+    .example-label{display:flex;align-items:center;gap:10px;color:var(--sky);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;margin-bottom:20px}
+    .example-label::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--sky)}
+    .example h3{font-size:1.65rem;margin-bottom:22px}
+    .example dl{margin:0;display:grid;gap:8px}
+    .example dt{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--sand);margin-top:12px}
+    .example dd{margin:0;color:var(--muted);font-size:1rem;line-height:1.7}
+    .faq-section{padding-top:0}
+    .faq-layout{display:grid;gap:32px}
+    .faq-heading h2{margin-block:18px 20px}
+    .faq-heading p{max-width:330px}
+    .faq-list{border-top:1px solid var(--line)}
+    .faq-list details{border-bottom:1px solid var(--line)}
+    .faq-list summary{cursor:pointer;list-style:none;padding:24px 36px 24px 0;font-size:1.125rem;line-height:1.5;font-weight:500;position:relative}
+    .faq-list summary::-webkit-details-marker{display:none}
+    .faq-list summary::after{content:"+";position:absolute;right:3px;top:23px;font-size:1.5rem;color:var(--sand);font-weight:300}
+    .faq-list details[open] summary::after{content:"−"}
+    .faq-list details[open] summary{color:var(--sky)}
+    .faq-list details p{font-size:1rem;line-height:1.75;padding:0 20px 24px 0}
+    .contact-section{padding-top:0}
+    .contact-card{position:relative;overflow:hidden;background:#174477;border:1px solid #3e6d9f;border-radius:var(--radius);padding:44px 26px}
+    .contact-card::after{content:"";position:absolute;width:420px;height:420px;border:1px solid #8fbdeb30;border-radius:50%;right:-220px;top:-200px;box-shadow:0 0 0 60px #8fbdeb0a,0 0 0 120px #8fbdeb08;pointer-events:none}
+    .contact-content{position:relative;z-index:1}
+    .contact-card h2{font-size:clamp(2.55rem,6vw,4.5rem);max-width:700px;margin-block:22px}
+    .contact-card p{color:#d0dfef;max-width:630px}
+    .contact-actions{display:flex;flex-wrap:wrap;gap:12px;margin-block:28px 24px}
+    .contact-actions .button-outline{border-color:#8caacb}
+    .direct-contact{display:flex;flex-wrap:wrap;gap:4px 26px}
+    .direct-contact a{display:flex;align-items:center;gap:9px;min-height:48px;font-size:.875rem;overflow-wrap:anywhere}
+    .direct-contact .icon{width:18px;height:18px}
+    .site-footer{border-top:1px solid var(--line);padding-block:34px 20px;background:var(--deep)}
+    .footer-top{display:flex;flex-wrap:wrap;gap:20px;justify-content:space-between;align-items:center;padding-bottom:22px}
+    .footer-top p{font-size:.8rem}
+    .footer-nav{display:flex;flex-wrap:wrap;gap:4px 24px;padding-block:18px;border-top:1px solid var(--line)}
+    .footer-nav a{display:inline-flex;align-items:center;gap:8px;min-height:48px;font-size:.8rem;text-decoration:none;color:var(--muted)}
+    .footer-nav a:hover{color:var(--sand)}
+    .footer-nav .icon{width:17px;height:17px}
+    .footer-bottom{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between;font-size:.7rem;color:var(--muted);padding-top:12px}
+    .mobile-dock{position:fixed;z-index:40;bottom:0;left:0;width:100%;background:#0b192bf5;border-top:1px solid #3c5067;backdrop-filter:blur(16px);padding:12px 20px calc(12px + env(safe-area-inset-bottom));display:flex;gap:10px}
+    .mobile-dock a{min-height:52px;padding:10px 14px;font-size:.875rem}
+    .mobile-dock .button-primary{flex:1}
+    .mobile-dock .button-outline{flex:0 1 auto}
+    .js .reveal.is-pending{opacity:0;transform:translateY(22px)}
+    .js .reveal{transition:opacity .75s ease,transform .75s cubic-bezier(.2,.65,.3,1);transition-delay:var(--delay,0ms)}
+    .js .is-pending .flow-step{opacity:.25;transform:translateY(6px)}
+    .flow-step{transition:opacity .65s ease,transform .65s ease;transition-delay:var(--step,0ms)}
+    .js .is-pending .bar-fill{transform:scaleX(0)}
+    .js .is-pending .process-stage{opacity:.2}
+    .process-stage{transition:opacity .7s ease;transition-delay:var(--step,0ms)}
+    @media(min-width:480px){.hero-actions .button{flex:0 1 auto}.trust-item{padding:18px 22px}.chart-card{padding:30px}.collab{padding:40px}.contact-card{padding:48px}.brand-name{font-size:1rem}}
+    @media(min-width:720px){
+      .wrap{width:min(100% - 64px,1240px)}.section{padding-block:100px}.hero{padding-top:38px;padding-bottom:70px}
+      .hero-grid{gap:56px}.commerce-visual{max-width:570px;width:100%;margin-inline:auto}
+      .trust-grid{grid-template-columns:repeat(4,1fr);padding-block:22px}.trust-item{padding:6px 20px}.trust-item+.trust-item{border-left:1px solid var(--line)}
+      .trust-item:first-child{padding-left:0}.trust-item strong{font-size:1.2rem}.trust-item span{font-size:.8rem}
+      .services-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.service-card{padding:24px}.service-card h3{font-size:1.3rem}.service-card p,.check-list li{font-size:1rem}
+      .section-head{grid-template-columns:1.2fr 1fr;align-items:end;gap:48px}.process-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:30px}
+      .process-mobile{display:none}.process-graphic .process-desktop{display:block;max-width:none}.process-graphic{padding:22px}
+      .examples-grid{grid-template-columns:1fr 1fr;gap:48px}.example{padding-top:32px}.faq-section{padding-top:0}.contact-section{padding-top:0}
+      .contact-card{padding:60px}.footer-top{padding-bottom:30px}.footer-top p{text-align:right}.footer-nav{gap:8px 28px}
+    }
+    @media(min-width:1000px){
+      body{padding-bottom:0}.site-header{position:sticky;top:0;background:#0b192bed;backdrop-filter:blur(18px)}.header-row{min-height:96px}.mobile-nav{display:none}
+      .desktop-nav{display:flex;align-items:center;gap:30px;margin-left:auto;margin-right:36px}.desktop-nav a{display:flex;align-items:center;min-height:48px;text-decoration:none;font-size:.875rem;color:var(--muted)}.desktop-nav a:hover{color:var(--sand)}
+      .header-cta{display:inline-flex;min-height:48px;font-size:.8rem;padding:12px 18px}.mobile-dock{display:none}
+      .hero-grid{grid-template-columns:1.02fr 1fr;gap:72px}.hero{padding-top:24px;padding-bottom:68px}.hero-summary{max-width:480px}.hero-actions{gap:12px}.hero-actions .button{font-size:.875rem;padding-inline:20px}
+      .commerce-visual{padding-top:30px}.release-note{width:91%;margin-left:auto}.visual-top{margin-left:4px}.panel-toolbar{padding:20px 26px}.panel-heading{padding:30px 30px 0}.journey-caption{padding:0 30px 28px}
+      .service-card{padding:34px}.service-card h3{font-size:1.5rem}.service-top{margin-bottom:40px}
+      .coverage-grid{grid-template-columns:.95fr 1fr;gap:94px;align-items:center}.chart-card{padding:34px}.chart-switch button{font-size:.875rem}
+      .process-list{grid-template-columns:repeat(4,minmax(0,1fr));gap:30px}.process-graphic{padding:28px 34px}.process-foot{text-align:right}
+      .collab{grid-template-columns:1.1fr 1fr;gap:90px;padding:60px}.collab h2{font-size:3.4rem}.collab-points{padding-top:10px}
+      .faq-layout{grid-template-columns:.7fr 1fr;gap:90px}.contact-card{padding:66px}.contact-actions{margin-block:32px 22px}
+    }
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.js .reveal.is-pending{opacity:1;transform:none}.js .is-pending .flow-step{opacity:1;transform:none}.js .is-pending .process-stage{opacity:1}.js .is-pending .bar-fill{transform:scaleX(var(--value))}.button:hover,.service-card:hover{transform:none}}
+  </style>
+  <script>document.documentElement.classList.add('js');</script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.9/dist/cdn.min.js"></script>
+</head>
+<body>
+  <svg width="0" height="0" aria-hidden="true" style="position:absolute;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+      <symbol id="i-up-right" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></symbol>
+      <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+      <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3 4 6v6c0 4 5 8 8 9 3-1 8-5 8-9V6l-8-3Z"/><path d="m8 12 3 3 5-6"/></symbol>
+      <symbol id="i-code" viewBox="0 0 24 24"><path d="m8 6-6 6 6 6m8-12 6 6-6 6m-3-15-2 18"/></symbol>
+      <symbol id="i-cycle" viewBox="0 0 24 24"><path d="M20 7a9 9 0 0 0-15-2L2 8m0-5v5h5m-3 9a9 9 0 0 0 15 2l3-3m0 5v-5h-5"/></symbol>
+      <symbol id="i-bag" viewBox="0 0 24 24"><path d="M5 7h14l2 14H3L5 7Zm3 0V5a4 4 0 0 1 8 0v2"/></symbol>
+      <symbol id="i-chat" viewBox="0 0 24 24"><path d="M21 11.5a9 9 0 0 1-13.3 8L3 21l1.5-4.7A9 9 0 1 1 21 11.5Z"/><path d="M8 9h8m-8 5h5"/></symbol>
+      <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M7 3v4m10-4v4M3 11h18m-13 5h2m4 0h2"/></symbol>
+      <symbol id="i-phone" viewBox="0 0 24 24"><path d="m8 3 2 5-3 2a14 14 0 0 0 7 7l2-3 5 2v4c0 1-1 2-2 2A19 19 0 0 1 2 5c0-1 1-2 2-2h4Z"/></symbol>
+      <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 6 9 7 9-7"/></symbol>
+      <symbol id="i-linkedin" viewBox="0 0 24 24"><path d="M5 9v12M5 4v.1M10 21V9h5v2c2-4 7-3 7 2v8m-12-7c0-5 7-5 7 0v7"/></symbol>
+      <symbol id="i-person" viewBox="0 0 24 24"><circle cx="12" cy="7" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2"/></symbol>
+      <symbol id="i-sliders" viewBox="0 0 24 24"><path d="M4 7h4m6 0h6M4 17h10m6 0h0"/><circle cx="11" cy="7" r="3"/><circle cx="17" cy="17" r="3"/></symbol>
+    </defs>
+  </svg>
+  <a class="skip" href="#main">Zum Inhalt springen</a>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="brand" href="https://bayramdoekmeci.de/" aria-label="Bayram Dökmeci – Startseite">
+        <svg class="brand-mark" width="38" height="42" viewBox="0 0 42 44" aria-hidden="true"><path d="M7 5v33h12a10 10 0 0 0 0-20H7M35 5v33H23a10 10 0 0 1 0-20h12" fill="none" stroke="currentColor" stroke-width="2.8"/></svg>
+        <span class="brand-name">Bayram Dökmeci<small>Digital. Direkt. Durchdacht.</small></span>
+      </a>
+      <nav class="desktop-nav" aria-label="Hauptnavigation"><a href="#leistungen">Leistungen</a><a href="#ablauf">Zusammenarbeit</a><a href="#faq">FAQ</a></nav>
+      <a class="button button-outline header-cta" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Projekt besprechen <svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-up-right"/></svg></a>
+      <details class="mobile-nav" x-data @keydown.escape.prevent="$el.removeAttribute('open'); $el.querySelector('summary').focus()" @click.outside="$el.removeAttribute('open')">
+        <summary aria-label="Navigationsmenü">Menü <svg class="icon" width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14M5 16h14"/></svg></summary>
+        <nav aria-label="Mobile Navigation" @click="if ($event.target.closest('a')) $el.closest('details').removeAttribute('open')"><a href="#leistungen">Leistungen</a><a href="#prueftiefe">QA im Detail</a><a href="#ablauf">Zusammenarbeit</a><a href="#faq">Häufige Fragen</a><a href="#kontakt">Kontakt aufnehmen ↗</a></nav>
+      </details>
+    </div>
+  </header>
+  <main id="main">
+    <div class="wrap"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="https://bayramdoekmeci.de/">Startseite</a><span aria-hidden="true">/</span><span aria-current="page">Shopware & Shopify</span></nav></div>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <h1 id="hero-title"><span class="eyebrow">Shopware Wartung & QA</span>Ihr Shop.<br>In guten<br><em>Händen.</em></h1>
+          <div class="hero-summary"><strong>Kurz gesagt</strong><p>Bayram Dökmeci von MeinB2B übernimmt Shopware-Wartung, QA-Tests und Shopify-Betreuung für Unternehmen und Agenturen in DACH. Für verlässliche Kaufprozesse und planbare Updates. Persönlich, remote und auf Deutsch.</p></div>
+          <div class="hero-actions"><a class="button button-primary" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Kennenlernen buchen <svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-up-right"/></svg></a><a class="button button-outline" href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-chat"/></svg>Per WhatsApp</a></div>
+          <p class="hero-note"><svg class="icon" width="18" height="18" aria-hidden="true"><use href="#i-check"/></svg>Direkter Ansprechpartner. Klare Absprachen.</p>
+        </div>
+        <div class="commerce-visual reveal" x-data="revealSection" x-init="observe($el)">
+          <div class="visual-top"><span>Commerce care / 01</span><span class="tag">Der Prüfablauf</span></div>
+          <figure class="shop-panel">
+            <div class="panel-toolbar"><span class="window-dots" aria-hidden="true"><i></i><i></i><i></i></span><span>shop / quality-assurance</span><svg class="icon" width="18" height="18" aria-hidden="true"><use href="#i-shield"/></svg></div>
+            <div class="panel-heading"><p>Jeder Schritt zählt</p><h2>Vom ersten Klick.<br>Bis zur Bestätigung.</h2></div>
+            <svg class="journey-svg" width="480" height="322" viewBox="0 0 480 322" role="img" aria-labelledby="journey-title journey-desc">
+              <title id="journey-title">Vier Stationen eines Shop-Tests</title><desc id="journey-desc">Der Test folgt dem Kaufprozess: Produkt und Varianten auswählen, Warenkorb prüfen, die Zahlung im Testmodus durchführen und die Bestätigung kontrollieren. Die Grafik zeigt einen Prüfablauf, keine Live-Messwerte.</desc>
+              <path d="M221 85h40M346 126v46H135v25" fill="none" stroke="#819ab5" stroke-width="1.5" class="flow-line"/>
+              <path d="m253 80 8 5-8 5m-123 98 5 8 5-8" fill="none" stroke="#a9d5ff" stroke-width="1.5"/>
+              <path d="M221 242h40m-8-5 8 5-8 5" fill="none" stroke="#819ab5" stroke-width="1.5"/>
+              <g class="flow-step" style="--step:120ms"><rect x="30" y="36" width="192" height="98" rx="12" fill="#1b3856" stroke="#53728f"/><text x="48" y="64" class="flow-label">01 / ENTDECKEN</text><text x="48" y="96" class="flow-text">Produkt & Varianten</text><circle cx="204" cy="37" r="12" fill="#a9d5ff"/><path d="m199 37 3 3 6-7" fill="none" stroke="#10253c" stroke-width="1.7"/></g>
+              <g class="flow-step" style="--step:260ms"><rect x="260" y="36" width="190" height="98" rx="12" fill="#1b3856" stroke="#53728f"/><text x="278" y="64" class="flow-label">02 / AUSWÄHLEN</text><text x="278" y="96" class="flow-text">Warenkorb</text><circle cx="432" cy="37" r="12" fill="#a9d5ff"/><path d="m427 37 3 3 6-7" fill="none" stroke="#10253c" stroke-width="1.7"/></g>
+              <g class="flow-step" style="--step:400ms"><rect x="30" y="197" width="192" height="98" rx="12" fill="#1b3856" stroke="#53728f"/><text x="48" y="225" class="flow-label">03 / BEZAHLEN</text><text x="48" y="257" class="flow-text">Checkout & Zahlung</text><circle cx="204" cy="198" r="12" fill="#a9d5ff"/><path d="m199 198 3 3 6-7" fill="none" stroke="#10253c" stroke-width="1.7"/></g>
+              <g class="flow-step" style="--step:540ms"><rect x="260" y="197" width="190" height="98" rx="12" fill="#dfc7a4"/><text x="278" y="225" font-size="13" fill="#35485a">04 / ABSCHLIESSEN</text><text x="278" y="257" font-size="17" font-weight="550" fill="#15243a">Bestätigung</text><circle cx="432" cy="198" r="12" fill="#dfc7a4" stroke="#11253c" stroke-width="3"/><path d="m427 198 3 3 6-7" fill="none" stroke="#10253c" stroke-width="1.7"/></g>
+            </svg>
+            <figcaption class="journey-caption"><strong>1. Produkt → 2. Warenkorb → 3. Zahlung → 4. Bestätigung.</strong> Geprüft werden Varianten, Preise, Testzahlungen und Bestellmails. Schematischer Ablauf, kein Live-Status.</figcaption>
+          </figure>
+          <div class="release-note"><span class="release-icon"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-check"/></svg></span><div><strong>Erst prüfen. Dann live gehen.</strong><p>Mit Testprotokoll und abgestimmter Freigabe.</p></div><svg class="icon release-arrow" width="22" height="22" aria-hidden="true"><use href="#i-up-right"/></svg></div>
+        </div>
+      </div>
+    </section>
+    <div class="trust-strip"><div class="wrap trust-grid"><div class="trust-item"><strong>Shopware</strong><span>Wartung & Weiterentwicklung</span></div><div class="trust-item"><strong>Shopify</strong><span>Theme-, App- & Shop-QA</span></div><div class="trust-item"><strong>Direkt auf Deutsch</strong><span>Remote aus Antalya</span></div><div class="trust-item"><strong>Für B2B & Agenturen</strong><span>Deutschland · Österreich · Schweiz</span></div></div></div>
+    <section class="section" id="leistungen" aria-labelledby="services-title">
+      <div class="wrap">
+        <div class="section-head reveal" x-data="revealSection" x-init="observe($el)"><div><span class="eyebrow">Weniger Reibung. Mehr Freiraum.</span><h2 id="services-title">Sie entwickeln Ihr Business.<br><span class="sand">Ich kümmere mich um den Shop.</span></h2></div><p>Ein Update, ein neues Plugin, ein angepasster Checkout: Kleine Änderungen verdienen einen klaren Blick auf das Ganze.</p></div>
+        <div class="services-grid">
+          <article class="service-card reveal" x-data="revealSection" x-init="observe($el)"><div class="service-top"><svg class="icon" width="32" height="32" aria-hidden="true"><use href="#i-code"/></svg><span class="service-number">01 / QUALITY ASSURANCE</span></div><h3>Testen mit System.</h3><p>Manuelle und automatisierte Tests für die Wege, auf denen Ihre Kunden tatsächlich kaufen.</p><ul class="check-list"><li>Checkout & Zahlungsarten</li><li>Mobile & Browser-Checks</li><li>Regressionstests nach Änderungen</li><li>Fehlerberichte mit Reproduktionsschritten</li></ul></article>
+          <article class="service-card featured reveal" style="--delay:100ms" x-data="revealSection" x-init="observe($el)"><div class="service-top"><svg class="icon" width="32" height="32" aria-hidden="true"><use href="#i-cycle"/></svg><span class="service-number">02 / SHOPWARE CARE</span></div><h3>Wartung mit Weitblick.</h3><p>Abgestimmte Wartung für selbst gehostete Shopware-Shops. Mit Vorbereitung und sauberer Dokumentation.</p><ul class="check-list"><li>Core-, Plugin- & Theme-Updates</li><li>Backups & Wiederherstellungsprüfung</li><li>Staging vor Live-Freigabe</li><li>Sicherheits- & Performance-Checks</li></ul></article>
+          <article class="service-card reveal" style="--delay:200ms" x-data="revealSection" x-init="observe($el)"><div class="service-top"><svg class="icon" width="32" height="32" aria-hidden="true"><use href="#i-bag"/></svg><span class="service-number">03 / SHOPIFY CARE</span></div><h3>Details, die funktionieren.</h3><p>Betreuung von Themes, Apps und Kaufprozessen – abgestimmt auf die Möglichkeiten Ihres Shopify-Plans.</p><ul class="check-list"><li>Theme-Updates & Vorschau-Tests</li><li>App-Kompatibilität im Shop</li><li>Produktdaten & Bestellabläufe</li><li>Theme-Kopien & Datenexporte</li></ul></article>
+        </div>
+        <p class="platform-note"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-sliders"/></svg><span>Der Umfang richtet sich nach Hosting-Modell, Zugängen und Shop-Setup. Sie benötigen auch individuelle Schnittstellen? Mehr zur <a href="https://bayramdoekmeci.de/full-stack-entwickler/">Full-Stack-Entwicklung</a>.</span></p>
+      </div>
+    </section>
+    <section class="section coverage-section" id="prueftiefe" aria-labelledby="coverage-title">
+      <div class="wrap coverage-grid">
+        <div class="coverage-copy reveal" x-data="revealSection" x-init="observe($el)"><span class="eyebrow">Qualität wird konkret</span><h2 id="coverage-title">Die richtigen Tests.<br><span class="sky">An den richtigen Stellen.</span></h2><p>Eine Theme-Anpassung braucht andere Schwerpunkte als ein neuer Zahlungsanbieter. Deshalb beginnt QA mit dem Risiko Ihrer Änderung – und einem nachvollziehbaren Testplan.</p><div class="coverage-legend"><div class="legend-item"><span class="legend-dot" aria-hidden="true"></span><div><strong>Automatisieren, was sich wiederholt.</strong><p>Wiederkehrende Kaufabläufe als reproduzierbare Regressionstests.</p></div></div><div class="legend-item"><span class="legend-dot" aria-hidden="true"></span><div><strong>Manuell prüfen, wo Details zählen.</strong><p>Bedienbarkeit, Darstellung und ungewöhnliche Kombinationen auf echten Nutzerwegen.</p></div></div></div></div>
+        <figure class="chart-card reveal" x-data="testPlan" x-init="observe($el)">
+          <div class="chart-top"><strong>Illustrativer Testplan</strong><span>12 Testfälle</span></div>
+          <div class="chart-switch" role="group" aria-label="Beispiel für einen Testplan wählen" hidden :hidden="false"><button type="button" aria-pressed="true" :aria-pressed="mode === 'theme'" @click="mode = 'theme'" aria-controls="test-chart">Theme-Update</button><button type="button" aria-pressed="false" :aria-pressed="mode === 'checkout'" @click="mode = 'checkout'" aria-controls="test-chart">Checkout-Änderung</button></div>
+          <div id="test-chart" role="group" aria-labelledby="chart-title" aria-describedby="chart-caption">
+            <h3 class="chart-title" id="chart-title" x-text="mode === 'theme' ? 'Fokus: Theme-Update' : 'Fokus: Checkout-Änderung'">Fokus: Theme-Update</h3><p class="chart-subtitle">Anzahl geplanter Testfälle je Bereich</p>
+            <div class="chart-bars">
+              <div class="bar-row"><div class="bar-label"><span>Checkout & Zahlung</span><strong x-text="values[0] + ' Tests'">4 Tests</strong></div><div class="bar-track" aria-hidden="true"><div class="bar-fill" style="--value:.666667" :style="'--value:' + values[0] / 6"></div></div></div>
+              <div class="bar-row"><div class="bar-label"><span>Mobile Darstellung</span><strong x-text="values[1] + ' Tests'">3 Tests</strong></div><div class="bar-track" aria-hidden="true"><div class="bar-fill" style="--value:.5" :style="'--value:' + values[1] / 6"></div></div></div>
+              <div class="bar-row"><div class="bar-label"><span>Produkt & Varianten</span><strong x-text="values[2] + ' Tests'">3 Tests</strong></div><div class="bar-track" aria-hidden="true"><div class="bar-fill" style="--value:.5" :style="'--value:' + values[2] / 6"></div></div></div>
+              <div class="bar-row"><div class="bar-label"><span>Apps & Schnittstellen</span><strong x-text="values[3] + ' Tests'">2 Tests</strong></div><div class="bar-track" aria-hidden="true"><div class="bar-fill" style="--value:.333333" :style="'--value:' + values[3] / 6"></div></div></div>
+            </div>
+          </div>
+          <figcaption class="chart-caption" id="chart-caption">Frei gewählte Beispieldaten zur Erklärung der Testplanung. Keine Projektergebnisse, keine Leistungszusage. Der tatsächliche Umfang wird individuell vereinbart.</figcaption>
+          <p class="small" style="margin-top:10px" role="status" aria-live="polite" aria-atomic="true" x-text="mode === 'theme' ? 'Theme-Update: 4 Checkout-, 3 Mobile-, 3 Produkt- und 2 Schnittstellentests.' : 'Checkout-Änderung: 6 Checkout-, 2 Mobile-, 1 Produkt- und 3 Schnittstellentests.'">Theme-Update: 4 Checkout-, 3 Mobile-, 3 Produkt- und 2 Schnittstellentests.</p>
+          <details class="data-details"><summary>Beide Testpläne als Tabelle</summary><table class="data-table"><caption>Beispieldaten: jeweils 12 Testfälle, Skala der Balken von 0 bis 6.</caption><thead><tr><th scope="col">Bereich</th><th scope="col">Theme</th><th scope="col">Checkout</th></tr></thead><tbody><tr><th scope="row">Checkout & Zahlung</th><td>4</td><td>6</td></tr><tr><th scope="row">Mobile Darstellung</th><td>3</td><td>2</td></tr><tr><th scope="row">Produkt & Varianten</th><td>3</td><td>1</td></tr><tr><th scope="row">Apps & Schnittstellen</th><td>2</td><td>3</td></tr></tbody></table></details>
+        </figure>
+      </div>
+    </section>
+    <section class="section" id="ablauf" aria-labelledby="process-title">
+      <div class="wrap">
+        <div class="section-head reveal" x-data="revealSection" x-init="observe($el)"><div class="process-heading"><span class="eyebrow">Ein klarer Weg zum nächsten Release</span><h2 id="process-title">Gute Zusammenarbeit.<br><span class="sand">Kein Blindflug.</span></h2></div><p>Sie wissen, was geprüft wird, was offen ist und wann eine Entscheidung ansteht. Vom ersten Gespräch bis zum laufenden Betrieb.</p></div>
+        <figure class="process-graphic reveal" x-data="revealSection" x-init="observe($el)">
+          <svg class="process-desktop" width="1120" height="180" viewBox="0 0 1120 180" role="img" aria-labelledby="process-svg-title process-svg-desc"><title id="process-svg-title">Vier Schritte der Zusammenarbeit</title><desc id="process-svg-desc">Bestandsaufnahme, Absicherung in einer Testumgebung, Prüfung und Freigabe, anschließend laufende Betreuung. Die ausformulierten Schritte folgen unter der Grafik.</desc><path d="M102 72h902" fill="none" stroke="#6382a2" stroke-width="1.5" stroke-dasharray="5 8"/><g class="process-stage" style="--step:100ms"><circle cx="110" cy="72" r="33" fill="#1c3a58" stroke="#7c9dbf"/><text x="110" y="78" text-anchor="middle" fill="#a9d5ff" font-size="18">01</text><text x="110" y="142" text-anchor="middle" fill="#f4f5f3" font-size="19">Verstehen</text></g><g class="process-stage" style="--step:250ms"><circle cx="410" cy="72" r="33" fill="#1c3a58" stroke="#7c9dbf"/><text x="410" y="78" text-anchor="middle" fill="#a9d5ff" font-size="18">02</text><text x="410" y="142" text-anchor="middle" fill="#f4f5f3" font-size="19">Absichern</text></g><g class="process-stage" style="--step:400ms"><circle cx="710" cy="72" r="33" fill="#1c3a58" stroke="#7c9dbf"/><text x="710" y="78" text-anchor="middle" fill="#a9d5ff" font-size="18">03</text><text x="710" y="142" text-anchor="middle" fill="#f4f5f3" font-size="19">Prüfen & freigeben</text></g><g class="process-stage" style="--step:550ms"><circle cx="1010" cy="72" r="33" fill="#dfc7a4"/><path d="m997 71 9 9 17-19" fill="none" stroke="#15243a" stroke-width="2.5"/><text x="1010" y="142" text-anchor="middle" fill="#dfc7a4" font-size="19">Weiterbetreuen</text></g></svg>
+          <svg class="process-mobile" width="340" height="344" viewBox="0 0 340 344" role="img" aria-labelledby="process-mobile-title process-mobile-desc"><title id="process-mobile-title">Vier Schritte der Zusammenarbeit</title><desc id="process-mobile-desc">Erstens verstehen, zweitens absichern, drittens prüfen und freigeben, viertens weiterbetreuen. Erläuterungen folgen direkt unter der Grafik.</desc><path d="M38 42v255" stroke="#6382a2" stroke-width="1.5" stroke-dasharray="4 6"/><g class="process-stage" style="--step:100ms"><circle cx="38" cy="42" r="23" fill="#1c3a58" stroke="#7c9dbf"/><text x="38" y="48" fill="#a9d5ff" font-size="16" text-anchor="middle">01</text><text x="86" y="48" fill="#f4f5f3" font-size="19">Verstehen</text></g><g class="process-stage" style="--step:250ms"><circle cx="38" cy="128" r="23" fill="#1c3a58" stroke="#7c9dbf"/><text x="38" y="134" fill="#a9d5ff" font-size="16" text-anchor="middle">02</text><text x="86" y="134" fill="#f4f5f3" font-size="19">Absichern</text></g><g class="process-stage" style="--step:400ms"><circle cx="38" cy="214" r="23" fill="#1c3a58" stroke="#7c9dbf"/><text x="38" y="220" fill="#a9d5ff" font-size="16" text-anchor="middle">03</text><text x="86" y="220" fill="#f4f5f3" font-size="19">Prüfen & freigeben</text></g><g class="process-stage" style="--step:550ms"><circle cx="38" cy="300" r="23" fill="#dfc7a4"/><path d="m28 300 7 7 13-15" fill="none" stroke="#15243a" stroke-width="2"/><text x="86" y="306" fill="#dfc7a4" font-size="19">Weiterbetreuen</text></g></svg>
+          <figcaption class="small" style="text-align:center;margin-top:8px;color:var(--muted)">Ein gemeinsamer Ablauf. Klare Freigaben in jedem Projekt.</figcaption>
+        </figure>
+        <ol class="process-list"><li><h3>Setup verstehen.</h3><p>System, Erweiterungen, kritische Kaufprozesse und Zuständigkeiten erfassen. Gemeinsam legen wir Prioritäten und Testumfang fest.</p></li><li><h3>Änderung absichern.</h3><p>Backups und Rückweg vorbereiten. Je nach Plattform arbeiten wir mit Staging, Theme-Vorschau und geeigneten Testdaten.</p></li><li><h3>Prüfen & entscheiden.</h3><p>Tests durchführen, Befunde priorisieren und Korrekturen nachtesten. Live geht die Änderung nach Ihrer abgestimmten Freigabe.</p></li><li><h3>Dranbleiben.</h3><p>Wartungstermine, Folgetests und nächste Schritte dokumentieren. Ein regelmäßiger Bericht hält Ihr Team auf dem gleichen Stand.</p></li></ol>
+        <p class="process-foot">Rhythmus, Reaktionszeiten und Freigaben werden im Leistungsumfang vereinbart.</p>
+      </div>
+    </section>
+    <section aria-labelledby="collab-title"><div class="wrap"><div class="collab reveal" x-data="revealSection" x-init="observe($el)"><div><span class="eyebrow">Persönlich statt kompliziert</span><h2 id="collab-title">Ein direkter Draht.<br>Ein klarer Plan.</h2><p>Sie brauchen Entlastung, aber keine zusätzliche Vollzeitstelle? Ich ergänze Ihr Team dort, wo Testen und Wartung im Projektalltag zu kurz kommen.</p><div class="personal-signature"><div class="initials" aria-hidden="true">bd.</div><div><strong>Bayram Dökmeci</strong><span>MeinB2B · Remote aus Antalya · Fließend Deutsch</span></div></div></div><ul class="collab-points"><li><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-person"/></svg><div><h3>Direkt mit dem Umsetzer.</h3><p>Abstimmungen und technische Rückfragen laufen persönlich über mich. Ohne zusätzliche Vermittlungsebene.</p></div></li><li><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-calendar"/></svg><div><h3>Monatlich planbar.</h3><p>Ein individueller Festpreis für den vereinbarten Umfang. Zusatzaufwand wird vorab abgestimmt.</p></div></li><li><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-shield"/></svg><div><h3>Passend zu Ihrem Team.</h3><p>Projektbezogen oder laufend, auch als White-Label-Unterstützung für Agenturen. Zuständigkeiten und SLAs halten wir schriftlich fest.</p></div></li></ul></div></div></section>
+    <section class="section" aria-labelledby="examples-title"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Aus dem Projektalltag gedacht</span><h2 id="examples-title">So kann Entlastung<br><span class="sky">konkret aussehen.</span></h2></div><p>Typische Beispiele zur Veranschaulichung. Keine Kundenreferenzen und keine gemessenen Ergebnisse.</p></div><div class="examples-grid"><article class="example"><span class="example-label">Typisches Beispiel / Shopware</span><h3>Das Plugin-Update<br>vor der nächsten Kampagne.</h3><dl><dt>Die Situation</dt><dd>Ein Shopware-Update steht an. Gleichzeitig läuft eine Rabattaktion mit mehreren Zahlungsarten.</dd><dt>Das Vorgehen</dt><dd>Kompatibilität prüfen, Backup vorbereiten, auf Staging aktualisieren und Gutscheine, Preise sowie Testbestellungen kontrollieren.</dd><dt>Das angestrebte Ergebnis</dt><dd>Eine dokumentierte Entscheidungsgrundlage für die Freigabe – inklusive offener Punkte und vorbereitetem Rückweg.</dd></dl></article><article class="example"><span class="example-label">Typisches Beispiel / Shopify</span><h3>Ein neues Theme.<br>Und ein Warenkorb mit Eigenheiten.</h3><dl><dt>Die Situation</dt><dd>Eine Agentur überarbeitet einen Shopify-Shop. Eine Bundle-App verändert den Warenkorb und die Produktdarstellung.</dd><dt>Das Vorgehen</dt><dd>Die Theme-Vorschau auf kleinen Displays testen, Varianten und Bundle-Logik prüfen, Befunde dokumentieren und Korrekturen nachtesten.</dd><dt>Das angestrebte Ergebnis</dt><dd>Nachvollziehbare Tests für das Agenturteam und eine abgestimmte Freigabe des neuen Themes.</dd></dl></article></div></div></section>
+    <section class="section faq-section" id="faq" aria-labelledby="faq-title"><div class="wrap faq-layout"><div class="faq-heading"><span class="eyebrow">Gut zu wissen</span><h2 id="faq-title">Klare Fragen.<br><span class="sand">Klare Antworten.</span></h2><p>Die wichtigsten Details, bevor wir über Ihren Shop sprechen.</p><a class="text-link sky" href="mailto:kontakt@bayramdoekmeci.de">Direkt per E-Mail fragen <svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-up-right"/></svg></a></div><div class="faq-list">
+      <details><summary>Was umfasst die Shopware-Wartung?</summary><p>Je nach vereinbartem Umfang betreue ich Core-, Plugin- und Theme-Updates, Backups, Wiederherstellungsprüfungen sowie Sicherheits- und Performance-Checks. Änderungen werden möglichst in einer Testumgebung geprüft und mit einem Testprotokoll dokumentiert. Hosting-Modell, Zugänge und Freigaben klären wir vor dem Start.</p></details>
+      <details><summary>Was ist bei Shopify anders als bei Shopware?</summary><p>Bei Shopify liegt der Schwerpunkt auf Themes, Apps, Produktdaten und den verfügbaren Kaufprozessen. Anders als bei selbst gehostetem Shopware umfasst meine Betreuung dort keine Server- oder Core-Updates. Theme-Kopien und Datenexporte werden nach Bedarf vereinbart; sie ersetzen kein vollständiges Backup aller Shop- und App-Daten.</p></details>
+      <details><summary>Arbeiten Sie auch für Agenturen im White Label?</summary><p>Ja. Ich unterstütze Agenturen als externer QA- und Wartungspartner, auf Wunsch im White Label. Kommunikation, Dokumentation, Zugriffsrechte und Zuständigkeiten stimmen wir auf Ihr Team und das jeweilige Kundenprojekt ab.</p></details>
+      <details><summary>Wie viel kostet die laufende Betreuung?</summary><p>Der monatliche Festpreis richtet sich nach Shop-System, Erweiterungen, Testumfang und vereinbarten Reaktionszeiten. Nach einer Bestandsaufnahme erhalten Sie ein individuelles Angebot mit klaren Leistungen und Grenzen. Zusatzarbeiten werden vor der Umsetzung separat abgestimmt.</p></details>
+      <details><summary>Gibt es feste Reaktionszeiten oder eine 24/7-Betreuung?</summary><p>Betreuungszeiten, Prioritäten und Reaktionszeiten werden individuell im B2B-Service-Level-Agreement festgehalten. Eine 24/7-Bereitschaft ist nicht automatisch enthalten. Auch Wartungsfenster und der Ablauf bei kritischen Fehlern werden vorab vereinbart.</p></details>
+      <details><summary>Wie startet die Zusammenarbeit?</summary><p>Im ersten Gespräch besprechen wir Ihren Shop, aktuelle Herausforderungen und gewünschte Entlastung. Danach folgen Bestandsaufnahme, Leistungsumfang und die Abstimmung der benötigten Zugänge. Die Zusammenarbeit erfolgt remote auf Deutsch und richtet sich ausschließlich an Geschäftskunden in Deutschland, Österreich und der Schweiz.</p></details>
+    </div></div></section>
+    <section class="section contact-section" id="kontakt" aria-labelledby="contact-title"><div class="wrap"><div class="contact-card reveal" x-data="revealSection" x-init="observe($el)"><div class="contact-content"><span class="eyebrow">Ihr nächster Schritt</span><h2 id="contact-title">Mehr Ruhe im Betrieb.<br><span class="sand">Mehr Raum für Ihr Business.</span></h2><p>Erzählen Sie mir, wo Ihr Shop steht. Gemeinsam klären wir, welche Tests und welche Betreuung Ihnen wirklich weiterhelfen.</p><div class="contact-actions"><a class="button button-primary" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-calendar"/></svg>Kennenlernen buchen <svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-up-right"/></svg></a><a class="button button-outline" href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-chat"/></svg>WhatsApp schreiben</a></div><div class="direct-contact"><a href="mailto:kontakt@bayramdoekmeci.de"><svg class="icon" width="18" height="18" aria-hidden="true"><use href="#i-mail"/></svg>kontakt@bayramdoekmeci.de</a><a href="tel:+905078827795"><svg class="icon" width="18" height="18" aria-hidden="true"><use href="#i-phone"/></svg>+90 507 882 7795</a></div></div></div></div></section>
+  </main>
+  <footer class="site-footer"><div class="wrap"><div class="footer-top"><a class="brand" href="https://bayramdoekmeci.de/"><svg class="brand-mark" width="38" height="42" viewBox="0 0 42 44" aria-hidden="true"><path d="M7 5v33h12a10 10 0 0 0 0-20H7M35 5v33H23a10 10 0 0 1 0-20h12" fill="none" stroke="currentColor" stroke-width="2.8"/></svg><span class="brand-name">Bayram Dökmeci<small>Digital. Direkt. Durchdacht.</small></span></a><p>MeinB2B · Konyaaltı Blv., 07070 Antalya, Türkiye<br>Für Geschäftskunden und Agenturen in DACH.</p></div><nav class="footer-nav" aria-label="Footer-Navigation"><a href="https://bayramdoekmeci.de/">Startseite</a><a href="https://bayramdoekmeci.de/impressum/">Impressum</a><a href="https://bayramdoekmeci.de/datenschutz/">Datenschutz</a><a href="https://www.linkedin.com/in/bayramdoekmeci/" target="_blank" rel="noopener noreferrer"><svg class="icon" width="17" height="17" aria-hidden="true"><use href="#i-linkedin"/></svg>LinkedIn</a><a href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer"><svg class="icon" width="17" height="17" aria-hidden="true"><use href="#i-calendar"/></svg>Termin buchen</a><a href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer"><svg class="icon" width="17" height="17" aria-hidden="true"><use href="#i-phone"/></svg>Tel./WhatsApp</a></nav><div class="footer-bottom"><span>© 2026 Bayram Dökmeci.</span><span>Technische Grundlagen: <a href="https://docs.shopware.com/de/shopware-6-de/update-guides/shopware-aktualisieren-updaten" target="_blank" rel="noopener noreferrer">Shopware-Updates</a> · <a href="https://help.shopify.com/en/manual/shopify-admin/duplicate-store" target="_blank" rel="noopener noreferrer">Shopify-Datensicherung</a></span></div></div></footer>
+  <nav class="mobile-dock" aria-label="Schneller Kontakt"><a class="button button-primary" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-calendar"/></svg>Termin buchen</a><a class="button button-outline" href="https://wa.me/905078827795" target="_blank" rel="noopener noreferrer"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-chat"/></svg>WhatsApp</a></nav>
+  <script>
+    // Content remains visible if Alpine or the CDN is unavailable.
+    document.addEventListener('alpine:init', () => {
+      const observerMethods = () => ({
+        observer: null,
+        motionQuery: null,
+        motionListener: null,
+        observe(element) {
+          this.motionQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+          if (this.motionQuery.matches || !('IntersectionObserver' in window)) return;
+          const rect = element.getBoundingClientRect();
+          if (rect.top < window.innerHeight && rect.bottom > 0) return;
+          this.observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                entry.target.classList.remove('is-pending');
+                this.observer.unobserve(entry.target);
+              }
+            });
+          }, { threshold: 0.08 });
+          element.classList.add('is-pending');
+          this.observer.observe(element);
+          this.motionListener = event => {
+            if (event.matches) {
+              element.classList.remove('is-pending');
+              this.observer.disconnect();
+            }
+          };
+          this.motionQuery.addEventListener('change', this.motionListener);
+        },
+        destroy() {
+          if (this.observer) this.observer.disconnect();
+          if (this.motionQuery && this.motionListener) this.motionQuery.removeEventListener('change', this.motionListener);
+        }
+      });
+      Alpine.data('revealSection', observerMethods);
+      Alpine.data('testPlan', () => ({
+        ...observerMethods(),
+        mode: 'theme',
+        get values() { return this.mode === 'theme' ? [4, 3, 3, 2] : [6, 2, 1, 3]; }
+      }));
+    });
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {"@type":"Person","@id":"https://bayramdoekmeci.de/#person","name":"Bayram Dökmeci","url":"https://bayramdoekmeci.de/","worksFor":{"@id":"https://bayramdoekmeci.de/#business"},"sameAs":["https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"],"knowsLanguage":["de"],"knowsAbout":["Shopware-Wartung","Shopify-Betreuung","Software-Qualitätssicherung"]},
+      {"@type":"LocalBusiness","@id":"https://bayramdoekmeci.de/#business","name":"MeinB2B – Bayram Dökmeci","url":"https://bayramdoekmeci.de/","founder":{"@id":"https://bayramdoekmeci.de/#person"},"telephone":"+905078827795","email":"kontakt@bayramdoekmeci.de","address":{"@type":"PostalAddress","streetAddress":"Konyaaltı Blv.","postalCode":"07070","addressLocality":"Antalya","addressCountry":"TR"},"areaServed":[{"@type":"Country","name":"Deutschland"},{"@type":"Country","name":"Österreich"},{"@type":"Country","name":"Schweiz"}],"contactPoint":{"@type":"ContactPoint","contactType":"Kundenbetreuung","telephone":"+905078827795","email":"kontakt@bayramdoekmeci.de","availableLanguage":["de"]}},
+      {"@type":"WebPage","@id":"https://bayramdoekmeci.de/shopware/#webpage","url":"https://bayramdoekmeci.de/shopware/","name":"Shopware Wartung & QA für B2B | Bayram Dökmeci","description":"Shopware-Wartung, QA-Tests und Shopify-Betreuung für Geschäftskunden und Agenturen in DACH.","inLanguage":"de-DE","about":{"@id":"https://bayramdoekmeci.de/shopware/#service"},"author":{"@id":"https://bayramdoekmeci.de/#person"},"breadcrumb":{"@id":"https://bayramdoekmeci.de/shopware/#breadcrumb"},"mainEntity":{"@id":"https://bayramdoekmeci.de/shopware/#service"}},
+      {"@type":"BreadcrumbList","@id":"https://bayramdoekmeci.de/shopware/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Startseite","item":"https://bayramdoekmeci.de/"},{"@type":"ListItem","position":2,"name":"Shopware & Shopify","item":"https://bayramdoekmeci.de/shopware/"}]},
+      {"@type":"Service","@id":"https://bayramdoekmeci.de/shopware/#service","name":"Shopware Wartung, QA-Testing und Shopify-Betreuung","serviceType":"E-Commerce-Wartung und Software-Qualitätssicherung","url":"https://bayramdoekmeci.de/shopware/","provider":{"@id":"https://bayramdoekmeci.de/#business"},"audience":{"@type":"BusinessAudience","audienceType":"Geschäftskunden und Agenturen"},"areaServed":[{"@type":"Country","name":"Deutschland"},{"@type":"Country","name":"Österreich"},{"@type":"Country","name":"Schweiz"}],"description":"Manuelle und automatisierte Tests, vereinbarte Shopware-Updates und Backups sowie Theme-, App- und Kaufprozess-Prüfungen für Shopify. Umfang, Betreuung und Reaktionszeiten werden individuell vereinbart."},
+      {"@type":"FAQPage","@id":"https://bayramdoekmeci.de/shopware/#faq","isPartOf":{"@id":"https://bayramdoekmeci.de/shopware/#webpage"},"inLanguage":"de-DE","mainEntity":[
+        {"@type":"Question","name":"Was umfasst die Shopware-Wartung?","acceptedAnswer":{"@type":"Answer","text":"Je nach vereinbartem Umfang betreue ich Core-, Plugin- und Theme-Updates, Backups, Wiederherstellungsprüfungen sowie Sicherheits- und Performance-Checks. Änderungen werden möglichst in einer Testumgebung geprüft und mit einem Testprotokoll dokumentiert. Hosting-Modell, Zugänge und Freigaben klären wir vor dem Start."}},
+        {"@type":"Question","name":"Was ist bei Shopify anders als bei Shopware?","acceptedAnswer":{"@type":"Answer","text":"Bei Shopify liegt der Schwerpunkt auf Themes, Apps, Produktdaten und den verfügbaren Kaufprozessen. Anders als bei selbst gehostetem Shopware umfasst meine Betreuung dort keine Server- oder Core-Updates. Theme-Kopien und Datenexporte werden nach Bedarf vereinbart; sie ersetzen kein vollständiges Backup aller Shop- und App-Daten."}},
+        {"@type":"Question","name":"Arbeiten Sie auch für Agenturen im White Label?","acceptedAnswer":{"@type":"Answer","text":"Ja. Ich unterstütze Agenturen als externer QA- und Wartungspartner, auf Wunsch im White Label. Kommunikation, Dokumentation, Zugriffsrechte und Zuständigkeiten stimmen wir auf Ihr Team und das jeweilige Kundenprojekt ab."}},
+        {"@type":"Question","name":"Wie viel kostet die laufende Betreuung?","acceptedAnswer":{"@type":"Answer","text":"Der monatliche Festpreis richtet sich nach Shop-System, Erweiterungen, Testumfang und vereinbarten Reaktionszeiten. Nach einer Bestandsaufnahme erhalten Sie ein individuelles Angebot mit klaren Leistungen und Grenzen. Zusatzarbeiten werden vor der Umsetzung separat abgestimmt."}},
+        {"@type":"Question","name":"Gibt es feste Reaktionszeiten oder eine 24/7-Betreuung?","acceptedAnswer":{"@type":"Answer","text":"Betreuungszeiten, Prioritäten und Reaktionszeiten werden individuell im B2B-Service-Level-Agreement festgehalten. Eine 24/7-Bereitschaft ist nicht automatisch enthalten. Auch Wartungsfenster und der Ablauf bei kritischen Fehlern werden vorab vereinbart."}},
+        {"@type":"Question","name":"Wie startet die Zusammenarbeit?","acceptedAnswer":{"@type":"Answer","text":"Im ersten Gespräch besprechen wir Ihren Shop, aktuelle Herausforderungen und gewünschte Entlastung. Danach folgen Bestandsaufnahme, Leistungsumfang und die Abstimmung der benötigten Zugänge. Die Zusammenarbeit erfolgt remote auf Deutsch und richtet sich ausschließlich an Geschäftskunden in Deutschland, Österreich und der Schweiz."}}
+      ]}
+    ]
+  }
+  </script>
+</body>
+</html>
