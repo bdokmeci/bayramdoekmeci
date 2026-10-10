@@ -6,7 +6,7 @@ Suchintent: Einen direkten technischen Partner für B2B-Websites und digitale Sy
 URL: https://bayramdoekmeci.de/
 Title: B2B-Webentwicklung & digitale Systeme | Bayram Dökmeci
 Description: B2B-Webentwicklung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt Websites, CMS und digitale Systeme. Direkt, remote, auf Deutsch.
-Design: Dunkles technisches Studio mit großer Systemtypografie, violetten Akzenten, nummerierten Leistungszeilen und interaktiven SVG-Systemskizzen.
+Design: Mobile-first Editorial-Layout mit warmem Off-White, violetten Akzenten, großer Sans-/Serif-Typografie, interaktiver Konzeptvorschau und dunklem Technikabschnitt. Styles und Interaktionen liegen lokal in assets/landing.css und assets/landing.js.
 HTML-Code: index.html
 
 WordPress-Landingpage
@@ -24,7 +24,7 @@ sitemap.xml-Eintrag
 llms.txt-Eintrag
 - [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
 
-Technische Prüfung
+Frühere technische Prüfung (vor dem Startseiten-Relaunch am 10.10.2026)
 - 12 Browserfälle in Headless-Chrome: beide Seiten bei 360, 720, 1024 und 1440 CSS-px sowie mit reduzierter Bewegung und ohne JavaScript.
 - 720 CSS-px bei doppeltem Gerätefaktor als äquivalente Prüfung für ein 200-%-Layout.
 - Kein horizontales Scrollen; Architektur-Tabs, Chart-Vergleich, mobile Navigation, Escape-Fokus und FAQ geprüft.
@@ -41,6 +41,16 @@ Vor Veröffentlichung prüfen
 - Wenn die alte Startseite bereits indexiert war, die neue, eigenständige Startseiten-Canonical in der Search Console prüfen.
 
 Annahmen: Die Startseite dient als B2B-Leistungsübersicht; die bestehende CMS-URL bleibt eine eigenständige Spezialseite. Alle Praxisbeispiele und Chart-Daten sind illustrativ, ohne Messwerte oder Kundenergebnisversprechen. Kein bestimmter Projektpreis, Zeitrahmen oder Verfügbarkeitsstatus wird zugesagt.
+
+STARTSEITEN-RELAUNCH (10.10.2026)
+- Bestehende Startseite überarbeitet; Unterseiten und Kontaktziele beibehalten.
+- Responsive Gestaltung ab kleinen Displays, mobile Kontaktleiste und Tastaturbedienung für Navigation und Vorschau-Tabs.
+- Drei illustrative Vorschauen: Website, Web-App und Automation. Keine erfundenen Kundenreferenzen oder Kennzahlen.
+- Dezente Scroll- und Schwebebewegungen; prefers-reduced-motion wird respektiert, Animationen lassen sich zusätzlich pausieren.
+- Keine externen Schriftarten oder JavaScript-Abhängigkeiten auf der Startseite. Ohne JavaScript bleiben Inhalte, FAQ, Navigation und Kontaktlinks nutzbar.
+- Geprüft: HTML-Struktur, eindeutige IDs, ein H1, lokale Linkziele, erfolgreiche HTTP-Antworten für Startseite und Assets, JavaScript-Syntax und JSON-LD-/FAQ-Konsistenz.
+- Die Startseite besteht die vorhandene Schema-Prüfung. Der Gesamtlauf meldet zwei bestehende Fehler für die leere videoproduktion/index.html (Canonical und JSON-LD fehlen).
+- Browserdarstellung und tatsächliche Interaktionen sind unbestätigt: Der verfügbare Vorschaubrowser konnte in dieser Sitzung nicht geöffnet werden.
 
 
 B2B-LEADGENERIERUNG / BUSINESS DEVELOPMENT (09.10.2026)

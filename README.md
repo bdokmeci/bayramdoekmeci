@@ -48,6 +48,16 @@ Egal ob es um eine neue Web-Infrastruktur, einen automatisierten Lead-Gen-Funnel
 
 > *"Maximale Performance und direkte Kommunikation – Remote aus der Türkei für die DACH-Region."*
 
+## Startseite lokal ansehen
+
+Die Startseite benötigt keinen Build-Schritt. Layout und Interaktionen liegen in `assets/landing.css` und `assets/landing.js`; die Unterseiten bleiben eigenständige HTML-Seiten.
+
+```sh
+python -m http.server 4173 --bind 127.0.0.1
+```
+
+Anschließend `http://127.0.0.1:4173` im Browser öffnen. Die Seite nutzt lokale Assets, native FAQ-Elemente und berücksichtigt reduzierte Bewegung.
+
 ## Strukturierte Daten prüfen
 
 Vor der Veröffentlichung alle Seiten lokal prüfen (Python 3.9 oder neuer, keine Zusatzpakete):

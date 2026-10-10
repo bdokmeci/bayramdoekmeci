@@ -69,6 +69,7 @@
   function setMotionState(value) {
     paused = value;
     root.classList.toggle('motion-paused', paused);
+    motionToggle.hidden = reducedMotion.matches;
     motionToggle.setAttribute('aria-pressed', String(paused));
     motionToggle.querySelector('span').textContent = paused ? 'Animationen aktivieren' : 'Animationen pausieren';
   }
