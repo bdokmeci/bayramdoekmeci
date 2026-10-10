@@ -47,3 +47,15 @@ Egal ob es um eine neue Web-Infrastruktur, einen automatisierten Lead-Gen-Funnel
 *   💬 **LinkedIn:** https://www.linkedin.com/in/bayramdoekmeci
 
 > *"Maximale Performance und direkte Kommunikation – Remote aus der Türkei für die DACH-Region."*
+
+## Strukturierte Daten prüfen
+
+Vor der Veröffentlichung alle Seiten lokal prüfen (Python 3.9 oder neuer, keine Zusatzpakete):
+
+```sh
+python scripts/validate_structured_data.py
+```
+
+Die Prüfung erkennt ungültiges JSON-LD, doppelte JSON-Schlüssel, fehlerhafte Breadcrumbs, fehlende Pflichtangaben für LocalBusiness sowie Abweichungen zwischen FAQ-Markup und Seitentext. Anbieter werden als `LocalBusiness` mit der im Impressum veröffentlichten Anschrift ausgezeichnet. Die Startseite hat keinen Breadcrumb; Unterseiten verwenden mindestens zwei Einträge.
+
+Nach dem Deployment die betroffenen URLs im [Google Rich Results Test](https://search.google.com/test/rich-results) erneut prüfen. Die lokale Prüfung ersetzt den Google-Test nicht und garantiert keine Darstellung als Rich Result. [FAQ-Rich-Results werden seit Mai 2026 nicht mehr angezeigt](https://developers.google.com/search/updates#may-2026); das vorhandene FAQ-Markup beschreibt weiterhin die sichtbaren Fragen und Antworten.
