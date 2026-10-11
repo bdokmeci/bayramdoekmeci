@@ -88,3 +88,21 @@ Einordnung
 - Referenzen: https://developers.google.com/search/docs/appearance/ai-features und https://schema.org/ProfessionalService
 
 Annahmen: Die vorbereitete Business-Development-URL bleibt bestehen; Ziel sind B2B-Unternehmen und Agenturen in DACH, alle Beispieldaten sind illustrativ und Preise sowie Zeitpläne werden individuell vereinbart.
+
+
+INTERNATIONAL SALES (11.10.2026)
+Haupt-Keyword: International Sales Director
+Suchintent: Einen externen Partner für Marktstrategie und Vertriebssteuerung im DACH-Geschäft beauftragen.
+URL: https://bayramdoekmeci.de/international-sales/
+HTML-Code: international-sales/index.html
+Title: International Sales Director für DACH | Bayram Dökmeci (54 Zeichen)
+Description: International Sales Director für B2B und Agenturen in DACH: Marktstrategie, LinkedIn und Vertriebssteuerung. Direkt mit Bayram Dökmeci. Termin buchen. (150 Zeichen)
+Design: Dunkles Mobile-first-Layout mit roter Akzentpalette, Inter und Space Grotesk. Beide Schriften samt OFL-Lizenzen in der HTML-Datei eingebettet. Keine externen Schriftanfragen.
+Funktionen: Native mobile Navigation und FAQ, feste mobile Kontaktleiste mit Safe-Area-Abstand, Alpine-Szenariowechsel, Scroll-Reveal, animierter Beispieltrichter und zwei erklärende SVG-Infografiken. Reduzierte Bewegung und zusätzlicher Pausenschalter.
+Technik: Eigenständige statische HTML-Datei mit Inline-CSS und Inline-JavaScript; einzige externe Laufzeitabhängigkeit Alpine.js 3.14.9. Keine Bilder, Formulare oder Tracker.
+SEO: Canonical, Open Graph, Twitter, Breadcrumb und JSON-LD mit Person, LocalBusiness, WebPage, BreadcrumbList, Service und FAQPage. LocalBusiness entspricht der vorhandenen Projektvalidierung. Sitemap und llms.txt ergänzt; eingehender Link aus Business Development.
+Validierung: Alle 13 Seiten bestehen scripts/validate_structured_data.py. Metadatenlängen, eindeutige IDs, SVG-Beschriftungen, lokale Links, externe rel-Attribute, genau eine H1 und wortgleiche FAQ-/Schema-Antworten geprüft. Inline-JavaScript und Alpine-Ausdrücke bestehen Syntaxchecks. Lokale HTTP-Auslieferung liefert 200 mit vollständigem HTML.
+Prüfgrenze: Der integrierte Vorschaubrowser war nicht verfügbar. Visuelles Rendering, reale mobile Interaktionen, 200-%-Zoom und das Laden des externen Alpine-Skripts sind nicht im Browser bestätigt.
+Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/international-sales/</loc></url>
+llms.txt-Eintrag: - [International Sales Director](https://bayramdoekmeci.de/international-sales/): Externe Unterstützung bei Go-to-Market-Strategie, Account-based Selling, LinkedIn, Pipeline Reviews und Vertriebssteuerung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+Annahmen: Die vorbereitete URL /international-sales/ wird genutzt; angeboten wird externe, individuell vereinbarte Vertriebsunterstützung für DACH, keine automatisch eingeschlossene disziplinarische Führungsrolle; alle Beispieldaten und Szenarien sind illustrativ.
