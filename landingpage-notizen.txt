@@ -106,3 +106,21 @@ Prüfgrenze: Der integrierte Vorschaubrowser war nicht verfügbar. Visuelles Ren
 Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/international-sales/</loc></url>
 llms.txt-Eintrag: - [International Sales Director](https://bayramdoekmeci.de/international-sales/): Externe Unterstützung bei Go-to-Market-Strategie, Account-based Selling, LinkedIn, Pipeline Reviews und Vertriebssteuerung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
 Annahmen: Die vorbereitete URL /international-sales/ wird genutzt; angeboten wird externe, individuell vereinbarte Vertriebsunterstützung für DACH, keine automatisch eingeschlossene disziplinarische Führungsrolle; alle Beispieldaten und Szenarien sind illustrativ.
+
+
+DEUTSCHSPRACHIGES BACK-OFFICE (13.10.2026)
+Haupt-Keyword: Deutschsprachiges Back-Office
+Suchintent: Einen direkten deutschsprachigen Partner für operativen Kundensupport und wiederkehrende Back-Office-Aufgaben beauftragen.
+URL: https://bayramdoekmeci.de/deutschsprachiges-back-office/
+HTML-Code: deutschsprachiges-back-office/index.html
+Title: Deutschsprachiges Back-Office für KMU | Bayram Dökmeci (54 Zeichen)
+Description: Deutschsprachiges Back-Office und Kundensupport für KMU und Agenturen in DACH. Mit Bayram Dökmeci: klare Abläufe, gepflegte Daten, direkter Kontakt. (148 Zeichen)
+Design: Weiß und helles Papier mit Schwarz, Rot und Gold, großer Systemschrift, nummerierten Leistungszeilen, dunklem Praxisabschnitt und goldener Kontaktfläche. Keine Bilder und keine externen Schriftdateien.
+Funktionen: Animierter Anfrageprozess, responsiver Ablauf der Zusammenarbeit sowie interaktives SVG-Balkendiagramm mit drei auswählbaren Aufgabengruppen, sichtbarer Datentabelle und Statusmeldung. Native FAQ und mobile Navigation, feste mobile Kontaktleiste mit Safe-Area-Abstand. Reduzierte Bewegung wird respektiert; ohne JavaScript bleiben sämtliche Inhalte und die initiale Diagrammverteilung lesbar.
+Technik: Einzelne statische HTML-Datei, Inline-CSS und minimales Inline-JavaScript. Alpine.js 3.14.9 über jsDelivr ist die einzige externe Laufzeitabhängigkeit. Keine Formulare zur Datenerfassung, Tracker, Cookies oder eingebetteten Kontaktanbieter.
+SEO: Canonical, Open Graph, Twitter, Breadcrumb sowie JSON-LD mit Person, LocalBusiness, WebPage, BreadcrumbList, Service und sechs mit dem sichtbaren FAQ wortgleichen Antworten. LocalBusiness folgt der vorhandenen Projektvalidierung. Sitemap und llms.txt ergänzt, eingehender Link aus Customer Success.
+Prüfung: Alle 15 Seiten bestehen die vorhandene Schema-Prüfung. Ein H1, Metadatenlängen, eindeutige IDs, lokale Linkziele, SVG-Beschriftungsreferenzen und externe Linkattribute geprüft. Beide Inline-Skripte und 17 Alpine-Ausdrücke sind syntaktisch gültig. Alle acht Kombinationen des Aufgabenmixes und die Initialisierung mit reduzierter Bewegung bestehen den isolierten Logiktest. Textkontraste der Hauptfarben liegen zwischen 5,82:1 und 17,93:1. Lokale HTTP-Auslieferung erfolgreich (Status 200).
+Prüfgrenze: Der integrierte Vorschaubrowser meldet „No browser is available“. Visuelles Rendering, tatsächliche Bedienung, 200-%-Zoom und das Laden von Alpine.js über das CDN sind deshalb nicht im Browser bestätigt.
+Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/deutschsprachiges-back-office/</loc></url>
+llms.txt-Eintrag: - [Deutschsprachiges Back-Office](https://bayramdoekmeci.de/deutschsprachiges-back-office/): Operativer Kundensupport, E-Mail- und Ticketbearbeitung, CRM-Pflege und administrative Koordination für KMU und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+Annahmen: Die vorbereitete URL /deutschsprachiges-back-office/ wird genutzt; Leistungen und Arbeitsfenster werden individuell vereinbart, alle Aufgabenmengen und Praxisbeispiele sind illustrativ.

@@ -58,6 +58,8 @@ python -m http.server 4173 --bind 127.0.0.1
 
 Anschließend `http://127.0.0.1:4173` im Browser öffnen. Die Seite nutzt lokale Assets, native FAQ-Elemente und berücksichtigt reduzierte Bewegung.
 
+Die Landingpage für deutschsprachiges Back-Office liegt unter `http://127.0.0.1:4173/deutschsprachiges-back-office/`. Sie besteht aus einer eigenständigen HTML-Datei mit Inline-CSS und Inline-JavaScript. Alpine.js 3.14.9 wird über jsDelivr geladen; die Inhalte, Kontaktlinks und FAQ bleiben auch ohne JavaScript nutzbar. Die Diagrammdaten sind ausdrücklich illustrative Beispiele.
+
 ## Strukturierte Daten prüfen
 
 Vor der Veröffentlichung alle Seiten lokal prüfen (Python 3.9 oder neuer, keine Zusatzpakete):
