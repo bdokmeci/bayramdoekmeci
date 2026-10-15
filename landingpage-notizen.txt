@@ -124,3 +124,21 @@ Prüfgrenze: Der integrierte Vorschaubrowser meldet „No browser is available�
 Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/deutschsprachiges-back-office/</loc></url>
 llms.txt-Eintrag: - [Deutschsprachiges Back-Office](https://bayramdoekmeci.de/deutschsprachiges-back-office/): Operativer Kundensupport, E-Mail- und Ticketbearbeitung, CRM-Pflege und administrative Koordination für KMU und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 Annahmen: Die vorbereitete URL /deutschsprachiges-back-office/ wird genutzt; Leistungen und Arbeitsfenster werden individuell vereinbart, alle Aufgabenmengen und Praxisbeispiele sind illustrativ.
+
+
+DEUTSCHSPRACHIGER REMOTE KUNDENBETREUER (15.10.2026)
+Haupt-Keyword: Deutschsprachiger Remote Kundenbetreuer
+Suchintent: Einen persönlichen deutschsprachigen Partner für laufende B2B-Kundenkommunikation und Nachverfolgung beauftragen.
+URL: https://bayramdoekmeci.de/kundenbetreuer/
+HTML-Code: kundenbetreuer/index.html
+Title: Deutschsprachiger Remote Kundenbetreuer | Bayram Dökmeci (56 Zeichen)
+Description: Deutschsprachiger Remote Kundenbetreuer für B2B und Agenturen in DACH. Persönliche Kundenkommunikation und klare Nachverfolgung mit Bayram Dökmeci. (147 Zeichen)
+Design: #E4E0E1, #D6C0B3, #AB886D und #493628. Warme, ruhige Gestaltung mit Systemschriften, Serif-Akzenten, Gesprächsvorschau und einem dunklen Erklärabschnitt.
+Funktionen: Zwei animierte SVG-Ablaufgrafiken, ein umschaltbares SVG-Balkendiagramm mit zwei illustrativen Datensätzen und vollständiger Datentabelle, sechs native FAQ, native mobile Navigation mit Escape-Unterstützung, mobile Kontaktleiste mit Safe-Area-Abstand. Alle Inhalte bleiben ohne JavaScript lesbar; reduzierte Bewegung wird respektiert.
+Technik: Eigenständige statische HTML-Datei mit Inline-CSS und Inline-JavaScript; Alpine.js 3.14.9 über jsDelivr als einzige externe Abhängigkeit. Keine Bilder, Formulare, Tracker oder eingebetteten Kontaktanbieter.
+SEO: Canonical, Open Graph, Twitter, Breadcrumb, Person, LocalBusiness, WebPage, Service und FAQPage. LocalBusiness folgt der bestehenden Projektvalidierung. Sitemap und llms.txt ergänzt; eingehender Link aus dem deutschsprachigen Back-Office.
+Prüfung: Alle 16 Seiten bestehen scripts/validate_structured_data.py. Neue Seite: genau eine H1, 32 gültige Linkziele bzw. Linkattribute, eindeutige IDs, SVG-Referenzen, Metadatenlängen und Sitemap-Eintrag geprüft. Zwei Inline-Skripte und 16 Alpine-Ausdrücke syntaktisch gültig; beide Diagrammzustände, Initialisierung mit reduzierter Bewegung und IntersectionObserver geprüft. Kontraste: 8,71:1 auf Papier, 6,54:1 auf Sand; großes Monogramm auf Ton 3,52:1. Lokale HTTP-Auslieferung für Seite, Sitemap und llms.txt erfolgreich.
+Prüfgrenze: Der Vorschaubrowser meldet „No browser is available“. Visuelles Rendering, tatsächliche Touch-/Tastaturinteraktionen, 200-%-Zoom und Alpine-CDN-Auslieferung sind nicht im Browser bestätigt. Kein Deployment durch den Agenten durchgeführt.
+Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/kundenbetreuer/</loc></url>
+llms.txt-Eintrag: - [Deutschsprachiger Remote Kundenbetreuer](https://bayramdoekmeci.de/kundenbetreuer/): Persönliche deutschsprachige Kundenkommunikation, Servicekoordination und Nachverfolgung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
+Annahmen: Die vorbereitete URL /kundenbetreuer/ wird genutzt; der Schwerpunkt liegt auf persönlicher Bestandskundenkommunikation. Umfang, Arbeitsfenster und Freigaben werden individuell vereinbart; alle Beispielzahlen und Szenarien sind illustrativ.

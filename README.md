@@ -62,6 +62,8 @@ Die Landingpage für deutschsprachiges Back-Office liegt unter `http://127.0.0.1
 
 ## Strukturierte Daten prüfen
 
+Die Landingpage für deutschsprachige Remote-Kundenbetreuung liegt unter `http://127.0.0.1:4173/kundenbetreuer/`. Sie verwendet die Farbpalette `#E4E0E1`, `#D6C0B3`, `#AB886D` und `#493628`. Die eigenständige HTML-Datei enthält Inline-CSS, zwei SVG-Ablaufgrafiken, ein interaktives Beispiel-Diagramm und native FAQ-Elemente. Alpine.js 3.14.9 ist die einzige externe Abhängigkeit; beide Diagramm-Datensätze sind auch ohne JavaScript in einer Tabelle verfügbar.
+
 Vor der Veröffentlichung alle Seiten lokal prüfen (Python 3.9 oder neuer, keine Zusatzpakete):
 
 ```sh
