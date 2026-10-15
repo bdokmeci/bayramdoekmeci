@@ -62,6 +62,12 @@ Die Landingpage für deutschsprachiges Back-Office liegt unter `http://127.0.0.1
 
 ## Strukturierte Daten prüfen
 
+Die LinkedIn-Landingpage liegt unter `http://127.0.0.1:4173/linkedin/`. Die eigenständige `linkedin/index.html` enthält Inline-CSS, zwei animierte SVG-Ablaufgrafiken, ein umschaltbares Planungsdiagramm mit vollständiger Datentabelle sowie sechs native FAQ-Elemente. Sie nutzt die Palette `#0077B5`, `#000000`, `#313335`, `#86888A`, `#CACCCE` und `#00A0DC`. Alpine.js 3.14.9 über jsDelivr ist die einzige externe Abhängigkeit. Bei deaktiviertem JavaScript oder blockiertem CDN bleiben Inhalte, Diagramme, Navigation und Kontaktlinks nutzbar; reduzierte Bewegung wird berücksichtigt.
+
+Die Stundenwerte sind illustrative Planungsbeispiele, keine Leistungsdaten. Canonical, Sitemap und `llms.txt` verwenden `/linkedin/`. Wie auf den bestehenden Seiten wird der Anbieter als `LocalBusiness` ausgezeichnet. Die Seite ist ein eigenständiges Angebot von MeinB2B und enthält keine Tracker oder eingebetteten Kontaktformulare.
+
+Fachliche Referenzen für die beschriebenen Plattformfunktionen: [LinkedIn Campaign Manager](https://business.linkedin.com/advertise/ads/how-to-advertise-on-linkedin) und [Sales Navigator: Lead- und Account-Suche](https://www.linkedin.com/help/sales-navigator/answer/a735730/search-for-leads-and-accounts-in-sales-navigator?lang=en-US).
+
 Die Landingpage für deutschsprachige Remote-Kundenbetreuung liegt unter `http://127.0.0.1:4173/kundenbetreuer/`. Sie verwendet die Farbpalette `#E4E0E1`, `#D6C0B3`, `#AB886D` und `#493628`. Die eigenständige HTML-Datei enthält Inline-CSS, zwei SVG-Ablaufgrafiken, ein interaktives Beispiel-Diagramm und native FAQ-Elemente. Alpine.js 3.14.9 ist die einzige externe Abhängigkeit; beide Diagramm-Datensätze sind auch ohne JavaScript in einer Tabelle verfügbar.
 
 Vor der Veröffentlichung alle Seiten lokal prüfen (Python 3.9 oder neuer, keine Zusatzpakete):
