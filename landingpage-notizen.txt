@@ -142,3 +142,22 @@ Prüfgrenze: Der Vorschaubrowser meldet „No browser is available“. Visuelles
 Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/kundenbetreuer/</loc></url>
 llms.txt-Eintrag: - [Deutschsprachiger Remote Kundenbetreuer](https://bayramdoekmeci.de/kundenbetreuer/): Persönliche deutschsprachige Kundenkommunikation, Servicekoordination und Nachverfolgung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
 Annahmen: Die vorbereitete URL /kundenbetreuer/ wird genutzt; der Schwerpunkt liegt auf persönlicher Bestandskundenkommunikation. Umfang, Arbeitsfenster und Freigaben werden individuell vereinbart; alle Beispielzahlen und Szenarien sind illustrativ.
+
+
+MOTION GRAPHICS (21.10.2026)
+Haupt-Keyword: Motion Graphics
+Suchintent: Einen deutschsprachigen Motion-Graphics-Experten für ein B2B- oder Agenturprojekt beauftragen.
+URL: https://bayramdoekmeci.de/motion-graphics/
+HTML-Code: motion-graphics/index.html
+Title: Motion Graphics Experte für B2B | Bayram Dökmeci (48 Zeichen)
+Description: Deutschsprachiger Motion Graphics Experte für B2B und Agenturen in DACH. Erkläranimationen, Brand Motion und Social Ads. Direkt mit Bayram Dökmeci. (147 Zeichen)
+Design: Dunkles Motion-Studio mit #030637, #3C0753, #720455 und #910A67, hellen Inhaltsbereichen, großer Typografie und lokal gehosteten Inter-/Space-Grotesk-Schriften.
+Funktionen: Umschaltbare Konzeptstudie für Erklärfilm, Brand Motion und Social Creative; animiertes Storyboard-Diagramm mit 30-/60-Sekunden-Beispielen und vollständiger Datentabelle; SVG-Infografik zur Formatadaption; native FAQ und mobile Navigation; feste Kontaktleiste mit Safe-Area-Abstand.
+Barrierefreiheit: Sichtbare Fokusmarkierungen, beschriftete Grafiken mit gleichwertiger Textfassung, mindestens 48 px hohe Bedienelemente, reduzierte Bewegung und zusätzlicher Pausenschalter. Inhalte bleiben ohne JavaScript sichtbar; rein interaktive Umschalter erscheinen erst nach Alpine-Initialisierung.
+Technik: Statische HTML-Datei mit Inline-CSS und Inline-JavaScript. Alpine.js 3.14.9 über jsDelivr ist die einzige externe Laufzeitabhängigkeit. Keine Bilder, Tracker oder Formulare.
+SEO: Canonical, Open Graph, Twitter, Breadcrumb sowie JSON-LD mit Person, LocalBusiness, WebPage, BreadcrumbList, Service und FAQPage. LocalBusiness folgt der vorhandenen Projektvalidierung. Sitemap, llms.txt und eingehender Link aus Design & Content ergänzt.
+Prüfung: Alle 18 Seiten bestehen scripts/validate_structured_data.py. Metadatenlängen, eindeutige IDs, Linkziele, ARIA-Verweise, SVG-Beschreibungen, FAQ-/Schema-Abgleich und Texte überprüft. JavaScript und 42 Alpine-Ausdrücke syntaxgeprüft; Szenariowechsel, Chart-Summen, Menüzustand/Fokusrückgabe, Pause und Reduced-Motion-Initialisierung mit simuliertem DOM geprüft. Kleinster geprüfter Textkontrast: 5,11:1. HTML und beide Schriftdateien über temporären lokalen HTTP-Server erfolgreich mit Status 200 ausgeliefert; Server danach beendet.
+Prüfgrenze: Der integrierte Vorschaubrowser war nicht verfügbar. Reales Rendering, mobile Interaktionen, 200-%-Zoom und die tatsächliche Alpine-CDN-Auslieferung sind nicht im Browser bestätigt.
+Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/motion-graphics/</loc></url>
+llms.txt-Eintrag: - [Motion Graphics Experte](https://bayramdoekmeci.de/motion-graphics/): Deutschsprachiges Motion Design mit 2D-Erkläranimationen, Brand Motion, Kinetic Typography und animierten Social Creatives für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
+Annahmen: Das Thema Motion Graphics folgt dem beigefügten Briefing; die vorbereitete URL /motion-graphics/ wird genutzt. Szenarien und Zeitaufteilungen sind illustrativ; Umfang, Formate, Zeitplan und Nutzungsrechte werden individuell vereinbart.
