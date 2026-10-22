@@ -161,3 +161,22 @@ Prüfgrenze: Der integrierte Vorschaubrowser war nicht verfügbar. Reales Render
 Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/motion-graphics/</loc></url>
 llms.txt-Eintrag: - [Motion Graphics Experte](https://bayramdoekmeci.de/motion-graphics/): Deutschsprachiges Motion Design mit 2D-Erkläranimationen, Brand Motion, Kinetic Typography und animierten Social Creatives für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
 Annahmen: Das Thema Motion Graphics folgt dem beigefügten Briefing; die vorbereitete URL /motion-graphics/ wird genutzt. Szenarien und Zeitaufteilungen sind illustrativ; Umfang, Formate, Zeitplan und Nutzungsrechte werden individuell vereinbart.
+
+
+N8N-BERATUNG (22.10.2026)
+Haupt-Keyword: n8n Beratung
+Suchintent: Einen deutschsprachigen n8n-Berater für Workflow-Entwicklung und die Integration bestehender Geschäftssysteme beauftragen.
+Slug: /n8n/
+URL: https://bayramdoekmeci.de/n8n/
+HTML-Code: n8n/index.html
+Title: n8n Beratung & Workflow Automation | Bayram Dökmeci (51 Zeichen)
+Description: n8n Beratung für B2B und Agenturen in DACH. Bayram Dökmeci verbindet CRM, Marketing und Prozesse. Direkt, auf Deutsch. Jetzt Workflow besprechen. (145 Zeichen)
+Design: Pink #ea4b71, Hellgrau #f4f4f5, Schwarz #171719. Mobile-first-Layout mit großer Systemschrift, Workflow-Canvas, dunklem Architekturabschnitt und pinker Kontaktfläche.
+Funktionen: 2 SVG-Infografiken mit Textfassung, abspielbarer Workflow mit 4 Schritten, animiertes Balkendiagramm mit 2 Beispielszenarien und vollständiger Datentabelle, 6 native FAQ, mobile Kontaktleiste. Keine Bilder, Formulare, Tracker oder Cookies durch den Seitencode.
+Technik: Eine eigenständige HTML-Datei. Inline-CSS/JS, externe Abhängigkeit ausschließlich Alpine.js 3.14.9. Statische Cloudflare-Pages-Struktur beibehalten; keine neue Hosting-Konfiguration angelegt.
+SEO: Canonical, Open Graph, Twitter, Breadcrumb, Person, LocalBusiness, Service, WebPage, FAQPage. LocalBusiness folgt der vorhandenen Projektvalidierung; der im Briefing genannte veraltete Typ ProfessionalService wird nicht neu eingeführt. Sitemap und llms.txt ergänzt; eingehender Link aus Digitales Marketing.
+Prüfung: 19 Seiten, 0 Fehler in scripts/validate_structured_data.py. HTML-Referenzen, lokale Ziele, Metadatenlängen, externe Links, SVG-Abmessungen und HTTP 200 geprüft. JavaScript und 25 Alpine-Ausdrücke syntaxgeprüft; Demo, Chart-Szenarien, Menüfokus und Reduced Motion mit simuliertem DOM geprüft.
+Prüfgrenze: Kein verfügbarer Vorschaubrowser; visuelle Darstellung, 200-%-Zoom und Interaktionen im echten Browser unbestätigt.
+Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/n8n/</loc></url>
+llms.txt-Eintrag: - [n8n Beratung & Workflow Automatisierung](https://bayramdoekmeci.de/n8n/): Prozessanalyse, n8n-Workflows, API-Integration und CRM-Automatisierung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+Annahmen: Die vorbereitete URL /n8n/ wird genutzt; angeboten wird individuelle n8n-Beratung für B2B und Agenturen in DACH. Szenarien und Diagrammwerte sind illustrativ; Preise, Projektzeiten und Betriebsverantwortung werden individuell vereinbart.

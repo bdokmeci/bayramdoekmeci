@@ -81,3 +81,15 @@ python scripts/validate_structured_data.py
 Die Prüfung erkennt ungültiges JSON-LD, doppelte JSON-Schlüssel, fehlerhafte Breadcrumbs, fehlende Pflichtangaben für LocalBusiness sowie Abweichungen zwischen FAQ-Markup und Seitentext. Anbieter werden als `LocalBusiness` mit der im Impressum veröffentlichten Anschrift ausgezeichnet. Die Startseite hat keinen Breadcrumb; Unterseiten verwenden mindestens zwei Einträge.
 
 Nach dem Deployment die betroffenen URLs im [Google Rich Results Test](https://search.google.com/test/rich-results) erneut prüfen. Die lokale Prüfung ersetzt den Google-Test nicht und garantiert keine Darstellung als Rich Result. [FAQ-Rich-Results werden seit Mai 2026 nicht mehr angezeigt](https://developers.google.com/search/updates#may-2026); das vorhandene FAQ-Markup beschreibt weiterhin die sichtbaren Fragen und Antworten.
+
+## n8n-Landingpage
+
+Die Landingpage für n8n-Beratung liegt unter `/n8n/` und lokal unter `http://127.0.0.1:4173/n8n/`. Die vollständige Umsetzung befindet sich in `n8n/index.html`: Inline-CSS und Inline-JavaScript, Systemschriften und Alpine.js 3.14.9 als einzige externe Laufzeitabhängigkeit. Sie verwendet Pink `#ea4b71`, Hellgrau und Schwarz.
+
+Enthalten sind eine abspielbare SVG-Workflow-Demo, eine animierte SVG-Grafik für Datenprüfung und Fehlerpfade, ein umschaltbares Balkendiagramm mit vollständiger Datentabelle, sechs native FAQ-Elemente und eine mobile Kontaktleiste mit Safe-Area-Abstand. Die Beispieldaten beschreiben modellierte Arbeitsschritte, keine gemessenen Kundenergebnisse. Texte, Ablaufgrafiken, Daten, FAQ und Kontaktlinks bleiben ohne JavaScript oder bei blockiertem CDN zugänglich. Reduzierte Bewegung wird beim Start und bei Änderungen berücksichtigt.
+
+Sitemap und `llms.txt` enthalten die neue Seite; ein Link führt aus dem MarTech-Abschnitt der Seite Digitales Marketing zu ihr. Die strukturierte Auszeichnung verwendet `LocalBusiness` entsprechend der vorhandenen Projektvalidierung sowie `Person`, `Service`, `WebPage`, `BreadcrumbList` und `FAQPage`.
+
+Geprüft am 22.10.2026: alle 19 Seiten bestehen `python scripts/validate_structured_data.py`; Metadatenlängen, interne Linkziele, eindeutige IDs, ARIA-Verweise, SVG-Abmessungen, externe Linkattribute und lokale HTTP-Auslieferung sind geprüft. JavaScript-Syntax und 25 Alpine-Ausdrücke sowie die Zustände der Workflow-Demo, Szenarienumschaltung, Reduced-Motion-Verhalten und Menü-Fokusrückgabe wurden mit simuliertem DOM überprüft. Der integrierte Browser war nicht verfügbar; Rendering, 200-%-Zoom, echte Tastaturinteraktion und tatsächliche Alpine-CDN-Auslieferung sind nicht im Browser bestätigt.
+
+Fachliche Referenzen: [n8n-Dokumentation](https://docs.n8n.io/), [Webhook-Node](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook/), [Fehlerbehandlung](https://docs.n8n.io/flow-logic/error-handling/).
