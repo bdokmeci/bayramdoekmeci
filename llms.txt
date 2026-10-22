@@ -31,6 +31,8 @@
 
 - [n8n Beratung & Workflow Automatisierung](https://bayramdoekmeci.de/n8n/): Prozessanalyse, n8n-Workflows, API-Integration und CRM-Automatisierung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
+- [KI-Automatisierung für Unternehmen](https://bayramdoekmeci.de/ki/): KI-Workflows für B2B-Anfragen, Wissenssuche, Antwortentwürfe und kontrollierte CRM-Übergabe. Prozessanalyse, Prüfregeln, menschliche Freigaben und Dokumentation für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+
 ## Kontakt
 
 - E-Mail: kontakt@bayramdoekmeci.de
