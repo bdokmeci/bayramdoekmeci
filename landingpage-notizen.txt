@@ -180,3 +180,20 @@ Prüfgrenze: Kein verfügbarer Vorschaubrowser; visuelle Darstellung, 200-%-Zoom
 Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/n8n/</loc></url>
 llms.txt-Eintrag: - [n8n Beratung & Workflow Automatisierung](https://bayramdoekmeci.de/n8n/): Prozessanalyse, n8n-Workflows, API-Integration und CRM-Automatisierung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 Annahmen: Die vorbereitete URL /n8n/ wird genutzt; angeboten wird individuelle n8n-Beratung für B2B und Agenturen in DACH. Szenarien und Diagrammwerte sind illustrativ; Preise, Projektzeiten und Betriebsverantwortung werden individuell vereinbart.
+
+KI-AUTOMATISIERUNG (22.10.2026)
+Haupt-Keyword: KI-Automatisierung für Unternehmen
+Suchintent: Einen deutschsprachigen Umsetzungspartner für KI-gestützte B2B-Prozesse beauftragen.
+URL / Slug: https://bayramdoekmeci.de/ki/ / /ki/
+HTML-Code: ki/index.html
+Title: KI-Automatisierung für Unternehmen | Bayram Dökmeci (51 Zeichen)
+Description: KI-Automatisierung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt KI-Workflows für Anfragen, CRM und Marketing. Direkt auf Deutsch. (149 Zeichen)
+Design: Helle, großzügige Prozessoberfläche, Petrol #009999, dunkles Petrol #005F5F, Schwarz, Weiß, Hellgrau #F3F3F3 und Mint #00FFB9. Große Systemtypografie, dunkler Erklärabschnitt, mintfarbene Kontaktfläche, mobile Kontaktleiste.
+Inhalt: KI-gestützte Anfragebearbeitung, Wissenssuche und Content-Entwürfe; Prüfregeln und menschliche Freigaben. Abgrenzung zu /n8n/: KI-Verarbeitung und Ergebnisqualität statt werkzeugspezifischer Workflow-Beratung.
+Interaktion: Abspielbare Workflow-Demo, SVG-Architektur, animiertes Diagramm mit 10-/30-Anfragen-Szenarien, vollständige Datentabelle, sechs native FAQ. Alle Szenarien und Minutenwerte sind ausdrücklich illustrativ.
+SEO: Canonical, Open Graph, Twitter, Breadcrumb, Person, LocalBusiness, WebPage, Service und FAQPage; FAQ-Markup entspricht dem Seitentext. LocalBusiness entspricht der Projektvalidierung und ersetzt den veralteten allgemeinen Typ ProfessionalService.
+Sitemap-Eintrag: <url><loc>https://bayramdoekmeci.de/ki/</loc></url>
+llms.txt-Eintrag: - [KI-Automatisierung für Unternehmen](https://bayramdoekmeci.de/ki/): KI-Workflows für B2B-Anfragen, Wissenssuche, Antwortentwürfe und kontrollierte CRM-Übergabe. Prozessanalyse, Prüfregeln, menschliche Freigaben und Dokumentation für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+Prüfung: Alle 20 Seiten bestehen die Schema-Prüfung; HTML-Struktur, Links, Metadaten, Kontraste, Inline-JavaScript, 46 Alpine-Ausdrücke und lokale HTTP-Auslieferung geprüft. Demo- und Diagrammzustände, Reduced Motion und Scroll-Reveal mit simuliertem DOM geprüft.
+Prüfgrenze: Browser nicht verfügbar; visuelles Layout, 200-%-Zoom, echte Interaktionen, tatsächliche CDN-Auslieferung im Browser und Domain-Deployment bleiben unbestätigt.
+Annahmen: Das vorbereitete Verzeichnis /ki/ wird genutzt; Schwerpunkt sind KI-gestützte B2B-Prozesse mit menschlicher Freigabe. Leistungsumfang, Datenquellen, Modelle und Betriebsverantwortung werden individuell vereinbart; Beispiele sind keine Kundenreferenzen.
