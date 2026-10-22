@@ -29,6 +29,8 @@
 
 - [Motion Graphics Experte](https://bayramdoekmeci.de/motion-graphics/): Deutschsprachiges Motion Design mit 2D-Erkläranimationen, Brand Motion, Kinetic Typography und animierten Social Creatives für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
 
+- [n8n Beratung & Workflow Automatisierung](https://bayramdoekmeci.de/n8n/): Prozessanalyse, n8n-Workflows, API-Integration und CRM-Automatisierung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+
 ## Kontakt
 
 - E-Mail: kontakt@bayramdoekmeci.de
