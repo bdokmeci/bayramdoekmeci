@@ -35,6 +35,8 @@
 
 - [Programmatic SEO & skalierbare Landingpages](https://bayramdoekmeci.de/programmatic/): Datenmodelle, Suchintent- und Seitenarchitektur, Content-Module, Templates und Qualitätsprüfung für skalierbare SEO-Landingpages. Für B2B-Unternehmen und Agenturen in DACH, direkt mit Bayram Dökmeci von MeinB2B.
 
+- [Web-App entwickeln lassen](https://bayramdoekmeci.de/web-app/): Individuelle Web-Apps, interne Software und Kundenportale für Unternehmen und Agenturen in DACH. Prozessanalyse, Konzeption, Entwicklung, Schnittstellen und abgestimmte Übergabe. Direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch.
+
 ## Kontakt
 
 - E-Mail: kontakt@bayramdoekmeci.de
