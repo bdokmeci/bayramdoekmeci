@@ -33,6 +33,8 @@
 
 - [KI-Automatisierung für Unternehmen](https://bayramdoekmeci.de/ki/): KI-Workflows für B2B-Anfragen, Wissenssuche, Antwortentwürfe und kontrollierte CRM-Übergabe. Prozessanalyse, Prüfregeln, menschliche Freigaben und Dokumentation für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
 
+- [Programmatic SEO & skalierbare Landingpages](https://bayramdoekmeci.de/programmatic/): Datenmodelle, Suchintent- und Seitenarchitektur, Content-Module, Templates und Qualitätsprüfung für skalierbare SEO-Landingpages. Für B2B-Unternehmen und Agenturen in DACH, direkt mit Bayram Dökmeci von MeinB2B.
+
 ## Kontakt
 
 - E-Mail: kontakt@bayramdoekmeci.de
