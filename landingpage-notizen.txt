@@ -9,4 +9,15 @@ Description: B2B-Webentwicklung für Unternehmen und Agenturen in DACH. Bayram D
 Design: Mobile-first Editorial-Layout mit warmem Off-White, violetten Akzenten, großer Sans-/Serif-Typografie, interaktiver Konzeptvorschau und dunklem Technikabschnitt. Styles und Interaktionen liegen lokal in assets/landing.css und assets/landing.js.
 HTML-Code: index.html
 
+E-Mail-Marketing
+Haupt-Keyword: E-Mail-Marketing Experte
+Suchintent: Einen deutschsprachigen Partner für B2B-E-Mail-Marketing und automatisierte Kontaktstrecken finden.
+URL: https://bayramdoekmeci.de/email-marketing/
+Title: E-Mail-Marketing Experte für B2B | Bayram Dökmeci
+Description: Dein E-Mail-Marketing Experte für B2B in DACH: Strategie, Newsletter und automatisierte E-Mail-Strecken. Direkt mit Bayram Dökmeci. Jetzt kennenlernen.
+Design: Warme, redaktionelle Gestaltung mit #FFCED8, #FFDDDD, #FFF4DE und #FFE8C4; dunkler Pflaumenton für Kontrast, große Systemschrift mit Serif-Akzenten, interaktive Flow-Vorschau, Ablaufdiagramm und animiertes Beispieldiagramm.
+HTML-Code: email-marketing/index.html (eigenständige Datei mit Inline-CSS, Inline-JS und Alpine.js 3.14.9)
+SEO: Sitemap und llms.txt ergänzt. JSON-LD mit Person, LocalBusiness, Service, WebPage, BreadcrumbList und FAQPage. LocalBusiness entspricht dem bestehenden Schema-Validator des Projekts.
+Annahmen: Die Vorlage dient als Inhaltsbriefing für die bestehende Route /email-marketing/; ausschließlich B2B und Agenturen in DACH; alle Zahlen und Abläufe sind illustrative Beispiele, keine Kundenresultate.
+
 
