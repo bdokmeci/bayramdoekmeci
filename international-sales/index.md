@@ -13,7 +13,7 @@ Für B2B-Unternehmen & Agenturen in DACH
 
 **Kurz gesagt —** Ein International Sales Director verbindet Marktstrategie, Neukundengewinnung und Vertriebssteuerung. Ich bin **Bayram Dökmeci von MeinB2B** und unterstütze B2B-Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz dabei – direkt, remote und auf Deutsch.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
 Direkter Ansprechpartner Ohne Agentur-Overhead
 
@@ -47,9 +47,9 @@ Qualifizieren
 
 Steuern
 
-1. **01**Markt wählen
-2. **02**Zielkunden klären
-3. **03**Pipeline führen
+1. **01** Markt wählen
+2. **02** Zielkunden klären
+3. **03** Pipeline führen
 
 Konzept: vom ausgewählten DACH-Markt zur Vertriebschance.
 
@@ -73,7 +73,7 @@ Wir legen fest, welche Segmente zu deinem Angebot passen und wie du dort relevan
 - Ideal Customer Profile (ICP)
 - Positionierung & Value Proposition
 
- Dein Ergebnis: ein fokussierter Marktplan.
+Dein Ergebnis: ein fokussierter Marktplan.
 
 02 — ANSPRACHE
 
@@ -85,7 +85,7 @@ Aus einer Zielgruppe werden relevante Accounts, klare Ansprechpartner und persö
 - LinkedIn & Social Selling
 - Buying Center & Discovery
 
- Dein Ergebnis: eine abgestimmte Ansprache.
+Dein Ergebnis: eine abgestimmte Ansprache.
 
 03 — STEUERUNG
 
@@ -97,7 +97,7 @@ Ich strukturiere die Zusammenarbeit zwischen Marketing und Sales – mit nachvol
 - Revenue Operations (RevOps)
 - CRM & Marketing Automation
 
- Dein Ergebnis: ein nutzbarer Vertriebsprozess.
+Dein Ergebnis: ein nutzbarer Vertriebsprozess.
 
 02 / Vertrieb mit Überblick
 
@@ -119,7 +119,7 @@ Wir prüfen Deal-Reife und offene Risiken. Ein Forecast bleibt eine Einschätzun
 
 ### Von Accounts zu Chancen
 
- Illustratives Beispiel
+Illustratives Beispiel
 
 Frei gewählte Beispieldaten zur Erklärung der Stufen. Keine Kundenergebnisse, Benchmarks oder Zielwerte.
 
@@ -214,24 +214,24 @@ Vom gemeinsamen Ziel zum laufenden Review. Erkenntnisse aus dem Markt fließen z
 
 1. ### 01. Verstehen
 
-   Wir besprechen Angebot, Vertriebszyklus, vorhandene Daten und deinen konkreten Engpass.
+Wir besprechen Angebot, Vertriebszyklus, vorhandene Daten und deinen konkreten Engpass.
 
-   Ergebnis: ein abgegrenzter Auftrag.
+Ergebnis: ein abgegrenzter Auftrag.
 2. ### 02. Fokussieren
 
-   Wir priorisieren Märkte und Accounts, definieren Entscheider und schärfen dein Nutzenversprechen.
+Wir priorisieren Märkte und Accounts, definieren Entscheider und schärfen dein Nutzenversprechen.
 
-   Ergebnis: ein Go-to-Market-Plan.
+Ergebnis: ein Go-to-Market-Plan.
 3. ### 03. Aktivieren
 
-   Ich setze die vereinbarte Ansprache und CRM-Struktur auf. Wir testen in einem ausgewählten Segment.
+Ich setze die vereinbarte Ansprache und CRM-Struktur auf. Wir testen in einem ausgewählten Segment.
 
-   Ergebnis: ein dokumentierter Pilot.
+Ergebnis: ein dokumentierter Pilot.
 4. ### 04. Weiterentwickeln
 
-   Wir bewerten Rückmeldungen, prüfen die Pipeline und entscheiden über Anpassungen oder Ausbau.
+Wir bewerten Rückmeldungen, prüfen die Pipeline und entscheiden über Anpassungen oder Ausbau.
 
-   Ergebnis: begründete nächste Schritte.
+Ergebnis: begründete nächste Schritte.
 
 Zeitrahmen, Verantwortung und Vergütung vereinbaren wir vor dem Start. Ein Pilot läuft je nach Ausgangslage über mehrere Wochen; Umsatz und Abschlusszahlen lassen sich daraus nicht garantieren.
 
@@ -281,7 +281,7 @@ Typisches Beispiel · illustratives Szenario ohne Zusage von Leads oder Abschlü
 
 ## Dein Markt im Fokus. Ich an deiner Seite.
 
-**Bayram Dökmeci**MeinB2B · Antalya, Türkiye
+**Bayram Dökmeci** MeinB2B · Antalya, Türkiye
 
 Mein Schwerpunkt ist B2B-Neukundengewinnung mit LinkedIn und Marketing Automation. Ich verbinde die strategische Perspektive mit der operativen Arbeit an Zielkunden, Ansprache und CRM.
 
@@ -311,7 +311,7 @@ Konyaaltı Blv., 07070 Antalya, Türkiye
 
 Passende Leistungen im Detail:
 
-[B2B Leadgenerierung & Business Development](<https://bayramdoekmeci.de/business-development/>)[Digitales Marketing & Automation](<https://bayramdoekmeci.de/digitales-marketing/>)[Customer Success nach dem Abschluss](<https://bayramdoekmeci.de/customer-success/>)
+[B2B Leadgenerierung & Business Development](<https://bayramdoekmeci.de/business-development/>) [Digitales Marketing & Automation](<https://bayramdoekmeci.de/digitales-marketing/>) [Customer Success nach dem Abschluss](<https://bayramdoekmeci.de/customer-success/>)
 
 06 / Gut zu wissen
 
@@ -351,9 +351,9 @@ Dein nächster Markt beginnt mit einem Gespräch
 
 Erzähl mir von deinem Angebot, deinen Zielkunden und der Stelle, an der du weiterkommen möchtest. Gemeinsam klären wir, ob und wie ich dich unterstützen kann.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci .](<https://bayramdoekmeci.de/>)
 

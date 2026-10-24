@@ -10,7 +10,7 @@ url: "https://bayramdoekmeci.de/deutschsprachiges-back-office/"
 
 **Kurz gesagt:** Ich bin Bayram Dökmeci von MeinB2B und unterstütze KMU und Agenturen in Deutschland, Österreich und der Schweiz mit deutschsprachigem Back-Office und Kundensupport. Ich bearbeite Anfragen, pflege dein CRM und halte Abläufe zusammen – remote aus Antalya, direkt mit dir.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Per WhatsApp](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Per WhatsApp](<https://wa.me/905078827795>)
 
 Unverbindlich kennenlernen. Klaren Bedarf besprechen.
 
@@ -106,13 +106,13 @@ CRM-Pflege 3 Aufgaben
 Koordination 2 Aufgaben
 
 **9** von 12 Beispielaufgaben im Back-Office.
- 3  bleiben bei deinem Team.
+3 bleiben bei deinem Team.
 
 Aufgaben statt Bauchgefühl
 
 ### Ein möglicher Aufgabenmix.
 
- BEISPIEL
+BEISPIEL
 
 Aufgabenverteilung zwischen Team und Back-Office
 
@@ -173,16 +173,16 @@ Auswerten & weiterführen
 
 1. ### Bedarf klären
 
-   Welche Aufgaben bremsen euch? Wir besprechen Kanäle, Volumen und gewünschte Unterstützung.
+Welche Aufgaben bremsen euch? Wir besprechen Kanäle, Volumen und gewünschte Unterstützung.
 2. ### Abläufe übergeben
 
-   Wir dokumentieren Zuständigkeiten, Antwortvorlagen, Zugänge und Eskalationswege.
+Wir dokumentieren Zuständigkeiten, Antwortvorlagen, Zugänge und Eskalationswege.
 3. ### Pilot starten
 
-   Ich übernehme vereinbarte Vorgänge. In einer Testphase prüfen wir Übergaben und offene Fragen.
+Ich übernehme vereinbarte Vorgänge. In einer Testphase prüfen wir Übergaben und offene Fragen.
 4. ### Gemeinsam verbessern
 
-   Wir werten die Zusammenarbeit aus und passen Aufgaben, Umfang und Abstimmung bei Bedarf an.
+Wir werten die Zusammenarbeit aus und passen Aufgaben, Umfang und Abstimmung bei Bedarf an.
 
 Umfang, Arbeitsfenster und Rückmeldefristen vereinbaren wir individuell. Ein Pilot kann je nach Projekt beispielsweise ein bis zwei Wochen umfassen.
 
@@ -236,7 +236,7 @@ Als deutschsprachiger Back-Officer unterstütze ich dein Team im Hintergrund. CR
 
 Du suchst Unterstützung über das Tagesgeschäft hinaus? Hier findest du meine ergänzenden Leistungen:
 
-[Persönliche Remote-Kundenbetreuung](<https://bayramdoekmeci.de/kundenbetreuer/>)[Customer Success](<https://bayramdoekmeci.de/customer-success/>)[B2B Leadgenerierung](<https://bayramdoekmeci.de/business-development/>)[Alle Leistungen](<https://bayramdoekmeci.de/>)
+[Persönliche Remote-Kundenbetreuung](<https://bayramdoekmeci.de/kundenbetreuer/>) [Customer Success](<https://bayramdoekmeci.de/customer-success/>) [B2B Leadgenerierung](<https://bayramdoekmeci.de/business-development/>) [Alle Leistungen](<https://bayramdoekmeci.de/>)
 
 06 / Gut zu wissen
 
@@ -274,13 +274,13 @@ Mehr Ordnung beginnt mit einem Gespräch.
 
 Erzähl mir, wo es im Alltag hakt. Gemeinsam finden wir heraus, welche Aufgaben ich für dein Team übernehmen kann.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci . Deutschsprachiges Back-Office & Support](<https://bayramdoekmeci.de/>)
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci.
 

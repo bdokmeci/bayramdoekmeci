@@ -14,7 +14,7 @@ Kurz gesagt
 
 Ich bin Bayram Dökmeci von MeinB2B und übernehme die persönliche Kundenkommunikation für Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Remote aus Antalya kläre ich Anliegen, koordiniere Rückmeldungen und halte nächste Schritte nach – **fließend auf Deutsch und direkt mit deinem Team.**
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
 Unverbindlich kennenlernen. Bedarf gemeinsam klären.
 
@@ -54,25 +54,25 @@ Gute Betreuung endet nicht mit einer Antwort. Ich begleite den Austausch bis zum
 
 1. 01 /
 
-   ### Persönliche Kundenkommunikation
+### Persönliche Kundenkommunikation
 
-   Ich beantworte Anliegen in eurem Ton, frage gezielt nach und gebe verständliche Statusupdates. Per E-Mail, Kundenchat oder nach Absprache am Telefon.
+Ich beantworte Anliegen in eurem Ton, frage gezielt nach und gebe verständliche Statusupdates. Per E-Mail, Kundenchat oder nach Absprache am Telefon.
 
-   Customer Care · Aktives Zuhören · Servicekommunikation
+Customer Care · Aktives Zuhören · Servicekommunikation
 2. 02 /
 
-   ### Servicekoordination mit Überblick
+### Servicekoordination mit Überblick
 
-   Ich übernehme die Klärung, bündele Kontext und stimme Rückfragen mit den richtigen Personen ab. Beschwerden werden aufgenommen; fachliche Entscheidungen gehen an euer Team.
+Ich übernehme die Klärung, bündele Kontext und stimme Rückfragen mit den richtigen Personen ab. Beschwerden werden aufgenommen; fachliche Entscheidungen gehen an euer Team.
 
-   Case Ownership · Eskalationsmanagement · CRM
+Case Ownership · Eskalationsmanagement · CRM
 3. 03 /
 
-   ### Verbindliche Nachverfolgung
+### Verbindliche Nachverfolgung
 
-   Ich halte vereinbarte Rückmeldungen, Freigaben und nächste Schritte nach. Der Gesprächsverlauf wird im gemeinsamen System dokumentiert, damit der Anschluss nicht verloren geht.
+Ich halte vereinbarte Rückmeldungen, Freigaben und nächste Schritte nach. Der Gesprächsverlauf wird im gemeinsamen System dokumentiert, damit der Anschluss nicht verloren geht.
 
-   Follow-ups · Wiedervorlagen · Gesprächsdokumentation
+Follow-ups · Wiedervorlagen · Gesprächsdokumentation
 
 02 Klarheit statt Weiterreichen
 
@@ -141,13 +141,13 @@ Begleiten
 
 1. ### Den Rahmen klären
 
-   Wir definieren Kanäle, Tonalität, Zuständigkeiten und Rückmeldefristen. Zugänge, Datenumgang und notwendige Vereinbarungen klären wir vor dem Start.
+Wir definieren Kanäle, Tonalität, Zuständigkeiten und Rückmeldefristen. Zugänge, Datenumgang und notwendige Vereinbarungen klären wir vor dem Start.
 2. ### Im Alltag erproben
 
-   Ich übernehme die ersten vereinbarten Anliegen. Wir besprechen Rückfragen, prüfen Antwortqualität und schärfen die Übergaben an dein Team.
+Ich übernehme die ersten vereinbarten Anliegen. Wir besprechen Rückfragen, prüfen Antwortqualität und schärfen die Übergaben an dein Team.
 3. ### Verlässlich begleiten
 
-   Nach dem gemeinsamen Review legen wir die laufende Betreuung fest: mit dokumentierten Vorgängen, regelmäßiger Abstimmung und klaren nächsten Schritten.
+Nach dem gemeinsamen Review legen wir die laufende Betreuung fest: mit dokumentierten Vorgängen, regelmäßiger Abstimmung und klaren nächsten Schritten.
 
 Ein Pilot kann je nach Projekt beispielsweise ein bis zwei Wochen dauern. Arbeitsfenster, Reaktionszeiten und Umfang vereinbaren wir individuell.
 
@@ -201,7 +201,7 @@ Für mich gehören ein freundlicher Ton und ein dokumentierter nächster Schritt
 
 Du brauchst zusätzlich Unterstützung bei internen Abläufen oder der langfristigen Kundenentwicklung?
 
-[Back-Office & administrative Unterstützung](<https://bayramdoekmeci.de/deutschsprachiges-back-office/>)[Customer Success & Kunden-Onboarding](<https://bayramdoekmeci.de/customer-success/>)[B2B Leadgenerierung & Neukundengewinnung](<https://bayramdoekmeci.de/business-development/>)
+[Back-Office & administrative Unterstützung](<https://bayramdoekmeci.de/deutschsprachiges-back-office/>) [Customer Success & Kunden-Onboarding](<https://bayramdoekmeci.de/customer-success/>) [B2B Leadgenerierung & Neukundengewinnung](<https://bayramdoekmeci.de/business-development/>)
 
 06 Gut zu wissen
 
@@ -241,13 +241,13 @@ Gute Betreuung beginnt mit einem Gespräch.
 
 Erzähl mir, wo deine Kundenkommunikation Unterstützung braucht. Wir finden gemeinsam heraus, welche Aufgaben ich übernehmen kann.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Auf WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Auf WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci Persönlich. Auf Deutsch.](<https://bayramdoekmeci.de/>)
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci.
 

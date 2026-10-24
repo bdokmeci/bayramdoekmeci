@@ -14,7 +14,7 @@ Kurz gesagt
 
 **Bayram Dökmeci** begleitet B2B-Kunden und Agenturen in Deutschland, Österreich und der Schweiz nach dem Vertragsabschluss. Persönliches Onboarding, gezielte Anwenderschulungen und proaktive Kundenbetreuung machen digitale Produkte im Alltag nutzbar – remote aus Antalya und auf Deutsch.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
 Fließend Deutsch Direkter Ansprechpartner
 
@@ -79,25 +79,25 @@ Als externer Customer Success Manager verbinde ich persönliche B2B-Kundenbetreu
 
 Von der Sales-Übergabe zum ersten sinnvollen Einsatz: Ziele klären, Ansprechpartner einbinden, Zugänge koordinieren und Nutzer auf Deutsch schulen.
 
- Ihr Ergebnis: ein abgestimmter Onboarding-Plan.
+Ihr Ergebnis: ein abgestimmter Onboarding-Plan.
 
 ### Adoption, die im Alltag ankommt.
 
 Relevante Funktionen anhand echter Arbeitsabläufe erklären, Nutzungshürden erkennen und Check-ins planen. Damit aus einer Einführung eine verlässliche Routine wird.
 
- Ihr Ergebnis: Schulungen und konkrete Nutzungsschritte.
+Ihr Ergebnis: Schulungen und konkrete Nutzungsschritte.
 
 ### Kundenbindung mit Weitblick.
 
 Regelmäßige Gespräche, dokumentierte Ziele und frühzeitige Klärung von Unzufriedenheit. Technische Anliegen übergebe ich strukturiert an Ihren Support und halte die Kunden informiert.
 
- Ihr Ergebnis: nachvollziehbare Account- und Maßnahmenpläne.
+Ihr Ergebnis: nachvollziehbare Account- und Maßnahmenpläne.
 
 ### Account-Entwicklung mit Substanz.
 
 Prozesse gemeinsam verbessern, den geschäftlichen Nutzen besprechen und passende Erweiterungen erkennen. Cross- und Upselling setzen beim Bedarf des Kunden an.
 
- Ihr Ergebnis: ein begründeter nächster Entwicklungsschritt.
+Ihr Ergebnis: ein begründeter nächster Entwicklungsschritt.
 
 02 Klarheit statt Zufall
 
@@ -111,7 +111,7 @@ Customer Success macht die nächsten Schritte verständlich. Entscheidend sind k
 
 ### Was Begleitung verändert.
 
- Illustration
+Illustration
 
 Qualitatives Beispielszenario: gering, mittel, hoch. Die Balken zeigen illustrative Einordnungen – keine Messwerte, Prozentzahlen oder garantierten Ergebnisse.
 
@@ -213,24 +213,24 @@ Ein wiederkehrender Ablauf, kein starres Schema. Umfang und Taktung richten sich
 
 1. ### Verstehen
 
-   Wir besprechen Ihr Produkt, die Kundensegmente und die Stellen, an denen Nutzer heute hängen bleiben.
+Wir besprechen Ihr Produkt, die Kundensegmente und die Stellen, an denen Nutzer heute hängen bleiben.
 
-    Ergebnis: gemeinsame Ziele und ein klarer Auftrag.
+Ergebnis: gemeinsame Ziele und ein klarer Auftrag.
 2. ### Aufsetzen
 
-   Wir definieren Ansprechpartner, Zugänge, eine saubere Sales-Übergabe und den Ablauf der ersten Kundentermine.
+Wir definieren Ansprechpartner, Zugänge, eine saubere Sales-Übergabe und den Ablauf der ersten Kundentermine.
 
-    Ergebnis: ein einsatzbereiter Betreuungsplan.
+Ergebnis: ein einsatzbereiter Betreuungsplan.
 3. ### Begleiten
 
-   Ich führe Onboardings und Schulungen durch, koordiniere offene Punkte und halte Entscheidungen in Ihren Systemen fest.
+Ich führe Onboardings und Schulungen durch, koordiniere offene Punkte und halte Entscheidungen in Ihren Systemen fest.
 
-    Ergebnis: dokumentierte nächste Schritte je Kunde.
+Ergebnis: dokumentierte nächste Schritte je Kunde.
 4. ### Weiterentwickeln
 
-   Wir prüfen Nutzung, Kundenfeedback und vereinbarte Ziele. Daraus leiten wir Anpassungen und sinnvolle Erweiterungen ab.
+Wir prüfen Nutzung, Kundenfeedback und vereinbarte Ziele. Daraus leiten wir Anpassungen und sinnvolle Erweiterungen ab.
 
-    Ergebnis: ein aktualisierter Account-Plan.
+Ergebnis: ein aktualisierter Account-Plan.
 
 04 Aus der Praxis gedacht
 
@@ -280,7 +280,7 @@ Als digitaler Architekt und Full-Stack-Entwickler verstehe ich auch die Systeme 
 
 Sie arbeiten direkt mit mir: auf Deutsch, remote aus der Türkei und ohne Agentur-Overhead. Als Client Success Partner ergänze ich Ihr Team dort, wo persönliche Begleitung und technisches Verständnis zusammenkommen.
 
-[Deutschsprachiges Back-Office & Kundensupport](<https://bayramdoekmeci.de/deutschsprachiges-back-office/>)[B2B Leadgenerierung & Business Development](<https://bayramdoekmeci.de/customer-success/business-development/>)[Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>)[Full-Stack-Entwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>)
+[Deutschsprachiges Back-Office & Kundensupport](<https://bayramdoekmeci.de/deutschsprachiges-back-office/>) [B2B Leadgenerierung & Business Development](<https://bayramdoekmeci.de/customer-success/business-development/>) [Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>) [Full-Stack-Entwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>)
 
 **Zielgruppe**
 
@@ -346,9 +346,9 @@ Ihr nächster Schritt Persönlich sprechen
 
 Erzählen Sie mir von Ihrem Produkt, Ihrem Kundenportfolio und der Stelle, an der Sie Unterstützung brauchen. Gemeinsam klären wir, wie eine passende Betreuung aussehen kann.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Per WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Per WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 Für Geschäftskunden und Agenturen in DACH. Direkter Kontakt mit Bayram Dökmeci.
 

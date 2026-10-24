@@ -12,7 +12,7 @@ url: "https://bayramdoekmeci.de/shopware/"
 
 Bayram Dökmeci von MeinB2B übernimmt Shopware-Wartung, QA-Tests und Shopify-Betreuung für Unternehmen und Agenturen in DACH. Für verlässliche Kaufprozesse und planbare Updates. Persönlich, remote und auf Deutsch.
 
-[Kennenlernen buchen](<https://calendly.com/bayramdokmeci/b2b>)[Per WhatsApp](<https://wa.me/905078827795>)
+[Kennenlernen buchen](<https://calendly.com/bayramdokmeci/b2b>) [Per WhatsApp](<https://wa.me/905078827795>)
 
 Direkter Ansprechpartner. Klare Absprachen.
 
@@ -115,7 +115,7 @@ Betreuung von Themes, Apps und Kaufprozessen – abgestimmt auf die Möglichkeit
 - Produktdaten & Bestellabläufe
 - Theme-Kopien & Datenexporte
 
-Der Umfang richtet sich nach Hosting-Modell, Zugängen und Shop-Setup. Sie benötigen auch individuelle Schnittstellen? Mehr zur [Full-Stack-Entwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>).
+Der Umfang richtet sich nach Hosting-Modell, Zugängen und Shop-Setup. Sie benötigen auch individuelle Schnittstellen? Mehr zur [Full-Stack-Entwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>) .
 
 Qualität wird konkret
 
@@ -210,16 +210,16 @@ Ein gemeinsamer Ablauf. Klare Freigaben in jedem Projekt.
 
 1. ### Setup verstehen.
 
-   System, Erweiterungen, kritische Kaufprozesse und Zuständigkeiten erfassen. Gemeinsam legen wir Prioritäten und Testumfang fest.
+System, Erweiterungen, kritische Kaufprozesse und Zuständigkeiten erfassen. Gemeinsam legen wir Prioritäten und Testumfang fest.
 2. ### Änderung absichern.
 
-   Backups und Rückweg vorbereiten. Je nach Plattform arbeiten wir mit Staging, Theme-Vorschau und geeigneten Testdaten.
+Backups und Rückweg vorbereiten. Je nach Plattform arbeiten wir mit Staging, Theme-Vorschau und geeigneten Testdaten.
 3. ### Prüfen & entscheiden.
 
-   Tests durchführen, Befunde priorisieren und Korrekturen nachtesten. Live geht die Änderung nach Ihrer abgestimmten Freigabe.
+Tests durchführen, Befunde priorisieren und Korrekturen nachtesten. Live geht die Änderung nach Ihrer abgestimmten Freigabe.
 4. ### Dranbleiben.
 
-   Wartungstermine, Folgetests und nächste Schritte dokumentieren. Ein regelmäßiger Bericht hält Ihr Team auf dem gleichen Stand.
+Wartungstermine, Folgetests und nächste Schritte dokumentieren. Ein regelmäßiger Bericht hält Ihr Team auf dem gleichen Stand.
 
 Rhythmus, Reaktionszeiten und Freigaben werden im Leistungsumfang vereinbart.
 
@@ -233,13 +233,13 @@ Sie brauchen Entlastung, aber keine zusätzliche Vollzeitstelle? Ich ergänze Ih
 
 - ### Direkt mit dem Umsetzer.
 
-  Abstimmungen und technische Rückfragen laufen persönlich über mich. Ohne zusätzliche Vermittlungsebene.
+Abstimmungen und technische Rückfragen laufen persönlich über mich. Ohne zusätzliche Vermittlungsebene.
 - ### Monatlich planbar.
 
-  Ein individueller Festpreis für den vereinbarten Umfang. Zusatzaufwand wird vorab abgestimmt.
+Ein individueller Festpreis für den vereinbarten Umfang. Zusatzaufwand wird vorab abgestimmt.
 - ### Passend zu Ihrem Team.
 
-  Projektbezogen oder laufend, auch als White-Label-Unterstützung für Agenturen. Zuständigkeiten und SLAs halten wir schriftlich fest.
+Projektbezogen oder laufend, auch als White-Label-Unterstützung für Agenturen. Zuständigkeiten und SLAs halten wir schriftlich fest.
 
 Aus dem Projektalltag gedacht
 
@@ -317,15 +317,15 @@ Ihr nächster Schritt
 
 Erzählen Sie mir, wo Ihr Shop steht. Gemeinsam klären wir, welche Tests und welche Betreuung Ihnen wirklich weiterhelfen.
 
-[Kennenlernen buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Kennenlernen buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci Digital. Direkt. Durchdacht.](<https://bayramdoekmeci.de/>)
 
 MeinB2B · Konyaaltı Blv., 07070 Antalya, Türkiye
 Für Geschäftskunden und Agenturen in DACH.
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. Technische Grundlagen: [Shopware-Updates](<https://docs.shopware.com/de/shopware-6-de/update-guides/shopware-aktualisieren-updaten>) · [Shopify-Datensicherung](<https://help.shopify.com/en/manual/shopify-admin/duplicate-store>)

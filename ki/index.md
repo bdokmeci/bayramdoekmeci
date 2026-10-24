@@ -14,7 +14,7 @@ Für Unternehmen & Agenturen in DACH
 
 Bayram Dökmeci von MeinB2B entwickelt **KI-Workflows für Unternehmen und Agenturen** in Deutschland, Österreich und der Schweiz. Ich verbinde Anfragen, Wissen und CRM zu klaren Abläufen – mit menschlicher Freigabe an den entscheidenden Stellen.
 
-[Deinen Workflow besprechen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Deinen Workflow besprechen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
 Direkt mit dem Umsetzer Fließend Deutsch Ausschließlich B2B
 
@@ -24,7 +24,7 @@ DEIN PROZESS. WEITERGEDACHT. 01 / 03
 
 Ein möglicher KI-Workflow für deinen Vertrieb
 
- BEISPIEL
+BEISPIEL
 
 Von der Anfrage zur freigegebenen CRM-Übergabe
 
@@ -112,9 +112,9 @@ Aus freigegebenen Briefings entstehen Entwürfe für LinkedIn oder Follow-ups. Z
 
 KI kann unstrukturierte Texte in nutzbare Informationen verwandeln. Regeln bestimmen, was damit passiert. Beides bekommt einen festen Platz im Prozess.
 
-- **Nur passende Daten hinein.**Wir definieren Quellen, Zugriffe und die Informationen, die der einzelne Schritt wirklich braucht.
-- **Ergebnisse mit Prüfregeln abgleichen.**Pflichtfelder, Formate und Quellenbezug werden geprüft. Zweifelhafte Fälle gehen an dein Team.
-- **Fehler bekommen einen eigenen Weg.**Protokollierung, Rückfragen und definierte Wiederholungen machen den Ablauf betreubar.
+- **Nur passende Daten hinein.** Wir definieren Quellen, Zugriffe und die Informationen, die der einzelne Schritt wirklich braucht.
+- **Ergebnisse mit Prüfregeln abgleichen.** Pflichtfelder, Formate und Quellenbezug werden geprüft. Zweifelhafte Fälle gehen an dein Team.
+- **Fehler bekommen einen eigenen Weg.** Protokollierung, Rückfragen und definierte Wiederholungen machen den Ablauf betreubar.
 
 PROZESSLOGIK / BEISPIELARCHITEKTUR
 
@@ -221,7 +221,7 @@ Das Team liest Anfragen, sucht Angaben zusammen und überträgt dieselben Inform
 
 KI extrahiert Bedarf, Unternehmen und Kontaktdaten. Prüfregeln markieren fehlende Angaben. Nach Freigabe entstehen ein CRM-Eintrag und eine Aufgabe für die zuständige Person.
 
-**Angestrebtes Ergebnis**Ein strukturiert übergebener Vorgang mit nachvollziehbarer Quelle und klarer Zuständigkeit.
+**Angestrebtes Ergebnis** Ein strukturiert übergebener Vorgang mit nachvollziehbarer Quelle und klarer Zuständigkeit.
 
 TYPISCHES BEISPIEL / AGENTUR
 
@@ -235,7 +235,7 @@ Eine Agentur bereitet wiederkehrend LinkedIn-Beiträge aus freigegebenen Fachinh
 
 Ein Workflow übernimmt das Briefing, berücksichtigt Tonalität und Quellen und erstellt Entwürfe. Redaktion und Kunde prüfen die Inhalte im vereinbarten Freigabeprozess.
 
-**Angestrebtes Ergebnis**Eine konsistente Entwurfsbasis mit Quellenbezug. Veröffentlichung erst nach redaktioneller Freigabe.
+**Angestrebtes Ergebnis** Eine konsistente Entwurfsbasis mit Quellenbezug. Veröffentlichung erst nach redaktioneller Freigabe.
 
 05 / Unsere Zusammenarbeit
 
@@ -245,24 +245,24 @@ Wir beginnen mit einem sinnvollen Anwendungsfall. Du bekommst klare Entscheidung
 
 1. ### Prozess verstehen
 
-   Ziel, Datenquellen, Systeme und wiederkehrende Handgriffe gemeinsam erfassen.
+Ziel, Datenquellen, Systeme und wiederkehrende Handgriffe gemeinsam erfassen.
 
-    ERGEBNIS: ABGESTIMMTER USE CASE
+ERGEBNIS: ABGESTIMMTER USE CASE
 2. ### Pilot entwickeln
 
-   Einen abgegrenzten KI-Workflow mit Prüfschritten und repräsentativen Testfällen aufbauen.
+Einen abgegrenzten KI-Workflow mit Prüfschritten und repräsentativen Testfällen aufbauen.
 
-    ERGEBNIS: TESTBARER ABLAUF
+ERGEBNIS: TESTBARER ABLAUF
 3. ### Im Alltag prüfen
 
-   Entwurfsqualität, Ausnahmen und Aufwand bewerten. Dein Team entscheidet über die Einführung.
+Entwurfsqualität, Ausnahmen und Aufwand bewerten. Dein Team entscheidet über die Einführung.
 
-    ERGEBNIS: KLARE ENTSCHEIDUNG
+ERGEBNIS: KLARE ENTSCHEIDUNG
 4. ### Sauber übergeben
 
-   Workflow dokumentieren, Team einweisen und Zuständigkeiten für Betrieb und Pflege festlegen.
+Workflow dokumentieren, Team einweisen und Zuständigkeiten für Betrieb und Pflege festlegen.
 
-    ERGEBNIS: BETREUBARE LÖSUNG
+ERGEBNIS: BETREUBARE LÖSUNG
 
 ### Hi, ich bin Bayram. Dein direkter Draht zur Umsetzung.
 
@@ -272,7 +272,7 @@ MeinB2B · Remote aus Antalya · Für Deutschland, Österreich & die Schweiz
 
 [Auf LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)
 
-[n8n-Beratung & technische Workflows](<https://bayramdoekmeci.de/n8n/>)[Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>)[B2B-Leadgenerierung](<https://bayramdoekmeci.de/business-development/>)
+[n8n-Beratung & technische Workflows](<https://bayramdoekmeci.de/n8n/>) [Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>) [B2B-Leadgenerierung](<https://bayramdoekmeci.de/business-development/>)
 
 06 / Gut zu wissen
 
@@ -312,15 +312,15 @@ Der nächste Schritt ist ein Gespräch.
 
 Bring einen Prozess mit, der deinem Team Zeit kostet. Gemeinsam klären wir, wo KI helfen kann und wie ein sinnvoller erster Workflow aussieht.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Lieber per WhatsApp](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Lieber per WhatsApp](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci . KI & DIGITALE PROZESSE](<https://bayramdoekmeci.de/>)
 
 MeinB2B · Konyaaltı Blv., 07070 Antalya, Türkiye
 Für Geschäftskunden und Agenturen in DACH.
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. Durchdachte Prozesse. Direkte Zusammenarbeit.

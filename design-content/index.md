@@ -194,7 +194,7 @@ Teile Zielgruppe, geplante Kanäle und den aktuellen Stand deiner Inhalte. Gemei
 
 [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci MeinB2B · Antalya, Türkiye](<https://bayramdoekmeci.de/>)
 

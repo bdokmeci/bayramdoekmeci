@@ -13,7 +13,7 @@ Kurz gesagt
 
 **Bayram Dökmeci von MeinB2B** unterstützt Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz bei der B2B Leadgenerierung. Die Leistung verbindet Zielkundenrecherche, LinkedIn-Ansprache und Marketing Automation zu einem klaren Prozess bis zur qualifizierten Vertriebsübergabe. Die Zusammenarbeit erfolgt direkt, remote aus Antalya und auf Deutsch.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Auf WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Auf WhatsApp schreiben](<https://wa.me/905078827795>)
 
 Ein Ansprechpartner Ohne Agentur-Overhead
 
@@ -73,25 +73,25 @@ Ein volles Adressbuch ist noch keine Vertriebspipeline. Ich verbinde die passend
 
 Wir definieren dein Ideal Customer Profile (ICP): Branche, Unternehmensgröße, relevante Rollen, Bedarfssignale und Ausschlusskriterien. Daraus entstehen priorisierte Zielaccounts und eine Botschaft, die zu deren Situation passt.
 
- Du erhältst: Zielkundenprofil, Account-Liste und Gesprächsanlässe.
+Du erhältst: Zielkundenprofil, Account-Liste und Gesprächsanlässe.
 
 ### LinkedIn & Social Selling
 
 Profil, Inhalte und persönliche Ansprache erzählen dieselbe Geschichte. Ich recherchiere relevante Ansprechpartner, entwickle Nachrichten mit konkretem Bezug und strukturiere Follow-ups für einen echten Dialog.
 
- Du erhältst: Profil-Empfehlungen, Ansprache und Follow-up-Plan.
+Du erhältst: Profil-Empfehlungen, Ansprache und Follow-up-Plan.
 
 ### Marketing Automation & CRM
 
 Ich verbinde freigegebene Datenquellen, CRM und interne Abläufe, etwa mit HubSpot und n8n. Lead-Routing, Erinnerungen und dokumentierte Übergaben sorgen dafür, dass dein Team den nächsten Schritt kennt.
 
- Du erhältst: abgestimmte Workflows und eine verständliche Dokumentation.
+Du erhältst: abgestimmte Workflows und eine verständliche Dokumentation.
 
 ### Qualifizierung & Sales Handoff
 
 Wir legen fest, wann aus einem Kontakt eine vertriebsrelevante Chance wird: passende Rolle, erkennbarer Bedarf und ein vereinbarter nächster Schritt. Rückmeldungen aus dem Vertrieb fließen in die nächste Ansprache ein.
 
- Du erhältst: Qualifizierungskriterien, Übergabevorlage und Auswertung.
+Du erhältst: Qualifizierungskriterien, Übergabevorlage und Auswertung.
 
 02 / Das Zusammenspiel
 
@@ -154,7 +154,7 @@ Ein Termin mit dokumentiertem Bedarf, passender Rolle und gemeinsam geklärtem G
 
 ### Qualität vor Menge.
 
- BEISPIEL
+BEISPIEL
 
 Frei gewählte Beispieldaten zur Erklärung des Trichters. Keine Kundenergebnisse, Prognose oder Branchenwerte.
 
@@ -187,24 +187,24 @@ Ein abgegrenzter Pilot macht die Zusammenarbeit überschaubar. Wir legen fest, w
 
 1. ### Verstehen
 
-   Wir besprechen Angebot, Zielmarkt, bisherigen Vertrieb und den konkreten Engpass.
+Wir besprechen Angebot, Zielmarkt, bisherigen Vertrieb und den konkreten Engpass.
 
-    Ergebnis: klarer Auftrag & Zielkundenprofil.
+Ergebnis: klarer Auftrag & Zielkundenprofil.
 2. ### Aufsetzen
 
-   Ich entwickle Account-Liste, Ansprache, CRM-Stufen und die vereinbarten Workflows.
+Ich entwickle Account-Liste, Ansprache, CRM-Stufen und die vereinbarten Workflows.
 
-    Ergebnis: abgestimmter Pilot & Übergabekriterien.
+Ergebnis: abgestimmter Pilot & Übergabekriterien.
 3. ### Im Markt lernen
 
-   Wir starten mit einem ausgewählten Segment, dokumentieren Rückmeldungen und prüfen die Passung.
+Wir starten mit einem ausgewählten Segment, dokumentieren Rückmeldungen und prüfen die Passung.
 
-    Ergebnis: nachvollziehbare Dialoge & Erkenntnisse.
+Ergebnis: nachvollziehbare Dialoge & Erkenntnisse.
 4. ### Weiterentwickeln
 
-   Wir passen Botschaften und Abläufe an. Eine Ausweitung folgt, wenn die Erkenntnisse dafür sprechen.
+Wir passen Botschaften und Abläufe an. Eine Ausweitung folgt, wenn die Erkenntnisse dafür sprechen.
 
-    Ergebnis: begründete nächste Schritte.
+Ergebnis: begründete nächste Schritte.
 
 Umfang, Zeitrahmen und Vergütung werden vor dem Start individuell vereinbart. Ein Pilot ist je nach Datenlage, Abstimmung und Vertriebszyklus über mehrere Wochen sinnvoll; eine feste Anzahl an Leads wird nicht zugesagt.
 
@@ -256,7 +256,7 @@ Ich verbinde Business Development mit dem technischen Verständnis für CRM und 
 
 Mit MeinB2B arbeite ich remote aus Antalya für die DACH-Region. Die Kommunikation ist fließend auf Deutsch; Zuständigkeiten und Abstimmungstermine vereinbaren wir passend zu deinem Team.
 
-[Auf LinkedIn kennenlernen](<https://www.linkedin.com/in/bayramdoekmeci/>)[GitHub-Profil](<https://github.com/bdokmeci>)
+[Auf LinkedIn kennenlernen](<https://www.linkedin.com/in/bayramdoekmeci/>) [GitHub-Profil](<https://github.com/bdokmeci>)
 
 **Anbieter**
 
@@ -280,7 +280,7 @@ Konyaaltı Blv., 07070 Antalya, Türkiye
 
 Passende Leistungen für die nächsten Schritte:
 
-[International Sales: Marktstrategie & Vertriebssteuerung](<https://bayramdoekmeci.de/international-sales/>)[Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>)[Customer Success nach dem Abschluss](<https://bayramdoekmeci.de/>)[Technische Schnittstellen & Webentwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>)
+[International Sales: Marktstrategie & Vertriebssteuerung](<https://bayramdoekmeci.de/international-sales/>) [Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>) [Customer Success nach dem Abschluss](<https://bayramdoekmeci.de/>) [Technische Schnittstellen & Webentwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>)
 
 07 / Fragen & Antworten
 
@@ -320,9 +320,9 @@ Dein nächster Schritt ↗
 
 Lass uns über dein Angebot, deine Zielkunden und deinen bisherigen Vertriebsprozess sprechen. Wir klären gemeinsam, wo ich dich konkret unterstützen kann.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 Direkt mit Bayram Dökmeci · Für B2B-Unternehmen & Agenturen in DACH
 

@@ -12,7 +12,7 @@ Kurz gesagt
 
 **Bayram Dökmeci** von MeinB2B entwickelt individuelle WordPress-Themes, Plugins und CMS-Architekturen für Geschäftskunden und Agenturen in DACH. Dazu gehören Performance-Optimierung und eine zum Projekt passende CDN-Anbindung – remote aus Antalya, mit direkter Kommunikation auf Deutsch.
 
-[Dein CMS-Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>)[Was ich entwickle](<https://bayramdoekmeci.de/wordpress-cms-entwickler/#leistungen>)
+[Dein CMS-Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>) [Was ich entwickle](<https://bayramdoekmeci.de/wordpress-cms-entwickler/#leistungen>)
 
 Direkt mit dem Entwickler Fließend Deutsch Für B2B & Agenturen
 
@@ -23,7 +23,7 @@ Die Architektur hinter deinem CMS.
 Für dein Team gemacht.
 Für Wachstum gedacht.
 
- <build />
+<build />
 
 Eine durchdachte Website-Architektur
 
@@ -84,9 +84,9 @@ Ob Relaunch, eigenes Plugin oder gewachsene Plattform: Ich entwickle WordPress s
 
 Ein CMS muss Inhalte einfach pflegbar machen und technisch sauber ausliefern. Deshalb betrachte ich Theme, Plugins, Datenbank, Hosting und Caching gemeinsam.
 
-- **Weniger Ballast, klare Funktionen.**Nur die Komponenten, die dein Projekt braucht.
-- **Inhalte dort ausliefern, wo sie gebraucht werden.**Cachebare Seiten und Assets über ein CDN bereitstellen.
-- **Für morgen mitdenken.**Dokumentierte Strukturen statt schwer wartbarer Sonderwege.
+- **Weniger Ballast, klare Funktionen.** Nur die Komponenten, die dein Projekt braucht.
+- **Inhalte dort ausliefern, wo sie gebraucht werden.** Cachebare Seiten und Assets über ein CDN bereitstellen.
+- **Für morgen mitdenken.** Dokumentierte Strukturen statt schwer wartbarer Sonderwege.
 
 Architektur im Vergleich
 
@@ -162,16 +162,16 @@ Live gehen
 
 1. ### Verstehen
 
-   Wir sprechen über dein Ziel, die Nutzer und den technischen Ausgangspunkt.
+Wir sprechen über dein Ziel, die Nutzer und den technischen Ausgangspunkt.
 2. ### Planen
 
-   Du erhältst einen klaren Umfang, eine passende Architektur und einen abgestimmten Zeitplan.
+Du erhältst einen klaren Umfang, eine passende Architektur und einen abgestimmten Zeitplan.
 3. ### Entwickeln
 
-   Ich setze um. Du gibst Feedback zu greifbaren Zwischenständen.
+Ich setze um. Du gibst Feedback zu greifbaren Zwischenständen.
 4. ### Live gehen
 
-   Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
+Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
 
 04 / Von der Herausforderung zur Lösung
 
@@ -183,21 +183,21 @@ TYPISCHE BEISPIELE · KEINE GEMESSENEN ERGEBNISSE
 
 **Typisches Beispiel: ein WordPress-Relaunch**
 
-**Das Szenario**Eine B2B-Website nutzt viele überlappende Plugins. Das Marketingteam braucht klarere Inhaltsbausteine und einfachere Pflege.
+**Das Szenario** Eine B2B-Website nutzt viele überlappende Plugins. Das Marketingteam braucht klarere Inhaltsbausteine und einfachere Pflege.
 
-**Mein Ansatz**Plugins und Datenmodell prüfen, ein Custom Theme mit wiederverwendbaren Inhaltsbausteinen entwickeln und geeignete Inhalte über ein CDN ausliefern.
+**Mein Ansatz** Plugins und Datenmodell prüfen, ein Custom Theme mit wiederverwendbaren Inhaltsbausteinen entwickeln und geeignete Inhalte über ein CDN ausliefern.
 
-**Das angestrebte Ergebnis**Ein verständliches Backend, klar abgegrenzte Funktionen und ein wartbares System. Die tatsächliche Performance wird am konkreten Projekt geprüft.
+**Das angestrebte Ergebnis** Ein verständliches Backend, klar abgegrenzte Funktionen und ein wartbares System. Die tatsächliche Performance wird am konkreten Projekt geprüft.
 
 [B2B-Webentwicklung im Überblick](<https://bayramdoekmeci.de/>)
 
 **Typisches Beispiel: ein individuelles Plugin**
 
-**Das Szenario**Eine Agentur benötigt einen Produktkatalog mit Import aus dem bestehenden ERP. Die Standard-Plugins bilden den gewünschten Ablauf nicht ab.
+**Das Szenario** Eine Agentur benötigt einen Produktkatalog mit Import aus dem bestehenden ERP. Die Standard-Plugins bilden den gewünschten Ablauf nicht ab.
 
-**Mein Ansatz**Datenfelder und Importablauf definieren, ein schlankes Plugin entwickeln und Fehlerfälle sowie Rollen im Backend berücksichtigen.
+**Mein Ansatz** Datenfelder und Importablauf definieren, ein schlankes Plugin entwickeln und Fehlerfälle sowie Rollen im Backend berücksichtigen.
 
-**Das angestrebte Ergebnis**Eine auf den Anwendungsfall abgestimmte Erweiterung mit nachvollziehbarer Datenverarbeitung und Dokumentation für die Übergabe.
+**Das angestrebte Ergebnis** Eine auf den Anwendungsfall abgestimmte Erweiterung mit nachvollziehbarer Datenverarbeitung und Dokumentation für die Übergabe.
 
 [Full-Stack-Unterstützung für dein Team](<https://bayramdoekmeci.de/full-stack-entwickler/>)
 
@@ -249,6 +249,6 @@ Dein CMS kann mehr.
 
 Neuaufbau, Relaunch oder eine Funktion, die fehlt? Lass uns gemeinsam den nächsten sinnvollen Schritt für dein WordPress-Projekt finden.
 
-[Erstgespräch vereinbaren](<https://calendly.com/bayramdokmeci/b2b>)[Auf WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch vereinbaren](<https://calendly.com/bayramdokmeci/b2b>) [Auf WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>) Unverbindlich. Direkt. Auf Deutsch.
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>) Unverbindlich. Direkt. Auf Deutsch.

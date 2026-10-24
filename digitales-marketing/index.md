@@ -77,7 +77,7 @@ Strategie und Umsetzung in einer Hand.
 
 Eine Kampagne allein löst keinen gebrochenen Prozess. Ich verbinde die richtigen Maßnahmen mit den Systemen dahinter – vom ersten Klick bis zur Übergabe an deinen Vertrieb.
 
- [Den passenden Einstieg finden](<https://calendly.com/bayramdokmeci/b2b>)
+[Den passenden Einstieg finden](<https://calendly.com/bayramdokmeci/b2b>)
 
 ### Performance mit Richtung.
 
@@ -105,7 +105,7 @@ CRM, Kampagnen und Follow-up greifen ineinander: mit n8n-Workflows, API- und Web
 - APIs & Webhooks
 - CRM & Nurturing
 
-[n8n-Beratung & Workflow Automatisierung ansehen](<https://bayramdoekmeci.de/n8n/>)[KI-Automatisierung für Anfragen, Wissen & CRM](<https://bayramdoekmeci.de/ki/>)
+[n8n-Beratung & Workflow Automatisierung ansehen](<https://bayramdoekmeci.de/n8n/>) [KI-Automatisierung für Anfragen, Wissen & CRM](<https://bayramdoekmeci.de/ki/>)
 
 ### SEO mit technischem Fundament.
 
@@ -115,7 +115,7 @@ Suchintention, Inhalte und Technik aufeinander abstimmen. Ich prüfe Crawlabilit
 - Page Speed
 - Strukturierte Daten
 
-[WordPress & CMS als technische Grundlage](<https://bayramdoekmeci.de/wordpress-cms-entwickler/>)[Programmatic SEO & skalierbare Landingpages](<https://bayramdoekmeci.de/programmatic/>)
+[WordPress & CMS als technische Grundlage](<https://bayramdoekmeci.de/wordpress-cms-entwickler/>) [Programmatic SEO & skalierbare Landingpages](<https://bayramdoekmeci.de/programmatic/>)
 
 02 / Die richtigen Signale
 
@@ -129,7 +129,7 @@ Variante B zeigt im Beispiel: Auch bei weniger Anfragen können mehr qualifizier
 
 ### Zwei Wege durch den Funnel
 
- Quoten · Skala 0–100 %
+Quoten · Skala 0–100 %
 
 Vergleich
 
@@ -173,7 +173,7 @@ Deine Tools müssen kein neues Zuhause bekommen. Sie brauchen klare Übergaben. 
 
 Eine Anfrage wird geprüft, einem Kontakt zugeordnet und mit einer klaren nächsten Aufgabe an den Vertrieb übergeben. Fehlerfälle bleiben sichtbar; Workflows werden dokumentiert.
 
- [Technische Umsetzung & individuelle Schnittstellen](<https://bayramdoekmeci.de/full-stack-entwickler/>)
+[Technische Umsetzung & individuelle Schnittstellen](<https://bayramdoekmeci.de/full-stack-entwickler/>)
 
 Beispiel einer MarTech-Architektur
 
@@ -210,16 +210,16 @@ Wir beginnen bei deinem Engpass, setzen gezielt um und verbessern auf Basis verw
 
 1. ### Verstehen.
 
-   Angebot, Zielkunden, Kanäle und Daten prüfen. Gemeinsam festlegen, was eine qualifizierte Anfrage ist.
+Angebot, Zielkunden, Kanäle und Daten prüfen. Gemeinsam festlegen, was eine qualifizierte Anfrage ist.
 2. ### Priorisieren.
 
-   Den größten Engpass auswählen. Maßnahmen, Kennzahlen und den Umfang des ersten Piloten abstimmen.
+Den größten Engpass auswählen. Maßnahmen, Kennzahlen und den Umfang des ersten Piloten abstimmen.
 3. ### Verbinden.
 
-   Kampagnen, Inhalte und Workflows umsetzen. Übergaben, Datenfelder und Fehlerfälle gemeinsam prüfen.
+Kampagnen, Inhalte und Workflows umsetzen. Übergaben, Datenfelder und Fehlerfälle gemeinsam prüfen.
 4. ### Verbessern.
 
-   Ergebnisse mit dem Vertrieb auswerten. Botschaften, Zielgruppen und Abläufe gezielt nachschärfen.
+Ergebnisse mit dem Vertrieb auswerten. Botschaften, Zielgruppen und Abläufe gezielt nachschärfen.
 
 Ein erster klar abgegrenzter Pilot lässt sich je nach Zugängen, Datenlage und Umfang typischerweise in einigen Wochen aufsetzen. Den konkreten Zeitplan vereinbaren wir nach der Bestandsaufnahme.
 
@@ -233,29 +233,29 @@ Typische Beispiele · keine Kundenreferenzen
 
 **Anfragen kommen. Die passenden fehlen.**
 
-**Typisches Beispiel · Szenario**Ein B2B-Dienstleister erhält Anfragen, doch viele passen nicht zu Leistung, Budget oder Zielkundenprofil.
+**Typisches Beispiel · Szenario** Ein B2B-Dienstleister erhält Anfragen, doch viele passen nicht zu Leistung, Budget oder Zielkundenprofil.
 
-**Vorgehen**Idealkundenprofil und Angebot schärfen, Suchbegriffe oder Zielgruppen prüfen und die Landingpage um konkrete Einsatzfälle sowie klare Voraussetzungen ergänzen.
+**Vorgehen** Idealkundenprofil und Angebot schärfen, Suchbegriffe oder Zielgruppen prüfen und die Landingpage um konkrete Einsatzfälle sowie klare Voraussetzungen ergänzen.
 
-**Angestrebtes Ergebnis**Der Vertrieb kann Anfragen anhand gemeinsamer Kriterien bewerten; Kampagnen werden auf passende Gespräche ausgerichtet.
+**Angestrebtes Ergebnis** Der Vertrieb kann Anfragen anhand gemeinsamer Kriterien bewerten; Kampagnen werden auf passende Gespräche ausgerichtet.
 
 **Gute Leads. Unklare Übergaben.**
 
-**Typisches Beispiel · Szenario**Anfragen liegen verteilt in E-Mails, Tabellen und einem CRM. Herkunft und Zuständigkeit sind nicht durchgängig dokumentiert.
+**Typisches Beispiel · Szenario** Anfragen liegen verteilt in E-Mails, Tabellen und einem CRM. Herkunft und Zuständigkeit sind nicht durchgängig dokumentiert.
 
-**Vorgehen**Ein einheitliches Datenmodell festlegen, Dubletten prüfen und über einen Workflow Quelle, Sprache, Kontakt und nächste Aufgabe im CRM zusammenführen.
+**Vorgehen** Ein einheitliches Datenmodell festlegen, Dubletten prüfen und über einen Workflow Quelle, Sprache, Kontakt und nächste Aufgabe im CRM zusammenführen.
 
-**Angestrebtes Ergebnis**Eine nachvollziehbare Übergabe mit klarer Zuständigkeit und einem dokumentierten nächsten Schritt.
+**Angestrebtes Ergebnis** Eine nachvollziehbare Übergabe mit klarer Zuständigkeit und einem dokumentierten nächsten Schritt.
 
 [Schnittstellen & Systemintegration ansehen](<https://bayramdoekmeci.de/full-stack-entwickler/>)
 
 **Die Agentur braucht MarTech-Verstärkung.**
 
-**Typisches Beispiel · Szenario**Eine Agentur hat Strategie und Kreation im Griff, aber für Kampagnenanbindung, CRM-Workflows oder technische Fehleranalyse fehlt Kapazität.
+**Typisches Beispiel · Szenario** Eine Agentur hat Strategie und Kreation im Griff, aber für Kampagnenanbindung, CRM-Workflows oder technische Fehleranalyse fehlt Kapazität.
 
-**Vorgehen**Rollen und Zugriffe abstimmen, einen abgegrenzten Bereich übernehmen und Workflows mit Übergabedokumentation in die vorhandenen Abläufe integrieren.
+**Vorgehen** Rollen und Zugriffe abstimmen, einen abgegrenzten Bereich übernehmen und Workflows mit Übergabedokumentation in die vorhandenen Abläufe integrieren.
 
-**Angestrebtes Ergebnis**Ein betreubarer technischer Baustein, den das Agenturteam nutzen und weiterentwickeln kann.
+**Angestrebtes Ergebnis** Ein betreubarer technischer Baustein, den das Agenturteam nutzen und weiterentwickeln kann.
 
 Bayram Dökmeci / MeinB2B
 
@@ -309,9 +309,9 @@ Der nächste Schritt ist ein Gespräch.
 
 Wo verliert dein Unternehmen gerade Potenzial? Lass uns deinen Engpass ansehen und den nächsten sinnvollen Schritt finden.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Auf WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Auf WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>) Unverbindlich. Direkt. Auf Deutsch.
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>) Unverbindlich. Direkt. Auf Deutsch.
 
 [Bayram Dökmeci .](<https://bayramdoekmeci.de/>)
 

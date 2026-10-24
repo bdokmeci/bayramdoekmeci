@@ -12,7 +12,7 @@ Google Ads & Microsoft Ads · B2B / DACH
 
 **Kurz gesagt:** Ich bin Bayram Dökmeci von MeinB2B und betreue SEA-Kampagnen für Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Von der Suchintention bis zur qualifizierten Anfrage – direkt auf Deutsch, remote aus Antalya.
 
-[Potenzial besprechen](<https://calendly.com/bayramdokmeci/b2b>)[Direkt per WhatsApp](<https://wa.me/905078827795>)
+[Potenzial besprechen](<https://calendly.com/bayramdokmeci/b2b>) [Direkt per WhatsApp](<https://wa.me/905078827795>)
 
 Unverbindliches Erstgespräch Ein Ansprechpartner
 
@@ -122,7 +122,7 @@ Illustrative Rechnung. Keine Leistungsprognose.
 
 ### Gleiches Budget. Anderer Blick.
 
- BEISPIEL
+BEISPIEL
 
 Alle Anfragen
 
@@ -196,24 +196,24 @@ Lernen. Anpassen. Weiterentwickeln.
 
 1. 01 / Ausgangslage
 
-   ### Ziele verstehen
+### Ziele verstehen
 
-   Wir klären Angebot, Zielkunden und Vertriebsprozess. Bestehende Konten und Daten bilden die Grundlage für die ersten Prioritäten.
+Wir klären Angebot, Zielkunden und Vertriebsprozess. Bestehende Konten und Daten bilden die Grundlage für die ersten Prioritäten.
 2. 02 / Fundament
 
-   ### Sauber aufbauen
+### Sauber aufbauen
 
-   Ich entwickle Kampagnenstruktur, Anzeigen und Messkonzept. Budget, Landingpages und Freigaben stimmen wir gemeinsam ab.
+Ich entwickle Kampagnenstruktur, Anzeigen und Messkonzept. Budget, Landingpages und Freigaben stimmen wir gemeinsam ab.
 3. 03 / Start & Kontrolle
 
-   ### Gezielt prüfen
+### Gezielt prüfen
 
-   Nach deiner Freigabe starten die Kampagnen. Ich kontrolliere Auslieferung, Suchbegriffe und Conversion-Erfassung.
+Nach deiner Freigabe starten die Kampagnen. Ich kontrolliere Auslieferung, Suchbegriffe und Conversion-Erfassung.
 4. 04 / Laufende Betreuung
 
-   ### Mit Daten verbessern
+### Mit Daten verbessern
 
-   Wir bewerten Anfragen mit dem Vertrieb. Die Erkenntnisse fließen in Keywords, Anzeigen, Landingpages und Budgetentscheidungen zurück.
+Wir bewerten Anfragen mit dem Vertrieb. Die Erkenntnisse fließen in Keywords, Anzeigen, Landingpages und Budgetentscheidungen zurück.
 
 Der Zeitplan richtet sich nach Kontozugängen, Landingpages und Tracking. Leistungsumfang und Abstimmungsrhythmus vereinbaren wir vor dem Start.
 
@@ -227,15 +227,15 @@ ANTALYA, TR DE / AT / CH
 
 ### Modell mit mehreren Beteiligten
 
-- **Abstimmung**Übergaben zwischen Beratung, Projektleitung und Umsetzung
-- **Organisation**Mehrere Rollen und zusätzliche Koordination
-- **Preisgestaltung**Umfang und Organisationsstruktur bestimmen das Angebot
+- **Abstimmung** Übergaben zwischen Beratung, Projektleitung und Umsetzung
+- **Organisation** Mehrere Rollen und zusätzliche Koordination
+- **Preisgestaltung** Umfang und Organisationsstruktur bestimmen das Angebot
 
 ### Direkt mit Bayram Dökmeci
 
-- **Abstimmung**Direkter Austausch mit deinem SEA-Ansprechpartner
-- **Organisation**Remote aus Antalya, mit vereinbarten Kontaktzeiten
-- **Preisgestaltung**Individueller Leistungsumfang, transparent vereinbart
+- **Abstimmung** Direkter Austausch mit deinem SEA-Ansprechpartner
+- **Organisation** Remote aus Antalya, mit vereinbarten Kontaktzeiten
+- **Preisgestaltung** Individueller Leistungsumfang, transparent vereinbart
 
 Qualitativer Modellvergleich, keine pauschale Aussage über Agenturen. Werbebudget und Betreuung werden getrennt betrachtet. Auch als Unterstützung für dein Agenturteam.
 
@@ -295,7 +295,7 @@ Mehr Klarheit darüber, welche Kampagnen vertrieblich relevante Demo-Anfragen br
 
 Wenn dein Projekt über Suchanzeigen hinausgeht:
 
-[Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>)[B2B Leadgenerierung & LinkedIn](<https://bayramdoekmeci.de/business-development/>)[Webentwicklung & Schnittstellen](<https://bayramdoekmeci.de/full-stack-entwickler/>)
+[Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>) [B2B Leadgenerierung & LinkedIn](<https://bayramdoekmeci.de/business-development/>) [Webentwicklung & Schnittstellen](<https://bayramdoekmeci.de/full-stack-entwickler/>)
 
 06 / Gut zu wissen
 
@@ -333,9 +333,9 @@ Der nächste sinnvolle Schritt
 
 Du bringst dein Angebot und deine Ziele mit. Wir schauen gemeinsam, wo deine Suchkampagnen heute stehen und welcher nächste Schritt sinnvoll ist.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Per WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Per WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 Persönlich mit Bayram Dökmeci · Unverbindlich · Auf Deutsch
 

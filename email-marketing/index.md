@@ -12,13 +12,13 @@ Für B2B. Für Menschen.
 
 **Kurz gesagt:** Ich bin Bayram Dökmeci von MeinB2B. Ich entwickle E-Mail-Strategien, Newsletter und automatisierte Kontaktstrecken für Unternehmen und Agenturen in DACH – damit aus Interesse eine Beziehung wird.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Per WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Per WhatsApp schreiben](<https://wa.me/905078827795>)
 
 Direkt mit mir. Auf Deutsch. Ohne Agentur-Overhead.
 
 Kleine Mail. Nächster Schritt.
 
- FLOW-VORSCHAU
+FLOW-VORSCHAU
 
 Willkommen
 
@@ -129,9 +129,9 @@ Das Tool folgt deinem Bedarf. Bestehende Systeme, Schnittstellen und nötige Fun
 
 Ein Download, eine Anmeldung, ein neues Interesse: Gute E-Mail-Automation knüpft an einen konkreten Anlass an. Sie begleitet Kontakte, ohne sie mit Nachrichten zu überladen.
 
-- **Ein sauberer Start**Einwilligungsstatus, Double-Opt-in und Listenqualität als Teil des Setups.
-- **Ein nachvollziehbarer Weg**Segmente, Versandabstände und Stop-Regeln statt endloser E-Mail-Schleifen.
-- **Ein abgestimmtes Ziel**Relevante Inhalte bereitstellen, Rückfragen ermöglichen und passende Anfragen an den Vertrieb übergeben.
+- **Ein sauberer Start** Einwilligungsstatus, Double-Opt-in und Listenqualität als Teil des Setups.
+- **Ein nachvollziehbarer Weg** Segmente, Versandabstände und Stop-Regeln statt endloser E-Mail-Schleifen.
+- **Ein abgestimmtes Ziel** Relevante Inhalte bereitstellen, Rückfragen ermöglichen und passende Anfragen an den Vertrieb übergeben.
 
 [Mehr zur Workflow-Automatisierung](<https://bayramdoekmeci.de/n8n/>)
 
@@ -267,24 +267,24 @@ Du sprichst direkt mit der Person, die dein Projekt umsetzt. Wir stimmen Umfang,
 
 1. ### Zuhören & prüfen
 
-   Wir klären Ziele, Zielgruppen, Tools und den Zustand deines Verteilers.
+Wir klären Ziele, Zielgruppen, Tools und den Zustand deines Verteilers.
 
-    → Bestandsaufnahme & Prioritäten
+→ Bestandsaufnahme & Prioritäten
 2. ### Den Weg planen
 
-   Ich entwerfe Segmente, Inhalte, Versandregeln und die Erfolgsmessung.
+Ich entwerfe Segmente, Inhalte, Versandregeln und die Erfolgsmessung.
 
-    → Konzept & abgestimmter Umfang
+→ Konzept & abgestimmter Umfang
 3. ### Aufbauen & testen
 
-   Templates und Flows entstehen. Links, Darstellung und Abläufe werden geprüft.
+Templates und Flows entstehen. Links, Darstellung und Abläufe werden geprüft.
 
-    → Testversand & deine Freigabe
+→ Testversand & deine Freigabe
 4. ### Lernen & verbessern
 
-   Nach dem Start betrachten wir Ergebnisse und priorisieren nächste Schritte.
+Nach dem Start betrachten wir Ergebnisse und priorisieren nächste Schritte.
 
-    → Auswertung & Dokumentation
+→ Auswertung & Dokumentation
 
 **Hi, ich bin Bayram.** MeinB2B · Antalya → DACH
 
@@ -327,7 +327,7 @@ Ja, ich unterstütze Agenturen bei Konzeption, Templates, Automation und Kampagn
 Die Kosten hängen vom Zustand deines Setups, den benötigten Inhalten und dem Automatisierungsumfang ab. Im unverbindlichen Erstgespräch klären wir Ziele und Ausgangslage. Danach erhältst du einen abgestimmten Leistungsumfang mit Angebot und Zeitplan, bevor die Umsetzung beginnt.
 
 Dein Marketing weiterdenken:
-[Digitales Marketing für B2B ↗](<https://bayramdoekmeci.de/digitales-marketing/>)[LinkedIn für B2B-Leadgenerierung ↗](<https://bayramdoekmeci.de/linkedin/>)
+[Digitales Marketing für B2B ↗](<https://bayramdoekmeci.de/digitales-marketing/>) [LinkedIn für B2B-Leadgenerierung ↗](<https://bayramdoekmeci.de/linkedin/>)
 
 Deine nächste gute Verbindung.
 
@@ -335,9 +335,9 @@ Deine nächste gute Verbindung.
 
 Ein neuer Newsletter? Ein Flow, der noch fehlt? Erzähl mir, wo du stehst – wir finden den passenden nächsten Schritt.
 
-[Unverbindlich kennenlernen](<https://calendly.com/bayramdokmeci/b2b>)[Oder einfach per WhatsApp](<https://wa.me/905078827795>)
+[Unverbindlich kennenlernen](<https://calendly.com/bayramdokmeci/b2b>) [Oder einfach per WhatsApp](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci](<https://bayramdoekmeci.de/>)
 

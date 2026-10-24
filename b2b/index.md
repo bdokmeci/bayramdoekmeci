@@ -13,13 +13,13 @@ Für Unternehmen & Agenturen in DACH
 
 Kurz gesagt **Ich bin Bayram Dökmeci von MeinB2B.** Ich unterstütze Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz dabei, passende B2B-Partner zu finden, gemeinsam Kunden zu gewinnen und die Zusammenarbeit klar zu organisieren.
 
-[Partnerschaft besprechen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Partnerschaft besprechen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
 Direkter Kontakt. Fließend Deutsch. Ohne Agentur-Overhead.
 
 Verbindungen mit Perspektive
 
- 01 — 03
+01 — 03
 
 ## Dein Partner-Ökosystem.
 
@@ -45,9 +45,9 @@ Mehrwert gemeinsam
 
 Strategie verbindet. Zusammenarbeit bewegt.
 
-1. **01 / PARTNER-FIT**Stärken ergänzen
-2. **02 / CO-SELLING**Gemeinsam anbieten
-3. **03 / KUNDENWERT**Zusammen liefern
+1. **01 / PARTNER-FIT** Stärken ergänzen
+2. **02 / CO-SELLING** Gemeinsam anbieten
+3. **03 / KUNDENWERT** Zusammen liefern
 
 Gute Partnerschaften beginnen mit einem gemeinsamen Ziel. [Entdecke die Möglichkeiten](<https://bayramdoekmeci.de/b2b/#leistungen>)
 
@@ -163,16 +163,16 @@ Review & nächste Schritte
 
 1. ### Ein klares Zielbild
 
-   Wir klären Angebot, Zielkunden und Partnerkriterien. Ergebnis: ein abgestimmtes Partnerprofil.
+Wir klären Angebot, Zielkunden und Partnerkriterien. Ergebnis: ein abgestimmtes Partnerprofil.
 2. ### Relevante Gespräche
 
-   Passende Kontakte recherchieren, priorisieren und ansprechen. Ergebnis: eine qualifizierte Partner-Shortlist.
+Passende Kontakte recherchieren, priorisieren und ansprechen. Ergebnis: eine qualifizierte Partner-Shortlist.
 3. ### Ein gemeinsamer Pilot
 
-   Angebot, Rollen und Übergaben abstimmen. Ergebnis: ein konkreter Plan für die erste Zusammenarbeit.
+Angebot, Rollen und Übergaben abstimmen. Ergebnis: ein konkreter Plan für die erste Zusammenarbeit.
 4. ### Verbindliche Reviews
 
-   Aktivitäten und Chancen gemeinsam einordnen. Ergebnis: dokumentierte Learnings und nächste Schritte.
+Aktivitäten und Chancen gemeinsam einordnen. Ergebnis: dokumentierte Learnings und nächste Schritte.
 
 Wir starten mit einem klar begrenzten Umfang. Zeitplan und Meilensteine richten sich nach deinem Partnermodell und der Ausgangslage.
 
@@ -284,7 +284,7 @@ Ein klares Angebot, eine Zielkundengruppe und die Bereitschaft, gemeinsam mit Pa
 Bayram Dökmeci · MeinB2B
 Konyaaltı Blv., 07070 Antalya, Türkiye
 
-[Direkte B2B-Leadgenerierung](<https://bayramdoekmeci.de/business-development/>)[Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>)[Customer Success nach dem Abschluss](<https://bayramdoekmeci.de/customer-success/>)
+[Direkte B2B-Leadgenerierung](<https://bayramdoekmeci.de/business-development/>) [Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>) [Customer Success nach dem Abschluss](<https://bayramdoekmeci.de/customer-success/>)
 
 06 / Gut zu wissen
 
@@ -324,9 +324,9 @@ Der nächste gute Kontakt beginnt hier
 
 Du hast ein Angebot. Vielleicht auch schon erste Partner. Lass uns besprechen, welche Verbindung dein Unternehmen als Nächstes braucht.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 Direkt mit Bayram Dökmeci · Für B2B-Unternehmen & Agenturen in DACH
 

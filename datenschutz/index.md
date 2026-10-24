@@ -10,8 +10,8 @@ url: "https://bayramdoekmeci.de/datenschutz/"
 
 ## 1. Verantwortlicher
 
-**MeinB2B**, Inhaber Bayram Dökmeci, Konyaaltı Blv., 07070 Antalya, Türkiye
-E-Mail: [kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>), Telefon: +90 507 882 7795
+**MeinB2B** , Inhaber Bayram Dökmeci, Konyaaltı Blv., 07070 Antalya, Türkiye
+E-Mail: [kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) , Telefon: +90 507 882 7795
 
 ## 2. Überblick
 
@@ -19,11 +19,11 @@ Diese Website ist rein informativ. Ich setze keine Analyse- oder Tracking-Tools,
 
 ## 3. Hosting über Cloudflare Pages
 
-Die Website wird bei Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA, gehostet. Beim Aufruf verarbeitet Cloudflare technisch notwendige Verbindungsdaten (u. a. IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser- und Systeminformationen) in Server-Logs, um die Seite auszuliefern, die Sicherheit zu gewährleisten und Angriffe abzuwehren. Dabei können Daten in die USA übermittelt werden. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einem sicheren und performanten Betrieb). Weitere Informationen: [Datenschutzerklärung von Cloudflare](<https://www.cloudflare.com/privacypolicy/>).
+Die Website wird bei Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA, gehostet. Beim Aufruf verarbeitet Cloudflare technisch notwendige Verbindungsdaten (u. a. IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browser- und Systeminformationen) in Server-Logs, um die Seite auszuliefern, die Sicherheit zu gewährleisten und Angriffe abzuwehren. Dabei können Daten in die USA übermittelt werden. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einem sicheren und performanten Betrieb). Weitere Informationen: [Datenschutzerklärung von Cloudflare](<https://www.cloudflare.com/privacypolicy/>) .
 
 ## 4. Alpine.js über das CDN jsDelivr
 
-Auf einzelnen Seiten wird die JavaScript-Bibliothek Alpine.js über das Content Delivery Network jsDelivr (cdn.jsdelivr.net) geladen. Dabei verbindet sich dein Browser mit Servern von jsDelivr, und es werden technisch notwendige Daten (u. a. IP-Adresse, Zeitpunkt des Abrufs, Browser-Informationen) übertragen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer performanten und wartbaren Bereitstellung der Website). Weitere Informationen: [Datenschutzerklärung von jsDelivr](<https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net>).
+Auf einzelnen Seiten wird die JavaScript-Bibliothek Alpine.js über das Content Delivery Network jsDelivr (cdn.jsdelivr.net) geladen. Dabei verbindet sich dein Browser mit Servern von jsDelivr, und es werden technisch notwendige Daten (u. a. IP-Adresse, Zeitpunkt des Abrufs, Browser-Informationen) übertragen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer performanten und wartbaren Bereitstellung der Website). Weitere Informationen: [Datenschutzerklärung von jsDelivr](<https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net>) .
 
 ## 5. Kontaktaufnahme
 

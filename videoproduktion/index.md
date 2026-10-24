@@ -10,7 +10,7 @@ url: "https://bayramdoekmeci.de/videoproduktion/"
 
 **Kurz gesagt:** Bayram Dökmeci von MeinB2B produziert Videos und Animationen für Unternehmen und Agenturen in DACH. Die Zusammenarbeit läuft direkt, remote und auf Deutsch – auf Wunsch als White-Label-Partner.
 
-[Lass uns sprechen](<https://calendly.com/bayramdokmeci/b2b>)[Leistungen entdecken](<https://bayramdoekmeci.de/videoproduktion/#leistungen>)
+[Lass uns sprechen](<https://calendly.com/bayramdokmeci/b2b>) [Leistungen entdecken](<https://bayramdoekmeci.de/videoproduktion/#leistungen>)
 
 White Label Fließend Deutsch Für B2B & Agenturen
 
@@ -82,16 +82,16 @@ Der Fokus liegt auf digitaler Produktion und Postproduktion. Material, benötigt
 
 1. ### Wir stecken den Rahmen ab.
 
-   Ziel, Kanal, Formate und Material. Du teilst dein Briefing, wir stimmen Umfang und Zeitplan ab.
+Ziel, Kanal, Formate und Material. Du teilst dein Briefing, wir stimmen Umfang und Zeitplan ab.
 2. ### Ich bringe deine Story in Form.
 
-   Konzept, Schnitt oder Animation: Du bekommst einen ersten Entwurf, der deine Markenwelt aufgreift.
+Konzept, Schnitt oder Animation: Du bekommst einen ersten Entwurf, der deine Markenwelt aufgreift.
 3. ### Dein Feedback. Der Feinschliff.
 
-   Du bündelst die Rückmeldungen. Ich arbeite die vereinbarten Korrekturen gezielt ein.
+Du bündelst die Rückmeldungen. Ich arbeite die vereinbarten Korrekturen gezielt ein.
 4. ### Fertig für deinen nächsten Auftritt.
 
-   Du erhältst die freigegebenen Exporte in den abgestimmten Formaten, auf Wunsch unter deinem Agenturbranding.
+Du erhältst die freigegebenen Exporte in den abgestimmten Formaten, auf Wunsch unter deinem Agenturbranding.
 
 White-Label-Workflow 4 Schritte
 
@@ -132,7 +132,7 @@ Ein direkter Ansprechpartner. Klare Übergaben. Kommunikation auf Deutsch.
 
 ## Ein Produkt. Mehr Möglichkeiten.
 
- TYPISCHES BEISPIEL · KEINE KUNDENREFERENZ
+TYPISCHES BEISPIEL · KEINE KUNDENREFERENZ
 
 ### Das Szenario
 
@@ -206,7 +206,7 @@ Transparent geplant: „Unbegrenzte Anfragen“ meint deine Warteschlange. Bearb
 
 Du sprichst direkt mit mir. Fließend auf Deutsch, remote aus Antalya und mit einem gemeinsamen Ziel: aus deinem Briefing gute, einsatzbereite Inhalte machen.
 
-[Passendes B2B Design & Content ↗](<https://bayramdoekmeci.de/design-content/>)[Digitales Marketing für deine Kampagne ↗](<https://bayramdoekmeci.de/digitales-marketing/>)[Alle Leistungen von Bayram Dökmeci ↗](<https://bayramdoekmeci.de/>)
+[Passendes B2B Design & Content ↗](<https://bayramdoekmeci.de/design-content/>) [Digitales Marketing für deine Kampagne ↗](<https://bayramdoekmeci.de/digitales-marketing/>) [Alle Leistungen von Bayram Dökmeci ↗](<https://bayramdoekmeci.de/>)
 
 05 / Noch kurz geklärt
 
@@ -244,9 +244,9 @@ Dein nächster guter Frame beginnt hier.
 
 Erzähl mir, was du vorhast. Wir klären Material, Formate und den nächsten sinnvollen Schritt.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci MeinB2B · Antalya, Türkiye](<https://bayramdoekmeci.de/>)
 

@@ -16,7 +16,7 @@ Ich bin Bayram Dökmeci von MeinB2B. Ich unterstütze Unternehmen und Agenturen 
 
 [Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
-**Ein Ansprechpartner. Ein klarer Plan.**Direkt mit mir. Auf Deutsch. Remote aus Antalya.
+**Ein Ansprechpartner. Ein klarer Plan.** Direkt mit mir. Auf Deutsch. Remote aus Antalya.
 
 DEIN LINKEDIN-SYSTEM
 
@@ -167,13 +167,13 @@ Wir prüfen Zielkunden-Passung, Gesprächsqualität und vereinbarte Kennzahlen. 
 
 Zu Beginn investieren wir Zeit in Positionierung und Recherche. Im laufenden Betrieb erhalten Inhalte, Tests und die Auswertung mehr Raum.
 
-Das Diagramm zeigt eine **rein illustrative Verteilung von 20 Arbeitsstunden**. Sie erklärt den Unterschied zwischen Aufbau und Betreuung – dein tatsächlicher Umfang wird individuell vereinbart.
+Das Diagramm zeigt eine **rein illustrative Verteilung von 20 Arbeitsstunden** . Sie erklärt den Unterschied zwischen Aufbau und Betreuung – dein tatsächlicher Umfang wird individuell vereinbart.
 
 [Digitales Marketing im Zusammenspiel](<https://bayramdoekmeci.de/digitales-marketing/>)
 
 ### Zeit für die richtigen Aufgaben.
 
- Illustratives Beispiel
+Illustratives Beispiel
 
 01 Aufbau
 
@@ -263,7 +263,7 @@ Typische Beispiele, keine Kundenreferenzen. Kontakte, Leads oder Abschlüsse wer
 
 Ich bin Bayram Dökmeci, dein Ansprechpartner bei MeinB2B. Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Vom ersten Briefing bis zur Auswertung stimmen wir uns direkt ab.
 
-**Bayram Dökmeci**LinkedIn · B2B Leadgenerierung · Marketing Automation
+**Bayram Dökmeci** LinkedIn · B2B Leadgenerierung · Marketing Automation
 
 So passt es zusammen
 
@@ -311,9 +311,9 @@ Der nächste Schritt ist ein Gespräch.
 
 Erzähl mir von deinem Angebot und deinen Wunschkunden. Gemeinsam finden wir heraus, wo LinkedIn für dich ansetzen kann.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Auf WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Auf WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci Dein Partner für B2B.](<https://bayramdoekmeci.de/>)
 
@@ -321,6 +321,6 @@ MeinB2B · Konyaaltı Blv.
 07070 Antalya, Türkiye
 Remote verbunden. Persönlich im Austausch.
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. Eigenständiges Angebot von MeinB2B.

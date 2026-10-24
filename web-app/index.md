@@ -10,9 +10,9 @@ Für B2B & Agenturen in DACH
 
 # Web-App entwickeln lassen. Dein Ablauf. Deine Software.
 
-**Kurz gesagt**Bayram Dökmeci von MeinB2B entwickelt individuelle Web-Apps, interne Tools und Kundenportale für Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Von der ersten Prozessskizze bis zur nutzbaren Anwendung arbeitest du direkt mit mir – remote aus Antalya und auf Deutsch.
+**Kurz gesagt** Bayram Dökmeci von MeinB2B entwickelt individuelle Web-Apps, interne Tools und Kundenportale für Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Von der ersten Prozessskizze bis zur nutzbaren Anwendung arbeitest du direkt mit mir – remote aus Antalya und auf Deutsch.
 
-[Deine Web-App besprechen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Deine Web-App besprechen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
 Ein Ansprechpartner. Von der Idee bis zum Betrieb.
 
@@ -29,11 +29,11 @@ Einfach weiterarbeiten.
 
 Angebot prüfen Vertrieb · Freigabe erforderlich
 
- Offen
+Offen
 
 Dateien bereitstellen Projektteam · Zentral abgelegt
 
- Erledigt
+Erledigt
 
 Freigabe ausprobieren
 
@@ -109,9 +109,9 @@ Für Teams, die vorhandene Werkzeuge sinnvoll weiterverwenden möchten.
 
 Eine Web-App ist mehr als eine schöne Maske. Ich verbinde Oberfläche, Geschäftslogik und Daten zu einem durchgängigen Arbeitsablauf.
 
-- **Jede Rolle sieht das Richtige.**Berechtigungen werden serverseitig geprüft, bevor Informationen oder Aktionen freigegeben werden.
-- **Deine Abläufe geben die Regeln vor.**Pflichtfelder, Statuswechsel und Zuständigkeiten werden gemeinsam festgelegt.
-- **Übergabe ist Teil des Projekts.**Quellcode, Dokumentation, Zugänge und Verantwortung für den Betrieb stimmen wir vorab ab.
+- **Jede Rolle sieht das Richtige.** Berechtigungen werden serverseitig geprüft, bevor Informationen oder Aktionen freigegeben werden.
+- **Deine Abläufe geben die Regeln vor.** Pflichtfelder, Statuswechsel und Zuständigkeiten werden gemeinsam festgelegt.
+- **Übergabe ist Teil des Projekts.** Quellcode, Dokumentation, Zugänge und Verantwortung für den Betrieb stimmen wir vorab ab.
 
 So greifen die Teile deiner Web-App ineinander
 
@@ -151,7 +151,7 @@ Die erste Version muss einen echten Arbeitsablauf abdecken. Gemeinsam legen wir 
 
 ### Was steckt in deiner Web-App?
 
- Illustrative Planung
+Illustrative Planung
 
 Erste Version
 
@@ -228,24 +228,24 @@ Du bringst deinen Arbeitsalltag mit. Ich übersetze ihn in eine durchdachte Anwe
 
 1. ### Ablauf verstehen
 
-   Wir klären Nutzer, Aufgaben, Datenquellen und das konkrete Problem. Bestehende Werkzeuge beziehen wir mit ein.
+Wir klären Nutzer, Aufgaben, Datenquellen und das konkrete Problem. Bestehende Werkzeuge beziehen wir mit ein.
 
-    Ergebnis: Ziel & abgegrenzter Umfang
+Ergebnis: Ziel & abgegrenzter Umfang
 2. ### Lösung skizzieren
 
-   Klickwege, Datenmodell und Berechtigungen werden greifbar. Du prüfst die geplante Oberfläche mit deinem Team.
+Klickwege, Datenmodell und Berechtigungen werden greifbar. Du prüfst die geplante Oberfläche mit deinem Team.
 
-    Ergebnis: abgestimmtes Konzept
+Ergebnis: abgestimmtes Konzept
 3. ### Entwickeln & testen
 
-   Ich setze die erste Version um. Wir testen reale Abläufe, Eingabefehler, Rollen und die vereinbarten Schnittstellen.
+Ich setze die erste Version um. Wir testen reale Abläufe, Eingabefehler, Rollen und die vereinbarten Schnittstellen.
 
-    Ergebnis: geprüfte erste Version
+Ergebnis: geprüfte erste Version
 4. ### Einführen & ausbauen
 
-   Die Anwendung geht in den vereinbarten Betrieb. Dokumentation und Einweisung unterstützen den Start im Team.
+Die Anwendung geht in den vereinbarten Betrieb. Dokumentation und Einweisung unterstützen den Start im Team.
 
-    Ergebnis: Übergabe & nächste Schritte
+Ergebnis: Übergabe & nächste Schritte
 
 ### Bayram Dökmeci
 
@@ -253,7 +253,7 @@ Dein deutschsprachiger Web-App-Entwickler.
 
 Ich arbeite mit MeinB2B remote aus Antalya für Geschäftskunden und Agenturen in DACH. Du stimmst dich direkt mit mir ab – von den ersten Fragen bis zur technischen Umsetzung. Umfang, Feedbacktermine und eine mögliche Betreuung nach dem Start vereinbaren wir passend zu deinem Projekt.
 
-[Frontend & Backend im Detail ↗](<https://bayramdoekmeci.de/full-stack-entwickler/>)[Bestehende Prozesse automatisieren ↗](<https://bayramdoekmeci.de/n8n/>)[Alle digitalen Leistungen ↗](<https://bayramdoekmeci.de/>)
+[Frontend & Backend im Detail ↗](<https://bayramdoekmeci.de/full-stack-entwickler/>) [Bestehende Prozesse automatisieren ↗](<https://bayramdoekmeci.de/n8n/>) [Alle digitalen Leistungen ↗](<https://bayramdoekmeci.de/>)
 
 06 / Gut zu wissen
 
@@ -293,15 +293,15 @@ Der nächste Schritt ist ein Gespräch.
 
 Erzähl mir, wo dein Team heute Zeit mit Suchen, Übertragen oder Nachfragen verbringt. Gemeinsam klären wir, wie eine passende Web-App aussehen kann.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Auf WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Auf WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci Digital denken. Persönlich machen.](<https://bayramdoekmeci.de/>)
 
 MeinB2B · Konyaaltı Blv., 07070 Antalya, Türkiye
 Für Geschäftskunden und Agenturen in DACH.
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. Dein Ablauf. Deine Software.

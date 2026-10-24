@@ -12,7 +12,7 @@ Für B2B & Agenturen in DACH
 
 **Kurz gesagt:** Programmatic SEO verbindet strukturierte Daten mit wiederverwendbaren Vorlagen, um relevante Landingpages für konkrete Suchanfragen zu erstellen. Ich bin Bayram Dökmeci von MeinB2B und entwickle diese Systeme für Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz.
 
-[Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
 Direkt mit mir. Auf Deutsch. Ohne Agentur-Overhead.
 
@@ -231,24 +231,24 @@ Du arbeitest direkt mit mir – von der ersten Struktur bis zur Übergabe. Umfan
 
 1. 01 / Potenzial
 
-   ### Verstehen & eingrenzen
+### Verstehen & eingrenzen
 
-   Wir klären Zielkunden, Suchintentionen und verfügbare Daten. Du erhältst eine Empfehlung, ob und wo pSEO sinnvoll ist.
+Wir klären Zielkunden, Suchintentionen und verfügbare Daten. Du erhältst eine Empfehlung, ob und wo pSEO sinnvoll ist.
 2. 02 / Grundlage
 
-   ### Struktur entwickeln
+### Struktur entwickeln
 
-   Ich konzipiere Datenmodell, Seitenvorlage und Inhaltsmodule. Wir legen fest, was eine Seite für die Freigabe braucht.
+Ich konzipiere Datenmodell, Seitenvorlage und Inhaltsmodule. Wir legen fest, was eine Seite für die Freigabe braucht.
 3. 03 / Pilot
 
-   ### Umsetzen & prüfen
+### Umsetzen & prüfen
 
-   Ein abgegrenztes Themencluster macht das Konzept überprüfbar. Inhalt, Darstellung und technische Grundlagen werden geprüft.
+Ein abgegrenztes Themencluster macht das Konzept überprüfbar. Inhalt, Darstellung und technische Grundlagen werden geprüft.
 4. 04 / Ausbau
 
-   ### Auswerten & erweitern
+### Auswerten & erweitern
 
-   Wir betrachten die ersten Signale und verbessern das System. Du erhältst eine dokumentierte Grundlage für den weiteren Ausbau.
+Wir betrachten die ersten Signale und verbessern das System. Du erhältst eine dokumentierte Grundlage für den weiteren Ausbau.
 
 ### Bayram Dökmeci
 
@@ -256,7 +256,7 @@ MeinB2B · Dein direkter Ansprechpartner
 
 Ich verbinde Webentwicklung, B2B-Leadgenerierung und Marketing Automation. Remote aus Antalya, fließend auf Deutsch und mit Blick auf die Menschen, die deine Seiten nutzen sollen. Für Geschäftskunden und Agenturen in DACH.
 
-[WordPress & CMS für deine Inhalte](<https://bayramdoekmeci.de/wordpress-cms-entwickler/>)[Datenpflege mit n8n automatisieren](<https://bayramdoekmeci.de/n8n/>)[B2B-Leadgenerierung weiterdenken](<https://bayramdoekmeci.de/business-development/>)
+[WordPress & CMS für deine Inhalte](<https://bayramdoekmeci.de/wordpress-cms-entwickler/>) [Datenpflege mit n8n automatisieren](<https://bayramdoekmeci.de/n8n/>) [B2B-Leadgenerierung weiterdenken](<https://bayramdoekmeci.de/business-development/>)
 
 06 / Gut zu wissen
 
@@ -294,15 +294,15 @@ Dein nächstes Seitenprojekt beginnt hier.
 
 Lass uns herausfinden, welche Suchanfragen dein Angebot beantworten kann – und welches Seitensystem dafür sinnvoll ist.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci Digital denken. Persönlich machen.](<https://bayramdoekmeci.de/>)
 
 MeinB2B · Konyaaltı Blv., 07070 Antalya, Türkiye
 Für Geschäftskunden und Agenturen in DACH.
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. Durchdachte Daten. Relevante Seiten.

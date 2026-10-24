@@ -6,13 +6,13 @@ url: "https://bayramdoekmeci.de/"
 
 B2B-Webentwicklung · Für Unternehmen & Agenturen
 
- Antalya ↗ Deutschland, Österreich, Schweiz
+Antalya ↗ Deutschland, Österreich, Schweiz
 
 # Dein Business. Digital weiter. *Mit gutem Code.*
 
 Aus deiner Idee wird eine Website, die zu dir passt. Ich verbinde **klares Design mit durchdachter Technik** – persönlich, unkompliziert und auf Deutsch.
 
-[Dein Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>)[Leistungen entdecken](<https://bayramdoekmeci.de/#leistungen>)
+[Dein Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>) [Leistungen entdecken](<https://bayramdoekmeci.de/#leistungen>)
 
 **Bayram Dökmeci · Dein direkter Ansprechpartner**
 Von der ersten Idee bis zur letzten Zeile Code.
@@ -28,7 +28,7 @@ Große Ideen.
 
 Eine digitale Präsenz, die sich nach dir anfühlt.
 
- Deine Marke im Mittelpunkt
+Deine Marke im Mittelpunkt
 
 01 / Strategie 02 / Design 03 / Entwicklung
 
@@ -40,7 +40,7 @@ Deine Prozesse.
 // Eine Basis, viele Möglichkeiten
 Website → API → Datenbank
 CMS → Inhalte → Dein Team
- return eine_durchdachte_lösung;
+return eine_durchdachte_lösung;
 
 workflow. Weniger Handarbeit.
 
@@ -53,7 +53,7 @@ Ein Beispiel: Anfragen strukturiert an dein CRM übergeben.
 
 ✳ Mit Konzept. Mit Code. Illustrative Konzeptvorschau
 
-  Individuell entwickelt
+Individuell entwickelt
 
 01 Website
 
@@ -111,16 +111,16 @@ Du weißt, was als Nächstes passiert. Wir arbeiten in überschaubaren Schritten
 
 1. ### Verstehen.
 
-   Wir sprechen über dein Ziel, deine Nutzer und den technischen Ausgangspunkt.
+Wir sprechen über dein Ziel, deine Nutzer und den technischen Ausgangspunkt.
 2. ### Planen.
 
-   Du bekommst einen klaren Umfang, die passende Architektur und einen abgestimmten Zeitplan.
+Du bekommst einen klaren Umfang, die passende Architektur und einen abgestimmten Zeitplan.
 3. ### Entwickeln.
 
-   Ich setze um. Du siehst, wie dein Projekt wächst, und gibst direkt Feedback.
+Ich setze um. Du siehst, wie dein Projekt wächst, und gibst direkt Feedback.
 4. ### Live gehen.
 
-   Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
+Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
 
 ## So wird aus einer Aufgabe *eine Lösung.*
 
@@ -190,9 +190,9 @@ Ein guter Anfang ist ein Gespräch.
 
 Erzähl mir, was du vorhast. Gemeinsam finden wir heraus, wie dein Business digital weiterkommt.
 
-[Unverbindlich kennenlernen](<https://calendly.com/bayramdokmeci/b2b>)[Oder einfach per WhatsApp](<https://wa.me/905078827795>)
+[Unverbindlich kennenlernen](<https://calendly.com/bayramdokmeci/b2b>) [Oder einfach per WhatsApp](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci .](<https://bayramdoekmeci.de/>)
 

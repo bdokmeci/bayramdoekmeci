@@ -12,7 +12,7 @@ Workflow Automation · Für B2B & Agenturen
 
 **Kurz gesagt:** Ich bin Bayram Dökmeci. Mit MeinB2B automatisiere ich Geschäftsprozesse für Unternehmen und Agenturen in DACH – von der Anfrage bis zum CRM. Du bekommst durchdachte n8n-Workflows und einen direkten Ansprechpartner auf Deutsch.
 
-[Workflow besprechen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Workflow besprechen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
 Direkt mit dem Entwickler Remote. Auf Deutsch.
 
@@ -44,7 +44,7 @@ Aufgabe
 
 Workflow abspielen
 
- Ablauf von oben nach unten
+Ablauf von oben nach unten
 
 **So greifen die Schritte ineinander:**
 
@@ -147,7 +147,7 @@ Technischer Fehler? Team informieren
 
 Workflow Automatisierung heißt: Daten werden nach vereinbarten Regeln übertragen, zugeordnet und aufbereitet. Dein Team konzentriert sich auf die Schritte, die Erfahrung und Urteil brauchen.
 
-**Ein Beispiel statt eines großen Versprechens.**Die Grafik zeigt modellierte manuelle Arbeitsschritte je Durchlauf. Wie viel Zeit du tatsächlich sparst, prüfen wir an deinem eigenen Prozess.
+**Ein Beispiel statt eines großen Versprechens.** Die Grafik zeigt modellierte manuelle Arbeitsschritte je Durchlauf. Wie viel Zeit du tatsächlich sparst, prüfen wir an deinem eigenen Prozess.
 
 Prozess im Vergleich
 
@@ -229,24 +229,24 @@ Als n8n Freelancer begleite ich dich von der Prozessaufnahme bis zur Übergabe. 
 
 1. 01
 
-   ### Prozess verstehen.
+### Prozess verstehen.
 
-   Du zeigst mir den Ablauf, deine Tools und die Stellen, an denen es hakt. Wir definieren ein konkretes Ziel.
+Du zeigst mir den Ablauf, deine Tools und die Stellen, an denen es hakt. Wir definieren ein konkretes Ziel.
 2. 02
 
-   ### Umfang festlegen.
+### Umfang festlegen.
 
-   Wir klären Datenfelder, Schnittstellen, Zugriffe und Ausnahmen. Du erhältst ein abgestimmtes Angebot und einen Zeitplan.
+Wir klären Datenfelder, Schnittstellen, Zugriffe und Ausnahmen. Du erhältst ein abgestimmtes Angebot und einen Zeitplan.
 3. 03
 
-   ### Bauen & testen.
+### Bauen & testen.
 
-   Ich setze den Workflow um. Gemeinsam prüfen wir normale Durchläufe, fehlende Daten und technische Fehlerfälle.
+Ich setze den Workflow um. Gemeinsam prüfen wir normale Durchläufe, fehlende Daten und technische Fehlerfälle.
 4. 04
 
-   ### Übergeben & starten.
+### Übergeben & starten.
 
-   Du bekommst die Dokumentation und eine Einweisung. Betrieb und weitere Betreuung vereinbaren wir passend zu deinem Team.
+Du bekommst die Dokumentation und eine Einweisung. Betrieb und weitere Betreuung vereinbaren wir passend zu deinem Team.
 
 Dein Ansprechpartner
 
@@ -254,7 +254,7 @@ Dein Ansprechpartner
 
 Ich verbinde B2B-Leadgenerierung, Marketing Automation und technische Umsetzung. Für Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz – remote aus Antalya, fließend auf Deutsch und ohne Agentur-Overhead.
 
-[LinkedIn ↗](<https://www.linkedin.com/in/bayramdoekmeci/>)[GitHub ↗](<https://github.com/bdokmeci>)
+[LinkedIn ↗](<https://www.linkedin.com/in/bayramdoekmeci/>) [GitHub ↗](<https://github.com/bdokmeci>)
 
 06 / Gut zu wissen
 
@@ -294,15 +294,15 @@ Der nächste Schritt ist ein Gespräch.
 
 Bring einen Prozess mit, der dich Zeit kostet. Wir schauen gemeinsam, ob und wie n8n ihn sinnvoll vereinfachen kann.
 
-[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp schreiben](<https://wa.me/905078827795>)
+[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci Systeme, die weiterdenken.](<https://bayramdoekmeci.de/>)
 
 MeinB2B · Konyaaltı Blv., 07070 Antalya, Türkiye
 Für Geschäftskunden und Agenturen in DACH.
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. Eigenständiges Beratungsangebot von MeinB2B.

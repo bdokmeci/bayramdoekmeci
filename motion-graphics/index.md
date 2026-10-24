@@ -12,7 +12,7 @@ Deutschsprachiger Motion Graphics Experte
 
 Kurz gesagt **Bayram Dökmeci von MeinB2B** entwickelt Motion Graphics, die komplexe Angebote erklären und Marken in Bewegung bringen. Für B2B-Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz – direkt, remote und auf Deutsch.
 
-[Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>)[WhatsApp](<https://wa.me/905078827795>)
+[Projekt besprechen](<https://calendly.com/bayramdokmeci/b2b>) [WhatsApp](<https://wa.me/905078827795>)
 
 Ein Ansprechpartner. Vom ersten Frame bis zum Export.
 
@@ -102,7 +102,7 @@ Das Beispiel zeigt, wie sich eine B2B-Erkläranimation aufteilen lässt. Wähle 
 
 ILLUSTRATIVE ZEITAUFTEILUNG
 
- 30 s
+30 s
 
 30 Sekunden
 
@@ -194,32 +194,32 @@ Du weißt, was als Nächstes passiert. Ich weiß, worauf es dir ankommt. Wir sti
 
 1. 01 / VERSTEHEN
 
-   ### Briefing & Ziel
+### Briefing & Ziel
 
-   Wir klären Zielgruppe, Botschaft, Einsatzorte und vorhandene Materialien. Daraus entsteht ein konkreter Leistungsumfang.
+Wir klären Zielgruppe, Botschaft, Einsatzorte und vorhandene Materialien. Daraus entsteht ein konkreter Leistungsumfang.
 
-    Ergebnis: abgestimmtes Briefing
+Ergebnis: abgestimmtes Briefing
 2. 02 / ENTWERFEN
 
-   ### Storyboard & Stil
+### Storyboard & Stil
 
-   Szenenfolge und Styleframes machen die Idee greifbar. Wir prüfen Text, Dramaturgie und Gestaltung gemeinsam.
+Szenenfolge und Styleframes machen die Idee greifbar. Wir prüfen Text, Dramaturgie und Gestaltung gemeinsam.
 
-    Ergebnis: freigegebenes Konzept
+Ergebnis: freigegebenes Konzept
 3. 03 / BEWEGEN
 
-   ### Animation & Feinschliff
+### Animation & Feinschliff
 
-   Aus dem Konzept wird Bewegung. Timing, Übergänge und vereinbartes Sound Design werden ausgearbeitet und geprüft.
+Aus dem Konzept wird Bewegung. Timing, Übergänge und vereinbartes Sound Design werden ausgearbeitet und geprüft.
 
-    Ergebnis: abgestimmte Animation
+Ergebnis: abgestimmte Animation
 4. 04 / AUSLIEFERN
 
-   ### Varianten & Export
+### Varianten & Export
 
-   Du erhältst die vereinbarten Formate. Dateibenennung, Untertitel und benötigte Quelldateien klären wir vorab.
+Du erhältst die vereinbarten Formate. Dateibenennung, Untertitel und benötigte Quelldateien klären wir vorab.
 
-    Ergebnis: einsatzbereite Assets
+Ergebnis: einsatzbereite Assets
 
 Feedbackrunden, Zeitplan und Nutzungsumfang halten wir vor Projektstart im Angebot fest.
 
@@ -265,7 +265,7 @@ Illustrative Szenarien, keine Kundenreferenzen oder gemessenen Kampagnenergebnis
 
 ### Du briefst mich. Ich bringe es in Bewegung.
 
-**Bayram Dökmeci**MeinB2B · Antalya, Türkiye
+**Bayram Dökmeci** MeinB2B · Antalya, Türkiye
 
 Ich arbeite remote aus Antalya für Unternehmen und Agenturen in DACH und spreche fließend Deutsch. Du stimmst Konzept, Feedback und Umsetzung direkt mit mir ab. White-Label-Unterstützung für dein Agenturteam ist nach Absprache möglich.
 
@@ -309,9 +309,9 @@ Deine Idee verdient Bewegung.
 
 Erzähl mir von deinem Produkt, deiner Marke oder deiner nächsten Kampagne. Gemeinsam finden wir die passende Form dafür.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Auf WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Auf WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
 [Bayram Dökmeci Ideen. Klar in Bewegung.](<https://bayramdoekmeci.de/>)
 
@@ -319,7 +319,7 @@ MeinB2B · Konyaaltı Blv.
 07070 Antalya, Türkiye
 Für Unternehmen und Agenturen in DACH.
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. Konzept. Keyframe. Klarheit.
 
