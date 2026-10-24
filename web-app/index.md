@@ -226,26 +226,10 @@ Ein Projektbereich. Klare Versionen. Gezieltes Feedback.
 
 Du bringst deinen Arbeitsalltag mit. Ich übersetze ihn in eine durchdachte Anwendung – mit klaren Zwischenständen und Feedback, bevor wir weiterbauen.
 
-1. ### Ablauf verstehen
-
-Wir klären Nutzer, Aufgaben, Datenquellen und das konkrete Problem. Bestehende Werkzeuge beziehen wir mit ein.
-
-Ergebnis: Ziel & abgegrenzter Umfang
-2. ### Lösung skizzieren
-
-Klickwege, Datenmodell und Berechtigungen werden greifbar. Du prüfst die geplante Oberfläche mit deinem Team.
-
-Ergebnis: abgestimmtes Konzept
-3. ### Entwickeln & testen
-
-Ich setze die erste Version um. Wir testen reale Abläufe, Eingabefehler, Rollen und die vereinbarten Schnittstellen.
-
-Ergebnis: geprüfte erste Version
-4. ### Einführen & ausbauen
-
-Die Anwendung geht in den vereinbarten Betrieb. Dokumentation und Einweisung unterstützen den Start im Team.
-
-Ergebnis: Übergabe & nächste Schritte
+1. **Ablauf verstehen** Wir klären Nutzer, Aufgaben, Datenquellen und das konkrete Problem. Bestehende Werkzeuge beziehen wir mit ein. Ergebnis: Ziel & abgegrenzter Umfang
+2. **Lösung skizzieren** Klickwege, Datenmodell und Berechtigungen werden greifbar. Du prüfst die geplante Oberfläche mit deinem Team. Ergebnis: abgestimmtes Konzept
+3. **Entwickeln & testen** Ich setze die erste Version um. Wir testen reale Abläufe, Eingabefehler, Rollen und die vereinbarten Schnittstellen. Ergebnis: geprüfte erste Version
+4. **Einführen & ausbauen** Die Anwendung geht in den vereinbarten Betrieb. Dokumentation und Einweisung unterstützen den Start im Team. Ergebnis: Übergabe & nächste Schritte
 
 ### Bayram Dökmeci
 

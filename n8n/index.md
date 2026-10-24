@@ -227,26 +227,10 @@ Ein wiederholbarer Ablauf mit konsistenter Datengrundlage. Interpretation und Fr
 
 Als n8n Freelancer begleite ich dich von der Prozessaufnahme bis zur Übergabe. Wir starten mit einem überschaubaren Anwendungsfall und bauen darauf auf.
 
-1. 01
-
-### Prozess verstehen.
-
-Du zeigst mir den Ablauf, deine Tools und die Stellen, an denen es hakt. Wir definieren ein konkretes Ziel.
-2. 02
-
-### Umfang festlegen.
-
-Wir klären Datenfelder, Schnittstellen, Zugriffe und Ausnahmen. Du erhältst ein abgestimmtes Angebot und einen Zeitplan.
-3. 03
-
-### Bauen & testen.
-
-Ich setze den Workflow um. Gemeinsam prüfen wir normale Durchläufe, fehlende Daten und technische Fehlerfälle.
-4. 04
-
-### Übergeben & starten.
-
-Du bekommst die Dokumentation und eine Einweisung. Betrieb und weitere Betreuung vereinbaren wir passend zu deinem Team.
+1. 01 **Prozess verstehen.** Du zeigst mir den Ablauf, deine Tools und die Stellen, an denen es hakt. Wir definieren ein konkretes Ziel.
+2. 02 **Umfang festlegen.** Wir klären Datenfelder, Schnittstellen, Zugriffe und Ausnahmen. Du erhältst ein abgestimmtes Angebot und einen Zeitplan.
+3. 03 **Bauen & testen.** Ich setze den Workflow um. Gemeinsam prüfen wir normale Durchläufe, fehlende Daten und technische Fehlerfälle.
+4. 04 **Übergeben & starten.** Du bekommst die Dokumentation und eine Einweisung. Betrieb und weitere Betreuung vereinbaren wir passend zu deinem Team.
 
 Dein Ansprechpartner
 

@@ -208,18 +208,10 @@ Weiterbetreuen
 
 Ein gemeinsamer Ablauf. Klare Freigaben in jedem Projekt.
 
-1. ### Setup verstehen.
-
-System, Erweiterungen, kritische Kaufprozesse und Zuständigkeiten erfassen. Gemeinsam legen wir Prioritäten und Testumfang fest.
-2. ### Änderung absichern.
-
-Backups und Rückweg vorbereiten. Je nach Plattform arbeiten wir mit Staging, Theme-Vorschau und geeigneten Testdaten.
-3. ### Prüfen & entscheiden.
-
-Tests durchführen, Befunde priorisieren und Korrekturen nachtesten. Live geht die Änderung nach Ihrer abgestimmten Freigabe.
-4. ### Dranbleiben.
-
-Wartungstermine, Folgetests und nächste Schritte dokumentieren. Ein regelmäßiger Bericht hält Ihr Team auf dem gleichen Stand.
+1. **Setup verstehen.** System, Erweiterungen, kritische Kaufprozesse und Zuständigkeiten erfassen. Gemeinsam legen wir Prioritäten und Testumfang fest.
+2. **Änderung absichern.** Backups und Rückweg vorbereiten. Je nach Plattform arbeiten wir mit Staging, Theme-Vorschau und geeigneten Testdaten.
+3. **Prüfen & entscheiden.** Tests durchführen, Befunde priorisieren und Korrekturen nachtesten. Live geht die Änderung nach Ihrer abgestimmten Freigabe.
+4. **Dranbleiben.** Wartungstermine, Folgetests und nächste Schritte dokumentieren. Ein regelmäßiger Bericht hält Ihr Team auf dem gleichen Stand.
 
 Rhythmus, Reaktionszeiten und Freigaben werden im Leistungsumfang vereinbart.
 
@@ -231,15 +223,9 @@ Sie brauchen Entlastung, aber keine zusätzliche Vollzeitstelle? Ich ergänze Ih
 
 **Bayram Dökmeci** MeinB2B · Remote aus Antalya · Fließend Deutsch
 
-- ### Direkt mit dem Umsetzer.
-
-Abstimmungen und technische Rückfragen laufen persönlich über mich. Ohne zusätzliche Vermittlungsebene.
-- ### Monatlich planbar.
-
-Ein individueller Festpreis für den vereinbarten Umfang. Zusatzaufwand wird vorab abgestimmt.
-- ### Passend zu Ihrem Team.
-
-Projektbezogen oder laufend, auch als White-Label-Unterstützung für Agenturen. Zuständigkeiten und SLAs halten wir schriftlich fest.
+- **Direkt mit dem Umsetzer.** Abstimmungen und technische Rückfragen laufen persönlich über mich. Ohne zusätzliche Vermittlungsebene.
+- **Monatlich planbar.** Ein individueller Festpreis für den vereinbarten Umfang. Zusatzaufwand wird vorab abgestimmt.
+- **Passend zu Ihrem Team.** Projektbezogen oder laufend, auch als White-Label-Unterstützung für Agenturen. Zuständigkeiten und SLAs halten wir schriftlich fest.
 
 Aus dem Projektalltag gedacht
 

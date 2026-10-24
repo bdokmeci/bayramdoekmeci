@@ -243,26 +243,10 @@ Ein Workflow übernimmt das Briefing, berücksichtigt Tonalität und Quellen und
 
 Wir beginnen mit einem sinnvollen Anwendungsfall. Du bekommst klare Entscheidungspunkte und eine Umsetzung, die dein Team verstehen und weiterbetreiben kann.
 
-1. ### Prozess verstehen
-
-Ziel, Datenquellen, Systeme und wiederkehrende Handgriffe gemeinsam erfassen.
-
-ERGEBNIS: ABGESTIMMTER USE CASE
-2. ### Pilot entwickeln
-
-Einen abgegrenzten KI-Workflow mit Prüfschritten und repräsentativen Testfällen aufbauen.
-
-ERGEBNIS: TESTBARER ABLAUF
-3. ### Im Alltag prüfen
-
-Entwurfsqualität, Ausnahmen und Aufwand bewerten. Dein Team entscheidet über die Einführung.
-
-ERGEBNIS: KLARE ENTSCHEIDUNG
-4. ### Sauber übergeben
-
-Workflow dokumentieren, Team einweisen und Zuständigkeiten für Betrieb und Pflege festlegen.
-
-ERGEBNIS: BETREUBARE LÖSUNG
+1. **Prozess verstehen** Ziel, Datenquellen, Systeme und wiederkehrende Handgriffe gemeinsam erfassen. ERGEBNIS: ABGESTIMMTER USE CASE
+2. **Pilot entwickeln** Einen abgegrenzten KI-Workflow mit Prüfschritten und repräsentativen Testfällen aufbauen. ERGEBNIS: TESTBARER ABLAUF
+3. **Im Alltag prüfen** Entwurfsqualität, Ausnahmen und Aufwand bewerten. Dein Team entscheidet über die Einführung. ERGEBNIS: KLARE ENTSCHEIDUNG
+4. **Sauber übergeben** Workflow dokumentieren, Team einweisen und Zuständigkeiten für Betrieb und Pflege festlegen. ERGEBNIS: BETREUBARE LÖSUNG
 
 ### Hi, ich bin Bayram. Dein direkter Draht zur Umsetzung.
 

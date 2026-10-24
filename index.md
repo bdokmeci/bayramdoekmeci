@@ -109,18 +109,10 @@ Von der ersten Anfrage bis zur Auslieferung mitgedacht.
 
 Du weißt, was als Nächstes passiert. Wir arbeiten in überschaubaren Schritten – mit direktem Austausch und greifbaren Ergebnissen.
 
-1. ### Verstehen.
-
-Wir sprechen über dein Ziel, deine Nutzer und den technischen Ausgangspunkt.
-2. ### Planen.
-
-Du bekommst einen klaren Umfang, die passende Architektur und einen abgestimmten Zeitplan.
-3. ### Entwickeln.
-
-Ich setze um. Du siehst, wie dein Projekt wächst, und gibst direkt Feedback.
-4. ### Live gehen.
-
-Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
+1. **Verstehen.** Wir sprechen über dein Ziel, deine Nutzer und den technischen Ausgangspunkt.
+2. **Planen.** Du bekommst einen klaren Umfang, die passende Architektur und einen abgestimmten Zeitplan.
+3. **Entwickeln.** Ich setze um. Du siehst, wie dein Projekt wächst, und gibst direkt Feedback.
+4. **Live gehen.** Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
 
 ## So wird aus einer Aufgabe *eine Lösung.*
 

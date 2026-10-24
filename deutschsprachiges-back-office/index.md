@@ -171,18 +171,10 @@ Pilot gemeinsam starten
 
 Auswerten & weiterführen
 
-1. ### Bedarf klären
-
-Welche Aufgaben bremsen euch? Wir besprechen Kanäle, Volumen und gewünschte Unterstützung.
-2. ### Abläufe übergeben
-
-Wir dokumentieren Zuständigkeiten, Antwortvorlagen, Zugänge und Eskalationswege.
-3. ### Pilot starten
-
-Ich übernehme vereinbarte Vorgänge. In einer Testphase prüfen wir Übergaben und offene Fragen.
-4. ### Gemeinsam verbessern
-
-Wir werten die Zusammenarbeit aus und passen Aufgaben, Umfang und Abstimmung bei Bedarf an.
+1. **Bedarf klären** Welche Aufgaben bremsen euch? Wir besprechen Kanäle, Volumen und gewünschte Unterstützung.
+2. **Abläufe übergeben** Wir dokumentieren Zuständigkeiten, Antwortvorlagen, Zugänge und Eskalationswege.
+3. **Pilot starten** Ich übernehme vereinbarte Vorgänge. In einer Testphase prüfen wir Übergaben und offene Fragen.
+4. **Gemeinsam verbessern** Wir werten die Zusammenarbeit aus und passen Aufgaben, Umfang und Abstimmung bei Bedarf an.
 
 Umfang, Arbeitsfenster und Rückmeldefristen vereinbaren wir individuell. Ein Pilot kann je nach Projekt beispielsweise ein bis zwei Wochen umfassen.
 

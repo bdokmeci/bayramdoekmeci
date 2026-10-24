@@ -208,18 +208,10 @@ Beispielaufbau, kein vorgeschriebener Tool-Stack. Datenquellen, Zugriffsrechte u
 
 Wir beginnen bei deinem Engpass, setzen gezielt um und verbessern auf Basis verwertbarer Rückmeldungen. Mit konkreten Zwischenständen und klaren Zuständigkeiten.
 
-1. ### Verstehen.
-
-Angebot, Zielkunden, Kanäle und Daten prüfen. Gemeinsam festlegen, was eine qualifizierte Anfrage ist.
-2. ### Priorisieren.
-
-Den größten Engpass auswählen. Maßnahmen, Kennzahlen und den Umfang des ersten Piloten abstimmen.
-3. ### Verbinden.
-
-Kampagnen, Inhalte und Workflows umsetzen. Übergaben, Datenfelder und Fehlerfälle gemeinsam prüfen.
-4. ### Verbessern.
-
-Ergebnisse mit dem Vertrieb auswerten. Botschaften, Zielgruppen und Abläufe gezielt nachschärfen.
+1. **Verstehen.** Angebot, Zielkunden, Kanäle und Daten prüfen. Gemeinsam festlegen, was eine qualifizierte Anfrage ist.
+2. **Priorisieren.** Den größten Engpass auswählen. Maßnahmen, Kennzahlen und den Umfang des ersten Piloten abstimmen.
+3. **Verbinden.** Kampagnen, Inhalte und Workflows umsetzen. Übergaben, Datenfelder und Fehlerfälle gemeinsam prüfen.
+4. **Verbessern.** Ergebnisse mit dem Vertrieb auswerten. Botschaften, Zielgruppen und Abläufe gezielt nachschärfen.
 
 Ein erster klar abgegrenzter Pilot lässt sich je nach Zugängen, Datenlage und Umfang typischerweise in einigen Wochen aufsetzen. Den konkreten Zeitplan vereinbaren wir nach der Bestandsaufnahme.
 

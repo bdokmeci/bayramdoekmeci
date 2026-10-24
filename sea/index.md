@@ -194,26 +194,10 @@ Optimieren
 
 Lernen. Anpassen. Weiterentwickeln.
 
-1. 01 / Ausgangslage
-
-### Ziele verstehen
-
-Wir klären Angebot, Zielkunden und Vertriebsprozess. Bestehende Konten und Daten bilden die Grundlage für die ersten Prioritäten.
-2. 02 / Fundament
-
-### Sauber aufbauen
-
-Ich entwickle Kampagnenstruktur, Anzeigen und Messkonzept. Budget, Landingpages und Freigaben stimmen wir gemeinsam ab.
-3. 03 / Start & Kontrolle
-
-### Gezielt prüfen
-
-Nach deiner Freigabe starten die Kampagnen. Ich kontrolliere Auslieferung, Suchbegriffe und Conversion-Erfassung.
-4. 04 / Laufende Betreuung
-
-### Mit Daten verbessern
-
-Wir bewerten Anfragen mit dem Vertrieb. Die Erkenntnisse fließen in Keywords, Anzeigen, Landingpages und Budgetentscheidungen zurück.
+1. 01 / Ausgangslage **Ziele verstehen** Wir klären Angebot, Zielkunden und Vertriebsprozess. Bestehende Konten und Daten bilden die Grundlage für die ersten Prioritäten.
+2. 02 / Fundament **Sauber aufbauen** Ich entwickle Kampagnenstruktur, Anzeigen und Messkonzept. Budget, Landingpages und Freigaben stimmen wir gemeinsam ab.
+3. 03 / Start & Kontrolle **Gezielt prüfen** Nach deiner Freigabe starten die Kampagnen. Ich kontrolliere Auslieferung, Suchbegriffe und Conversion-Erfassung.
+4. 04 / Laufende Betreuung **Mit Daten verbessern** Wir bewerten Anfragen mit dem Vertrieb. Die Erkenntnisse fließen in Keywords, Anzeigen, Landingpages und Budgetentscheidungen zurück.
 
 Der Zeitplan richtet sich nach Kontozugängen, Landingpages und Tracking. Leistungsumfang und Abstimmungsrhythmus vereinbaren wir vor dem Start.
 

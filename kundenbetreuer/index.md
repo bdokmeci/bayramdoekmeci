@@ -52,27 +52,9 @@ Fachteam
 
 Gute Betreuung endet nicht mit einer Antwort. Ich begleite den Austausch bis zum vereinbarten nächsten Schritt und schaffe Klarheit für deine Kunden und dein Team.
 
-1. 01 /
-
-### Persönliche Kundenkommunikation
-
-Ich beantworte Anliegen in eurem Ton, frage gezielt nach und gebe verständliche Statusupdates. Per E-Mail, Kundenchat oder nach Absprache am Telefon.
-
-Customer Care · Aktives Zuhören · Servicekommunikation
-2. 02 /
-
-### Servicekoordination mit Überblick
-
-Ich übernehme die Klärung, bündele Kontext und stimme Rückfragen mit den richtigen Personen ab. Beschwerden werden aufgenommen; fachliche Entscheidungen gehen an euer Team.
-
-Case Ownership · Eskalationsmanagement · CRM
-3. 03 /
-
-### Verbindliche Nachverfolgung
-
-Ich halte vereinbarte Rückmeldungen, Freigaben und nächste Schritte nach. Der Gesprächsverlauf wird im gemeinsamen System dokumentiert, damit der Anschluss nicht verloren geht.
-
-Follow-ups · Wiedervorlagen · Gesprächsdokumentation
+1. 01 / **Persönliche Kundenkommunikation** Ich beantworte Anliegen in eurem Ton, frage gezielt nach und gebe verständliche Statusupdates. Per E-Mail, Kundenchat oder nach Absprache am Telefon. Customer Care · Aktives Zuhören · Servicekommunikation
+2. 02 / **Servicekoordination mit Überblick** Ich übernehme die Klärung, bündele Kontext und stimme Rückfragen mit den richtigen Personen ab. Beschwerden werden aufgenommen; fachliche Entscheidungen gehen an euer Team. Case Ownership · Eskalationsmanagement · CRM
+3. 03 / **Verbindliche Nachverfolgung** Ich halte vereinbarte Rückmeldungen, Freigaben und nächste Schritte nach. Der Gesprächsverlauf wird im gemeinsamen System dokumentiert, damit der Anschluss nicht verloren geht. Follow-ups · Wiedervorlagen · Gesprächsdokumentation
 
 02 Klarheit statt Weiterreichen
 
@@ -139,15 +121,9 @@ Erproben
 
 Begleiten
 
-1. ### Den Rahmen klären
-
-Wir definieren Kanäle, Tonalität, Zuständigkeiten und Rückmeldefristen. Zugänge, Datenumgang und notwendige Vereinbarungen klären wir vor dem Start.
-2. ### Im Alltag erproben
-
-Ich übernehme die ersten vereinbarten Anliegen. Wir besprechen Rückfragen, prüfen Antwortqualität und schärfen die Übergaben an dein Team.
-3. ### Verlässlich begleiten
-
-Nach dem gemeinsamen Review legen wir die laufende Betreuung fest: mit dokumentierten Vorgängen, regelmäßiger Abstimmung und klaren nächsten Schritten.
+1. **Den Rahmen klären** Wir definieren Kanäle, Tonalität, Zuständigkeiten und Rückmeldefristen. Zugänge, Datenumgang und notwendige Vereinbarungen klären wir vor dem Start.
+2. **Im Alltag erproben** Ich übernehme die ersten vereinbarten Anliegen. Wir besprechen Rückfragen, prüfen Antwortqualität und schärfen die Übergaben an dein Team.
+3. **Verlässlich begleiten** Nach dem gemeinsamen Review legen wir die laufende Betreuung fest: mit dokumentierten Vorgängen, regelmäßiger Abstimmung und klaren nächsten Schritten.
 
 Ein Pilot kann je nach Projekt beispielsweise ein bis zwei Wochen dauern. Arbeitsfenster, Reaktionszeiten und Umfang vereinbaren wir individuell.
 

@@ -212,26 +212,10 @@ Review & nächste Schritte
 
 Vom gemeinsamen Ziel zum laufenden Review. Erkenntnisse aus dem Markt fließen zurück in Prioritäten, Botschaften und nächste Schritte.
 
-1. ### 01. Verstehen
-
-Wir besprechen Angebot, Vertriebszyklus, vorhandene Daten und deinen konkreten Engpass.
-
-Ergebnis: ein abgegrenzter Auftrag.
-2. ### 02. Fokussieren
-
-Wir priorisieren Märkte und Accounts, definieren Entscheider und schärfen dein Nutzenversprechen.
-
-Ergebnis: ein Go-to-Market-Plan.
-3. ### 03. Aktivieren
-
-Ich setze die vereinbarte Ansprache und CRM-Struktur auf. Wir testen in einem ausgewählten Segment.
-
-Ergebnis: ein dokumentierter Pilot.
-4. ### 04. Weiterentwickeln
-
-Wir bewerten Rückmeldungen, prüfen die Pipeline und entscheiden über Anpassungen oder Ausbau.
-
-Ergebnis: begründete nächste Schritte.
+1. **01. Verstehen** Wir besprechen Angebot, Vertriebszyklus, vorhandene Daten und deinen konkreten Engpass. Ergebnis: ein abgegrenzter Auftrag.
+2. **02. Fokussieren** Wir priorisieren Märkte und Accounts, definieren Entscheider und schärfen dein Nutzenversprechen. Ergebnis: ein Go-to-Market-Plan.
+3. **03. Aktivieren** Ich setze die vereinbarte Ansprache und CRM-Struktur auf. Wir testen in einem ausgewählten Segment. Ergebnis: ein dokumentierter Pilot.
+4. **04. Weiterentwickeln** Wir bewerten Rückmeldungen, prüfen die Pipeline und entscheiden über Anpassungen oder Ausbau. Ergebnis: begründete nächste Schritte.
 
 Zeitrahmen, Verantwortung und Vergütung vereinbaren wir vor dem Start. Ein Pilot läuft je nach Ausgangslage über mehrere Wochen; Umsatz und Abschlusszahlen lassen sich daraus nicht garantieren.
 

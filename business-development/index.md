@@ -185,26 +185,10 @@ Entscheidend ist die nachvollziehbare Auswahl pro Stufe. Echte Quoten berechnen 
 
 Ein abgegrenzter Pilot macht die Zusammenarbeit überschaubar. Wir legen fest, was aufgebaut wird, wer entscheidet und woran wir die nächsten Schritte ausrichten.
 
-1. ### Verstehen
-
-Wir besprechen Angebot, Zielmarkt, bisherigen Vertrieb und den konkreten Engpass.
-
-Ergebnis: klarer Auftrag & Zielkundenprofil.
-2. ### Aufsetzen
-
-Ich entwickle Account-Liste, Ansprache, CRM-Stufen und die vereinbarten Workflows.
-
-Ergebnis: abgestimmter Pilot & Übergabekriterien.
-3. ### Im Markt lernen
-
-Wir starten mit einem ausgewählten Segment, dokumentieren Rückmeldungen und prüfen die Passung.
-
-Ergebnis: nachvollziehbare Dialoge & Erkenntnisse.
-4. ### Weiterentwickeln
-
-Wir passen Botschaften und Abläufe an. Eine Ausweitung folgt, wenn die Erkenntnisse dafür sprechen.
-
-Ergebnis: begründete nächste Schritte.
+1. **Verstehen** Wir besprechen Angebot, Zielmarkt, bisherigen Vertrieb und den konkreten Engpass. Ergebnis: klarer Auftrag & Zielkundenprofil.
+2. **Aufsetzen** Ich entwickle Account-Liste, Ansprache, CRM-Stufen und die vereinbarten Workflows. Ergebnis: abgestimmter Pilot & Übergabekriterien.
+3. **Im Markt lernen** Wir starten mit einem ausgewählten Segment, dokumentieren Rückmeldungen und prüfen die Passung. Ergebnis: nachvollziehbare Dialoge & Erkenntnisse.
+4. **Weiterentwickeln** Wir passen Botschaften und Abläufe an. Eine Ausweitung folgt, wenn die Erkenntnisse dafür sprechen. Ergebnis: begründete nächste Schritte.
 
 Umfang, Zeitrahmen und Vergütung werden vor dem Start individuell vereinbart. Ein Pilot ist je nach Datenlage, Abstimmung und Vertriebszyklus über mehrere Wochen sinnvoll; eine feste Anzahl an Leads wird nicht zugesagt.
 

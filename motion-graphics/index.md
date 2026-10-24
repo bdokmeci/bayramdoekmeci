@@ -192,34 +192,10 @@ Gleiche Botschaft. Eigene Komposition.
 
 Du weißt, was als Nächstes passiert. Ich weiß, worauf es dir ankommt. Wir stimmen die Richtung ab, bevor die Details in Bewegung gehen.
 
-1. 01 / VERSTEHEN
-
-### Briefing & Ziel
-
-Wir klären Zielgruppe, Botschaft, Einsatzorte und vorhandene Materialien. Daraus entsteht ein konkreter Leistungsumfang.
-
-Ergebnis: abgestimmtes Briefing
-2. 02 / ENTWERFEN
-
-### Storyboard & Stil
-
-Szenenfolge und Styleframes machen die Idee greifbar. Wir prüfen Text, Dramaturgie und Gestaltung gemeinsam.
-
-Ergebnis: freigegebenes Konzept
-3. 03 / BEWEGEN
-
-### Animation & Feinschliff
-
-Aus dem Konzept wird Bewegung. Timing, Übergänge und vereinbartes Sound Design werden ausgearbeitet und geprüft.
-
-Ergebnis: abgestimmte Animation
-4. 04 / AUSLIEFERN
-
-### Varianten & Export
-
-Du erhältst die vereinbarten Formate. Dateibenennung, Untertitel und benötigte Quelldateien klären wir vorab.
-
-Ergebnis: einsatzbereite Assets
+1. 01 / VERSTEHEN **Briefing & Ziel** Wir klären Zielgruppe, Botschaft, Einsatzorte und vorhandene Materialien. Daraus entsteht ein konkreter Leistungsumfang. Ergebnis: abgestimmtes Briefing
+2. 02 / ENTWERFEN **Storyboard & Stil** Szenenfolge und Styleframes machen die Idee greifbar. Wir prüfen Text, Dramaturgie und Gestaltung gemeinsam. Ergebnis: freigegebenes Konzept
+3. 03 / BEWEGEN **Animation & Feinschliff** Aus dem Konzept wird Bewegung. Timing, Übergänge und vereinbartes Sound Design werden ausgearbeitet und geprüft. Ergebnis: abgestimmte Animation
+4. 04 / AUSLIEFERN **Varianten & Export** Du erhältst die vereinbarten Formate. Dateibenennung, Untertitel und benötigte Quelldateien klären wir vorab. Ergebnis: einsatzbereite Assets
 
 Feedbackrunden, Zeitplan und Nutzungsumfang halten wir vor Projektstart im Angebot fest.
 

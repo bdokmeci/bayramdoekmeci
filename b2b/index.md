@@ -161,18 +161,10 @@ Entwickeln
 
 Review & nächste Schritte
 
-1. ### Ein klares Zielbild
-
-Wir klären Angebot, Zielkunden und Partnerkriterien. Ergebnis: ein abgestimmtes Partnerprofil.
-2. ### Relevante Gespräche
-
-Passende Kontakte recherchieren, priorisieren und ansprechen. Ergebnis: eine qualifizierte Partner-Shortlist.
-3. ### Ein gemeinsamer Pilot
-
-Angebot, Rollen und Übergaben abstimmen. Ergebnis: ein konkreter Plan für die erste Zusammenarbeit.
-4. ### Verbindliche Reviews
-
-Aktivitäten und Chancen gemeinsam einordnen. Ergebnis: dokumentierte Learnings und nächste Schritte.
+1. **Ein klares Zielbild** Wir klären Angebot, Zielkunden und Partnerkriterien. Ergebnis: ein abgestimmtes Partnerprofil.
+2. **Relevante Gespräche** Passende Kontakte recherchieren, priorisieren und ansprechen. Ergebnis: eine qualifizierte Partner-Shortlist.
+3. **Ein gemeinsamer Pilot** Angebot, Rollen und Übergaben abstimmen. Ergebnis: ein konkreter Plan für die erste Zusammenarbeit.
+4. **Verbindliche Reviews** Aktivitäten und Chancen gemeinsam einordnen. Ergebnis: dokumentierte Learnings und nächste Schritte.
 
 Wir starten mit einem klar begrenzten Umfang. Zeitplan und Meilensteine richten sich nach deinem Partnermodell und der Ausgangslage.
 

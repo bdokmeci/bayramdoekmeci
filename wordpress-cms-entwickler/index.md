@@ -160,18 +160,10 @@ Entwickeln
 
 Live gehen
 
-1. ### Verstehen
-
-Wir sprechen über dein Ziel, die Nutzer und den technischen Ausgangspunkt.
-2. ### Planen
-
-Du erhältst einen klaren Umfang, eine passende Architektur und einen abgestimmten Zeitplan.
-3. ### Entwickeln
-
-Ich setze um. Du gibst Feedback zu greifbaren Zwischenständen.
-4. ### Live gehen
-
-Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
+1. **Verstehen** Wir sprechen über dein Ziel, die Nutzer und den technischen Ausgangspunkt.
+2. **Planen** Du erhältst einen klaren Umfang, eine passende Architektur und einen abgestimmten Zeitplan.
+3. **Entwickeln** Ich setze um. Du gibst Feedback zu greifbaren Zwischenständen.
+4. **Live gehen** Nach Prüfung und Freigabe folgen Launch, Dokumentation und eine geordnete Übergabe.
 
 04 / Von der Herausforderung zur Lösung
 

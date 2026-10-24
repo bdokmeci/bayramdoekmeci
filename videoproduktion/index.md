@@ -80,18 +80,10 @@ Der Fokus liegt auf digitaler Produktion und Postproduktion. Material, benötigt
 
 ## Dein Briefing rein. Deine Marke raus.
 
-1. ### Wir stecken den Rahmen ab.
-
-Ziel, Kanal, Formate und Material. Du teilst dein Briefing, wir stimmen Umfang und Zeitplan ab.
-2. ### Ich bringe deine Story in Form.
-
-Konzept, Schnitt oder Animation: Du bekommst einen ersten Entwurf, der deine Markenwelt aufgreift.
-3. ### Dein Feedback. Der Feinschliff.
-
-Du bündelst die Rückmeldungen. Ich arbeite die vereinbarten Korrekturen gezielt ein.
-4. ### Fertig für deinen nächsten Auftritt.
-
-Du erhältst die freigegebenen Exporte in den abgestimmten Formaten, auf Wunsch unter deinem Agenturbranding.
+1. **Wir stecken den Rahmen ab.** Ziel, Kanal, Formate und Material. Du teilst dein Briefing, wir stimmen Umfang und Zeitplan ab.
+2. **Ich bringe deine Story in Form.** Konzept, Schnitt oder Animation: Du bekommst einen ersten Entwurf, der deine Markenwelt aufgreift.
+3. **Dein Feedback. Der Feinschliff.** Du bündelst die Rückmeldungen. Ich arbeite die vereinbarten Korrekturen gezielt ein.
+4. **Fertig für deinen nächsten Auftritt.** Du erhältst die freigegebenen Exporte in den abgestimmten Formaten, auf Wunsch unter deinem Agenturbranding.
 
 White-Label-Workflow 4 Schritte
 

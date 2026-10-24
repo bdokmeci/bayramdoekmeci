@@ -229,26 +229,10 @@ Illustrative Szenarien, keine Kundenreferenzen. Rankings, Traffic und Leadzahlen
 
 Du arbeitest direkt mit mir – von der ersten Struktur bis zur Übergabe. Umfang und Zeitplan richten sich nach Datenlage, Seitentypen und deinem bestehenden System.
 
-1. 01 / Potenzial
-
-### Verstehen & eingrenzen
-
-Wir klären Zielkunden, Suchintentionen und verfügbare Daten. Du erhältst eine Empfehlung, ob und wo pSEO sinnvoll ist.
-2. 02 / Grundlage
-
-### Struktur entwickeln
-
-Ich konzipiere Datenmodell, Seitenvorlage und Inhaltsmodule. Wir legen fest, was eine Seite für die Freigabe braucht.
-3. 03 / Pilot
-
-### Umsetzen & prüfen
-
-Ein abgegrenztes Themencluster macht das Konzept überprüfbar. Inhalt, Darstellung und technische Grundlagen werden geprüft.
-4. 04 / Ausbau
-
-### Auswerten & erweitern
-
-Wir betrachten die ersten Signale und verbessern das System. Du erhältst eine dokumentierte Grundlage für den weiteren Ausbau.
+1. 01 / Potenzial **Verstehen & eingrenzen** Wir klären Zielkunden, Suchintentionen und verfügbare Daten. Du erhältst eine Empfehlung, ob und wo pSEO sinnvoll ist.
+2. 02 / Grundlage **Struktur entwickeln** Ich konzipiere Datenmodell, Seitenvorlage und Inhaltsmodule. Wir legen fest, was eine Seite für die Freigabe braucht.
+3. 03 / Pilot **Umsetzen & prüfen** Ein abgegrenztes Themencluster macht das Konzept überprüfbar. Inhalt, Darstellung und technische Grundlagen werden geprüft.
+4. 04 / Ausbau **Auswerten & erweitern** Wir betrachten die ersten Signale und verbessern das System. Du erhältst eine dokumentierte Grundlage für den weiteren Ausbau.
 
 ### Bayram Dökmeci
 

@@ -265,26 +265,10 @@ Illustrative Szenarien zur Erklärung der Arbeitsweise. Keine Kundenreferenzen o
 
 Du sprichst direkt mit der Person, die dein Projekt umsetzt. Wir stimmen Umfang, Timing und Verantwortlichkeiten gemeinsam ab.
 
-1. ### Zuhören & prüfen
-
-Wir klären Ziele, Zielgruppen, Tools und den Zustand deines Verteilers.
-
-→ Bestandsaufnahme & Prioritäten
-2. ### Den Weg planen
-
-Ich entwerfe Segmente, Inhalte, Versandregeln und die Erfolgsmessung.
-
-→ Konzept & abgestimmter Umfang
-3. ### Aufbauen & testen
-
-Templates und Flows entstehen. Links, Darstellung und Abläufe werden geprüft.
-
-→ Testversand & deine Freigabe
-4. ### Lernen & verbessern
-
-Nach dem Start betrachten wir Ergebnisse und priorisieren nächste Schritte.
-
-→ Auswertung & Dokumentation
+1. **Zuhören & prüfen** Wir klären Ziele, Zielgruppen, Tools und den Zustand deines Verteilers. → Bestandsaufnahme & Prioritäten
+2. **Den Weg planen** Ich entwerfe Segmente, Inhalte, Versandregeln und die Erfolgsmessung. → Konzept & abgestimmter Umfang
+3. **Aufbauen & testen** Templates und Flows entstehen. Links, Darstellung und Abläufe werden geprüft. → Testversand & deine Freigabe
+4. **Lernen & verbessern** Nach dem Start betrachten wir Ergebnisse und priorisieren nächste Schritte. → Auswertung & Dokumentation
 
 **Hi, ich bin Bayram.** MeinB2B · Antalya → DACH
 

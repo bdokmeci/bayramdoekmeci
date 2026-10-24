@@ -211,26 +211,10 @@ Erkenntnisse fließen in die Betreuung zurück.
 
 Ein wiederkehrender Ablauf, kein starres Schema. Umfang und Taktung richten sich nach Ihrem Projekt.
 
-1. ### Verstehen
-
-Wir besprechen Ihr Produkt, die Kundensegmente und die Stellen, an denen Nutzer heute hängen bleiben.
-
-Ergebnis: gemeinsame Ziele und ein klarer Auftrag.
-2. ### Aufsetzen
-
-Wir definieren Ansprechpartner, Zugänge, eine saubere Sales-Übergabe und den Ablauf der ersten Kundentermine.
-
-Ergebnis: ein einsatzbereiter Betreuungsplan.
-3. ### Begleiten
-
-Ich führe Onboardings und Schulungen durch, koordiniere offene Punkte und halte Entscheidungen in Ihren Systemen fest.
-
-Ergebnis: dokumentierte nächste Schritte je Kunde.
-4. ### Weiterentwickeln
-
-Wir prüfen Nutzung, Kundenfeedback und vereinbarte Ziele. Daraus leiten wir Anpassungen und sinnvolle Erweiterungen ab.
-
-Ergebnis: ein aktualisierter Account-Plan.
+1. **Verstehen** Wir besprechen Ihr Produkt, die Kundensegmente und die Stellen, an denen Nutzer heute hängen bleiben. Ergebnis: gemeinsame Ziele und ein klarer Auftrag.
+2. **Aufsetzen** Wir definieren Ansprechpartner, Zugänge, eine saubere Sales-Übergabe und den Ablauf der ersten Kundentermine. Ergebnis: ein einsatzbereiter Betreuungsplan.
+3. **Begleiten** Ich führe Onboardings und Schulungen durch, koordiniere offene Punkte und halte Entscheidungen in Ihren Systemen fest. Ergebnis: dokumentierte nächste Schritte je Kunde.
+4. **Weiterentwickeln** Wir prüfen Nutzung, Kundenfeedback und vereinbarte Ziele. Daraus leiten wir Anpassungen und sinnvolle Erweiterungen ab. Ergebnis: ein aktualisierter Account-Plan.
 
 04 Aus der Praxis gedacht
 
