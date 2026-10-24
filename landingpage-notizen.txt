@@ -20,4 +20,16 @@ HTML-Code: email-marketing/index.html (eigenständige Datei mit Inline-CSS, Inli
 SEO: Sitemap und llms.txt ergänzt. JSON-LD mit Person, LocalBusiness, Service, WebPage, BreadcrumbList und FAQPage. LocalBusiness entspricht dem bestehenden Schema-Validator des Projekts.
 Annahmen: Die Vorlage dient als Inhaltsbriefing für die bestehende Route /email-marketing/; ausschließlich B2B und Agenturen in DACH; alle Zahlen und Abläufe sind illustrative Beispiele, keine Kundenresultate.
 
+Social Media
+Haupt-Keyword: Social-Media-Experte für B2B
+Suchintent: Einen deutschsprachigen Partner für Social-Media-Strategie, Content und Community-Betreuung für B2B finden.
+URL: https://bayramdoekmeci.de/social-media/
+Title: Social-Media-Experte für B2B | Bayram Dökmeci
+Description: Dein Social-Media-Experte für B2B in DACH: Strategie, Content, Community und Paid Social. Direkt mit Bayram Dökmeci. Jetzt kennenlernen.
+Design: Dunkles Editorial-Layout mit Hintergrund #0D1C42, tiefem Navy #010713, Blau #22396F, Creme #FCF1D0 und Türkis #00cccc. Große Systemtypografie und Serif-Akzente; mobile Kontaktleiste mit Safe-Area-Abstand.
+HTML-Code: social-media/index.html (eigenständige HTML-Datei mit Inline-CSS, Inline-JS und Alpine.js 3.14.9)
+Interaktionen: Umschaltbarer Content-Mix für 12 illustrative Beiträge, zwei animierte SVG-Abläufe mit Textalternativen, native FAQ- und Menü-Details. Inhalte auch ohne JavaScript zugänglich; reduzierte Bewegung wird berücksichtigt.
+SEO: Sitemap und llms.txt ergänzt. JSON-LD mit Person, LocalBusiness, Service, WebPage, BreadcrumbList und FAQPage; FAQ-Antworten entsprechen dem sichtbaren Text. LocalBusiness folgt dem vorhandenen Projektvalidator.
+Annahmen: prompt.txt dient als Inhaltsbriefing für /social-media/; die vereinzelte E-Mail-Marketing-Zeile ist ein Vorlagenrest; #01073 wurde zu #010713 ergänzt; ausschließlich B2B und Agenturen in DACH; Diagrammwerte sind illustrative Planung, keine Kundenergebnisse.
+
 
