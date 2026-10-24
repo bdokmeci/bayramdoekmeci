@@ -4,13 +4,13 @@ description: "Dein Social-Media-Experte für B2B in DACH: Strategie, Content, Co
 url: "https://bayramdoekmeci.de/social-media/"
 ---
 
-[Startseite](<https://bayramdoekmeci.de/>)Social Media
+[Startseite](<https://bayramdoekmeci.de/>) Social Media
 
 # Dein Social-Media-Experte für B2B Mehr als nur sichtbar. Relevant.
 
 Kurz gesagt Ich bin **Bayram Dökmeci von MeinB2B** und verbinde Social-Media-Strategie, Content und Community-Management für Unternehmen und Agenturen in DACH. Damit aus deiner Präsenz echte Gespräche entstehen – direkt, persönlich und auf Deutsch.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Lieber per WhatsApp](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Lieber per WhatsApp](<https://wa.me/905078827795>)
 
 **Dein Projekt. Mein persönlicher Einsatz.** Ein Ansprechpartner, von der Idee bis zur Auswertung.
 
@@ -38,7 +38,7 @@ Deine Zielgruppe bestimmt den Kanal. Nicht der Hype.
 - Facebook
 - TikTok
 
-01 /  Was ich für dich tue
+01 / Was ich für dich tue
 
 ## Ein guter Post ist ein Anfang. Eine Strategie bringt dich weiter.
 
@@ -85,7 +85,7 @@ Bei Bedarf ergänzen gezielte Kampagnen deine organischen Inhalte. Creative-Test
 - A/B-Tests
 - Reporting
 
-02 /  Einblick in die Denkweise
+02 / Einblick in die Denkweise
 
 ## Nicht jeder Beitrag muss verkaufen. Jeder braucht eine Aufgabe.
 
@@ -117,7 +117,7 @@ Anzahl der Beiträge, jeweils 12 insgesamt
 | Vertrauen | 6 | 4 | 2 |
 | Gespräche | 4 | 4 | 4 |
 
-03 /  So kommen wir ins Machen
+03 / So kommen wir ins Machen
 
 ## Von „Wir sollten mal“ zu einem klaren Plan.
 
@@ -127,22 +127,30 @@ Vier Schritte unserer Zusammenarbeit Erst verstehen wir dein Geschäft. Dann pla
 
 Ein wiederkehrender Ablauf, kein starres Paket.
 
-1. 01 / ### Wir starten mit deinem Ziel. Im Erstgespräch klären wir Ausgangslage, Zielkunden und Ressourcen. Danach stimmen wir Leistungen, Budget und Verantwortlichkeiten ab.
-2. 02 / ### Du bekommst einen konkreten Plan. Aus Positionierung und Themen entstehen Formate, ein Redaktionsplan und ein Freigabeprozess. Der Umfang richtet sich nach deinem Team.
-3. 03 / ### Aus Ideen wird Präsenz. Ich erstelle die vereinbarten Inhalte und begleite Veröffentlichung und Community. Bei Bedarf binden wir Kampagnen und Kontaktübergaben ein.
-4. 04 / ### Wir lernen aus den Reaktionen. Regelmäßige Reviews verbinden Kennzahlen mit konkretem Feedback. Wir schärfen Themen, Formate und nächste Schritte gemeinsam nach.
+### Wir starten mit deinem Ziel.
+
+Im Erstgespräch klären wir Ausgangslage, Zielkunden und Ressourcen. Danach stimmen wir Leistungen, Budget und Verantwortlichkeiten ab.
+### Du bekommst einen konkreten Plan.
+
+Aus Positionierung und Themen entstehen Formate, ein Redaktionsplan und ein Freigabeprozess. Der Umfang richtet sich nach deinem Team.
+### Aus Ideen wird Präsenz.
+
+Ich erstelle die vereinbarten Inhalte und begleite Veröffentlichung und Community. Bei Bedarf binden wir Kampagnen und Kontaktübergaben ein.
+### Wir lernen aus den Reaktionen.
+
+Regelmäßige Reviews verbinden Kennzahlen mit konkretem Feedback. Wir schärfen Themen, Formate und nächste Schritte gemeinsam nach.
 
 Typisches Beispiel · illustratives Szenario
 
 ### Viel Fachwissen. Bisher wenig davon im Feed.
 
-**Die Ausgangslage**Ein B2B-Softwareanbieter veröffentlicht unregelmäßig Produktneuigkeiten. Die Fragen potenzieller Kunden kommen kaum vor.
+**Die Ausgangslage** Ein B2B-Softwareanbieter veröffentlicht unregelmäßig Produktneuigkeiten. Die Fragen potenzieller Kunden kommen kaum vor.
 
-**Das Vorgehen**Wir machen aus häufigen Vertriebsfragen eine Content-Serie: kurze Erklärungen, praktische Einblicke und Beiträge, die zum Austausch einladen.
+**Das Vorgehen** Wir machen aus häufigen Vertriebsfragen eine Content-Serie: kurze Erklärungen, praktische Einblicke und Beiträge, die zum Austausch einladen.
 
-**Das angestrebte Ergebnis**Ein nachvollziehbarer Themenplan und bessere Anknüpfungspunkte für Gespräche. Ob daraus Anfragen entstehen, prüfen wir in der Auswertung.
+**Das angestrebte Ergebnis** Ein nachvollziehbarer Themenplan und bessere Anknüpfungspunkte für Gespräche. Ob daraus Anfragen entstehen, prüfen wir in der Auswertung.
 
-04 /  Persönlich statt über drei Ecken
+04 / Persönlich statt über drei Ecken
 
 ## Du sprichst mit dem, der es umsetzt.
 
@@ -154,7 +162,7 @@ Ich verbinde Social Media mit B2B-Leadgenerierung und Marketing Automation. So d
 - Direkte Kommunikation
 - Remote aus Antalya
 
-**Bayram Dökmeci**MeinB2B · Dein Ansprechpartner
+**Bayram Dökmeci** MeinB2B · Dein Ansprechpartner
 
 Auch für Agenturen
 
@@ -166,7 +174,7 @@ Dein Team erweitern. Deine Abläufe beibehalten.
 
 [Zusammenarbeit besprechen](<https://calendly.com/bayramdokmeci/b2b>)
 
-05 /  Gut zu wissen
+05 / Gut zu wissen
 
 ## Noch eine Frage offen?
 
@@ -200,7 +208,7 @@ Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Wir stimm
 
 Wenn du weiterdenken möchtest
 
-[LinkedIn gezielt vertiefen](<https://bayramdoekmeci.de/linkedin/>)[Kontakte mit E-Mail weiterentwickeln](<https://bayramdoekmeci.de/email-marketing/>)[Marketing-Workflows automatisieren](<https://bayramdoekmeci.de/n8n/>)
+[LinkedIn gezielt vertiefen](<https://bayramdoekmeci.de/linkedin/>) [Kontakte mit E-Mail weiterentwickeln](<https://bayramdoekmeci.de/email-marketing/>) [Marketing-Workflows automatisieren](<https://bayramdoekmeci.de/n8n/>)
 
 Der nächste Schritt ist ein Gespräch.
 
@@ -208,12 +216,12 @@ Der nächste Schritt ist ein Gespräch.
 
 Erzähl mir, wo du stehst und was du vorhast. Gemeinsam finden wir heraus, wie Social Media zu deinem Geschäft beitragen kann.
 
-[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>)[Per WhatsApp schreiben](<https://wa.me/905078827795>)
+[Erstgespräch buchen](<https://calendly.com/bayramdokmeci/b2b>) [Per WhatsApp schreiben](<https://wa.me/905078827795>)
 
-[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>)[+90 507 882 7795](<tel:+905078827795>)
+[kontakt@bayramdoekmeci.de](<mailto:kontakt@bayramdoekmeci.de>) [+90 507 882 7795](<tel:+905078827795>)
 
-[Bayram DökmeciVon Mensch zu Mensch. Auch digital.](<https://bayramdoekmeci.de/>)
+[Bayram Dökmeci · Von Mensch zu Mensch. Auch digital.](<https://bayramdoekmeci.de/>)
 
-[Startseite](<https://bayramdoekmeci.de/>)[Impressum](<https://bayramdoekmeci.de/impressum/>)[Datenschutz](<https://bayramdoekmeci.de/datenschutz/>)[LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>)[Termin buchen](<https://calendly.com/bayramdokmeci/b2b>)[Tel./WhatsApp](<https://wa.me/905078827795>)
+[Startseite](<https://bayramdoekmeci.de/>) [Impressum](<https://bayramdoekmeci.de/impressum/>) [Datenschutz](<https://bayramdoekmeci.de/datenschutz/>) [LinkedIn](<https://www.linkedin.com/in/bayramdoekmeci/>) [Termin buchen](<https://calendly.com/bayramdokmeci/b2b>) [Tel./WhatsApp](<https://wa.me/905078827795>)
 
 © 2026 Bayram Dökmeci. MeinB2B · Konyaaltı Blv., 07070 Antalya, Türkiye Für Geschäftskunden in DACH.
