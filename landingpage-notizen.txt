@@ -33,3 +33,15 @@ SEO: Sitemap und llms.txt ergänzt. JSON-LD mit Person, LocalBusiness, Service, 
 Annahmen: prompt.txt dient als Inhaltsbriefing für /social-media/; die vereinzelte E-Mail-Marketing-Zeile ist ein Vorlagenrest; #01073 wurde zu #010713 ergänzt; ausschließlich B2B und Agenturen in DACH; Diagrammwerte sind illustrative Planung, keine Kundenergebnisse.
 
 
+
+3D-Visualisierungen für Architekten
+Haupt-Keyword: 3D-Visualisierungen für Architekten
+Suchintent: Einen direkten Partner für Architekturvisualisierung für Architekturbüros und Agenturen in DACH finden.
+URL: https://bayramdoekmeci.de/3d/
+Title: 3D-Visualisierungen für Architekten | Bayram Dökmeci
+Description: 3D-Visualisierungen für Architekten in DACH: Außenräume, Innenräume und Animationen. Direkt mit Bayram Dökmeci – vom Entwurf zum verständlichen Bild.
+Design: Weißer Hintergrund #ffffff, schwarze Texte #000000. Architektonisches Editorial-Layout mit großer Typografie und feinen Linien; kräftiges Violett, Orange, Cyan und Lime ausschließlich in Charts und Infografiken. Keine Bilder.
+HTML-Code: 3d/index.html (Inline-CSS, Inline-JS, Alpine.js 3.14.9; vorhandene lokal gehostete Schrift).
+Interaktionen: Drei ArchViz-Bausteine, umschaltbares Balkendiagramm mit ausdrücklich illustrativen Perspektivzahlen, SVG-Prozessgrafik mit zwei Freigaben, native FAQ und mobiles Menü. Progressive Enhancement, Textalternativen und Reduced Motion.
+SEO: Sitemap und llms.txt ergänzt. JSON-LD mit Person, LocalBusiness, Service, WebPage, BreadcrumbList und FAQPage; LocalBusiness entspricht dem vorhandenen Projektvalidator.
+Annahmen: prompt.txt dient als Inhaltsbriefing für die bestehende leere Route /3d/; Zielgruppe ausschließlich B2B und Agenturen in DACH; Szenarien und Diagrammwerte sind illustrative Beispiele, keine Referenzen oder Kundenergebnisse.
