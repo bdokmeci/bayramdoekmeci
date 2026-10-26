@@ -57,3 +57,17 @@ HTML-Code: 3d/index.html (Inline-CSS, Inline-JS, Alpine.js 3.14.9; vorhandene lo
 Interaktionen: Drei ArchViz-Bausteine, umschaltbares Balkendiagramm mit ausdrücklich illustrativen Perspektivzahlen, SVG-Prozessgrafik mit zwei Freigaben, native FAQ und mobiles Menü. Progressive Enhancement, Textalternativen und Reduced Motion.
 SEO: Sitemap und llms.txt ergänzt. JSON-LD mit Person, LocalBusiness, Service, WebPage, BreadcrumbList und FAQPage; LocalBusiness entspricht dem vorhandenen Projektvalidator.
 Annahmen: prompt.txt dient als Inhaltsbriefing für die bestehende leere Route /3d/; Zielgruppe ausschließlich B2B und Agenturen in DACH; Szenarien und Diagrammwerte sind illustrative Beispiele, keine Referenzen oder Kundenergebnisse.
+
+
+Local SEO & Kartendienste
+Haupt-Keyword: Local-SEO-Spezialist
+Suchintent: Einen deutschsprachigen Spezialisten für lokale Unternehmensprofile, Kartendienste und Standortdaten in DACH beauftragen.
+URL: https://bayramdoekmeci.de/kartendienst/
+Title: Local-SEO-Spezialist für DACH | Bayram Dökmeci
+Description: Local-SEO-Spezialist für Unternehmen und Agenturen in DACH: Google Maps, Apple Maps und konsistente Standortdaten. Direkt mit Bayram Dökmeci.
+Design: Hintergrund #ffffff, Text #000000; Rot #ff8e7d, Blau #9ab9ff, Gelb #ffda58 und Grün #98d9b3 für Buttons, Diagramme, Infografiken und Karten. Große Systemtypografie, schematische Stadtkarte und vierfarbige Leistungsbereiche. Keine Bilder.
+HTML-Code: kartendienst/index.html – eigenständige HTML-Datei mit Inline-CSS, Inline-SVG und minimalem Inline-JS; einzige externe Abhängigkeit Alpine.js 3.14.9.
+Interaktionen: Animierte Standortkarte, animiertes Profilsystem, umschaltbares Balkendiagramm mit zwölf ausdrücklich fiktiven Einträgen, sechs native FAQ, mobiles Menü und fixierte mobile Kontaktleiste. Progressive Enhancement und Reduced Motion.
+SEO: Canonical, Open Graph, Twitter-Metadaten, Inline-Favicon sowie Person, LocalBusiness, Service, WebPage, BreadcrumbList und FAQPage im JSON-LD. LocalBusiness entspricht dem vorhandenen Projektvalidator anstelle des veralteten ProfessionalService-Typs aus der Vorlage. Sitemap und llms.txt ergänzt.
+Prüfung: Projektvalidator mit 27 fehlerfreien Seiten; HTML- und Linkprüfung; isolierter Chrome-Test von 360 bis 1440 px ohne horizontalen Überlauf; Chart, FAQ, mobiles Menü, deaktiviertes JavaScript und reduzierte Bewegung geprüft.
+Annahmen: prompt.txt dient als Inhaltsbriefing für die vorhandene leere Route /kartendienst/; ausschließlich B2B und Agenturen in DACH; Beispiele und Diagrammdaten sind illustrativ; Umsetzung im bestehenden Cloudflare-Projekt.
