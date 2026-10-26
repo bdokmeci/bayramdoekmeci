@@ -45,6 +45,8 @@
 
 - [Data Engineering & KI für B2B](https://bayramdoekmeci.de/data-engineering/): Datenpipelines, API-Integration, Datenmodellierung, Qualitätsprüfungen und Aufbereitung einer Wissensbasis für RAG. Für Unternehmen und Agenturen in DACH, direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch und remote aus Antalya.
 
+- [Local-SEO-Spezialist & Kartendienste](https://bayramdoekmeci.de/kartendienst/): Google Business Profile, Apple Maps, Bing Places, konsistente Standortdaten und Local Listing Management für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch und remote aus Antalya.
+
 ## Kontakt
 
 - E-Mail: kontakt@bayramdoekmeci.de
