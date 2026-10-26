@@ -1,5 +1,17 @@
 LANDINGPAGES – BAYRAM DÖKMECI
 
+Data Engineering & KI
+Haupt-Keyword: Data Engineering
+Suchintent: Einen deutschsprachigen Umsetzungspartner für Datenpipelines und eine nutzbare KI-Datenbasis für B2B in DACH finden.
+URL: https://bayramdoekmeci.de/data-engineering/
+Title: Data Engineering & KI für B2B | Bayram Dökmeci
+Description: Data Engineering für B2B in DACH: Datenpipelines, Datenqualität und KI-fähige Wissensbasis. Direkt mit Bayram Dökmeci. Auf Deutsch, remote aus Antalya.
+HTML-Code: data-engineering/index.html (eine eigenständige Datei mit Inline-CSS, Inline-JS und Alpine.js 3.14.9).
+Design: Helles Salbei, dunkles Waldgrün und Lime; Systemschrift, Architekturdiagramm, RAG-Infografik und umschaltbarer Qualitätscheck mit eindeutig gekennzeichneten Beispieldaten. Keine Bilder.
+SEO: Sitemap und llms.txt ergänzt. Person, LocalBusiness, Service, WebPage, BreadcrumbList und FAQPage. Der veraltete ProfessionalService-Typ der Vorlage wird entsprechend Schema.org und Projektvalidator durch LocalBusiness plus Service ersetzt (https://schema.org/ProfessionalService).
+Fachliche Quelle: https://learn.microsoft.com/en-us/dotnet/ai/conceptual/rag
+Annahmen: prompt.txt dient als Inhaltsbriefing für die vorhandene leere Route /data-engineering/; Fokus auf die Datenbasis zur Abgrenzung von /ki/; ausschließlich B2B und Agenturen in DACH; Diagrammwerte und Szenarien sind illustrative Beispiele, keine Kundenresultate.
+
 Startseite
 Haupt-Keyword: B2B-Webentwicklung
 Suchintent: Einen direkten technischen Partner für B2B-Websites und digitale Systeme finden.
