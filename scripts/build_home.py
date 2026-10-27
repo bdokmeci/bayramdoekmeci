@@ -102,13 +102,6 @@ def main():
   <ul class="service-grid">{''.join(cards)}</ul>
 </section>''')
 
-    lookup = {entry[0]: entry for entry in entries}
-    dock = []
-    for slug, label in [("webentwicklung", "Web"), ("digitales-marketing", "Marketing"), ("ki", "KI"), ("n8n", "Workflows"), ("design-content", "Design"), ("business-development", "Business")]:
-        name = lookup[slug][1]
-        dock.append(f'''<a class="dock-item" href="/{slug}/" aria-label="{escape(name)}"><span class="dock-tooltip" aria-hidden="true">{escape(name)}</span><img src="assets/icons/{slug}.svg" width="64" height="64" alt="" fetchpriority="high"><span class="dock-label" aria-hidden="true">{label}</span></a>''')
-    dock.append('<span class="dock-divider" aria-hidden="true"></span><a class="dock-item dock-all" href="#leistungen" aria-label="Alle 25 Leistungen entdecken"><span class="dock-tooltip" aria-hidden="true">Alle Leistungen</span><img src="assets/icons/alle.svg" width="64" height="64" alt=""><span class="dock-label" aria-hidden="true">Alle</span></a>')
-
     title = "Digitale Leistungen für B2B | Bayram Dökmeci"
     description = "Webentwicklung, Marketing, KI, Design und Business Development: Alle Leistungen von Bayram Dökmeci für Unternehmen und Agenturen in DACH im Überblick."
     graph = {
@@ -163,10 +156,6 @@ def main():
         <h1 id="hero-title">Ein guter Start.<br><span>Für dein digitales Business.</span></h1>
         <p class="hero-description">Webentwicklung, Marketing, KI und Design.<br class="desktop-break"> Entdecke, was dein Unternehmen weiterbringt.</p>
         <a class="hero-explore" href="#leistungen">Alle Leistungen entdecken {arrow()}</a>
-        <div class="dock-anchor" id="dock-anchor">
-          <nav class="dock" aria-label="Schnellnavigation zu ausgewählten Leistungen"><div class="dock-track">{''.join(dock)}</div></nav>
-        </div>
-        <p class="dock-caption"><span class="pointer-hint">Ein Icon. Dein nächster Schritt.</span><span class="touch-hint">Antippen & entdecken. Im Dock seitlich wischen.</span></p>
       </div>
       <div class="hero-bottom wrap"><span>25 Leistungen. Ein direkter Ansprechpartner.</span><span class="remote-note"><span></span> Remote aus Antalya · Für DACH</span></div>
     </section>
@@ -179,7 +168,7 @@ def main():
       <p id="filter-status" class="filter-status sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
       <div id="service-groups">{''.join(sections)}</div>
       <div class="no-results" hidden><span aria-hidden="true">↗</span><h3>Gerade kein Treffer.</h3><p>Probiere einen anderen Begriff oder entdecke alle Leistungen.</p><button type="button" id="reset-search">Alle Leistungen anzeigen {arrow()}</button></div>
-      <noscript><p class="noscript-note">Alle Leistungen sind direkt verlinkt. Suche, Filter und Dock-Animationen stehen mit JavaScript zur Verfügung.</p></noscript>
+      <noscript><p class="noscript-note">Alle Leistungen sind direkt verlinkt. Suche und Filter stehen mit JavaScript zur Verfügung.</p></noscript>
     </section>
     <section class="contact-section wrap" id="kontakt" aria-labelledby="contact-title">
       <div class="contact-panel"><div class="contact-copy"><p class="eyebrow">GUTE ZUSAMMENARBEIT BEGINNT MIT EINEM GESPRÄCH.</p><h2 id="contact-title">Vieles ist möglich.<br><span>Was ist deine Idee?</span></h2><p>Ich bin Bayram Dökmeci, digitaler Architekt und Full-Stack-Entwickler hinter MeinB2B. Ich unterstütze Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz – remote aus Antalya, persönlich und auf Deutsch.</p><a class="primary-button" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Projekt besprechen {arrow()}<span class="sr-only"> (öffnet in einem neuen Tab)</span></a><a class="email-link" href="mailto:kontakt@bayramdoekmeci.de">Lieber per E-Mail? {arrow()}</a></div><div class="contact-art" aria-hidden="true"><div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div><span class="art-monogram">b.</span><span class="art-caption">IDEEN VERBINDEN.</span></div></div>

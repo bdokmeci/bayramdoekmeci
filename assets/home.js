@@ -3,10 +3,6 @@
 
   const root = document.documentElement;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
-  const finePointer = matchMedia('(hover: hover) and (pointer: fine) and (min-width: 600px)');
-  const dock = document.querySelector('.dock');
-  const anchor = document.querySelector('.dock-anchor');
-  const dockItems = [...dock.querySelectorAll('.dock-item')];
   const hero = document.querySelector('.hero');
   const search = document.querySelector('#service-search');
   const filters = [...document.querySelectorAll('[data-filter]')];
@@ -79,48 +75,11 @@
     }
   });
 
-  // Desktop dock magnification uses distance to each icon, including its neighbours.
-  function resetDock() {
-    cancelAnimationFrame(pointerFrame);
-    pointerFrame = 0;
-    dockItems.forEach(item => {
-      item.style.removeProperty('--scale');
-      item.style.removeProperty('--lift');
-    });
-  }
-  dock.addEventListener('pointermove', event => {
-    if (reducedMotion.matches || !finePointer.matches || event.pointerType === 'touch') return;
-    cancelAnimationFrame(pointerFrame);
-    pointerFrame = requestAnimationFrame(() => {
-      const centers = dockItems.map(item => {
-        const box = item.getBoundingClientRect();
-        return box.left + box.width / 2;
-      });
-      dockItems.forEach((item, i) => {
-        const distance = Math.abs(event.clientX - centers[i]);
-        const influence = Math.max(0, 1 - distance / 135);
-        const eased = influence * influence;
-        item.style.setProperty('--scale', (1 + eased * .42).toFixed(3));
-        item.style.setProperty('--lift', `${(-eased * 12).toFixed(2)}px`);
-      });
-      pointerFrame = 0;
-    });
-  });
-  dock.addEventListener('pointerleave', resetDock);
-  dock.addEventListener('pointercancel', resetDock);
-  reducedMotion.addEventListener('change', () => { resetDock(); requestScrollUpdate(); });
-  finePointer.addEventListener('change', resetDock);
-
   function updateScroll() {
     scrollFrame = 0;
     const scrollRange = root.scrollHeight - innerHeight;
     const progress = scrollRange > 0 ? Math.min(1, Math.max(0, scrollY / scrollRange)) : 0;
     root.style.setProperty('--scroll', progress.toFixed(4));
-    const shouldFloat = anchor.getBoundingClientRect().bottom < 50;
-    if (dock.classList.contains('is-floating') !== shouldFloat) {
-      dock.classList.toggle('is-floating', shouldFloat);
-      resetDock();
-    }
     const shift = reducedMotion.matches ? 0 : Math.min(scrollY, 650) * .12;
     hero.style.setProperty('--hero-shift', `${shift.toFixed(1)}px`);
   }
@@ -131,6 +90,7 @@
   addEventListener('resize', requestScrollUpdate, { passive: true });
   addEventListener('pageshow', requestScrollUpdate);
   if ('ResizeObserver' in window) new ResizeObserver(requestScrollUpdate).observe(document.body);
+  reducedMotion.addEventListener('change', requestScrollUpdate);
   updateScroll();
 
   // Restore the directory after browser back/forward navigation and autofill.
