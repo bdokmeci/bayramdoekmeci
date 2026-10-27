@@ -92,7 +92,7 @@ def main():
         cards = []
         for slug, name, summary, keywords, _ in items:
             cards.append(f'''<li class="service" data-search="{escape(name + ' ' + summary + ' ' + keywords, quote=True)}">
-  <a class="service-link" href="/{slug}/"><img class="app-icon" src="/assets/icons/{slug}.svg" width="64" height="64" alt="" loading="lazy" decoding="async">
+  <a class="service-link" href="/{slug}/"><img class="app-icon" src="assets/icons/{slug}.svg" width="64" height="64" alt="" loading="lazy" decoding="async">
     <span class="service-copy"><span class="service-title">{escape(name)}</span><span class="service-description">{escape(summary)}</span></span>
     {arrow()}
   </a>
@@ -106,8 +106,8 @@ def main():
     dock = []
     for slug, label in [("webentwicklung", "Web"), ("digitales-marketing", "Marketing"), ("ki", "KI"), ("n8n", "Workflows"), ("design-content", "Design"), ("business-development", "Business")]:
         name = lookup[slug][1]
-        dock.append(f'''<a class="dock-item" href="/{slug}/" aria-label="{escape(name)}"><span class="dock-tooltip" aria-hidden="true">{escape(name)}</span><img src="/assets/icons/{slug}.svg" width="64" height="64" alt="" fetchpriority="high"><span class="dock-label" aria-hidden="true">{label}</span></a>''')
-    dock.append('<span class="dock-divider" aria-hidden="true"></span><a class="dock-item dock-all" href="#leistungen" aria-label="Alle 25 Leistungen entdecken"><span class="dock-tooltip" aria-hidden="true">Alle Leistungen</span><img src="/assets/icons/alle.svg" width="64" height="64" alt=""><span class="dock-label" aria-hidden="true">Alle</span></a>')
+        dock.append(f'''<a class="dock-item" href="/{slug}/" aria-label="{escape(name)}"><span class="dock-tooltip" aria-hidden="true">{escape(name)}</span><img src="assets/icons/{slug}.svg" width="64" height="64" alt="" fetchpriority="high"><span class="dock-label" aria-hidden="true">{label}</span></a>''')
+    dock.append('<span class="dock-divider" aria-hidden="true"></span><a class="dock-item dock-all" href="#leistungen" aria-label="Alle 25 Leistungen entdecken"><span class="dock-tooltip" aria-hidden="true">Alle Leistungen</span><img src="assets/icons/alle.svg" width="64" height="64" alt=""><span class="dock-label" aria-hidden="true">Alle</span></a>')
 
     title = "Digitale Leistungen für B2B | Bayram Dökmeci"
     description = "Webentwicklung, Marketing, KI, Design und Business Development: Alle Leistungen von Bayram Dökmeci für Unternehmen und Agenturen in DACH im Überblick."
@@ -120,7 +120,7 @@ def main():
             {"@type": "ItemList", "@id": ORIGIN + "/#leistungen", "name": "Digitale Leistungen für Unternehmen und Agenturen", "numberOfItems": len(entries), "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": entry[1], "description": entry[2], "url": f"{ORIGIN}/{entry[0]}/"} for i, entry in enumerate(entries)]},
         ]
     }
-    legal_links = ''.join(f'<a href="/{entry[0]}/"><img src="/assets/icons/{entry[0]}.svg" width="24" height="24" alt="" loading="lazy">{entry[1]}</a>' for entry in LEGAL)
+    legal_links = ''.join(f'<a href="/{entry[0]}/"><img src="assets/icons/{entry[0]}.svg" width="24" height="24" alt="" loading="lazy">{entry[1]}</a>' for entry in LEGAL)
     html = f'''<!DOCTYPE html>
 <html lang="de">
 <head>
@@ -132,11 +132,11 @@ def main():
   <meta name="theme-color" content="#f6f8f7">
   <meta name="author" content="Bayram Dökmeci">
   <link rel="canonical" href="{ORIGIN}/">
-  <link rel="icon" type="image/svg+xml" href="/assets/icons/alle.svg">
-  <link rel="alternate" type="text/markdown" href="/index.md" title="Leistungsübersicht als Markdown">
-  <link rel="preload" href="/assets/fonts/inter-latin-variable.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/assets/home.css">
-  <script src="/assets/home.js" defer></script>
+  <link rel="icon" type="image/svg+xml" href="assets/icons/alle.svg">
+  <link rel="alternate" type="text/markdown" href="index.md" title="Leistungsübersicht als Markdown">
+  <link rel="preload" href="assets/fonts/inter-latin-variable.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/home.css">
+  <script src="assets/home.js" defer></script>
   <meta property="og:type" content="website">
   <meta property="og:locale" content="de_DE">
   <meta property="og:site_name" content="Bayram Dökmeci – MeinB2B">
