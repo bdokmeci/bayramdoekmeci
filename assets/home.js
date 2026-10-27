@@ -12,7 +12,6 @@
   const noResults = document.querySelector('.no-results');
   let currentFilter = 'all';
   let scrollFrame = 0;
-  let pointerFrame = 0;
   let searchTimer;
 
   // Links and descriptions are rendered in HTML; JS only adds optional controls.
