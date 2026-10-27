@@ -1,7 +1,7 @@
 ---
 title: "B2B-Webentwicklung & digitale Systeme | Bayram Dökmeci"
 description: "B2B-Webentwicklung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt Websites, CMS und digitale Systeme. Direkt, remote, auf Deutsch."
-url: "https://bayramdoekmeci.de/"
+url: "https://bayramdoekmeci.de/webentwicklung/"
 ---
 
 B2B-Webentwicklung · Für Unternehmen & Agenturen

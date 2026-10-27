@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+<title id="title">KI-Automatisierung</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2=".35" y2="1"><stop stop-color="#caa2ff"/><stop offset="1" stop-color="#8655de"/></linearGradient><linearGradient id="shine" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)"/>
+<rect x="2.5" y="2.5" width="59" height="59" rx="15.5" fill="none" stroke="url(#shine)"/>
+<path d="M7 22C7 12 12 7 22 7h20c10 0 15 5 15 15v8C40 24 24 37 7 29Z" fill="#fff" opacity=".08"/>
+<g transform="translate(13 13) scale(1.5833)" fill="none" stroke="#fff" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 2.8 7.2L22 12l-7.2 2.8L12 22l-2.8-7.2L2 12l7.2-2.8ZM20 2v4m-2-2h4"/></g></svg>

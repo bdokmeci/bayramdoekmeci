@@ -13,13 +13,14 @@ Fachliche Quelle: https://learn.microsoft.com/en-us/dotnet/ai/conceptual/rag
 Annahmen: prompt.txt dient als Inhaltsbriefing für die vorhandene leere Route /data-engineering/; Fokus auf die Datenbasis zur Abgrenzung von /ki/; ausschließlich B2B und Agenturen in DACH; Diagrammwerte und Szenarien sind illustrative Beispiele, keine Kundenresultate.
 
 Startseite
-Haupt-Keyword: B2B-Webentwicklung
-Suchintent: Einen direkten technischen Partner für B2B-Websites und digitale Systeme finden.
+Haupt-Keyword: Digitale Leistungen für B2B
+Suchintent: Passende Leistungen entdecken und direkt zu allen Unterseiten navigieren.
 URL: https://bayramdoekmeci.de/
-Title: B2B-Webentwicklung & digitale Systeme | Bayram Dökmeci
-Description: B2B-Webentwicklung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt Websites, CMS und digitale Systeme. Direkt, remote, auf Deutsch.
-Design: Mobile-first Editorial-Layout mit warmem Off-White, violetten Akzenten, großer Sans-/Serif-Typografie, interaktiver Konzeptvorschau und dunklem Technikabschnitt. Styles und Interaktionen liegen lokal in assets/landing.css und assets/landing.js.
-HTML-Code: index.html
+Title: Digitale Leistungen für B2B | Bayram Dökmeci
+Description: Webentwicklung, Marketing, KI, Design und Business Development: Alle Leistungen von Bayram Dökmeci für Unternehmen und Agenturen in DACH im Überblick.
+Design: Mobile-first Leistungsnavigation in Off-White und Salbei, originale SVG-App-Icons, Glas-Dock mit distanzabhängiger Vergrößerung und fixierter Navigation beim Scrollen. Fünf Bereiche mit Suche und Filtern. Styles und Interaktionen in assets/home.css und assets/home.js.
+HTML-Code: index.html; statisch erzeugt mit python scripts/build_home.py. Daten und Icon-Zeichnungen in diesem Generator pflegen. Textfassung: index.md. Die bisherige Webentwicklungsseite liegt unter /webentwicklung/ und nutzt weiterhin assets/landing.css und assets/landing.js.
+SEO/GEO: Alle 27 Unterseiten als echte HTML-Links, sprechende Beschreibungen, CollectionPage mit ItemList, Person, LocalBusiness und WebSite. Canonical, Open Graph, Sitemap und llms.txt abgestimmt. Inhalte ohne JavaScript zugänglich; Reduced Motion wird berücksichtigt.
 
 E-Mail-Marketing
 Haupt-Keyword: E-Mail-Marketing Experte

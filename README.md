@@ -1,5 +1,9 @@
 # 👋 Hallo, ich bin Bayram Dökmeci
 
+Die Startseite dient als Leistungsnavigation mit 25 Angeboten, individuellen SVG-Icons, Suche und einem scrollabhängigen Dock. Sie funktioniert als statisches HTML auch ohne JavaScript. Styles und Interaktionen liegen in `assets/home.css` und `assets/home.js`; die bestehenden Unterseiten behalten ihre eigenen Assets.
+
+Leistungen, Icon-Zeichnungen und Startseiteninhalte werden in `scripts/build_home.py` gepflegt. `python scripts/build_home.py` erzeugt `index.html`, die Textfassung `index.md` und `assets/icons/*.svg`. Danach prüft `python scripts/validate_structured_data.py` die strukturierten Daten aller Seiten; `python scripts/validate_home.py` prüft die vollständige Navigation, Links, Icons und Sitemap. Eine lokale Vorschau startet mit `python -m http.server 5173 --bind 127.0.0.1`.
+
 **Digitaler Architekt | B2B Lead-Gen Experte | Full-Stack Entwickler**
 
 Ich unterstütze Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz (DACH) bei der digitalen Skalierung. Da ich remote aus der Türkei arbeite, biete ich meinen Kunden höchste Qualität und reibungslose, deutschsprachige Kommunikation zu unschlagbaren Konditionen.

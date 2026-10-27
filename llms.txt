@@ -2,9 +2,14 @@
 
 > Digitaler Architekt und Full-Stack-Entwickler für Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Remote aus Antalya, Türkiye. Direkte Kommunikation auf Deutsch.
 
+## Navigation
+
+- [Startseite: alle digitalen Leistungen](https://bayramdoekmeci.de/): Übersicht mit 25 Leistungen in den Bereichen Web & Entwicklung, Marketing & Sichtbarkeit, KI & Daten, Design und Business. Jede Leistung führt zu einer eigenen Unterseite.
+- [Leistungsübersicht als Markdown](https://bayramdoekmeci.de/index.md): Textfassung der Startseite mit Leistungsbeschreibungen, direkten Links und Kontaktinformationen.
+
 ## Leistungen
 
-- [B2B-Webentwicklung](https://bayramdoekmeci.de/): Individuelle Websites, CMS, Web-Anwendungen und digitale Systeme für Unternehmen und Agenturen in DACH.
+- [B2B-Webentwicklung](https://bayramdoekmeci.de/webentwicklung/): Individuelle Websites, CMS, Web-Anwendungen und digitale Systeme für Unternehmen und Agenturen in DACH.
 - [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
 - [Full-Stack-Entwickler](https://bayramdoekmeci.de/full-stack-entwickler/): Frontend- und Backend-Entwicklung, Schnittstellen sowie Web-Infrastruktur.
 - [Digitales Marketing](https://bayramdoekmeci.de/digitales-marketing/): Digitales Marketing für B2B und Agenturen in DACH: Performance, Leadgenerierung und MarTech mit Bayram Dökmeci. Direkt, remote und auf Deutsch.
