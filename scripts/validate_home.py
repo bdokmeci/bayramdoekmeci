@@ -47,7 +47,7 @@ class HomeParser(HTMLParser):
 
 def main():
     page = HomeParser((ROOT / "index.html").read_text(encoding="utf-8"))
-    pages = {"/" + path.parent.name + "/" for path in ROOT.glob("*/index.html")}
+    pages = {"/" + path.parent.name + "/" for path in ROOT.glob("*/index.html") if path.parent.name != "en"}
     errors = []
     for missing in sorted(pages - set(page.links)):
         errors.append(f"Subpage missing from homepage: {missing}")
@@ -88,7 +88,8 @@ def main():
     for error in errors:
         print("FAIL", error)
     print(f"{len(pages)} subpages, {len(listed)} services, links, anchors, assets, icons and sitemap: {len(errors)} issues.")
-    return bool(errors)
+    from validate_locales import main as validate_locales
+    return bool(errors) | validate_locales()
 
 
 if __name__ == "__main__":

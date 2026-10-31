@@ -212,6 +212,13 @@
   ]
 }
 </script>
+
+<!-- locale-head -->
+<link rel="alternate" hreflang="de" href="https://bayramdoekmeci.de/n8n/">
+<link rel="alternate" hreflang="en" href="https://bayramdoekmeci.de/en/n8n/">
+<link rel="stylesheet" href="/assets/locale.css">
+<link rel="help" type="text/plain" href="/llms.txt" title="Inhaltsübersicht">
+<!-- /locale-head -->
 </head>
 <body x-data="landing">
 <a class="skip" href="#inhalt">Zum Inhalt springen</a>
@@ -236,6 +243,7 @@
   <a class="btn btn-dark header-cta" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Projekt besprechen <svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-diagonal"/></svg></a>
   <details class="mobile-menu" @keydown.escape="closeMenu()" x-ref="menu"><summary aria-label="Navigation öffnen" x-ref="menuToggle"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-menu"/></svg></summary><nav aria-label="Mobile Hauptnavigation" @click="if ($event.target.closest('a')) $refs.menu.removeAttribute('open')"><a href="../index.html">Startseite</a><a href="#leistungen">Leistungen</a><a href="#workflows">Workflows</a><a href="#ablauf">Zusammenarbeit</a><a href="#faq">Häufige Fragen</a><a href="#kontakt">Projekt besprechen ↗</a></nav></details>
 </div></header>
+<!-- locale-nav --><nav class="language-switcher" aria-label="Sprache wählen"><a href="/n8n/" lang="de" hreflang="de" aria-current="page">DE</a><a href="/en/n8n/" lang="en" hreflang="en">EN</a></nav><!-- /locale-nav -->
 <main id="inhalt">
 <nav class="wrap breadcrumb" aria-label="Brotkrumennavigation"><a href="https://bayramdoekmeci.de/">Startseite</a><span aria-hidden="true">/</span><span aria-current="page">n8n Beratung</span></nav>
 <section class="hero" aria-labelledby="hero-title"><div class="wrap hero-grid">

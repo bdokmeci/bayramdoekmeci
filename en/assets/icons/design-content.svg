@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+<title id="title">Design &amp; Content</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2=".35" y2="1"><stop stop-color="#ffa3be"/><stop offset="1" stop-color="#d94b79"/></linearGradient><linearGradient id="shine" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)"/>
+<rect x="2.5" y="2.5" width="59" height="59" rx="15.5" fill="none" stroke="url(#shine)"/>
+<path d="M7 22C7 12 12 7 22 7h20c10 0 15 5 15 15v8C40 24 24 37 7 29Z" fill="#fff" opacity=".08"/>
+<g transform="translate(13 13) scale(1.5833)" fill="none" stroke="#fff" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="m14 3 7 7-10 10-8 1 1-8ZM12 5l7 7M4 14l6 6M3 21l4-4"/><path d="m14 3 2-1 6 6-1 2"/></g></svg>

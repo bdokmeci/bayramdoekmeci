@@ -95,7 +95,7 @@ Idealkundenprofil, Angebot und Ansprache zusammenbringen. Mit LinkedIn, Social S
 - LinkedIn & Social Selling
 - Lead-Qualifizierung
 
-[B2B Leadgenerierung mit LinkedIn im Detail](<https://bayramdoekmeci.de/customer-success/business-development/>)
+[B2B Leadgenerierung mit LinkedIn im Detail](<https://bayramdoekmeci.de/business-development/>)
 
 ### MarTech, das verbindet.
 

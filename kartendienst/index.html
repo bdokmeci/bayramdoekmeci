@@ -52,6 +52,13 @@
     });
   </script>
   <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.9/dist/cdn.min.js"></script>
+
+<!-- locale-head -->
+<link rel="alternate" hreflang="de" href="https://bayramdoekmeci.de/kartendienst/">
+<link rel="alternate" hreflang="en" href="https://bayramdoekmeci.de/en/kartendienst/">
+<link rel="stylesheet" href="/assets/locale.css">
+<link rel="help" type="text/plain" href="/llms.txt" title="Inhaltsübersicht">
+<!-- /locale-head -->
 </head>
 <body x-data="localPage">
   <a class="skip" href="#inhalt">Zum Inhalt springen</a>
@@ -77,6 +84,7 @@
       <details class="mobile-menu" @keydown.escape.window="$el.removeAttribute('open')" @click.outside="$el.removeAttribute('open')"><summary aria-label="Navigation öffnen"><svg class="icon" aria-hidden="true"><use href="#i-menu"/></svg></summary><nav aria-label="Mobile Navigation" @click="if($event.target.closest('a')) $el.parentElement.removeAttribute('open')"><a href="../index.html">Startseite</a><a href="#leistungen">Leistungen</a><a href="#ablauf">Zusammenarbeit</a><a href="#faq">Häufige Fragen</a><a href="#kontakt">Kontakt</a></nav></details>
     </div>
   </header>
+<!-- locale-nav --><nav class="language-switcher" aria-label="Sprache wählen"><a href="/kartendienst/" lang="de" hreflang="de" aria-current="page">DE</a><a href="/en/kartendienst/" lang="en" hreflang="en">EN</a></nav><!-- /locale-nav -->
   <main id="inhalt">
     <div class="wrap"><nav class="breadcrumb" aria-label="Brotkrümelnavigation"><a href="https://bayramdoekmeci.de/">Startseite</a><span aria-hidden="true">/</span><span aria-current="page">Local SEO &amp; Kartendienste</span></nav></div>
     <section class="hero wrap" aria-labelledby="hero-title">

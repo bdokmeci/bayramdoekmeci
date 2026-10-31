@@ -254,6 +254,13 @@
     @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.js [data-ready-reveal]:not(.is-visible) .reveal-part,.js [data-ready-reveal]:not(.is-visible) .flow-stage{opacity:1;transform:none}.js [data-ready-reveal]:not(.is-visible) .bar-fill{transform:scaleX(var(--ratio))}.btn:hover{transform:none}}
     @media print{body{background:#fff;color:#111;padding:0}.site-header,.mobile-cta,.contact,.skip,.chart-controls{display:none}.section,.hero{padding:25px 0}.wrap{width:100%}.muted,.section-lead,.service-row p,.process-steps p,.faq-item p,.example dd{color:#333}.section,.service-row,.faq-item{break-inside:avoid}.faq-item::details-content{display:block}.js [data-ready-reveal] .reveal-part,.js [data-ready-reveal] .flow-stage{opacity:1!important;transform:none!important}}
   </style>
+
+<!-- locale-head -->
+<link rel="alternate" hreflang="de" href="https://bayramdoekmeci.de/sea/">
+<link rel="alternate" hreflang="en" href="https://bayramdoekmeci.de/en/sea/">
+<link rel="stylesheet" href="/assets/locale.css">
+<link rel="help" type="text/plain" href="/llms.txt" title="Inhaltsübersicht">
+<!-- /locale-head -->
 </head>
 <body x-data="seaPage">
   <a class="skip" href="#main">Zum Inhalt springen</a>
@@ -278,6 +285,7 @@
       <details class="mobile-menu" x-ref="mobileMenu" @click.outside="$el.removeAttribute('open')" @keydown.escape="$el.removeAttribute('open'); $el.querySelector('summary').focus()"><summary aria-label="Inhaltsverzeichnis öffnen"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-menu"/></svg></summary><nav class="mobile-links" aria-label="Inhaltsverzeichnis" @click="if ($event.target.closest('a')) $refs.mobileMenu.removeAttribute('open')"><a href="../index.html">Startseite</a><a href="#leistungen">01 / Leistungen</a><a href="#wirkung">02 / Was wirklich zählt</a><a href="#ablauf">03 / Der Ablauf</a><a href="#zusammenarbeit">04 / Zusammenarbeit</a><a href="#praxis">05 / Praxisbeispiele</a><a href="#faq">06 / Häufige Fragen</a><a href="#kontakt">Kampagnen besprechen ↗</a></nav></details>
     </div>
   </header>
+<!-- locale-nav --><nav class="language-switcher" aria-label="Sprache wählen"><a href="/sea/" lang="de" hreflang="de" aria-current="page">DE</a><a href="/en/sea/" lang="en" hreflang="en">EN</a></nav><!-- /locale-nav -->
   <main id="main">
     <section class="hero" aria-labelledby="hero-title">
       <div class="wrap">

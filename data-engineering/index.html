@@ -100,6 +100,13 @@
     ]}
   ]}
   </script>
+
+<!-- locale-head -->
+<link rel="alternate" hreflang="de" href="https://bayramdoekmeci.de/data-engineering/">
+<link rel="alternate" hreflang="en" href="https://bayramdoekmeci.de/en/data-engineering/">
+<link rel="stylesheet" href="/assets/locale.css">
+<link rel="help" type="text/plain" href="/llms.txt" title="Inhaltsübersicht">
+<!-- /locale-head -->
 </head>
 <body x-data="dataPage">
   <a class="skip" href="#main">Zum Inhalt springen</a>
@@ -126,6 +133,7 @@
       <details class="mobile-menu" @keydown.escape.window="$el.removeAttribute('open')" @click.outside="$el.removeAttribute('open')"><summary aria-label="Navigation öffnen oder schließen"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-menu"/></svg></summary><nav aria-label="Mobile Navigation" @click="if($event.target.closest('a')) $el.parentElement.removeAttribute('open')"><a href="../index.html">Startseite</a><a href="#leistungen">Leistungen</a><a href="#datenqualitaet">Datenqualität</a><a href="#ablauf">Zusammenarbeit</a><a href="#faq">Häufige Fragen</a><a href="#kontakt">Projekt besprechen ↗</a></nav></details>
     </div>
   </header>
+<!-- locale-nav --><nav class="language-switcher" aria-label="Sprache wählen"><a href="/data-engineering/" lang="de" hreflang="de" aria-current="page">DE</a><a href="/en/data-engineering/" lang="en" hreflang="en">EN</a></nav><!-- /locale-nav -->
   <main id="main">
     <section class="hero" aria-labelledby="hero-title">
       <div class="wrap">

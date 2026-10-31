@@ -1,5 +1,7 @@
 # Bayram Dökmeci – MeinB2B
 
+[English content guide](https://bayramdoekmeci.de/en/llms.txt)
+
 > Digitaler Architekt und Full-Stack-Entwickler für Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Remote aus Antalya, Türkiye. Direkte Kommunikation auf Deutsch.
 
 ## Navigation

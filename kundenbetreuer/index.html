@@ -87,7 +87,7 @@
           if (menu) {
             const toggle = menu.querySelector('summary');
             menu.addEventListener('keydown', event => { if (event.key === 'Escape' && menu.open) { menu.open = false; toggle.focus(); } });
-            menu.querySelectorAll('a').forEach(link => link.addEventListener('click', () => { menu.open = false; const target = root.querySelector(link.hash); if (target) { target.setAttribute('tabindex', '-1'); target.focus({preventScroll:true}); } }));
+            menu.querySelectorAll('a').forEach(link => link.addEventListener('click', () => { menu.open = false; const target = (link.hash ? root.querySelector(link.hash) : null); if (target) { target.setAttribute('tabindex', '-1'); target.focus({preventScroll:true}); } }));
           }
           const media = window.matchMedia('(prefers-reduced-motion: reduce)');
           if (media.matches || !('IntersectionObserver' in window)) return;
@@ -117,6 +117,13 @@
     ]}
   ]}
   </script>
+
+<!-- locale-head -->
+<link rel="alternate" hreflang="de" href="https://bayramdoekmeci.de/kundenbetreuer/">
+<link rel="alternate" hreflang="en" href="https://bayramdoekmeci.de/en/kundenbetreuer/">
+<link rel="stylesheet" href="/assets/locale.css">
+<link rel="help" type="text/plain" href="/llms.txt" title="Inhaltsübersicht">
+<!-- /locale-head -->
 </head>
 <body x-data="customerCare" x-init="mount($el)">
   <a class="skip" href="#main">Zum Inhalt springen</a>
@@ -139,6 +146,7 @@
     <a class="btn btn-secondary header-cta" href="https://calendly.com/bayramdokmeci/b2b" target="_blank" rel="noopener noreferrer">Lass uns sprechen<svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-up"/></svg></a>
     <details class="mobile-nav"><summary aria-label="Navigation öffnen oder schließen"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-menu"/></svg></summary><nav class="mobile-panel" aria-label="Mobile Hauptnavigation"><a href="../index.html">Startseite</a><a href="#leistungen">Leistungen</a><a href="#zusammenarbeit">Zusammenarbeit</a><a href="#ueber-mich">Über mich</a><a href="#faq">Häufige Fragen</a><a href="#kontakt">Kontakt aufnehmen ↗</a></nav></details>
   </div></header>
+<!-- locale-nav --><nav class="language-switcher" aria-label="Sprache wählen"><a href="/kundenbetreuer/" lang="de" hreflang="de" aria-current="page">DE</a><a href="/en/kundenbetreuer/" lang="en" hreflang="en">EN</a></nav><!-- /locale-nav -->
   <main id="main">
     <nav class="wrap breadcrumb" aria-label="Breadcrumb"><a href="https://bayramdoekmeci.de/">Startseite</a><span aria-hidden="true">/</span><span aria-current="page">Remote Kundenbetreuer</span></nav>
     <section class="hero" aria-labelledby="hero-title"><div class="wrap hero-grid">

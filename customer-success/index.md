@@ -264,7 +264,7 @@ Als digitaler Architekt und Full-Stack-Entwickler verstehe ich auch die Systeme 
 
 Sie arbeiten direkt mit mir: auf Deutsch, remote aus der Türkei und ohne Agentur-Overhead. Als Client Success Partner ergänze ich Ihr Team dort, wo persönliche Begleitung und technisches Verständnis zusammenkommen.
 
-[Deutschsprachiges Back-Office & Kundensupport](<https://bayramdoekmeci.de/deutschsprachiges-back-office/>) [B2B Leadgenerierung & Business Development](<https://bayramdoekmeci.de/customer-success/business-development/>) [Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>) [Full-Stack-Entwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>)
+[Deutschsprachiges Back-Office & Kundensupport](<https://bayramdoekmeci.de/deutschsprachiges-back-office/>) [B2B Leadgenerierung & Business Development](<https://bayramdoekmeci.de/business-development/>) [Digitales Marketing & MarTech](<https://bayramdoekmeci.de/digitales-marketing/>) [Full-Stack-Entwicklung](<https://bayramdoekmeci.de/full-stack-entwickler/>)
 
 **Zielgruppe**
 

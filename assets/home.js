@@ -2,6 +2,8 @@
   'use strict';
 
   const root = document.documentElement;
+  const english = root.lang === 'en';
+  const serviceCount = count => english ? `${count} ${count === 1 ? 'service' : 'services'}` : `${count} ${count === 1 ? 'Leistung' : 'Leistungen'}`;
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
   const hero = document.querySelector('.hero');
   const search = document.querySelector('#service-search');
@@ -16,7 +18,7 @@
 
   // Links and descriptions are rendered in HTML; JS only adds optional controls.
   document.querySelector('.directory-tools').hidden = false;
-  const normalize = value => value.toLocaleLowerCase('de').normalize('NFD')
+  const normalize = value => value.toLocaleLowerCase(english ? 'en' : 'de').normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '').replace(/ß/g, 'ss').replace(/[^a-z0-9]+/g, ' ').trim();
   const searchIndex = new Map(services.map(service => [service, normalize(service.dataset.search)]));
 
@@ -33,11 +35,13 @@
       });
       group.hidden = groupCount === 0;
       group.querySelector('.group-count').textContent = String(groupCount).padStart(2, '0');
-      group.querySelector('.group-count').setAttribute('aria-label', `${groupCount} Leistungen`);
+      group.querySelector('.group-count').setAttribute('aria-label', serviceCount(groupCount));
       count += groupCount;
     });
     noResults.hidden = count !== 0;
-    status.textContent = `${count} von ${services.length} Leistungen${search.value.trim() ? ` für „${search.value.trim()}“` : ''}.`;
+    status.textContent = english
+      ? `${count} of ${services.length} services${search.value.trim() ? ` for “${search.value.trim()}”` : ''}.`
+      : `${count} von ${services.length} Leistungen${search.value.trim() ? ` für „${search.value.trim()}“` : ''}.`;
     status.classList.toggle('sr-only', !search.value.trim() && currentFilter === 'all');
     requestScrollUpdate();
   }

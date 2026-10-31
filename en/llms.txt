@@ -1,0 +1,54 @@
+# Bayram Dökmeci – MeinB2B
+
+> Digital architect and full-stack developer for business clients and agencies in Germany, Austria and Switzerland. Working remotely from Antalya, Türkiye. Direct communication in German.
+
+## Navigation
+
+- [Homepage: all digital services](https://bayramdoekmeci.de/en/): Overview of 25 services covering web and development, marketing and visibility, AI and data, design and business. Each service links to its own page.
+- [Service overview in Markdown](https://bayramdoekmeci.de/en/index.md): Text counterpart of the homepage with service descriptions, direct links and contact details.
+- [German content guide](https://bayramdoekmeci.de/llms.txt): Original German version.
+
+## Services
+
+- [B2B web development](https://bayramdoekmeci.de/en/webentwicklung/): Bespoke websites, CMS, web applications and digital systems for businesses and agencies in DACH.
+- [WordPress & CMS developer](https://bayramdoekmeci.de/en/wordpress-cms-entwickler/): Custom theme and plugin development, CMS architecture, performance optimisation and CDN integration for B2B and agencies in DACH.
+- [Full-stack developer](https://bayramdoekmeci.de/en/full-stack-entwickler/): Frontend and backend development, integrations and web infrastructure.
+- [Digital marketing](https://bayramdoekmeci.de/en/digitales-marketing/): Digital marketing for B2B and agencies in DACH: performance, lead generation and MarTech with Bayram Dökmeci. Direct, remote and in German.
+- [Customer success](https://bayramdoekmeci.de/en/customer-success/): German-speaking customer onboarding, user adoption, proactive B2B customer care and account development for businesses and agencies in DACH. Directly with Bayram Dökmeci, working remotely from Antalya.
+- [B2B lead generation & business development](https://bayramdoekmeci.de/en/business-development/): Target account research, personal LinkedIn outreach, marketing automation and qualified sales handovers for B2B businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B.
+- [B2B design & content](https://bayramdoekmeci.de/en/design-content/): Visual design, conversion-focused web assets, motion design and B2B content across channels for businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B.
+- [Video production & motion graphics](https://bayramdoekmeci.de/en/videoproduktion/): White-label video production, social media video editing, motion graphics, 3D product animation and VFX for businesses and agencies in DACH. Project-based or monthly collaboration with Bayram Dökmeci of MeinB2B.
+- [Shopware maintenance & QA](https://bayramdoekmeci.de/en/shopware/): Shopware maintenance, manual and automated QA testing, and Shopify theme and app support for businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, on a project basis or with an individually agreed monthly scope.
+- [SEA & Google Ads management](https://bayramdoekmeci.de/en/sea/): Search engine advertising for B2B and agencies in DACH: SEA audits, Google Ads, Microsoft Ads, conversion tracking and ongoing optimisation. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya and in German.
+- [International sales director](https://bayramdoekmeci.de/en/international-sales/): External support with go-to-market strategy, account-based selling, LinkedIn, pipeline reviews and sales management for B2B businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B.
+- [B2B partnership manager](https://bayramdoekmeci.de/en/b2b/): Partner strategy, partner acquisition, co-selling and partner operations for businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya and in German.
+- [German-speaking back office](https://bayramdoekmeci.de/en/deutschsprachiges-back-office/): Operational customer support, email and ticket handling, CRM maintenance and administrative coordination for SMEs and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya and in German.
+- [German-speaking remote customer care](https://bayramdoekmeci.de/en/kundenbetreuer/): Personal customer communication in German, service coordination and follow-up for B2B businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya.
+- [LinkedIn expert for B2B](https://bayramdoekmeci.de/en/linkedin/): LinkedIn strategy, profile and content planning, LinkedIn Ads campaign management and target account research with Sales Navigator for businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya and in German.
+- [Motion graphics expert](https://bayramdoekmeci.de/en/motion-graphics/): German-speaking motion design with 2D explainer animation, brand motion, kinetic typography and animated social creatives for B2B businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya.
+- [n8n consulting & workflow automation](https://bayramdoekmeci.de/en/n8n/): Process analysis, n8n workflows, API integration and CRM automation for B2B businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya and in German.
+- [AI automation for businesses](https://bayramdoekmeci.de/en/ki/): AI workflows for B2B enquiries, knowledge search, draft responses and controlled CRM handovers. Process analysis, validation rules, human approvals and documentation for businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B.
+- [Programmatic SEO & scalable landing pages](https://bayramdoekmeci.de/en/programmatic/): Data models, search intent and site architecture, content modules, templates and quality checks for scalable SEO landing pages. For B2B businesses and agencies in DACH, directly with Bayram Dökmeci of MeinB2B.
+- [Bespoke web app development](https://bayramdoekmeci.de/en/web-app/): Bespoke web apps, internal software and customer portals for businesses and agencies in DACH. Process analysis, planning, development, integrations and an agreed handover. Directly with Bayram Dökmeci of MeinB2B, in German.
+- [Email marketing expert for B2B](https://bayramdoekmeci.de/en/email-marketing/): Email strategy, newsletters, responsive templates, lead nurturing, marketing automation and campaign analysis for businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya and in German.
+- [Social media expert for B2B](https://bayramdoekmeci.de/en/social-media/): Social media strategy, editorial planning, content, community management, paid social and reporting for B2B businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, remotely from Antalya and in German.
+- [3D visualisations for architects](https://bayramdoekmeci.de/en/3d/): Architectural visualisation, exterior and interior views, animations and virtual tours for architecture practices, business clients and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B.
+- [Data engineering & AI for B2B](https://bayramdoekmeci.de/en/data-engineering/): Data pipelines, API integration, data modelling, quality checks and preparation of a knowledge base for RAG. For businesses and agencies in DACH, directly with Bayram Dökmeci of MeinB2B, in German and remotely from Antalya.
+- [Local SEO specialist & map services](https://bayramdoekmeci.de/en/kartendienst/): Google Business Profile, Apple Maps, Bing Places, consistent location data and local listing management for businesses and agencies in DACH. Directly with Bayram Dökmeci of MeinB2B, in German and remotely from Antalya.
+
+## Contact
+
+- Email: kontakt@bayramdoekmeci.de
+- Phone and WhatsApp: +90 507 882 7795
+- [Book a meeting](https://calendly.com/bayramdokmeci/b2b)
+- [LinkedIn](https://www.linkedin.com/in/bayramdoekmeci/)
+- [GitHub](https://github.com/bdokmeci)
+
+## Notes
+
+Practical examples and architecture comparisons on the landing pages are illustrative scenarios, not customer references or measured performance figures. The specific scope, timeline and costs are agreed for each project.
+
+## Legal information
+
+- [Legal notice](https://bayramdoekmeci.de/en/impressum/)
+- [Privacy policy](https://bayramdoekmeci.de/en/datenschutz/)

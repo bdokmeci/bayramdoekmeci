@@ -202,3 +202,5 @@ Bayram Dökmeci ist digitaler Architekt und Full-Stack-Entwickler hinter MeinB2B
 
 if __name__ == "__main__":
     main()
+    from localise import build
+    build()

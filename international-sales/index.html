@@ -231,6 +231,13 @@
     }
   ]
 }</script>
+
+<!-- locale-head -->
+<link rel="alternate" hreflang="de" href="https://bayramdoekmeci.de/international-sales/">
+<link rel="alternate" hreflang="en" href="https://bayramdoekmeci.de/en/international-sales/">
+<link rel="stylesheet" href="/assets/locale.css">
+<link rel="help" type="text/plain" href="/llms.txt" title="Inhaltsübersicht">
+<!-- /locale-head -->
 </head>
 <body x-data="salesPage" :class="{'motion-paused': paused}" @keydown.escape.window="closeMenu($event)">
   <a class="skip" href="#main">Zum Inhalt springen</a>
@@ -257,6 +264,7 @@
       <details class="mobile-nav" x-ref="mobileMenu" @click.outside="closeMenu()"><summary aria-label="Navigation öffnen oder schließen"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-menu"/></svg></summary><nav class="mobile-menu" aria-label="Mobile Hauptnavigation" @click="if ($event.target.closest('a')) closeMenu()"><a href="../index.html">Startseite</a><a href="#leistungen">Leistungen</a><a href="#system">Vertriebssystem</a><a href="#zusammenarbeit">Zusammenarbeit</a><a href="#faq">Häufige Fragen</a><a class="menu-contact" href="#kontakt">Projekt besprechen ↗</a></nav></details>
     </div>
   </header>
+<!-- locale-nav --><nav class="language-switcher" aria-label="Sprache wählen"><a href="/international-sales/" lang="de" hreflang="de" aria-current="page">DE</a><a href="/en/international-sales/" lang="en" hreflang="en">EN</a></nav><!-- /locale-nav -->
   <main id="main">
     <nav class="wrap breadcrumb" aria-label="Breadcrumb"><ol><li><a href="https://bayramdoekmeci.de/">Startseite</a></li><li><span aria-current="page">International Sales</span></li></ol></nav>
     <section class="hero" aria-labelledby="hero-title">

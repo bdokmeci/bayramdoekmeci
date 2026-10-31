@@ -1,6 +1,9 @@
 (() => {
   'use strict';
   const root = document.documentElement;
+  const words = root.lang === 'en'
+    ? { open: 'Open navigation', close: 'Close navigation', enable: 'Enable animations', pause: 'Pause animations' }
+    : { open: 'Navigation öffnen', close: 'Navigation schließen', enable: 'Animationen aktivieren', pause: 'Animationen pausieren' };
   root.classList.add('js');
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
   const desktop = matchMedia('(min-width: 800px)');
@@ -10,7 +13,7 @@
   function closeMenu(restoreFocus = false) {
     navigation.hidden = true;
     toggle.setAttribute('aria-expanded', 'false');
-    toggle.setAttribute('aria-label', 'Navigation öffnen');
+    toggle.setAttribute('aria-label', words.open);
     if (restoreFocus) toggle.focus();
   }
   closeMenu();
@@ -18,13 +21,14 @@
     const open = toggle.getAttribute('aria-expanded') !== 'true';
     navigation.hidden = !open;
     toggle.setAttribute('aria-expanded', String(open));
-    toggle.setAttribute('aria-label', open ? 'Navigation schließen' : 'Navigation öffnen');
+    toggle.setAttribute('aria-label', open ? words.close : words.open);
   });
   navigation.addEventListener('click', (event) => {
     const link = event.target.closest('a');
     if (!link) return;
     closeMenu();
-    const destination = document.querySelector(link.getAttribute('href'));
+    const href = link.getAttribute('href');
+    const destination = href && href.startsWith('#') ? document.getElementById(href.slice(1)) : null;
     if (destination) {
       destination.setAttribute('tabindex', '-1');
       destination.focus({ preventScroll: true });
@@ -71,7 +75,7 @@
     root.classList.toggle('motion-paused', paused);
     motionToggle.hidden = reducedMotion.matches;
     motionToggle.setAttribute('aria-pressed', String(paused));
-    motionToggle.querySelector('span').textContent = paused ? 'Animationen aktivieren' : 'Animationen pausieren';
+    motionToggle.querySelector('span').textContent = paused ? words.enable : words.pause;
   }
   setMotionState(paused);
   motionToggle.addEventListener('click', () => setMotionState(!paused));
@@ -105,7 +109,7 @@
       });
     }, { rootMargin: '-15% 0px -55% 0px' });
     links.forEach((link) => {
-      const section = document.querySelector(link.hash);
+      const section = link.hash ? document.getElementById(link.hash.slice(1)) : null;
       if (section) navObserver.observe(section);
     });
   }

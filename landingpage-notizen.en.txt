@@ -1,0 +1,73 @@
+LANDING PAGES – BAYRAM DÖKMECI
+
+English translation of the original editorial notes. Design descriptions and test results below are historical notes, not new verification claims. English public routes add /en/ while retaining the source slug.
+
+Data engineering & AI
+Primary keyword: Data engineering
+Search intent: Find a German-speaking implementation partner for data pipelines and a practical AI data foundation for B2B in DACH.
+URL: https://bayramdoekmeci.de/en/data-engineering/
+Title: Data engineering & AI for B2B | Bayram Dökmeci
+Description: Data engineering for B2B in DACH: data pipelines, data quality and an AI-ready knowledge base. Directly with Bayram Dökmeci. In German, working remotely from Antalya.
+HTML code: data-engineering/index.html (a standalone file with inline CSS, inline JavaScript and Alpine.js 3.14.9); English output: en/data-engineering/index.html.
+Design: Light sage, dark forest green and lime; system font, architecture diagram, RAG infographic and a switchable quality check with clearly labelled example data. No images.
+SEO: Sitemap and llms.txt extended. Person, LocalBusiness, Service, WebPage, BreadcrumbList and FAQPage. The template’s deprecated ProfessionalService type is replaced with LocalBusiness plus Service, following Schema.org and the project validator (https://schema.org/ProfessionalService).
+Technical source: https://learn.microsoft.com/en-us/dotnet/ai/conceptual/rag
+Assumptions: prompt.txt serves as the content brief for the existing empty /data-engineering/ route; focus on the data foundation to distinguish it from /ki/; exclusively B2B and agencies in DACH; diagram values and scenarios are illustrative examples, not customer results.
+
+Homepage
+Primary keyword: Digital services for B2B
+Search intent: Discover suitable services and navigate directly to every subpage.
+URL: https://bayramdoekmeci.de/en/
+Title: Digital services for B2B | Bayram Dökmeci
+Description: Web development, marketing, AI, design and business development: an overview of Bayram Dökmeci’s services for businesses and agencies in DACH.
+Design: Mobile-first service directory in off-white and sage, original SVG app icons, glass dock with distance-based magnification and fixed navigation on scroll. Five categories with search and filters. Styles and interactions in assets/home.css and assets/home.js.
+HTML code: index.html; statically generated with python scripts/build_home.py. Maintain data and icon drawings in this generator. Text counterpart: index.md. The previous web development page is at /webentwicklung/ and continues to use assets/landing.css and assets/landing.js. English output is generated under /en/ using the translation catalogues.
+SEO/GEO: All 27 subpages linked through real HTML links, descriptive summaries, CollectionPage with ItemList, Person, LocalBusiness and WebSite. Canonical, Open Graph, sitemap and llms.txt aligned. Content accessible without JavaScript; reduced motion supported.
+
+Email marketing
+Primary keyword: Email marketing expert
+Search intent: Find a German-speaking partner for B2B email marketing and automated contact journeys.
+URL: https://bayramdoekmeci.de/en/email-marketing/
+Title: Email marketing expert for B2B | Bayram Dökmeci
+Description: Your email marketing expert for B2B in DACH: strategy, newsletters and automated email journeys. Directly with Bayram Dökmeci. Let’s meet.
+Design: Warm editorial design with #FFCED8, #FFDDDD, #FFF4DE and #FFE8C4; dark plum for contrast, large system typography with serif accents, interactive flow preview, process diagram and animated example chart.
+HTML code: email-marketing/index.html (standalone file with inline CSS, inline JavaScript and Alpine.js 3.14.9); English output: en/email-marketing/index.html.
+SEO: Sitemap and llms.txt extended. JSON-LD with Person, LocalBusiness, Service, WebPage, BreadcrumbList and FAQPage. LocalBusiness follows the existing project schema validator.
+Assumptions: The template serves as the content brief for the existing /email-marketing/ route; exclusively B2B and agencies in DACH; all figures and processes are illustrative examples, not customer results.
+
+Social media
+Primary keyword: Social media expert for B2B
+Search intent: Find a German-speaking partner for B2B social media strategy, content and community management.
+URL: https://bayramdoekmeci.de/en/social-media/
+Title: Social media expert for B2B | Bayram Dökmeci
+Description: Your social media expert for B2B in DACH: strategy, content, community and paid social. Directly with Bayram Dökmeci. Let’s meet.
+Design: Dark editorial layout with background #0D1C42, deep navy #010713, blue #22396F, cream #FCF1D0 and turquoise #00cccc. Large system typography and serif accents; mobile contact bar with safe-area spacing.
+HTML code: social-media/index.html (standalone HTML file with inline CSS, inline JavaScript and Alpine.js 3.14.9); English output: en/social-media/index.html.
+Interactions: Switchable content mix for 12 illustrative posts, two animated SVG processes with text alternatives, native FAQ and menu details. Content accessible without JavaScript; reduced motion supported.
+SEO: Sitemap and llms.txt extended. JSON-LD with Person, LocalBusiness, Service, WebPage, BreadcrumbList and FAQPage; FAQ answers match visible text. LocalBusiness follows the existing project validator.
+Assumptions: prompt.txt serves as the content brief for /social-media/; the isolated email marketing line is a template remnant; #01073 was expanded to #010713; exclusively B2B and agencies in DACH; chart values represent illustrative planning, not customer results.
+
+3D visualisations for architects
+Primary keyword: 3D visualisations for architects
+Search intent: Find a direct architectural visualisation partner for architecture practices and agencies in DACH.
+URL: https://bayramdoekmeci.de/en/3d/
+Title: 3D visualisations for architects | Bayram Dökmeci
+Description: 3D visualisations for architects in DACH: exteriors, interiors and animations. Directly with Bayram Dökmeci — from a design to an image that makes it clear.
+Design: White background #ffffff, black text #000000. Architectural editorial layout with large typography and fine lines; strong violet, orange, cyan and lime exclusively in charts and infographics. No images.
+HTML code: 3d/index.html (inline CSS, inline JavaScript, Alpine.js 3.14.9; existing locally hosted font); English output: en/3d/index.html.
+Interactions: Three ArchViz building blocks, switchable bar chart with explicitly illustrative viewpoint counts, SVG process graphic with two approvals, native FAQ and mobile menu. Progressive enhancement, text alternatives and reduced motion.
+SEO: Sitemap and llms.txt extended. JSON-LD with Person, LocalBusiness, Service, WebPage, BreadcrumbList and FAQPage; LocalBusiness follows the existing project validator.
+Assumptions: prompt.txt serves as the content brief for the existing empty /3d/ route; exclusively B2B and agencies in DACH; scenarios and chart values are illustrative examples, not references or customer results.
+
+Local SEO & map services
+Primary keyword: Local SEO specialist
+Search intent: Hire a German-speaking specialist for local business profiles, map services and location data in DACH.
+URL: https://bayramdoekmeci.de/en/kartendienst/
+Title: Local SEO specialist for DACH | Bayram Dökmeci
+Description: Local SEO specialist for businesses and agencies in DACH: Google Maps, Apple Maps and consistent location data. Directly with Bayram Dökmeci.
+Design: Background #ffffff, text #000000; red #ff8e7d, blue #9ab9ff, yellow #ffda58 and green #98d9b3 for buttons, charts, infographics and maps. Large system typography, schematic city map and four-colour service areas. No images.
+HTML code: kartendienst/index.html — standalone HTML file with inline CSS, inline SVG and minimal inline JavaScript; Alpine.js 3.14.9 is the only external dependency. English output: en/kartendienst/index.html.
+Interactions: Animated location map, animated profile system, switchable bar chart with twelve explicitly fictional entries, six native FAQs, mobile menu and fixed mobile contact bar. Progressive enhancement and reduced motion.
+SEO: Canonical, Open Graph, Twitter metadata, inline favicon and Person, LocalBusiness, Service, WebPage, BreadcrumbList and FAQPage in JSON-LD. LocalBusiness follows the existing project validator instead of the template’s deprecated ProfessionalService type. Sitemap and llms.txt extended.
+Historical checks recorded in the source notes: Project validator with 27 passing pages; HTML and link checks; isolated Chrome test from 360 to 1440 px with no horizontal overflow; chart, FAQ, mobile menu, JavaScript-disabled rendering and reduced motion checked.
+Assumptions: prompt.txt serves as the content brief for the existing empty /kartendienst/ route; exclusively B2B and agencies in DACH; examples and chart data are illustrative; implementation in the existing Cloudflare project.
