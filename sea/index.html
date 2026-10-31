@@ -285,7 +285,6 @@
       <details class="mobile-menu" x-ref="mobileMenu" @click.outside="$el.removeAttribute('open')" @keydown.escape="$el.removeAttribute('open'); $el.querySelector('summary').focus()"><summary aria-label="Inhaltsverzeichnis öffnen"><svg class="icon" width="22" height="22" aria-hidden="true"><use href="#i-menu"/></svg></summary><nav class="mobile-links" aria-label="Inhaltsverzeichnis" @click="if ($event.target.closest('a')) $refs.mobileMenu.removeAttribute('open')"><a href="../index.html">Startseite</a><a href="#leistungen">01 / Leistungen</a><a href="#wirkung">02 / Was wirklich zählt</a><a href="#ablauf">03 / Der Ablauf</a><a href="#zusammenarbeit">04 / Zusammenarbeit</a><a href="#praxis">05 / Praxisbeispiele</a><a href="#faq">06 / Häufige Fragen</a><a href="#kontakt">Kampagnen besprechen ↗</a></nav></details>
     </div>
   </header>
-<!-- locale-nav --><nav class="language-switcher" aria-label="Sprache wählen"><a href="/sea/" lang="de" hreflang="de" aria-current="page">DE</a><a href="/en/sea/" lang="en" hreflang="en">EN</a></nav><!-- /locale-nav -->
   <main id="main">
     <section class="hero" aria-labelledby="hero-title">
       <div class="wrap">
