@@ -204,3 +204,5 @@ if __name__ == "__main__":
     main()
     from localise import build
     build()
+    import subprocess
+    subprocess.run(["node", str(ROOT / "scripts" / "build_toon.mjs")], check=True)

@@ -1,0 +1,73 @@
+title: B2B Partnership Manager | Bayram Dökmeci
+description: "B2B Partnership Manager for companies and agencies in DACH. Find partners, build co-selling and grow together. Directly with Bayram Dökmeci."
+url: "https://bayramdoekmeci.de/en/b2b/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/b2b/"
+  en: "https://bayramdoekmeci.de/en/b2b/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B Partnership Manager
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/b2b/#page"
+      url: "https://bayramdoekmeci.de/en/b2b/"
+      name: B2B Partnership Manager | Bayram Dökmeci
+      description: "Partner strategy, partner recruitment, co-selling and partner operations for companies and agencies in DACH."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/b2b/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/b2b/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/b2b/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,B2B Partnership,"https://bayramdoekmeci.de/en/b2b/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/b2b/#service"
+      name: B2B Partnership Management
+      serviceType: "Partner strategy, partner recruitment, co-selling and partner operations"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business customers and agencies
+      description: "External support for building and developing B2B partnerships: partner profiles, LinkedIn research, partner enablement, joint sales processes and CRM workflows. Remote from Antalya, in German."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/b2b/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What does a B2B Partnership Manager do?,Answer,"A B2B Partnership Manager identifies suitable business partners, develops a joint service offering and organises collaboration. This includes partner recruitment, onboarding, co-selling and ongoing coordination of goals, responsibilities and sales opportunities."
+        Question,Who is this suitable for?,Answer,"I work exclusively with business customers and agencies in Germany, Austria and Switzerland. This service suits companies that want to build a partner network or develop existing collaborations in a structured way. Complementary services, software solutions and shared target customer groups are particularly relevant."
+        Question,How do partnerships differ from direct lead generation?,Answer,"Direct lead generation targets potential end customers. Partnership Management builds relationships with companies with which you can reach or support customers together. Referrals, joint offerings and co-selling can result; specific sales opportunities are qualified separately."
+        Question,How does working with you work?,Answer,"You work directly with Bayram Dökmeci from MeinB2B, remotely from Antalya and in fluent German. At the outset, we agree the goal, scope, responsibilities and regular meetings. Support can be arranged as a defined project or as ongoing additional capacity for your team."
+        Question,"When can we expect results, and what does it cost?",Answer,"The timetable and costs depend on the starting point, partnership model and agreed scope. Initial deliverables might include a partner profile, a prioritised shortlist or a joint pilot plan. New partnerships and revenue cannot be guaranteed; you receive an individual quote before starting."
+        Question,"What role do LinkedIn, CRM and automation play?",Answer,"LinkedIn supports research and personal outreach to potential partners. The CRM clearly documents partner status, responsibilities and shared opportunities. Internal automations can support tasks, reminders and handovers, for example; relationship management remains personal."

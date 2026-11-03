@@ -1,0 +1,72 @@
+title: 3D-Visualisierungen für Architekten | Bayram Dökmeci
+description: "3D-Visualisierungen für Architekten in DACH: Außenräume, Innenräume und Animationen. Direkt mit Bayram Dökmeci – vom Entwurf zum verständlichen Bild."
+url: "https://bayramdoekmeci.de/3d/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/3d/"
+  en: "https://bayramdoekmeci.de/en/3d/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/3d/#page"
+      url: "https://bayramdoekmeci.de/3d/"
+      name: 3D-Visualisierungen für Architekten | Bayram Dökmeci
+      description: "Architekturvisualisierung für Architekturbüros, Geschäftskunden und Agenturen in DACH."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/3d/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/3d/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/3d/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,3D-Visualisierungen,"https://bayramdoekmeci.de/3d/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/3d/#service"
+      name: 3D-Visualisierungen für Architekten
+      serviceType: Architekturvisualisierung (ArchViz)
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: "Architekturbüros, Geschäftskunden und Agenturen"
+      description: "Außen- und Innenvisualisierungen, Architektur-Animationen, 360°-Panoramen und interaktive Rundgänge. Datenprüfung, Modellierung, Materialien, Beleuchtung und Postproduktion nach vereinbartem Projektumfang."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/3d/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Welche Unterlagen brauchst du für eine 3D-Visualisierung?,Answer,"Ideal sind aktuelle Grundrisse, Schnitte und Ansichten sowie ein vorhandenes 3D- oder BIM-Modell. Dazu kommen Materialwünsche, Referenzen zur Bildstimmung, gewünschte Perspektiven und dein Termin. Welche CAD-, BIM- oder Austauschformate sich übernehmen lassen, prüfen wir vor Projektstart anhand deiner Daten."
+        Question,Was kostet eine Architekturvisualisierung?,Answer,"Der Preis hängt vom Modellierungsaufwand, der Anzahl der Perspektiven, dem Detailgrad und dem Ausgabeformat ab. Auch vorhandene Daten und vereinbarte Korrekturrunden beeinflussen den Umfang. Nach Sichtung des Briefings erhältst du ein projektspezifisches Angebot mit klaren Leistungen."
+        Question,Wie lange dauert die Umsetzung?,Answer,"Einzelne Perspektiven auf Basis gut vorbereiteter Modelle lassen sich typischerweise innerhalb weniger Arbeitstage bearbeiten. Aufwendige Szenen, Animationen oder interaktive Rundgänge benötigen entsprechend mehr Zeit. Den verbindlichen Zeitplan vereinbaren wir nach der Datenprüfung und stimmen Feedbacktermine darauf ab."
+        Question,Wie laufen Feedback und Korrekturen ab?,Answer,"Zuerst stimmen wir Kameras und Geometrie ab, danach Materialien und Licht anhand von Vorschauen. Du bündelst Anmerkungen pro Runde, damit Änderungen eindeutig zugeordnet werden können. Die enthaltenen Korrekturrunden und der Umgang mit späteren Entwurfsänderungen werden vorab im Angebot festgelegt."
+        Question,Welche Dateien und Nutzungsrechte erhalte ich?,Answer,"Du erhältst die vereinbarten finalen Bild-, Video- oder Panorama-Dateien in der abgestimmten Auflösung. Nutzungsumfang, Weitergabe an Projektpartner sowie eine mögliche Übergabe von Rohdaten oder interaktiven Anwendungen klären wir vor Projektstart. Offene Projektdateien sind nur enthalten, wenn dies ausdrücklich vereinbart wurde."
+        Question,Arbeitest du auch mit Agenturen und Büros in der DACH-Region?,Answer,"Ja, das Angebot richtet sich ausschließlich an Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Du hast mit Bayram Dökmeci einen direkten Ansprechpartner; eine White-Label-Zusammenarbeit stimmen wir projektspezifisch ab."

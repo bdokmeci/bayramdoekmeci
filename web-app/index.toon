@@ -1,0 +1,82 @@
+title: Web-App entwickeln lassen für B2B | Bayram Dökmeci
+description: "Web-App entwickeln lassen: interne Tools, individuelle Software und Kundenportale für B2B in DACH. Direkt mit Bayram Dökmeci. Auf Deutsch."
+url: "https://bayramdoekmeci.de/web-app/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/web-app/"
+  en: "https://bayramdoekmeci.de/en/web-app/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Deutschsprachiger Web-App-Entwickler
+      knowsLanguage[2]: de,tr
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: DE,AT,CH
+      contactPoint:
+        "@type": ContactPoint
+        contactType: sales
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: de
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/web-app/#page"
+      url: "https://bayramdoekmeci.de/web-app/"
+      name: Web-App entwickeln lassen für B2B | Bayram Dökmeci
+      description: "Individuelle Web-Apps, interne Tools und Kundenportale für Unternehmen und Agenturen in DACH."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/web-app/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/web-app/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/web-app/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Web-App-Entwicklung,"https://bayramdoekmeci.de/web-app/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/web-app/#service"
+      name: Individuelle Web-App-Entwicklung
+      serviceType: "Web-Apps, interne Software und Kundenportale entwickeln"
+      url: "https://bayramdoekmeci.de/web-app/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen
+      description: "Prozessanalyse, Konzeption, Frontend- und Backend-Entwicklung, Rollen und Berechtigungen, Schnittstellen, Tests und abgestimmte Übergabe individueller B2B-Web-Apps. Direkte Zusammenarbeit auf Deutsch."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/web-app/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,"Wann lohnt es sich, eine Web-App entwickeln zu lassen?",Answer,"Eine individuelle Web-App kann sinnvoll sein, wenn wiederkehrende Arbeitsabläufe, besondere Geschäftsregeln oder mehrere Datenquellen mit vorhandenen Werkzeugen nur umständlich abbildbar sind. Wir prüfen zuerst den konkreten Bedarf und mögliche Standardlösungen. Die erste Version sollte einen klar begrenzten Prozess für deine Nutzer vollständig unterstützen."
+        Question,Kannst du ein internes Tool oder ein Kundenportal entwickeln?,Answer,"Ja. Ich entwickle interne Software für Erfassung, Bearbeitung und Freigaben sowie Kundenportale für Projekte, Dateien und Rückmeldungen. Rollen, Berechtigungen und Schnittstellen legen wir passend zu deinem Unternehmen fest. Das Angebot richtet sich ausschließlich an Geschäftskunden und Agenturen in DACH."
+        Question,Was kostet eine Web-App und wie lange dauert die Entwicklung?,Answer,"Kosten und Dauer hängen von Funktionsumfang, Datenmigration, Schnittstellen und Prüfaufwand ab. Nach der Bestandsaufnahme erhältst du einen konkreten Vorschlag für Leistungsumfang, Meilensteine und Budget. Ein abgegrenztes MVP ermöglicht einen überschaubaren Einstieg; einen verbindlichen Zeitplan vereinbaren wir für dein Projekt."
+        Question,Lässt sich die Web-App mit unserem CRM verbinden?,Answer,"Das ist möglich, wenn dein CRM eine geeignete Schnittstelle oder einen nutzbaren Import- und Exportweg bietet. Ich prüfe Datenfelder, Zugriffsrechte, technische Grenzen und die Richtung des Datenaustauschs. Fehlerbehandlung und Zuständigkeiten für die Datenpflege gehören zur Planung."
+        Question,Wie funktioniert die Zusammenarbeit auf Deutsch?,Answer,"Du arbeitest direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya in der Türkei. Briefings, Abstimmungen und Dokumentation erfolgen auf Deutsch. Wir vereinbaren Erreichbarkeit und Feedbacktermine für die Zusammenarbeit mit deinem Team in Deutschland, Österreich oder der Schweiz."
+        Question,"Wer übernimmt Quellcode, Hosting und Wartung?",Answer,"Quellcode-Übergabe, Zugänge, Nutzungsrechte und Dokumentation werden im Projektangebot festgelegt. Für Hosting, Updates, Backups und laufende Betreuung vereinbaren wir klare Zuständigkeiten und einen passenden Leistungsumfang. Wartung ist nur enthalten, wenn sie ausdrücklich Teil unserer Vereinbarung ist."

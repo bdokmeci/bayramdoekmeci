@@ -1,0 +1,72 @@
+title: Social-Media-Experte für B2B | Bayram Dökmeci
+description: "Dein Social-Media-Experte für B2B in DACH: Strategie, Content, Community und Paid Social. Direkt mit Bayram Dökmeci. Jetzt kennenlernen."
+url: "https://bayramdoekmeci.de/social-media/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/social-media/"
+  en: "https://bayramdoekmeci.de/en/social-media/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B-Lead-Gen-Experte und Social-Media-Berater
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Deutschland,Österreich,Schweiz
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/social-media/#service"
+      name: Social-Media-Betreuung für B2B und Agenturen
+      serviceType: "Social-Media-Strategie, Content, Community-Management und Paid Social"
+      description: "Strategie, Redaktionsplanung, Content-Erstellung, Community-Management, Paid Social und Reporting für Geschäftskunden und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch."
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: B2B-Unternehmen und Agenturen
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/social-media/#page"
+      url: "https://bayramdoekmeci.de/social-media/"
+      name: Social-Media-Experte für B2B | Bayram Dökmeci
+      description: "Social-Media-Strategie, Content und Community für B2B-Unternehmen und Agenturen in DACH."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/social-media/#service"
+      mainEntity:
+        "@id": "https://bayramdoekmeci.de/social-media/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/social-media/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/social-media/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Social Media,"https://bayramdoekmeci.de/social-media/"
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/social-media/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Für wen ist deine Social-Media-Betreuung geeignet?,Answer,"Ich arbeite ausschließlich mit Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit passt zu B2B-Unternehmen, die ihre Positionierung schärfen, regelmäßig relevante Inhalte veröffentlichen und mit potenziellen Kunden ins Gespräch kommen möchten."
+        Question,Welche Social-Media-Kanäle betreust du?,Answer,"Die Kanalwahl richtet sich nach deiner Zielgruppe und deinen Ressourcen. LinkedIn kann für fachlichen B2B-Austausch passen; Instagram, Facebook, YouTube oder TikTok ergänzen den Auftritt, wenn Zielgruppe und Content dazu passen. Wir legen gemeinsam fest, welche Kanäle zum Projekt gehören."
+        Question,Übernimmst du auch Content und Community-Management?,Answer,"Ja. Der vereinbarte Umfang kann Themenplanung, Texte, visuelle Formate, Veröffentlichung und die Betreuung von Kommentaren und Nachrichten umfassen. Freigaben, Reaktionszeiten und den Umgang mit sensiblen Anfragen stimmen wir vorab ab."
+        Question,Wie schnell sind Ergebnisse zu erwarten?,Answer,"Ein klarer Themenplan und erste Inhalte sind frühe Arbeitsergebnisse. Wie sich Reichweite, Gespräche und Anfragen entwickeln, hängt unter anderem von Ausgangslage, Angebot, Kanal und Kontinuität ab. Wir vereinbaren passende Kennzahlen und regelmäßige Reviews; feste Reichweiten oder Leads verspreche ich nicht."
+        Question,Was kostet die Zusammenarbeit?,Answer,"Das hängt von Kanälen, Content-Umfang, Community-Betreuung und möglichen Kampagnen ab. Nach dem Erstgespräch erhältst du ein Angebot mit klar abgegrenzten Leistungen. Ein Werbebudget für Paid Social wird separat vereinbart."
+        Question,Wie funktioniert die Zusammenarbeit mit dir in Antalya?,Answer,"Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Wir stimmen Erreichbarkeit, Feedbacktermine und Freigabewege zu Beginn ab. Als Unternehmen oder Agentur hast du mit mir einen direkten Ansprechpartner für Strategie und Umsetzung."

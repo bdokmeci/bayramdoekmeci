@@ -1,0 +1,80 @@
+title: B2B Design & Content für DACH | Bayram Dökmeci
+description: "B2B Design & Content für Unternehmen und Agenturen in DACH: Web-Assets, Motion Design und Markeninhalte. Direkt mit Bayram Dökmeci."
+url: "https://bayramdoekmeci.de/design-content/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/design-content/"
+  en: "https://bayramdoekmeci.de/en/design-content/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[7]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B
+      url: "https://bayramdoekmeci.de/"
+      telephone: +90 507 882 7795
+      email: kontakt@bayramdoekmeci.de
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/design-content/#webpage"
+      url: "https://bayramdoekmeci.de/design-content/"
+      name: B2B Design & Content für DACH | Bayram Dökmeci
+      description: "B2B Design & Content für Unternehmen und Agenturen in DACH: Web-Assets, Motion Design und Markeninhalte. Direkt mit Bayram Dökmeci."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/design-content/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/design-content/#breadcrumb"
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci – MeinB2B
+      inLanguage: de
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/design-content/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,B2B Design & Content,"https://bayramdoekmeci.de/design-content/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/design-content/#service"
+      name: B2B Design & Content
+      serviceType: "Visuelles Design, Web-Assets, Motion Design und Content-Strategie"
+      description: "Konzeption und Gestaltung von B2B-Web-Assets, digitalen Markenbausteinen, kurzen Motion-Inhalten und kanalübergreifenden Content-Systemen für Unternehmen und Agenturen in DACH."
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: B2B-Unternehmen und Agenturen
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/design-content/#faq"
+      mainEntity[5]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Welche Design- und Content-Leistungen bietet Bayram Dökmeci an?,Answer,"Bayram Dökmeci unterstützt B2B-Unternehmen und Agenturen mit visuellem Design, konversionsorientierten Web-Assets, Marken-Updates, Motion Design und kanalübergreifender Content-Konzeption. Der Umfang wird passend zu Zielgruppe, Kanälen und vorhandenen Markenrichtlinien vereinbart."
+        Question,Für wen eignet sich die Zusammenarbeit?,Answer,"Das Angebot richtet sich ausschließlich an B2B-Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit eignet sich, wenn digitale Inhalte oder visuelle Markenbausteine konsistent und direkt mit einem deutschsprachigen Ansprechpartner umgesetzt werden sollen."
+        Question,Wie läuft ein Design- oder Content-Projekt ab?,Answer,"Zu Beginn werden Zielgruppe, Kommunikationsziel, Kanäle und vorhandene Markenmaterialien abgestimmt. Darauf folgen Konzept und Entwürfe, Feedbackrunden und die Ausarbeitung der vereinbarten Assets in passenden Formaten. Umfang und Zeitplan richten sich nach dem Projekt."
+        Question,Welche Inhalte können für Social Media und Video entstehen?,Answer,"Möglich sind zum Beispiel visuelle Social-Media-Bausteine, kurze Motion-Grafiken, Videoschnitte und Varianten für vereinbarte digitale Kanäle. Themen, Format, Materialgrundlage und Ausspielung werden vor der Produktion gemeinsam festgelegt."
+        Question,Arbeitet Bayram Dökmeci auch mit Agenturen zusammen?,Answer,Ja. Agenturen in DACH können Bayram Dökmeci projektbezogen und direkt für Design- und Content-Aufgaben einbinden. Eine Zusammenarbeit im Hintergrund oder mit White-Label-Abstimmung kann nach Absprache vereinbart werden.

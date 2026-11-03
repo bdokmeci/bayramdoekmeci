@@ -1,0 +1,70 @@
+title: Videoproduktion & Motion Graphics | Bayram Dökmeci
+description: "Videoproduktion & Motion Graphics für DACH-Agenturen: Social Cuts, 3D-Animation und Werbevideos. White Label mit Bayram Dökmeci. Jetzt Projekt besprechen."
+url: "https://bayramdoekmeci.de/videoproduktion/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/videoproduktion/"
+  en: "https://bayramdoekmeci.de/en/videoproduktion/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Deutschland,Österreich,Schweiz
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/videoproduktion/#page"
+      url: "https://bayramdoekmeci.de/videoproduktion/"
+      name: Videoproduktion & Motion Graphics | Bayram Dökmeci
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/videoproduktion/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/videoproduktion/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/videoproduktion/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Videoproduktion,"https://bayramdoekmeci.de/videoproduktion/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/videoproduktion/#service"
+      name: Videoproduktion & Motion Graphics für DACH-Agenturen
+      serviceType: White-Label-Videoproduktion und Postproduktion
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen in DACH
+      description: "Social-Media-Videoschnitt, Motion Graphics, 3D-Produktanimationen, VFX und Werbevideos. Remote und auf Deutsch, projektbezogen oder als monatliche Zusammenarbeit mit vereinbartem Leistungsumfang."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/videoproduktion/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Welche Videoproduktion übernimmst du?,Answer,"Ich unterstütze bei Social-Media-Videoschnitt, Motion Graphics, 3D-Produktanimationen, VFX und Werbevideos. Der Schwerpunkt liegt auf der digitalen Produktion und Postproduktion aus vorhandenem Material oder abgestimmten Design- und 3D-Assets. Drehs vor Ort sind nicht Teil des hier beschriebenen Angebots."
+        Question,Wie funktioniert die White-Label-Zusammenarbeit?,Answer,"Deine Agentur bleibt Ansprechpartner für den Endkunden. Ich übernehme die vereinbarte Produktion im Hintergrund und liefere unter deinem Branding. Kommunikationswege, Vertraulichkeit, Dateiformate und Nutzungsrechte stimmen wir vor dem Start ab."
+        Question,Was bedeutet „unbegrenzte Anfragen“ im Abo?,Answer,"Du kannst beliebig viele passende Aufgaben in die gemeinsame Warteschlange einstellen. Die Umsetzung erfolgt nacheinander innerhalb der vereinbarten Kapazität; unbegrenzte Anfragen bedeuten keine unbegrenzte gleichzeitige Produktion. Monatspreis, Korrekturen, Laufzeit und Kündigung werden im Angebot festgelegt. Aufwendige 3D- und VFX-Aufgaben werden vorab auf ihren Umfang geprüft."
+        Question,Wie schnell ist ein Video fertig und was brauchst du?,Answer,"Zum Start brauche ich Ziel, Kanal, Markenrichtlinien sowie das verfügbare Rohmaterial oder die Produktdaten. Ein einfacher Social Cut kann je nach Material und Auslastung innerhalb weniger Werktage entstehen; komplexe Animationen benötigen mehr Zeit. Den verbindlichen Zeitplan und die Feedbackrunden vereinbaren wir vor Produktionsbeginn."
+        Question,Für wen ist das Angebot und wie kommunizieren wir?,Answer,"Das Angebot richtet sich ausschließlich an Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Du arbeitest direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya in der Türkei und fließend auf Deutsch. Die Abstimmung erfolgt per Videotermin, E-Mail oder WhatsApp."
+        Question,Was kostet die Videoproduktion?,Answer,"Die Kosten hängen von Material, Videolänge, Varianten und Animationsaufwand ab. Für einzelne Projekte vereinbaren wir einen klar abgegrenzten Umfang; für laufenden Bedarf ein monatliches Paket mit definierter Kapazität. Nach dem Erstgespräch erhältst du ein individuelles Angebot."

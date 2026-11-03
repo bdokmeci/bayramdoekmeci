@@ -1,0 +1,75 @@
+title: German-speaking remote customer care specialist | Bayram Dökmeci
+description: German-speaking remote customer care specialist for B2B and agencies in DACH. Personal customer communication and clear follow-up with Bayram Dökmeci.
+url: "https://bayramdoekmeci.de/en/kundenbetreuer/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/kundenbetreuer/"
+  en: "https://bayramdoekmeci.de/en/kundenbetreuer/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Germany,Austria,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Business customer enquiries
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: German
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/kundenbetreuer/#page"
+      url: "https://bayramdoekmeci.de/en/kundenbetreuer/"
+      name: German-speaking remote customer care specialist | Bayram Dökmeci
+      description: "Personal German-language customer communication, service coordination and follow-up for B2B companies and agencies in DACH."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/kundenbetreuer/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/kundenbetreuer/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/kundenbetreuer/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Remote customer care specialist,"https://bayramdoekmeci.de/en/kundenbetreuer/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/kundenbetreuer/#service"
+      name: German-speaking remote customer care specialist
+      serviceType: Personal B2B customer care and service coordination
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business customers and agencies in DACH
+      description: "German-language customer communication, status updates, clarification of questions, complaint handling, follow-ups and agreed escalation to the specialist team. Scope and availability are agreed individually."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/kundenbetreuer/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What does a German-speaking remote customer care specialist do?,Answer,"I support direct communication with your business customers: answering enquiries, clarifying questions, providing status updates and following up on next steps. This also includes recording complaints and coordinating handovers to your specialist team. We agree before starting which decisions I can make independently."
+        Question,Who is this suitable for?,Answer,"This service is exclusively for companies and agencies in Germany, Austria and Switzerland. It suits teams looking for a consistent contact for ongoing customer communication. Tasks and scope are tailored to your existing processes."
+        Question,Which channels do you use to support our customers?,Answer,"Email, agreed customer chats and your existing ticketing or CRM system can form part of our work together. Telephone support and agreed callbacks are arranged separately. Before starting, we clarify access, tone of voice, authorisations and how customer data is handled."
+        Question,How do we agree availability and response times?,Answer,"I work remotely from Antalya and communicate fluently in German. We agree shared working hours, response deadlines and cover arrangements for absences. Round-the-clock support or a standard response time is not automatically included."
+        Question,What happens with complaints or technical questions?,Answer,"I record the enquiry, clarify missing information and inform the customer of the agreed next step. Cases beyond my authorisation are handed to the responsible person with context. Binding goodwill decisions, technical commitments and approvals remain with the agreed owners."
+        Question,"How do we start, and what does the support cost?",Answer,"In a no-obligation initial consultation, we clarify customer contact, channels and the desired scope. You then receive an individual quote based on tasks and working hours. A defined pilot can show how our collaboration works in your day-to-day operations."

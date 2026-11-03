@@ -1,0 +1,89 @@
+title: Digitale Leistungen für B2B | Bayram Dökmeci
+description: "Webentwicklung, Marketing, KI, Design und Business Development: Alle Leistungen von Bayram Dökmeci für Unternehmen und Agenturen in DACH im Überblick."
+url: "https://bayramdoekmeci.de/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/"
+  en: "https://bayramdoekmeci.de/en/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[5]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digitaler Architekt und Full-Stack-Entwickler
+      knowsLanguage[4]: de,en,nl,tr
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Kundenservice
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[4]: German,English,Dutch,Turkish
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci – MeinB2B
+      inLanguage: de
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": CollectionPage
+      "@id": "https://bayramdoekmeci.de/#page"
+      url: "https://bayramdoekmeci.de/"
+      name: Digitale Leistungen für B2B | Bayram Dökmeci
+      description: "Webentwicklung, Marketing, KI, Design und Business Development: Alle Leistungen von Bayram Dökmeci für Unternehmen und Agenturen in DACH im Überblick."
+      inLanguage: de
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+      about:
+        "@id": "https://bayramdoekmeci.de/#person"
+      mainEntity:
+        "@id": "https://bayramdoekmeci.de/#leistungen"
+    - "@type": ItemList
+      "@id": "https://bayramdoekmeci.de/#leistungen"
+      name: Digitale Leistungen für Unternehmen und Agenturen
+      numberOfItems: 25
+      itemListElement[25]{"@type",position,name,description,url}:
+        ListItem,1,Webentwicklung,"Websites und digitale Systeme, die zu deinem Business passen.","https://bayramdoekmeci.de/webentwicklung/"
+        ListItem,2,Full-Stack-Entwicklung,"Frontend, Backend und Schnittstellen aus einer Hand.","https://bayramdoekmeci.de/full-stack-entwickler/"
+        ListItem,3,WordPress & CMS,"Individuelle Themes, Plugins und flexible Content-Systeme.","https://bayramdoekmeci.de/wordpress-cms-entwickler/"
+        ListItem,4,Web-Apps,"Interne Tools, Kundenportale und individuelle Software.","https://bayramdoekmeci.de/web-app/"
+        ListItem,5,Shopware & E-Commerce,"Shop-Wartung, Qualitätssicherung und Shopify-Betreuung.","https://bayramdoekmeci.de/shopware/"
+        ListItem,6,Digitales Marketing,"Strategie, Performance und MarTech für dein Wachstum.","https://bayramdoekmeci.de/digitales-marketing/"
+        ListItem,7,Programmatic SEO,Skalierbare Landingpages mit durchdachter Seitenarchitektur.,"https://bayramdoekmeci.de/programmatic/"
+        ListItem,8,SEA & Google Ads,"Suchanzeigen, Conversion-Tracking und Kampagnenoptimierung.","https://bayramdoekmeci.de/sea/"
+        ListItem,9,LinkedIn,"B2B-Positionierung, Content, Ads und Zielkundenrecherche.","https://bayramdoekmeci.de/linkedin/"
+        ListItem,10,E-Mail-Marketing,Newsletter und automatisierte Strecken für deine Kontakte.,"https://bayramdoekmeci.de/email-marketing/"
+        ListItem,11,Social Media,"Content, Community und Paid Social mit klarem Plan.","https://bayramdoekmeci.de/social-media/"
+        ListItem,12,Local SEO & Maps,Standortprofile und konsistente Daten für lokale Sichtbarkeit.,"https://bayramdoekmeci.de/kartendienst/"
+        ListItem,13,KI-Automatisierung,"KI-Workflows, Wissenssuche und kontrollierte CRM-Übergaben.","https://bayramdoekmeci.de/ki/"
+        ListItem,14,n8n & Workflows,Prozesse automatisieren und Tools sinnvoll verbinden.,"https://bayramdoekmeci.de/n8n/"
+        ListItem,15,Data Engineering,"Datenpipelines, Datenqualität und eine nutzbare KI-Basis.","https://bayramdoekmeci.de/data-engineering/"
+        ListItem,16,Design & Content,"Visuelle Identität und Inhalte, die deine Marke weiterbringen.","https://bayramdoekmeci.de/design-content/"
+        ListItem,17,Videoproduktion,"Videos, Schnitt und VFX für Produkte, Marken und Social Media.","https://bayramdoekmeci.de/videoproduktion/"
+        ListItem,18,Motion Graphics,"Erkläranimationen, Brand Motion und bewegte Typografie.","https://bayramdoekmeci.de/motion-graphics/"
+        ListItem,19,3D-Visualisierung,"Architektur, Innenräume und virtuelle Rundgänge in 3D.","https://bayramdoekmeci.de/3d/"
+        ListItem,20,Business Development,B2B-Leadgenerierung und qualifizierte Vertriebsübergaben.,"https://bayramdoekmeci.de/business-development/"
+        ListItem,21,International Sales,"Go-to-Market, Pipeline Reviews und Vertriebssteuerung.","https://bayramdoekmeci.de/international-sales/"
+        ListItem,22,B2B-Partnerschaften,"Partnerstrategie, Partnergewinnung und gemeinsames Wachstum.","https://bayramdoekmeci.de/b2b/"
+        ListItem,23,Customer Success,"Onboarding, Produktnutzung und langfristige Kundenentwicklung.","https://bayramdoekmeci.de/customer-success/"
+        ListItem,24,Back-Office,"Tickets, CRM-Pflege und operative Unterstützung auf Deutsch.","https://bayramdoekmeci.de/deutschsprachiges-back-office/"
+        ListItem,25,Kundenbetreuung,Persönlicher Service und verlässliche Nachverfolgung für B2B.,"https://bayramdoekmeci.de/kundenbetreuer/"

@@ -1,0 +1,75 @@
+title: International Sales Director für DACH | Bayram Dökmeci
+description: "International Sales Director für B2B und Agenturen in DACH: Marktstrategie, LinkedIn und Vertriebssteuerung. Direkt mit Bayram Dökmeci. Termin buchen."
+url: "https://bayramdoekmeci.de/international-sales/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/international-sales/"
+  en: "https://bayramdoekmeci.de/en/international-sales/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B-Lead-Gen-Experte und externer Vertriebspartner
+      knowsLanguage[1]: de
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/international-sales/#page"
+      url: "https://bayramdoekmeci.de/international-sales/"
+      name: International Sales Director für DACH | Bayram Dökmeci
+      description: "Externe Unterstützung bei Marktstrategie, B2B-Neukundengewinnung und Vertriebssteuerung für Unternehmen und Agenturen in DACH."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/international-sales/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/international-sales/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/international-sales/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,International Sales,"https://bayramdoekmeci.de/international-sales/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/international-sales/#service"
+      name: International Sales Director für DACH
+      serviceType: Externe Vertriebsstrategie und Vertriebssteuerung
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen
+      description: "Projektbezogene Unterstützung bei Go-to-Market-Strategie, Account-based Selling, LinkedIn, Pipeline Reviews, CRM und Marketing Automation. Aufgaben und Führungsverantwortung werden individuell vereinbart."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/international-sales/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Was macht ein International Sales Director?,Answer,"Ein International Sales Director entwickelt die Vertriebsstrategie für mehrere Märkte und verbindet Marktprioritäten, Zielkundenansprache und Vertriebssteuerung. Dazu gehören unter anderem Go-to-Market-Planung, Account-Entwicklung, Pipeline Reviews und die Abstimmung zwischen Marketing und Sales. Mein Angebot konzentriert sich auf diese Aufgaben für B2B-Unternehmen und Agenturen in DACH."
+        Question,Ist die Zusammenarbeit auch ohne feste Vertriebsstelle möglich?,Answer,"Ja. Du kannst mich projektbezogen oder als externe Ergänzung deines Teams einbinden. Wir vereinbaren vorab Aufgaben, Entscheidungswege und Umfang; eine disziplinarische Führungsrolle ist nicht automatisch Bestandteil der Zusammenarbeit."
+        Question,Für welche Unternehmen und Märkte ist das Angebot gedacht?,Answer,"Ich arbeite ausschließlich mit Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit passt etwa zu Unternehmen, die ihren DACH-Vertrieb aufbauen, einen neuen Teilmarkt erschließen oder bestehende Vertriebsprozesse strukturieren möchten."
+        Question,Übernimmst du auch LinkedIn und Marketing Automation?,Answer,"Ja. Je nach Auftrag unterstütze ich bei Zielkundenrecherche, persönlicher LinkedIn-Ansprache, Qualifizierung und CRM-gestützten Abläufen. Automation kann beispielsweise die interne Zuordnung, Erinnerungen und Übergaben unterstützen; Ansprache und Zuständigkeiten stimmen wir gemeinsam ab."
+        Question,Wie funktioniert die Zusammenarbeit aus der Türkei?,Answer,"Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Ziele, Erreichbarkeit und regelmäßige Abstimmungen vereinbaren wir passend zu deinem Team. Du erreichst mich direkt per E-Mail, Telefon, WhatsApp oder gebuchtem Videogespräch."
+        Question,Was kostet die Zusammenarbeit und wann sind Ergebnisse zu erwarten?,Answer,"Die Vergütung richtet sich nach Aufgaben, Umfang und Ausgangslage. Nach dem Erstgespräch vereinbaren wir Leistungen und Zeitplan, bevor die Umsetzung beginnt. Ein Pilot kann je nach Projekt über mehrere Wochen laufen; konkrete Leads, Umsätze oder Abschlüsse werden nicht garantiert."

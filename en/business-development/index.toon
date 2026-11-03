@@ -1,0 +1,96 @@
+title: B2B Lead Generation with LinkedIn | Bayram Dökmeci
+description: "B2B lead generation for DACH: Bayram Dökmeci combines LinkedIn, clear target customer profiles and marketing automation. Work together directly. Book a meeting."
+url: "https://bayramdoekmeci.de/en/business-development/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/business-development/"
+  en: "https://bayramdoekmeci.de/en/business-development/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B lead generation expert and business development consultant
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      knowsLanguage: de
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B
+      url: "https://bayramdoekmeci.de/"
+      telephone: +90 507 882 7795
+      email: kontakt@bayramdoekmeci.de
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        telephone: +90 507 882 7795
+        email: kontakt@bayramdoekmeci.de
+        contactType: sales
+        availableLanguage: de
+      hasOfferCatalog:
+        "@type": OfferCatalog
+        name: B2B lead generation
+        itemListElement[1]{"@type",itemOffered{"@id"}}:
+          Offer,"https://bayramdoekmeci.de/en/business-development/#service"
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/business-development/#webpage"
+      url: "https://bayramdoekmeci.de/en/business-development/"
+      name: B2B Lead Generation with LinkedIn | Bayram Dökmeci
+      description: "B2B lead generation for DACH: Bayram Dökmeci combines LinkedIn, clear target customer profiles and marketing automation. Work together directly. Book a meeting."
+      inLanguage: en
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+      about:
+        "@id": "https://bayramdoekmeci.de/en/business-development/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/business-development/#breadcrumb"
+      hasPart:
+        "@id": "https://bayramdoekmeci.de/en/business-development/#faq"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/business-development/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Business Development,"https://bayramdoekmeci.de/en/business-development/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/business-development/#service"
+      name: B2B lead generation with LinkedIn and marketing automation
+      serviceType: B2B lead generation
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      url: "https://bayramdoekmeci.de/en/business-development/"
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: "Business clients and agencies in Germany, Austria and Switzerland"
+      description: "Target customer profiles, account research, personal LinkedIn outreach, internal CRM workflows and qualified sales handover. Directly with Bayram Dökmeci, remote from Antalya and in German."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/business-development/#faq"
+      url: "https://bayramdoekmeci.de/en/business-development/#faq"
+      inLanguage: en
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/en/business-development/#webpage"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What does B2B lead generation with MeinB2B include?,Answer,"Bayram Dökmeci from MeinB2B supports target customer profiling, account research, LinkedIn outreach, marketing automation and qualified sales handover. The scope depends on your offering, target market and existing CRM processes. The service is exclusively for business clients and agencies in Germany, Austria and Switzerland."
+        Question,Which B2B businesses is LinkedIn suitable for?,Answer,"LinkedIn is an option when relevant contacts can be reached there and your offering addresses a specific business need. Typical use cases include software solutions that need explaining, consulting services or agency offerings. Before starting, we review your audience, reasons for conversation and the channel’s suitability for your plans."
+        Question,What is automated in marketing automation?,Answer,"Agreed internal tasks such as lead assignment, CRM updates, reminders and data handovers through approved interfaces are automated. Personal LinkedIn outreach and the assessment of a conversation remain human tasks. We determine which workflows make sense based on your systems and available data."
+        Question,"When is a lead qualified, and how is success measured?",Answer,"Here, a lead is considered qualified when target customer fit, a relevant contact role, specific need and next step have been clarified. We agree these criteria with your sales team before starting. We assess suitable dialogues, qualified conversations and their subsequent development; a particular number of leads or closed deals is not guaranteed."
+        Question,"What does B2B lead generation cost, and how quickly can we start?",Answer,"Costs depend on research scope, audiences, outreach, existing data and required integrations. After the initial conversation, services, fees and the start date are agreed individually. A defined pilot may run over several weeks depending on the project; reliable results also depend on your offering, market and sales cycle."
+        Question,How does remote collaboration from Türkiye work?,Answer,"Bayram Dökmeci works with MeinB2B from Antalya and communicates in fluent German. Meetings, responsibilities and availability windows are agreed to suit your DACH team. You work directly with your contact and receive documented processes and next steps in the agreed systems."

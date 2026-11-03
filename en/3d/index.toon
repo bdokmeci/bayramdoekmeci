@@ -1,0 +1,72 @@
+title: 3D Visualisations for Architects | Bayram Dökmeci
+description: "3D visualisations for architects in DACH: exteriors, interiors and animations. Work directly with Bayram Dökmeci — from design to a clear image."
+url: "https://bayramdoekmeci.de/en/3d/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/3d/"
+  en: "https://bayramdoekmeci.de/en/3d/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/3d/#page"
+      url: "https://bayramdoekmeci.de/en/3d/"
+      name: 3D Visualisations for Architects | Bayram Dökmeci
+      description: "Architectural visualisation for architectural practices, business clients and agencies in DACH."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/3d/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/3d/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/3d/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,3D visualisations,"https://bayramdoekmeci.de/en/3d/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/3d/#service"
+      name: 3D visualisations for architects
+      serviceType: Architectural visualisation (ArchViz)
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: "Architectural practices, business clients and agencies"
+      description: "Exterior and interior visualisations, architectural animations, 360° panoramas and interactive tours. Data review, modelling, materials, lighting and post-production within the agreed project scope."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/3d/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What documents do you need for a 3D visualisation?,Answer,"Current floor plans, sections and elevations, together with any existing 3D or BIM model, are ideal. These are supplemented by material preferences, mood references, desired views and your deadline. Before the project starts, we check which CAD, BIM or exchange formats can be imported using your data."
+        Question,What does an architectural visualisation cost?,Answer,"The price depends on the modelling effort, number of views, level of detail and output format. Existing data and agreed revision rounds also affect the scope. After reviewing the brief, you receive a project-specific quotation with clearly defined services."
+        Question,How long does production take?,Answer,"Individual views based on well-prepared models can typically be completed within a few working days. Complex scenes, animations or interactive tours require more time. We agree a firm schedule after reviewing the data and coordinate feedback dates accordingly."
+        Question,How do feedback and revisions work?,Answer,"First, we agree on cameras and geometry, then materials and lighting using previews. You consolidate comments for each round so changes can be assigned clearly. The included revision rounds and how later design changes are handled are set out in the quotation in advance."
+        Question,Which files and usage rights do I receive?,Answer,"You receive the agreed final image, video or panorama files at the agreed resolution. We clarify the scope of use, sharing with project partners and any handover of source data or interactive applications before the project starts. Editable project files are included only if expressly agreed."
+        Question,Do you also work with agencies and practices in the DACH region?,Answer,"Yes, the service is exclusively for business clients and agencies in Germany, Austria and Switzerland. I work remotely from Antalya and communicate in fluent German. Bayram Dökmeci is your direct contact; any white-label collaboration is agreed for the specific project."

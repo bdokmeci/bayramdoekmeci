@@ -8,6 +8,7 @@
 
 - [Startseite: alle digitalen Leistungen](https://bayramdoekmeci.de/): Übersicht mit 25 Leistungen in den Bereichen Web & Entwicklung, Marketing & Sichtbarkeit, KI & Daten, Design und Business. Jede Leistung führt zu einer eigenen Unterseite.
 - [Leistungsübersicht als Markdown](https://bayramdoekmeci.de/index.md): Textfassung der Startseite mit Leistungsbeschreibungen, direkten Links und Kontaktinformationen.
+- [Leistungsübersicht als TOON](https://bayramdoekmeci.de/index.toon): Kompakte Token-Oriented Object Notation (TOON) der Startseite und des Schema.org-Graphen für LLMs.
 
 ## Leistungen
 

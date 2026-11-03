@@ -1,0 +1,80 @@
+title: n8n consulting & workflow automation | Bayram Dökmeci
+description: "n8n consulting for B2B and agencies in DACH. Bayram Dökmeci connects CRM, marketing and processes. Direct, in German. Discuss your workflow today."
+url: "https://bayramdoekmeci.de/en/n8n/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/n8n/"
+  en: "https://bayramdoekmeci.de/en/n8n/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B lead generation expert and n8n freelancer
+      knowsLanguage[1]: de
+      knowsAbout[5]: n8n,Workflow automation,B2B lead generation,Marketing Automation,API integration
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/n8n/#page"
+      url: "https://bayramdoekmeci.de/en/n8n/"
+      name: n8n consulting & workflow automation | Bayram Dökmeci
+      description: n8n consulting and workflow automation for B2B companies and agencies in DACH.
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/n8n/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/n8n/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/n8n/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,n8n consulting,"https://bayramdoekmeci.de/en/n8n/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/n8n/#service"
+      name: n8n consulting and workflow automation
+      serviceType: "n8n consulting, workflow development and API integration"
+      url: "https://bayramdoekmeci.de/en/n8n/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business customers and agencies
+      description: "Process analysis, development and revision of n8n workflows, CRM integration, error handling and documented handover. Direct collaboration in German, remotely from Antalya."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/n8n/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Who is n8n consulting for?,Answer,"n8n consulting is exclusively for business customers and agencies in Germany, Austria and Switzerland. It suits teams that want to automate recurring tasks between CRM, marketing and operational systems. Your point of contact is Bayram Dökmeci from MeinB2B."
+        Question,Which business processes can be automated with n8n?,Answer,"Typical use cases include handing enquiries over to the CRM, data synchronisation, lead routing and recurring reporting. Suitable integrations, approved access and clear process rules are required. We assess which steps can usefully be automated using your specific process."
+        Question,Can you take over existing n8n workflows?,Answer,"Yes. First, I review the structure, integrations, access model and existing documentation. We then discuss which processes should remain, where errors occur and which changes make sense. The scope is agreed before implementation."
+        Question,Do you work with n8n Cloud or self-hosting?,Answer,"Either can be appropriate depending on the project. We clarify in advance which environment is already in place and who is responsible for operations, updates and access. Technical implementation follows your requirements and the available features of the chosen n8n environment."
+        Question,"What does a workflow cost, and how long does implementation take?",Answer,"That depends on integrations, data quality, the number of process steps and the tests required. After process discovery, you receive a defined scope with a quote and timetable. A pilot with a clear use case is often a useful starting point; there is no standard price or fixed duration."
+        Question,How does working with you as an n8n freelancer work?,Answer,"You work directly with me, Bayram Dökmeci, remotely from Antalya and in fluent German. We coordinate by video call, email or WhatsApp. We can also agree white-label collaboration for agencies; tasks, communication and handover are agreed beforehand."

@@ -1,0 +1,98 @@
+title: B2B Search Advertising & Google Ads Management | Bayram Dökmeci
+description: "B2B search advertising in DACH: Google Ads, Microsoft Ads and conversion tracking with Bayram Dökmeci. Directly in German, remote from Antalya. Let’s connect."
+url: "https://bayramdoekmeci.de/en/sea/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/sea/"
+  en: "https://bayramdoekmeci.de/en/sea/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[7]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Search advertising and B2B lead generation expert
+      knowsLanguage[2]: de,tr
+      knowsAbout[6]: SEA,Google Ads,Microsoft Advertising,Performance Marketing,B2B lead generation,Conversion tracking
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Customer support
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[2]: de,tr
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci
+      inLanguage[2]: de,en
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/sea/#page"
+      url: "https://bayramdoekmeci.de/en/sea/"
+      name: B2B Search Advertising & Google Ads Management | Bayram Dökmeci
+      description: "B2B search advertising in DACH: Google Ads, Microsoft Ads and conversion tracking with Bayram Dökmeci. Directly in German, remote from Antalya. Let’s connect."
+      inLanguage: en
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+      about:
+        "@id": "https://bayramdoekmeci.de/en/sea/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/sea/#breadcrumb"
+      mainEntity:
+        "@id": "https://bayramdoekmeci.de/en/sea/#service"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/sea/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,SEA & Performance Marketing,"https://bayramdoekmeci.de/en/sea/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/sea/#service"
+      name: B2B search advertising and Google Ads management
+      serviceType: Search advertising and performance marketing for business clients
+      url: "https://bayramdoekmeci.de/en/sea/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: "Business clients and agencies in Germany, Austria and Switzerland"
+      description: "Search advertising audits, Google Ads and Microsoft Ads, conversion tracking, campaign optimisation and reporting. Direct support from Bayram Dökmeci at MeinB2B, remote from Antalya and in German."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/sea/#faq"
+      inLanguage: en
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/en/sea/#page"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Who is your search advertising management suitable for?,Answer,"I work exclusively with business clients and agencies in Germany, Austria and Switzerland. This service suits businesses looking to generate targeted B2B enquiries through Google Ads or Microsoft Ads. We assess whether search ads make sense for your offering based on demand, target customers and your sales process."
+        Question,How does working together from Türkiye work?,Answer,"I work remotely from Antalya and communicate in fluent German. We agree contact hours, tasks and feedback dates at the outset. You can reach me directly by email, WhatsApp, telephone or a scheduled video call."
+        Question,"What advertising budget do I need, and what does management cost?",Answer,"A sensible advertising budget depends on competition, search demand, target region and the value of a qualified enquiry. After an initial review, we agree an appropriate test scope and management fees. Platform advertising spend and my fee are shown separately; I do not quote a blanket minimum without assessing the situation."
+        Question,Can you take over existing Google Ads accounts?,Answer,"Yes. I first review account structure, search terms, conversion objectives and available data. I then prioritise improvements and agree changes with you. Your business retains control of the advertising account; management uses agreed access rights."
+        Question,When can results be meaningfully assessed?,Answer,"After launch, we first check delivery, search terms and tracking. Reliable assessment of lead quality requires sufficient data and feedback from your sales team. The time needed depends on factors including search volume, budget and sales cycle; I do not guarantee fixed lead numbers or results."
+        Question,Do you also provide white-label support for agencies?,Answer,"Yes, I support agencies with audits, campaign setup, ongoing optimisation and reporting. Any white-label collaboration, communication, access and responsibilities are agreed for each project. This allows me to take on a defined task or an agreed part of campaign management."

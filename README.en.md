@@ -2,7 +2,7 @@
 
 The homepage is a service directory with 25 offerings, individual SVG icons and search. It works as static HTML even without JavaScript. Styles and interactions live in `assets/home.css` and `assets/home.js`; the existing subpages retain their own assets.
 
-Services, icon drawings and German homepage content are maintained in `scripts/build_home.py`. Run `python scripts/build_home.py` to generate both homepages, English subpages, Markdown counterparts, icons and URL inventories. Run `python scripts/validate_structured_data.py` to check structured data and `python scripts/validate_home.py` to check navigation, links, icons, language metadata and the sitemap. Start a local preview with `python -m http.server 5173 --bind 127.0.0.1`.
+Services, icon drawings and German homepage content are maintained in `scripts/build_home.py`. Run `python scripts/build_home.py` to generate both homepages, English subpages, Markdown counterparts, compact TOON files (Token-Oriented Object Notation for LLMs), icons and URL inventories. Run `python scripts/validate_structured_data.py` to check structured data, `python scripts/validate_home.py` to check navigation, links, icons, language metadata and the sitemap, and `npm run validate:toon` to verify lossless TOON serialization. Start a local preview with `python -m http.server 5173 --bind 127.0.0.1`.
 
 **Digital architect | B2B lead generation expert | Full-stack developer**
 

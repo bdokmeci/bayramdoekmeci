@@ -1,0 +1,79 @@
+title: German-speaking back office for SMEs | Bayram Dökmeci
+description: "German-speaking back-office services and customer support for SMEs and agencies in DACH. With Bayram Dökmeci: clear processes, maintained data and direct contact."
+url: "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/deutschsprachiges-back-office/"
+  en: "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: German-speaking back-office and support partner
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        contactType: customer service
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage: German
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/#page"
+      url: "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/"
+      name: German-speaking back office for SMEs | Bayram Dökmeci
+      description: "German-speaking back-office services and customer support for SMEs and agencies in Germany, Austria and Switzerland."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,German-speaking back office,"https://bayramdoekmeci.de/en/deutschsprachiges-back-office/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/#service"
+      name: German-speaking back-office services and customer support
+      serviceType: External back-office support for SMEs and agencies
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: "Business customers, SMEs and agencies"
+      description: "Operational customer support, email and ticket handling, CRM and data maintenance, and administrative coordination within the agreed scope. Remote from Antalya, with direct communication in German."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Which back-office tasks can you take on?,Answer,"I help with German-language customer enquiries, email and ticket handling, CRM maintenance, appointment coordination and following up on open matters. We define which tasks I handle independently and when your team makes the decision. Specialist approvals and binding commitments remain with the agreed owners."
+        Question,Who is this service for?,Answer,"This service is exclusively for business customers, small and medium-sized companies and agencies in Germany, Austria and Switzerland. It suits teams that want to delegate recurring operational tasks or structure their customer support. I do not serve private customers."
+        Question,How does working together from Türkiye work?,Answer,"I work remotely from Antalya and communicate fluently in German. We agree shared working hours, contact channels and response deadlines before starting. You work directly with me, Bayram Dökmeci from MeinB2B, without additional agency layers."
+        Question,Can you work with our CRM and ticketing system?,Answer,"We first review your existing systems, workflows and required access. I learn the agreed processes and document handling rules and handovers. Access permissions, data handling and any necessary agreements are clarified before we start working together."
+        Question,Do you offer telephone services or 24/7 support?,Answer,The focus is on written customer support and operational back-office work. Telephone tasks are included only by explicit agreement. Round-the-clock coverage or a standard response time is not automatically included.
+        Question,"What does the support cost, and how do we start?",Answer,"The price depends on tasks, scope, required systems and agreed working hours. We clarify your needs in a no-obligation initial consultation; you then receive an individual quote. We can start with a clearly defined pilot scope before expanding our work together."

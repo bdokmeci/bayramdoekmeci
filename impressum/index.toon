@@ -1,0 +1,27 @@
+title: Impressum | Bayram Dökmeci – MeinB2B
+description: "Impressum von MeinB2B, Bayram Dökmeci, Antalya: Anbieterkennzeichnung, Kontakt und rechtliche Hinweise."
+url: "https://bayramdoekmeci.de/impressum/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/impressum/"
+  en: "https://bayramdoekmeci.de/en/impressum/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[2]:
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/impressum/#page"
+      url: "https://bayramdoekmeci.de/impressum/"
+      name: Impressum
+      inLanguage: de
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+    - "@type": BreadcrumbList
+      itemListElement[2]:
+        - "@type": ListItem
+          position: 1
+          name: Startseite
+          item: "https://bayramdoekmeci.de/"
+        - "@type": ListItem
+          position: 2
+          name: Impressum

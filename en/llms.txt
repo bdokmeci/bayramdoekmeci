@@ -6,6 +6,7 @@
 
 - [Homepage: all digital services](https://bayramdoekmeci.de/en/): Overview of 25 services covering web and development, marketing and visibility, AI and data, design and business. Each service links to its own page.
 - [Service overview in Markdown](https://bayramdoekmeci.de/en/index.md): Text counterpart of the homepage with service descriptions, direct links and contact details.
+- [Service overview in TOON](https://bayramdoekmeci.de/en/index.toon): Compact Token-Oriented Object Notation (TOON) of the homepage and Schema.org graph for LLMs.
 - [German content guide](https://bayramdoekmeci.de/llms.txt): Original German version.
 
 ## Services

@@ -1,0 +1,85 @@
+title: Local SEO Specialist for DACH | Bayram Dökmeci
+description: "Local SEO specialist for businesses and agencies in DACH: Google Maps, Apple Maps and consistent location data. Directly with Bayram Dökmeci."
+url: "https://bayramdoekmeci.de/en/kartendienst/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/kartendienst/"
+  en: "https://bayramdoekmeci.de/en/kartendienst/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Local SEO specialist and B2B lead generation expert
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      knowsLanguage[1]: de
+      knowsAbout[6]: Local SEO,Local Listing Management,Citation Management,NAP consistency,Google Business Profile,Marketing Automation
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Business clients and agencies
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: de
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/kartendienst/#service"
+      name: Local SEO and map service management
+      serviceType: "Local SEO, local listing management and citation management"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      url: "https://bayramdoekmeci.de/en/kartendienst/"
+      description: "Management of business profiles, map services and location data. Profile maintenance, NAP consistency, review processes, multi-location support and evaluation for business clients and agencies in DACH."
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business clients and agencies
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/kartendienst/#webpage"
+      url: "https://bayramdoekmeci.de/en/kartendienst/"
+      name: Local SEO Specialist for DACH | Bayram Dökmeci
+      description: "Local SEO specialist for businesses and agencies in DACH: Google Maps, Apple Maps and consistent location data. Directly with Bayram Dökmeci."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/kartendienst/#service"
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/kartendienst/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/kartendienst/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Local SEO & Map Services,"https://bayramdoekmeci.de/en/kartendienst/"
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/kartendienst/#faq"
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/en/kartendienst/#webpage"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What does a local SEO specialist do?,Answer,"A local SEO specialist maintains business profiles, map services and local directory listings. Bayram Dökmeci from MeinB2B supports businesses and agencies in DACH with consistent location data, relevant profile content, review processes and the evaluation of available metrics."
+        Question,Which map services and directories do you manage?,Answer,"The scope can include Google Business Profile, Apple Maps through Apple Business Connect, Bing Places and relevant industry and regional directories. We agree which platforms make sense based on your industry, locations and existing profiles. Accounts and verifications must meet each platform’s requirements."
+        Question,When will changes and results be visible?,Answer,"Processing time depends on access, verifications, the number of locations and platform reviews. Data corrections may become visible sooner than changes in local search. After the initial review, we agree a realistic process; I cannot promise fixed rankings or a specific number of enquiries."
+        Question,Do you also work for agencies and across multiple locations?,Answer,"Yes. This service is exclusively for business clients and agencies in Germany, Austria and Switzerland. Master data, responsibilities and approvals can be organised centrally for multiple locations. Working behind the scenes for your agency is possible by agreement."
+        Question,"What does management cost, and what access do you need?",Answer,"Costs depend on the number of locations, data quality and desired scope. After the initial review, you receive an individual proposal for a project or ongoing management. For implementation, I need approved business data and suitable user roles in the relevant profiles; your accounts remain under your control."
+        Question,Does local SEO also help visibility in AI answers?,Answer,"Consistent business data, clear services and structured content create an information base that search systems can understand more easily. This can also be useful when preparing for AI-powered search, often called GEO. It does not guarantee a mention in AI answers or how often one appears."

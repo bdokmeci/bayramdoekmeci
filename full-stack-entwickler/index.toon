@@ -1,0 +1,89 @@
+title: Full-Stack-Entwickler Freelance für DACH | Bayram Dökmeci
+description: "Freelance Full-Stack-Entwickler (PHP, MySQL, JavaScript) für DACH-Unternehmen: fließend Deutsch, remote, direkte Zusammenarbeit ohne Agentur-Overhead."
+url: "https://bayramdoekmeci.de/full-stack-entwickler/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/full-stack-entwickler/"
+  en: "https://bayramdoekmeci.de/en/full-stack-entwickler/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[8]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Full-Stack-Entwickler (Freelance)
+      knowsLanguage[3]: de,tr,en
+      knowsAbout[7]: PHP,MySQL,JavaScript,REST-APIs,Linux-Server,CI/CD,Self-Hosting
+      email: "mailto:kontakt@bayramdoekmeci.de"
+      telephone: "+905078827795"
+      sameAs[1]: "https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: DE,AT,CH
+      contactPoint:
+        "@type": ContactPoint
+        contactType: sales
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[3]: de,en,tr
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/full-stack-entwickler/#page"
+      url: "https://bayramdoekmeci.de/full-stack-entwickler/"
+      name: Full-Stack-Entwickler Freelance für DACH
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/full-stack-entwickler/#crumbs"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/full-stack-entwickler/#crumbs"
+      itemListElement[2]:
+        - "@type": ListItem
+          position: 1
+          name: Startseite
+          item: "https://bayramdoekmeci.de/"
+        - "@type": ListItem
+          position: 2
+          name: Full-Stack-Entwickler
+    - "@type": Service
+      name: Frontend- und Backend-Entwicklung
+      serviceType: Webentwicklung
+      provider:
+        "@id": "https://bayramdoekmeci.de/#person"
+      areaServed[3]: DE,AT,CH
+      description: "Individuelle Web-Anwendungen mit PHP, MySQL, JavaScript und REST-APIs."
+    - "@type": Service
+      name: Web-Infrastruktur und Deployments
+      serviceType: Serveradministration
+      provider:
+        "@id": "https://bayramdoekmeci.de/#person"
+      areaServed[3]: DE,AT,CH
+      description: "Linux-Server-Setup, CI/CD-Pipelines, SSL, Sicherheit und Performance-Optimierung."
+    - "@type": Service
+      name: Self-Hosted-Umgebungen
+      serviceType: Installation und Wartung
+      provider:
+        "@id": "https://bayramdoekmeci.de/#person"
+      areaServed[3]: DE,AT,CH
+      description: "Installation, Konfiguration und Wartung von Self-Hosted-Lösungen wie Nextcloud, CRM, ERP und GitLab."
+    - "@type": FAQPage
+      mainEntity[5]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Wer ist Bayram Dökmeci und was bietet er an?,Answer,"Bayram Dökmeci ist freiberuflicher Full-Stack-Entwickler. Er entwickelt Web-Anwendungen mit PHP, MySQL und JavaScript, betreut Linux-Server und Deployments und richtet Self-Hosted-Lösungen ein. Er arbeitet remote aus der Türkei für Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz."
+        Question,Arbeitet ein Entwickler aus der Türkei auf Deutsch?,Answer,"Ja. Briefings, Abstimmungen und Dokumentation laufen auf Deutsch. Du sprichst direkt mit der Person, die den Code schreibt, ohne Übersetzer oder zwischengeschaltete Projektleitung."
+        Question,Welche Technologien setzt du ein?,Answer,"PHP und MySQL im Backend, JavaScript (ES6+), HTML und CSS im Frontend, REST-APIs, Git und CI/CD sowie Linux-Server mit Nginx und Docker."
+        Question,Kannst du bestehende Projekte übernehmen?,Answer,"Ja. Ich übernehme bestehende Web-Projekte, analysiere den Code und die Serverumgebung und entwickle sie weiter oder stabilisiere sie."
+        Question,Wie läuft die Zusammenarbeit ab?,Answer,"Nach einem kostenlosen Erstgespräch klären wir Ziel, Umfang und Zeitplan. Danach arbeite ich in kurzen Iterationen mit regelmäßigem Feedback. Die Kommunikation läuft per WhatsApp, E-Mail oder Videocall."

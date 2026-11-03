@@ -1,0 +1,75 @@
+title: International Sales Director for DACH | Bayram Dökmeci
+description: "International sales director for B2B businesses and agencies in DACH: market strategy, LinkedIn and sales management. Directly with Bayram Dökmeci. Book a meeting."
+url: "https://bayramdoekmeci.de/en/international-sales/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/international-sales/"
+  en: "https://bayramdoekmeci.de/en/international-sales/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B lead generation expert and external sales partner
+      knowsLanguage[1]: de
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/international-sales/#page"
+      url: "https://bayramdoekmeci.de/en/international-sales/"
+      name: International Sales Director for DACH | Bayram Dökmeci
+      description: "External support with market strategy, B2B customer acquisition and sales management for businesses and agencies in DACH."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/international-sales/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/international-sales/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/international-sales/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,International Sales,"https://bayramdoekmeci.de/en/international-sales/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/international-sales/#service"
+      name: International Sales Director for DACH
+      serviceType: External sales strategy and sales management
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business clients and agencies
+      description: "Project-based support with go-to-market strategy, account-based selling, LinkedIn, pipeline reviews, CRM and marketing automation. Tasks and leadership responsibilities are agreed individually."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/international-sales/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What does an international sales director do?,Answer,"An international sales director develops sales strategy across several markets and connects market priorities, target customer outreach and sales management. This includes go-to-market planning, account development, pipeline reviews and coordination between marketing and sales. My service focuses on these tasks for B2B businesses and agencies in DACH."
+        Question,Can we work together without a permanent sales position?,Answer,"Yes. You can involve me on a project basis or as an external extension of your team. We agree tasks, decision-making processes and scope in advance; formal line management is not automatically part of the collaboration."
+        Question,Which businesses and markets is this service for?,Answer,"I work exclusively with business clients and agencies in Germany, Austria and Switzerland. This service suits businesses looking to build DACH sales, enter a new market segment or structure existing sales processes."
+        Question,Do you also handle LinkedIn and marketing automation?,Answer,"Yes. Depending on the brief, I support target customer research, personal LinkedIn outreach, qualification and CRM-based processes. Automation can support internal assignment, reminders and handovers, for example; we agree outreach and responsibilities together."
+        Question,How does working together from Türkiye work?,Answer,"I work remotely from Antalya and communicate in fluent German. We agree objectives, availability and regular meetings to suit your team. You can reach me directly by email, telephone, WhatsApp or a booked video call."
+        Question,"What does working together cost, and when can results be expected?",Answer,"Fees depend on the tasks, scope and starting point. After the initial conversation, we agree services and timeline before implementation begins. A pilot may run over several weeks depending on the project; specific leads, revenue or closed deals are not guaranteed."

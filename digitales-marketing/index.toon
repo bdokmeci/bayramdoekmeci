@@ -1,0 +1,85 @@
+title: "Digitales Marketing, Growth & MarTech | Bayram Dökmeci"
+description: "Digitales Marketing für B2B und Agenturen in DACH: Performance, Leadgenerierung und MarTech mit Bayram Dökmeci. Direkt, remote und auf Deutsch."
+url: "https://bayramdoekmeci.de/digitales-marketing/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/digitales-marketing/"
+  en: "https://bayramdoekmeci.de/en/digitales-marketing/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digitaler Architekt und B2B-Lead-Gen-Experte
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      knowsLanguage[1]: de
+      knowsAbout[6]: Digitales Marketing,B2B-Leadgenerierung,Performance Marketing,Marketing Automation,MarTech,Technisches SEO
+      email: kontakt@bayramdoekmeci.de
+      telephone: "+905078827795"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      description: "Digitales Marketing, B2B-Growth und MarTech für Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz."
+      email: kontakt@bayramdoekmeci.de
+      telephone: "+905078827795"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/digitales-marketing/#page"
+      url: "https://bayramdoekmeci.de/digitales-marketing/"
+      name: "Digitales Marketing, Growth & MarTech | Bayram Dökmeci"
+      description: "Digitales Marketing für B2B und Agenturen in DACH: Performance, Leadgenerierung und MarTech mit Bayram Dökmeci. Direkt, remote und auf Deutsch."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/digitales-marketing/#service"
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/digitales-marketing/#breadcrumbs"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/digitales-marketing/#breadcrumbs"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Digitales Marketing,"https://bayramdoekmeci.de/digitales-marketing/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/digitales-marketing/#service"
+      name: "Digitales Marketing, Growth & MarTech"
+      serviceType: B2B-Marketing und Marketing Automation
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      url: "https://bayramdoekmeci.de/digitales-marketing/"
+      description: "Strategie, Performance-Kampagnen, B2B-Leadgenerierung, CRM-Workflows und technisches SEO. Remote aus Antalya, mit direkter deutschsprachiger Zusammenarbeit."
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: B2B-Unternehmen und Agenturen
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/digitales-marketing/#faq-schema"
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/digitales-marketing/#page"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,"Was umfasst Digitales Marketing, Growth & MarTech?",Answer,"Das Angebot verbindet Marketingstrategie, Performance-Kampagnen, B2B-Leadgenerierung, Marketing Automation und technisches SEO. Bayram Dökmeci plant mit MeinB2B sowohl die Ansprache als auch die Übergabe einer Anfrage an CRM und Vertrieb. Der konkrete Leistungsumfang richtet sich nach deinem Ziel und den vorhandenen Systemen."
+        Question,Für welche Unternehmen ist das Angebot geeignet?,Answer,"Das Angebot richtet sich ausschließlich an Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Es passt besonders zu B2B-Unternehmen mit erklärungsbedürftigen Leistungen und zu Agenturen, die Unterstützung bei Kampagnen oder MarTech benötigen. Privatkunden gehören nicht zur Zielgruppe."
+        Question,Kannst du bestehende Kampagnen und CRM-Systeme übernehmen?,Answer,"Ja. Zuerst prüfe ich Kampagnen, Datenqualität, Systemzugänge und bestehende Übergaben. Anschließend vereinbaren wir, welche Komponenten weitergenutzt, verbessert oder ergänzt werden. Ein kompletter Wechsel des Marketing-Stacks ist nicht automatisch erforderlich."
+        Question,Wie misst du den Erfolg und garantierst du Leads?,Answer,"Wir definieren vorab passende Kennzahlen, etwa qualifizierte Anfragen, vereinbarte Gespräche und Kosten pro qualifiziertem Lead. Dafür stimmen wir auch ab, was dein Vertrieb als qualifiziert bewertet und welche Daten verfügbar sind. Eine feste Anzahl an Leads oder ein bestimmter Umsatz wird nicht garantiert; Ergebnisse hängen unter anderem von Angebot, Markt, Budget und Vertriebsprozess ab."
+        Question,Wie funktioniert die Zusammenarbeit aus der Türkei?,Answer,"Bayram Dökmeci arbeitet mit MeinB2B remote aus Antalya und kommuniziert fließend auf Deutsch. Ziele, Zuständigkeiten und Feedbacktermine stimmen wir zu Beginn ab. Du sprichst direkt mit der Person, die Strategie und Umsetzung betreut, per Videogespräch, E-Mail oder WhatsApp."
+        Question,Was kostet die Zusammenarbeit und wie starten wir?,Answer,"Die Kosten richten sich nach Ausgangslage, Kanälen und technischem Umfang; Werbebudgets und externe Softwarekosten werden gesondert abgestimmt. Im unverbindlichen Erstgespräch klären wir dein Ziel und den nächsten sinnvollen Schritt. Danach erhältst du einen abgestimmten Leistungsumfang, einen Zeitplan und ein individuelles Angebot."

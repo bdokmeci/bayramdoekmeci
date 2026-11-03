@@ -1,0 +1,80 @@
+title: KI-Automatisierung für Unternehmen | Bayram Dökmeci
+description: "KI-Automatisierung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt KI-Workflows für Anfragen, CRM und Marketing. Direkt auf Deutsch."
+url: "https://bayramdoekmeci.de/ki/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/ki/"
+  en: "https://bayramdoekmeci.de/en/ki/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: KI- und Prozessautomatisierung für B2B
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      knowsLanguage[1]: de
+      knowsAbout[5]: KI-Automatisierung,KI-Workflows,B2B-Leadgenerierung,Marketing Automation,API-Integration
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      email: kontakt@bayramdoekmeci.de
+      telephone: "+905078827795"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/ki/#page"
+      url: "https://bayramdoekmeci.de/ki/"
+      name: KI-Automatisierung für Unternehmen | Bayram Dökmeci
+      description: "KI-Automatisierung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt KI-Workflows für Anfragen, CRM und Marketing. Direkt auf Deutsch."
+      inLanguage: de
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      about:
+        "@id": "https://bayramdoekmeci.de/ki/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/ki/#breadcrumbs"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/ki/#breadcrumbs"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,KI-Automatisierung,"https://bayramdoekmeci.de/ki/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/ki/#service"
+      name: KI-Automatisierung für Unternehmen
+      serviceType: KI-Workflows und Prozessautomatisierung für B2B
+      url: "https://bayramdoekmeci.de/ki/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen in DACH
+      description: "Prozessanalyse, KI-gestützte Strukturierung von Anfragen, Antwort- und Content-Entwürfe sowie kontrollierte CRM-Übergabe. Mit Prüfregeln, menschlichen Freigaben, Testfällen und Dokumentation."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/ki/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Was ist KI-Automatisierung für Unternehmen?,Answer,"KI-Automatisierung verbindet die Verarbeitung von Texten oder Wissen mit festen Prozessregeln und bestehenden Systemen. Bayram Dökmeci von MeinB2B entwickelt dafür KI-Workflows, etwa für die Strukturierung von B2B-Anfragen, Antwortentwürfe und die kontrollierte CRM-Übergabe. Das Angebot richtet sich ausschließlich an Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz."
+        Question,Welche Prozesse eignen sich für einen ersten KI-Workflow?,Answer,"Ein guter Einstieg ist ein wiederkehrender, klar abgegrenzter Ablauf mit verfügbaren Daten und überprüfbaren Ergebnissen. Typische Beispiele sind das Kategorisieren von Anfragen, das Extrahieren von Informationen und das Vorbereiten von Antworten. Im Erstgespräch klären wir, ob KI einen sinnvollen Beitrag leistet oder eine feste Automatisierungsregel ausreicht."
+        Question,Kannst du unsere bestehenden Tools anbinden?,Answer,"Ja, die Anbindung bestehender CRM-, Marketing- und Wissenssysteme gehört zum möglichen Leistungsumfang. Wir prüfen zuerst verfügbare Schnittstellen, Berechtigungen und die Qualität der Ausgangsdaten. Welche Systeme und KI-Modelle tatsächlich eingesetzt werden, legen wir nach dieser Prüfung fest."
+        Question,Was passiert mit sensiblen Daten und fehlerhaften Antworten?,Answer,"Vor der Umsetzung stimmen wir ab, welche Daten verarbeitet werden dürfen, wer Zugriff erhält und welcher Anbieter eingesetzt wird. KI-Ergebnisse können falsch oder unvollständig sein; deshalb planen wir Prüfregeln, Rückfragewege und bei relevanten Schritten menschliche Freigaben ein. Anforderungen an Speicherung und Löschung werden projektspezifisch festgelegt."
+        Question,Was kostet die Umsetzung und wie lange dauert sie?,Answer,"Kosten und Dauer hängen von Datenqualität, Schnittstellen, Freigaben und dem Umfang des Workflows ab. Nach einer ersten Prozessaufnahme erhältst du einen abgegrenzten Vorschlag mit Leistungsumfang, Zeitplan und Angebot. Laufende Modell-, Tool- und Betreuungskosten werden separat berücksichtigt."
+        Question,Wie funktioniert die Zusammenarbeit mit dir?,Answer,"Du arbeitest direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und fließend auf Deutsch. Wir vereinbaren Ziele, Ansprechpartner und Abstimmungstermine passend zu deinem Team in DACH. Agenturen können mich projektbezogen in ihre Umsetzung einbinden; Rollen und eine mögliche White-Label-Zusammenarbeit stimmen wir individuell ab."

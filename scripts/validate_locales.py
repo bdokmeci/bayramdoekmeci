@@ -56,6 +56,7 @@ def main():
     if len(german) != 28: errors.append(f'Expected 28 German pages, got {len(german)}')
     if len(list(ROOT.glob('**/index.html'))) != 56: errors.append('Expected exactly 56 HTML pages')
     if len(list(ROOT.glob('**/index.md'))) != 56: errors.append('Expected exactly 56 Markdown counterparts')
+    if len(list(ROOT.glob('**/index.toon'))) != 56: errors.append('Expected exactly 56 TOON counterparts')
     parsed = {}
     for path in all_paths:
         if not path.exists():
@@ -119,6 +120,11 @@ def main():
                 if not target.is_file(): fail('Broken Markdown link: ' + href)
                 elif dest.fragment and target in parsed and unquote(dest.fragment) not in parsed[target].ids: fail('Broken Markdown anchor: ' + href)
                 if english and target.suffix in ('.html', '.md') and not dest.path.startswith('/en/'): fail('English Markdown returns to German: ' + href)
+        toon = path.with_suffix('.toon')
+        if not toon.exists(): fail('Missing TOON counterpart')
+        else:
+            toon_text = toon.read_text(encoding='utf-8')
+            if f'url: "{url}"' not in toon_text and f'url: {url}' not in toon_text: fail('TOON URL differs from canonical')
         for graph in page.blocks:
             for node in graph.get('@graph', [graph]):
                 if node.get('@type') in ('WebPage', 'CollectionPage') and str(node.get('inLanguage', '')).split('-')[0] != lang:

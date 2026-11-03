@@ -1,0 +1,78 @@
+title: Data Engineering & KI für B2B | Bayram Dökmeci
+description: "Data Engineering für B2B in DACH: Datenpipelines, Datenqualität und KI-fähige Wissensbasis. Direkt mit Bayram Dökmeci. Auf Deutsch, remote aus Antalya."
+url: "https://bayramdoekmeci.de/data-engineering/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/data-engineering/"
+  en: "https://bayramdoekmeci.de/en/data-engineering/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      knowsAbout[4]: Data Engineering,Datenintegration,Datenqualität,Retrieval-Augmented Generation
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Projektanfragen
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage: de
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/data-engineering/#service"
+      name: Data Engineering & KI-Datenbasis für B2B
+      serviceType: Data Engineering und Datenaufbereitung für KI
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen
+      description: "Konzeption und Umsetzung von Datenpipelines, Datenmodellen und Qualitätsprüfungen sowie Aufbereitung einer Wissensbasis für Retrieval-Augmented Generation. Direkte Zusammenarbeit auf Deutsch, remote aus Antalya."
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/data-engineering/#page"
+      url: "https://bayramdoekmeci.de/data-engineering/"
+      name: Data Engineering & KI für B2B | Bayram Dökmeci
+      description: "Data Engineering für B2B in DACH: Datenpipelines, Datenqualität und KI-fähige Wissensbasis."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/data-engineering/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/data-engineering/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/data-engineering/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Data Engineering,"https://bayramdoekmeci.de/data-engineering/"
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/data-engineering/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Was macht Data Engineering für mein Unternehmen?,Answer,"Data Engineering verbindet Datenquellen und macht Daten wiederholbar nutzbar. Dazu gehören Schnittstellen, Datenpipelines, einheitliche Datenmodelle und Qualitätsprüfungen. So erhalten Reporting, Automatisierungen und KI-Anwendungen eine nachvollziehbare Datengrundlage."
+        Question,Brauchen wir schon eine Datenplattform oder ein KI-Modell?,Answer,"Nein. Wir beginnen mit deinem Anwendungsfall, den vorhandenen Systemen und einer Bestandsaufnahme der Daten. Daraus leiten wir ab, ob eine schlanke Integration genügt oder ein Data Warehouse, ein Suchindex oder weitere Infrastruktur sinnvoll ist."
+        Question,Was ist der Unterschied zu Data Science und Machine Learning Engineering?,Answer,"Data Engineering kümmert sich um Datenflüsse, Strukturen und Qualität. Data Science untersucht Daten und entwickelt analytische Modelle; Machine Learning Engineering bringt Modelle in einen betreibbaren technischen Ablauf. Diese Seite konzentriert sich auf die Datenbasis und die Integration für solche Anwendungen."
+        Question,Wie werden Unternehmensdaten für Generative KI nutzbar?,Answer,"Für eine Wissenssuche mit Retrieval-Augmented Generation (RAG) werden geeignete Dokumente aufbereitet, in sinnvolle Abschnitte geteilt und mit Quelleninformationen indexiert. Eine Anwendung ruft passende Inhalte ab und gibt sie dem Sprachmodell als Kontext. Zugriffsregeln, Aktualisierung und die Qualität der Antworten müssen dabei gezielt geprüft werden."
+        Question,Wie funktioniert die Zusammenarbeit für Unternehmen und Agenturen in DACH?,Answer,"Bayram Dökmeci von MeinB2B arbeitet remote aus Antalya und kommuniziert fließend auf Deutsch. Das Angebot richtet sich ausschließlich an Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Wir vereinbaren Aufgaben, Ansprechpartner, Zugänge und Feedbacktermine direkt; eine White-Label-Zusammenarbeit ist nach Abstimmung möglich."
+        Question,Wie lange dauert ein Projekt und was kostet es?,Answer,"Das hängt von Datenquellen, Schnittstellen, Datenqualität und Betriebsanforderungen ab. Wir grenzen zuerst einen Pilot mit klaren Abnahmekriterien ein. Nach der Bestandsaufnahme erhältst du einen abgestimmten Leistungsumfang, Zeitplan und ein individuelles Angebot; laufende Betreuung wird separat vereinbart."

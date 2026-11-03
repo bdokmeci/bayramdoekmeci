@@ -1,0 +1,82 @@
+title: Custom web app development for B2B | Bayram Dökmeci
+description: "Custom web app development: internal tools, bespoke software and customer portals for B2B in DACH. Directly with Bayram Dökmeci. In German."
+url: "https://bayramdoekmeci.de/en/web-app/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/web-app/"
+  en: "https://bayramdoekmeci.de/en/web-app/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: German-speaking web app developer
+      knowsLanguage[2]: de,tr
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: DE,AT,CH
+      contactPoint:
+        "@type": ContactPoint
+        contactType: sales
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: de
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/web-app/#page"
+      url: "https://bayramdoekmeci.de/en/web-app/"
+      name: Custom web app development for B2B | Bayram Dökmeci
+      description: "Bespoke web apps, internal tools and customer portals for companies and agencies in DACH."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/web-app/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/web-app/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/web-app/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Web app development,"https://bayramdoekmeci.de/en/web-app/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/web-app/#service"
+      name: Bespoke web app development
+      serviceType: "Develop web apps, internal software and customer portals"
+      url: "https://bayramdoekmeci.de/en/web-app/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business customers and agencies
+      description: "Process analysis, design, frontend and backend development, roles and permissions, integrations, testing and agreed handover of bespoke B2B web apps. Direct collaboration in German."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/web-app/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,When is custom web app development worthwhile?,Answer,"A bespoke web app can make sense when recurring workflows, particular business rules or several data sources are difficult to handle with existing tools. We first assess the specific need and possible standard solutions. The first version should fully support a clearly defined process for your users."
+        Question,Can you develop an internal tool or a customer portal?,Answer,"Yes. I develop internal software for data entry, processing and approvals, as well as customer portals for projects, files and feedback. We define roles, permissions and integrations to suit your company. The service is exclusively for business customers and agencies in DACH."
+        Question,"What does a web app cost, and how long does development take?",Answer,"Cost and duration depend on features, data migration, integrations and testing effort. After the assessment, you receive a concrete proposal for scope, milestones and budget. A defined MVP offers a manageable starting point; we agree a binding timetable for your project."
+        Question,Can the web app connect to our CRM?,Answer,"This is possible if your CRM provides a suitable interface or a usable import and export route. I check data fields, permissions, technical limits and the direction of data exchange. Error handling and responsibilities for data maintenance are part of the plan."
+        Question,How does working together in German work?,Answer,"You work directly with Bayram Dökmeci from MeinB2B, remotely from Antalya in Türkiye. Briefs, coordination and documentation are in German. We agree availability and feedback meetings for working with your team in Germany, Austria or Switzerland."
+        Question,"Who takes responsibility for source code, hosting and maintenance?",Answer,"Source-code handover, access, usage rights and documentation are defined in the project proposal. For hosting, updates, backups and ongoing support, we agree clear responsibilities and an appropriate scope. Maintenance is included only when it is explicitly part of our agreement."

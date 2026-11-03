@@ -1,0 +1,73 @@
+title: B2B-Webentwicklung & digitale Systeme | Bayram Dökmeci
+description: "B2B-Webentwicklung für Unternehmen und Agenturen in DACH. Bayram Dökmeci entwickelt Websites, CMS und digitale Systeme. Direkt, remote, auf Deutsch."
+url: "https://bayramdoekmeci.de/webentwicklung/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/webentwicklung/"
+  en: "https://bayramdoekmeci.de/en/webentwicklung/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digitaler Architekt und Full-Stack-Entwickler
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci
+      inLanguage: de
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/webentwicklung/#page"
+      url: "https://bayramdoekmeci.de/webentwicklung/"
+      name: B2B-Webentwicklung & digitale Systeme | Bayram Dökmeci
+      inLanguage: de
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+      about:
+        "@id": "https://bayramdoekmeci.de/webentwicklung/#b2b-development"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/webentwicklung/#b2b-development"
+      name: B2B-Webentwicklung und digitale Systeme
+      serviceType: Webentwicklung für Geschäftskunden und Agenturen
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen
+      description: "Konzeption und Entwicklung individueller Websites, CMS, Web-Anwendungen und technischer Infrastruktur. Remote aus Antalya, mit direkter Kommunikation auf Deutsch."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/webentwicklung/#faq"
+      mainEntity[5]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Für wen ist die Zusammenarbeit gedacht?,Answer,"Ich arbeite ausschließlich mit Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit passt zu Unternehmen, die eine individuelle Website, ein CMS oder ein digitales System entwickeln oder verbessern möchten."
+        Question,Wie funktioniert die Zusammenarbeit aus der Türkei?,Answer,"Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Wir stimmen Ziele, Erreichbarkeit und Feedbacktermine zu Beginn ab. Du sprichst direkt mit dem Entwickler, per E-Mail, WhatsApp oder Videogespräch."
+        Question,Kannst du bestehende Websites und Systeme übernehmen?,Answer,"Ja. Zuerst prüfe ich Code, CMS, Hosting und vorhandene Schnittstellen. Danach erhältst du eine nachvollziehbare Einschätzung, ob gezielte Verbesserungen oder ein Neuaufbau sinnvoller sind."
+        Question,Unterstützt du Agenturen auch als technischer Partner?,Answer,"Ja. Ich unterstütze Agenturen bei der technischen Umsetzung, bei komplexen Funktionen und bei Engpässen im Entwicklungsteam. Aufgaben, Kommunikation und eine mögliche White-Label-Zusammenarbeit vereinbaren wir projektspezifisch."
+        Question,Was kostet ein Projekt und wie starten wir?,Answer,"Die Kosten hängen von Umfang, technischen Anforderungen und Ausgangslage ab. In einem unverbindlichen Erstgespräch klären wir dein Ziel und den nächsten sinnvollen Schritt. Anschließend stimmen wir Leistungsumfang, Zeitplan und Angebot ab, bevor die Umsetzung beginnt."

@@ -1,0 +1,90 @@
+title: Shopware maintenance & QA for B2B | Bayram Dökmeci
+description: "Shopware maintenance & QA for companies and agencies in DACH. Testing, updates and Shopify support with Bayram Dökmeci. Direct and in German."
+url: "https://bayramdoekmeci.de/en/shopware/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/shopware/"
+  en: "https://bayramdoekmeci.de/en/shopware/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      knowsLanguage[1]: de
+      knowsAbout[3]: Shopware maintenance,Shopify support,Software quality assurance
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Customer care
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: de
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/shopware/#webpage"
+      url: "https://bayramdoekmeci.de/en/shopware/"
+      name: Shopware maintenance & QA for B2B | Bayram Dökmeci
+      description: "Shopware maintenance, QA testing and Shopify support for business customers and agencies in DACH."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/shopware/#service"
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/shopware/#breadcrumb"
+      mainEntity:
+        "@id": "https://bayramdoekmeci.de/en/shopware/#service"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/shopware/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Shopware & Shopify,"https://bayramdoekmeci.de/en/shopware/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/shopware/#service"
+      name: "Shopware maintenance, QA testing and Shopify support"
+      serviceType: E-commerce maintenance and software quality assurance
+      url: "https://bayramdoekmeci.de/en/shopware/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business customers and agencies
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      description: "Manual and automated tests, agreed Shopware updates and backups, and theme, app and purchase-process checks for Shopify. Scope, support and response times are agreed individually."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/shopware/#faq"
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/en/shopware/#webpage"
+      inLanguage: en
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What does Shopware maintenance include?,Answer,"Depending on the agreed scope, I handle core, plugin and theme updates, backups, recovery checks, and security and performance checks. Wherever possible, changes are checked in a test environment and documented in a test report. We clarify the hosting model, access and approvals before starting."
+        Question,How does Shopify differ from Shopware?,Answer,"For Shopify, the focus is on themes, apps, product data and the available purchasing processes. Unlike self-hosted Shopware, my support does not include server or core updates. Theme copies and data exports are agreed as needed; they do not replace a complete backup of all shop and app data."
+        Question,Do you also work for agencies on a white-label basis?,Answer,"Yes. I support agencies as an external QA and maintenance partner, with white-label arrangements available. We tailor communication, documentation, access permissions and responsibilities to your team and the individual client project."
+        Question,How much does ongoing support cost?,Answer,"The monthly fixed price depends on the shop system, extensions, testing scope and agreed response times. After an assessment, you receive an individual quote with clear services and limits. Additional work is agreed separately before implementation."
+        Question,Are there fixed response times or 24/7 support?,Answer,"Support hours, priorities and response times are recorded individually in the B2B service-level agreement. 24/7 availability is not automatically included. Maintenance windows and the process for critical faults are also agreed in advance."
+        Question,How do we start working together?,Answer,"In the first conversation, we discuss your shop, current challenges and the support you need. This is followed by an assessment, scope definition and agreement on the necessary access. We work remotely in German, exclusively with business customers in Germany, Austria and Switzerland."

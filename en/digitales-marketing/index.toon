@@ -1,0 +1,85 @@
+title: "Digital Marketing, Growth & MarTech | Bayram Dökmeci"
+description: "Digital marketing for B2B businesses and agencies in DACH: performance, lead generation and MarTech with Bayram Dökmeci. Direct, remote and in German."
+url: "https://bayramdoekmeci.de/en/digitales-marketing/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/digitales-marketing/"
+  en: "https://bayramdoekmeci.de/en/digitales-marketing/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digital architect and B2B lead generation expert
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      knowsLanguage[1]: de
+      knowsAbout[6]: Digital Marketing,B2B lead generation,Performance Marketing,Marketing Automation,MarTech,Technical SEO
+      email: kontakt@bayramdoekmeci.de
+      telephone: "+905078827795"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      description: "Digital marketing, B2B growth and MarTech for business clients and agencies in Germany, Austria and Switzerland."
+      email: kontakt@bayramdoekmeci.de
+      telephone: "+905078827795"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/digitales-marketing/#page"
+      url: "https://bayramdoekmeci.de/en/digitales-marketing/"
+      name: "Digital Marketing, Growth & MarTech | Bayram Dökmeci"
+      description: "Digital marketing for B2B businesses and agencies in DACH: performance, lead generation and MarTech with Bayram Dökmeci. Direct, remote and in German."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/digitales-marketing/#service"
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/digitales-marketing/#breadcrumbs"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/digitales-marketing/#breadcrumbs"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Digital Marketing,"https://bayramdoekmeci.de/en/digitales-marketing/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/digitales-marketing/#service"
+      name: "Digital Marketing, Growth & MarTech"
+      serviceType: B2B marketing and marketing automation
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      url: "https://bayramdoekmeci.de/en/digitales-marketing/"
+      description: "Strategy, performance campaigns, B2B lead generation, CRM workflows and technical SEO. Remote from Antalya, with direct collaboration in German."
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: B2B businesses and agencies
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/digitales-marketing/#faq-schema"
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/en/digitales-marketing/#page"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,"What does Digital Marketing, Growth & MarTech cover?",Answer,"The service combines marketing strategy, performance campaigns, B2B lead generation, marketing automation and technical SEO. Through MeinB2B, Bayram Dökmeci plans both outreach and the handover of enquiries to CRM and sales. The specific scope depends on your objectives and existing systems."
+        Question,Which businesses is this service suitable for?,Answer,"This service is exclusively for business clients and agencies in Germany, Austria and Switzerland. It is particularly suited to B2B businesses with services that need explaining and agencies requiring campaign or MarTech support. Private customers are not the target audience."
+        Question,Can you take over existing campaigns and CRM systems?,Answer,"Yes. I first review campaigns, data quality, system access and existing handovers. We then agree which components to retain, improve or add. A complete change of marketing stack is not automatically necessary."
+        Question,"How do you measure success, and do you guarantee leads?",Answer,"We agree suitable metrics in advance, such as qualified enquiries, booked conversations and cost per qualified lead. We also agree what your sales team considers qualified and which data is available. No fixed number of leads or particular revenue is guaranteed; results depend on factors including your offer, market, budget and sales process."
+        Question,How does working together from Türkiye work?,Answer,"Through MeinB2B, Bayram Dökmeci works remotely from Antalya and communicates in fluent German. We agree objectives, responsibilities and feedback dates at the outset. You speak directly to the person responsible for strategy and delivery, by video call, email or WhatsApp."
+        Question,"What does working together cost, and how do we start?",Answer,"Costs depend on the starting point, channels and technical scope; advertising budgets and external software costs are agreed separately. During a no-obligation initial consultation, we discuss your objective and the next sensible step. You then receive an agreed scope of work, a timeline and an individual proposal."

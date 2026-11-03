@@ -1,0 +1,70 @@
+title: Video Production & Motion Graphics | Bayram Dökmeci
+description: "Video production & motion graphics for DACH agencies: social cuts, 3D animation and advertising videos. White-label work with Bayram Dökmeci. Discuss your project today."
+url: "https://bayramdoekmeci.de/en/videoproduktion/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/videoproduktion/"
+  en: "https://bayramdoekmeci.de/en/videoproduktion/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Germany,Austria,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/videoproduktion/#page"
+      url: "https://bayramdoekmeci.de/en/videoproduktion/"
+      name: Video Production & Motion Graphics | Bayram Dökmeci
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/videoproduktion/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/videoproduktion/#breadcrumb"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/videoproduktion/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Video production,"https://bayramdoekmeci.de/en/videoproduktion/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/videoproduktion/#service"
+      name: Video production & motion graphics for DACH agencies
+      serviceType: White-label video production and post-production
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business clients and agencies in DACH
+      description: "Social media video editing, motion graphics, 3D product animations, VFX and advertising videos. Remote and in German, on a project basis or as a monthly collaboration with an agreed scope of services."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/videoproduktion/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Which video production services do you provide?,Answer,"I support social media video editing, motion graphics, 3D product animations, VFX and advertising videos. The focus is on digital production and post-production using existing material or agreed design and 3D assets. On-location filming is not part of the service described here."
+        Question,How does white-label collaboration work?,Answer,"Your agency remains the contact for the end client. I handle the agreed production behind the scenes and deliver under your branding. We agree communication channels, confidentiality, file formats and usage rights before starting."
+        Question,What does “unlimited requests” mean in the subscription?,Answer,"You can add as many suitable tasks as you like to the shared queue. Work is completed sequentially within the agreed capacity; unlimited requests do not mean unlimited simultaneous production. Monthly pricing, revisions, term and cancellation are defined in the quotation. Complex 3D and VFX tasks are assessed for scope in advance."
+        Question,"How quickly can a video be finished, and what do you need?",Answer,"To start, I need the objective, channel, brand guidelines and available raw footage or product data. A simple social cut can be produced within a few working days, depending on material and workload; complex animations take longer. We agree a firm schedule and feedback rounds before production begins."
+        Question,"Who is the service for, and how do we communicate?",Answer,"The service is exclusively for business clients and agencies in Germany, Austria and Switzerland. You work directly with Bayram Dökmeci of MeinB2B, remotely from Antalya in Türkiye and in fluent German. We coordinate by video meeting, email or WhatsApp."
+        Question,What does video production cost?,Answer,"Costs depend on the material, video length, variations and animation effort. For individual projects, we agree a clearly defined scope; for ongoing needs, a monthly package with defined capacity. You receive an individual quotation after the initial conversation."

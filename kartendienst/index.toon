@@ -1,0 +1,85 @@
+title: Local-SEO-Spezialist für DACH | Bayram Dökmeci
+description: "Local-SEO-Spezialist für Unternehmen und Agenturen in DACH: Google Maps, Apple Maps und konsistente Standortdaten. Direkt mit Bayram Dökmeci."
+url: "https://bayramdoekmeci.de/kartendienst/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/kartendienst/"
+  en: "https://bayramdoekmeci.de/en/kartendienst/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Local-SEO-Spezialist und B2B-Lead-Gen-Experte
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      knowsLanguage[1]: de
+      knowsAbout[6]: Local SEO,Local Listing Management,Citation Management,NAP-Konsistenz,Google Business Profile,Marketing Automation
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Geschäftskunden und Agenturen
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: de
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/kartendienst/#service"
+      name: Local SEO und Kartendienst-Betreuung
+      serviceType: "Local SEO, Local Listing Management und Citation Management"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      url: "https://bayramdoekmeci.de/kartendienst/"
+      description: "Betreuung von Unternehmensprofilen, Kartendiensten und Standortdaten. Profilpflege, NAP-Konsistenz, Bewertungsprozesse, Multi-Standort-Betreuung und Auswertung für Geschäftskunden und Agenturen in DACH."
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/kartendienst/#webpage"
+      url: "https://bayramdoekmeci.de/kartendienst/"
+      name: Local-SEO-Spezialist für DACH | Bayram Dökmeci
+      description: "Local-SEO-Spezialist für Unternehmen und Agenturen in DACH: Google Maps, Apple Maps und konsistente Standortdaten. Direkt mit Bayram Dökmeci."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/kartendienst/#service"
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/kartendienst/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/kartendienst/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Local SEO & Kartendienste,"https://bayramdoekmeci.de/kartendienst/"
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/kartendienst/#faq"
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/kartendienst/#webpage"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Was macht ein Local-SEO-Spezialist?,Answer,"Ein Local-SEO-Spezialist pflegt Unternehmensprofile, Kartendienste und lokale Verzeichniseinträge. Bayram Dökmeci von MeinB2B unterstützt Unternehmen und Agenturen in DACH bei konsistenten Standortdaten, passenden Profilinhalten, Bewertungsprozessen und der Auswertung verfügbarer Kennzahlen."
+        Question,Welche Kartendienste und Verzeichnisse betreust du?,Answer,"Zum Leistungsumfang können Google Business Profile, Apple Maps über Apple Business Connect, Bing Places sowie relevante Branchen- und Regionalverzeichnisse gehören. Welche Plattformen sinnvoll sind, stimmen wir anhand deiner Branche, Standorte und vorhandenen Profile ab. Konten und Verifizierungen müssen die jeweiligen Plattformanforderungen erfüllen."
+        Question,Wann sind Änderungen und Ergebnisse sichtbar?,Answer,"Die Bearbeitungszeit hängt von Zugängen, Verifizierungen, Standortanzahl und Plattformprüfungen ab. Datenkorrekturen können früher sichtbar sein als Veränderungen in der lokalen Suche. Nach der Bestandsaufnahme vereinbaren wir einen realistischen Ablauf; feste Rankings oder eine bestimmte Anzahl an Anfragen kann ich nicht zusagen."
+        Question,Arbeitest du auch für Agenturen und mehrere Standorte?,Answer,"Ja, das Angebot richtet sich ausschließlich an Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Für mehrere Standorte lassen sich Stammdaten, Zuständigkeiten und Freigaben zentral organisieren. Eine Zusammenarbeit im Hintergrund deiner Agentur ist nach Abstimmung möglich."
+        Question,Was kostet die Betreuung und welche Zugänge brauchst du?,Answer,"Die Kosten richten sich nach Standortanzahl, Datenqualität und gewünschtem Leistungsumfang. Nach der Bestandsaufnahme erhältst du ein individuelles Angebot für ein Projekt oder laufende Betreuung. Für die Umsetzung benötige ich freigegebene Unternehmensdaten und passende Nutzerrollen in den betroffenen Profilen; deine Konten bleiben unter deiner Kontrolle."
+        Question,Hilft Local SEO auch bei der Sichtbarkeit in KI-Antworten?,Answer,"Konsistente Unternehmensdaten, klare Leistungen und strukturierte Inhalte schaffen eine besser verständliche Informationsbasis für Suchsysteme. Das kann auch bei der Aufbereitung für KI-gestützte Suche, häufig GEO genannt, sinnvoll sein. Eine Nennung in KI-Antworten oder deren Häufigkeit lässt sich daraus nicht garantieren."

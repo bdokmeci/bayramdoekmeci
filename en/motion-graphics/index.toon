@@ -1,0 +1,81 @@
+title: Motion Graphics Expert for B2B | Bayram Dökmeci
+description: "German-speaking motion graphics expert for B2B businesses and agencies in DACH. Explainer animations, brand motion and social ads. Work directly with Bayram Dökmeci."
+url: "https://bayramdoekmeci.de/en/motion-graphics/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/motion-graphics/"
+  en: "https://bayramdoekmeci.de/en/motion-graphics/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Germany,Austria,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Project enquiries
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: Deutsch
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/motion-graphics/#webpage"
+      url: "https://bayramdoekmeci.de/en/motion-graphics/"
+      name: Motion Graphics Expert for B2B | Bayram Dökmeci
+      description: "German-speaking motion design with explainer animations, brand motion and social creatives for B2B businesses and agencies in DACH."
+      inLanguage: en
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+      about:
+        "@id": "https://bayramdoekmeci.de/en/motion-graphics/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/motion-graphics/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/motion-graphics/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Motion Graphics,"https://bayramdoekmeci.de/en/motion-graphics/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/motion-graphics/#service"
+      name: Motion graphics for B2B businesses and agencies
+      serviceType: "2D explainer animations, brand motion and animated social creatives"
+      url: "https://bayramdoekmeci.de/en/motion-graphics/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business clients and agencies
+      description: "Concepts, storyboards, styleframes and 2D animation. Logo animation, kinetic typography, animated infographics and format adaptations within the agreed project scope. Direct German-speaking collaboration with Bayram Dökmeci of MeinB2B, working remotely from Antalya."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/motion-graphics/#faq"
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/en/motion-graphics/#webpage"
+      inLanguage: en
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,"What are motion graphics, and how can they help my B2B offering?",Answer,"Motion graphics combine graphics, typography and movement to convey information clearly. For B2B offerings, they are suitable for explainer animations, product workflows and animated brand elements, for example. The right format depends on the message, audience and intended use."
+        Question,Which services can I commission?,Answer,"The possible scope ranges from concepts, storyboards and styleframes to 2D animation, kinetic typography, logo animation and social creatives. We agree format variations, subtitles, sound design or source files separately. Before the project starts, you receive a quotation covering the agreed services."
+        Question,"What does a motion graphics project cost, and how long does it take?",Answer,"Cost and duration depend on length, style, number of scenes, existing materials and required variations. After the briefing, you receive an individual quotation and an agreed schedule. Feedback rounds and approvals are included in the planning."
+        Question,What materials do you need to get started?,Answer,"Your communication objective, audience information and any existing text, logos and brand guidelines are helpful. For software, screenshots or a product demo also help. We clarify anything missing together during the briefing."
+        Question,Can you work as a white-label partner for our agency?,Answer,"Yes, behind-the-scenes collaboration is possible by agreement. We agree responsibilities, feedback channels, file formats and communication with the end client before starting. The service is exclusively for business clients and agencies in Germany, Austria and Switzerland."
+        Question,How does working together from Antalya work?,Answer,"You work directly with Bayram Dökmeci of MeinB2B and communicate in fluent German. Briefings, reviews and approvals take place digitally. We agree deadlines, availability and the handover process to suit your team."

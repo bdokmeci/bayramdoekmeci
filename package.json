@@ -1,0 +1,12 @@
+{
+  "name": "bayramdoekmeci.de",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build:toon": "node scripts/build_toon.mjs",
+    "validate:toon": "node scripts/validate_toon.mjs"
+  },
+  "devDependencies": {
+    "@toon-format/toon": "^4.4.0"
+  }
+}

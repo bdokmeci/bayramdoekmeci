@@ -1,0 +1,73 @@
+title: B2B Web Development & Digital Systems | Bayram Dökmeci
+description: "B2B web development for businesses and agencies in DACH. Bayram Dökmeci develops websites, CMS and digital systems. Direct, remote and in German."
+url: "https://bayramdoekmeci.de/en/webentwicklung/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/webentwicklung/"
+  en: "https://bayramdoekmeci.de/en/webentwicklung/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digital architect and full-stack developer
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci
+      inLanguage[2]: de,en
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/webentwicklung/#page"
+      url: "https://bayramdoekmeci.de/en/webentwicklung/"
+      name: B2B Web Development & Digital Systems | Bayram Dökmeci
+      inLanguage: en
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+      about:
+        "@id": "https://bayramdoekmeci.de/en/webentwicklung/#b2b-development"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/webentwicklung/#b2b-development"
+      name: B2B web development and digital systems
+      serviceType: Web development for business clients and agencies
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business clients and agencies
+      description: "Planning and development of bespoke websites, CMS, web applications and technical infrastructure. Remote from Antalya, with direct communication in German."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/webentwicklung/#faq"
+      mainEntity[5]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Who is this collaboration for?,Answer,"I work exclusively with business clients and agencies in Germany, Austria and Switzerland. The collaboration suits businesses looking to develop or improve a bespoke website, CMS or digital system."
+        Question,How does working together from Türkiye work?,Answer,"I work remotely from Antalya and communicate in fluent German. We agree on objectives, availability and feedback sessions at the outset. You speak directly to the developer by email, WhatsApp or video call."
+        Question,Can you take over existing websites and systems?,Answer,"Yes. First, I review the code, CMS, hosting and existing interfaces. You then receive a clear assessment of whether targeted improvements or a rebuild would make more sense."
+        Question,Do you also support agencies as a technical partner?,Answer,"Yes. I support agencies with technical implementation, complex features and development capacity shortages. We agree on tasks, communication and any white-label arrangement for each project."
+        Question,"What does a project cost, and how do we get started?",Answer,"Costs depend on the scope, technical requirements and starting point. In a no-obligation initial conversation, we clarify your objective and the next sensible step. We then agree on the scope of services, schedule and quotation before implementation begins."

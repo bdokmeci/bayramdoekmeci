@@ -1,0 +1,80 @@
+title: AI automation for businesses | Bayram Dökmeci
+description: "AI automation for companies and agencies in DACH. Bayram Dökmeci develops AI workflows for enquiries, CRM and marketing. Directly in German."
+url: "https://bayramdoekmeci.de/en/ki/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/ki/"
+  en: "https://bayramdoekmeci.de/en/ki/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: AI and process automation for B2B
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      knowsLanguage[1]: de
+      knowsAbout[5]: AI automation,AI workflows,B2B lead generation,Marketing Automation,API integration
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      email: kontakt@bayramdoekmeci.de
+      telephone: "+905078827795"
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/ki/#page"
+      url: "https://bayramdoekmeci.de/en/ki/"
+      name: AI automation for businesses | Bayram Dökmeci
+      description: "AI automation for companies and agencies in DACH. Bayram Dökmeci develops AI workflows for enquiries, CRM and marketing. Directly in German."
+      inLanguage: en
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      about:
+        "@id": "https://bayramdoekmeci.de/en/ki/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/ki/#breadcrumbs"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/ki/#breadcrumbs"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,AI automation,"https://bayramdoekmeci.de/en/ki/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/ki/#service"
+      name: AI automation for businesses
+      serviceType: AI workflows and process automation for B2B
+      url: "https://bayramdoekmeci.de/en/ki/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business customers and agencies in DACH
+      description: "Process analysis, AI-assisted structuring of enquiries, response and content drafts, and controlled CRM handover. With validation rules, human approvals, test cases and documentation."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/ki/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What is AI automation for businesses?,Answer,"AI automation connects the processing of text or knowledge with defined process rules and existing systems. Bayram Dökmeci from MeinB2B develops AI workflows for this purpose, such as structuring B2B enquiries, drafting responses and controlled handover to the CRM. The service is exclusively for companies and agencies in Germany, Austria and Switzerland."
+        Question,Which processes suit a first AI workflow?,Answer,"A good starting point is a recurring, clearly defined process with available data and verifiable results. Typical examples include categorising enquiries, extracting information and preparing responses. In the initial consultation, we clarify whether AI makes a useful contribution or whether a fixed automation rule is sufficient."
+        Question,Can you connect our existing tools?,Answer,"Yes, integrating existing CRM, marketing and knowledge systems can be part of the scope. We first review available interfaces, permissions and the quality of the source data. We decide which systems and AI models will actually be used after that review."
+        Question,What happens with sensitive data and incorrect answers?,Answer,"Before implementation, we agree which data may be processed, who gets access and which provider is used. AI results can be incorrect or incomplete, so we plan validation rules, clarification routes and human approvals for relevant steps. Storage and deletion requirements are defined for each project."
+        Question,"What does implementation cost, and how long does it take?",Answer,"Cost and duration depend on data quality, integrations, approvals and the workflow's scope. After initial process discovery, you receive a defined proposal with scope, timetable and quote. Ongoing model, tool and support costs are considered separately."
+        Question,How does working with you work?,Answer,"You work directly with Bayram Dökmeci from MeinB2B, remotely from Antalya and in fluent German. We agree goals, contacts and meetings to suit your team in DACH. Agencies can involve me in project delivery; roles and possible white-label collaboration are agreed individually."

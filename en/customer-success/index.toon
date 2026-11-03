@@ -1,0 +1,79 @@
+title: Customer Success for DACH | Bayram Dökmeci
+description: "Customer Success for B2B and agencies in DACH: onboarding, adoption and retention with Bayram Dökmeci. Remote, in German and directly accessible."
+url: "https://bayramdoekmeci.de/en/customer-success/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/customer-success/"
+  en: "https://bayramdoekmeci.de/en/customer-success/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digital architect and Customer Success Partner
+      knowsLanguage: de
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      telephone: +90 507 882 7795
+      email: kontakt@bayramdoekmeci.de
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/customer-success/#webpage"
+      url: "https://bayramdoekmeci.de/en/customer-success/"
+      name: Customer Success for DACH | Bayram Dökmeci
+      description: "Customer Success for B2B and agencies in DACH: onboarding, adoption and retention with Bayram Dökmeci. Remote, in German and directly accessible."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/customer-success/#service"
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/customer-success/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/customer-success/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Customer Success,"https://bayramdoekmeci.de/en/customer-success/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/customer-success/#service"
+      name: Customer Success for B2B and agencies in DACH
+      serviceType: "Remote Customer Success, customer onboarding, user adoption and retention"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: B2B companies and agencies
+      description: "German-speaking support for existing customers after the contract is signed: onboarding, user training, adoption, proactive customer care and strategic account development."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/customer-success/#faq"
+      inLanguage: en
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,What does an external Customer Success Manager do?,Answer,"An external Customer Success Manager supports your B2B customers after the contract is signed: from clarifying goals and onboarding to regular usage and account development. Bayram Dökmeci provides support in German, documents next steps and coordinates technical questions with your support team. The exact scope of responsibility is agreed at the outset."
+        Question,Which companies is this suitable for?,Answer,"This service is exclusively for business customers and agencies in Germany, Austria and Switzerland. It is particularly suited to B2B software, digital services and MarTech products where customers need an introduction and ongoing support. I can provide additional capacity for your team or look after a defined customer portfolio."
+        Question,How does remote support from Türkiye work?,Answer,"Bayram Dökmeci works remotely from Antalya and communicates fluently in German. Customer meetings, responsibilities and availability windows are agreed to suit your DACH team. Coordination takes place through your existing meeting, CRM and support systems; decisions and next steps are clearly documented."
+        Question,What is the difference between Customer Success and support?,Answer,"Support resolves specific technical issues, while Customer Success proactively works towards successful usage and the agreed customer value. This includes training, regular check-ins and identifying barriers to use early. Technical problems are handed over to support in a structured way and followed up until resolved."
+        Question,How is the success of our work measured?,Answer,"At the outset, we define criteria suited to your product, such as completed onboarding steps, use of key features or documented customer goals. Retention, churn and extensions are assessed only where reliable data and a clear definition are available. The illustrations on this page are examples, not measured customer results."
+        Question,"How do we start, and what does the support cost?",Answer,"In the initial consultation, we clarify the product, customer portfolio, bottlenecks and desired scope of work. Responsibilities, access, timeframe and fees are then agreed individually; a clearly scoped pilot project can be a useful starting point. Without knowing your project, I cannot offer a fixed flat rate or guarantee improved customer retention."

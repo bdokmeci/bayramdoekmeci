@@ -1,0 +1,72 @@
+title: B2B Social Media Expert | Bayram Dökmeci
+description: "Your B2B social media expert in DACH: strategy, content, community and paid social. Directly with Bayram Dökmeci. Let’s connect."
+url: "https://bayramdoekmeci.de/en/social-media/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/social-media/"
+  en: "https://bayramdoekmeci.de/en/social-media/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B lead generation expert and social media consultant
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Germany,Austria,Switzerland
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/social-media/#service"
+      name: Social media management for B2B businesses and agencies
+      serviceType: "Social media strategy, content, community management and paid social"
+      description: "Strategy, editorial planning, content creation, community management, paid social and reporting for business clients and agencies in DACH. Directly with Bayram Dökmeci from MeinB2B, remote from Antalya and in German."
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: B2B businesses and agencies
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/social-media/#page"
+      url: "https://bayramdoekmeci.de/en/social-media/"
+      name: B2B Social Media Expert | Bayram Dökmeci
+      description: "Social media strategy, content and community for B2B businesses and agencies in DACH."
+      inLanguage: en
+      about:
+        "@id": "https://bayramdoekmeci.de/en/social-media/#service"
+      mainEntity:
+        "@id": "https://bayramdoekmeci.de/en/social-media/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/social-media/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/social-media/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,Social Media,"https://bayramdoekmeci.de/en/social-media/"
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/social-media/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Who is your social media management suitable for?,Answer,"I work exclusively with business clients and agencies in Germany, Austria and Switzerland. This service suits B2B businesses looking to sharpen their positioning, publish relevant content regularly and start conversations with potential customers."
+        Question,Which social media channels do you manage?,Answer,"Channel selection depends on your audience and resources. LinkedIn can suit professional B2B exchanges; Instagram, Facebook, YouTube or TikTok can complement your presence when the audience and content fit. We agree together which channels are included in the project."
+        Question,Do you also handle content and community management?,Answer,"Yes. The agreed scope can include topic planning, copy, visual formats, publishing and managing comments and messages. We agree approvals, response times and the handling of sensitive enquiries in advance."
+        Question,How quickly can results be expected?,Answer,"A clear topic plan and initial content are early deliverables. How reach, conversations and enquiries develop depends on factors including your starting point, offering, channel and consistency. We agree suitable metrics and regular reviews; I do not promise fixed reach or lead numbers."
+        Question,What does working together cost?,Answer,"That depends on channels, content volume, community management and any campaigns. After the initial conversation, you receive a proposal with clearly defined services. A paid social advertising budget is agreed separately."
+        Question,How does working with you in Antalya work?,Answer,"I work remotely from Antalya and communicate in fluent German. We agree availability, feedback dates and approval processes at the outset. As a business or agency, you have a direct contact for strategy and delivery."

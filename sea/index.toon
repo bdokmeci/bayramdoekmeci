@@ -1,0 +1,98 @@
+title: SEA für B2B & Google Ads Betreuung | Bayram Dökmeci
+description: "SEA für B2B in DACH: Google Ads, Microsoft Ads und Conversion-Tracking mit Bayram Dökmeci. Direkt auf Deutsch, remote aus Antalya. Jetzt kennenlernen."
+url: "https://bayramdoekmeci.de/sea/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/sea/"
+  en: "https://bayramdoekmeci.de/en/sea/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[7]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: SEA und B2B-Lead-Gen-Experte
+      knowsLanguage[2]: de,tr
+      knowsAbout[6]: SEA,Google Ads,Microsoft Advertising,Performance Marketing,B2B Leadgenerierung,Conversion-Tracking
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Kundenbetreuung
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[2]: de,tr
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci
+      inLanguage: de
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/sea/#page"
+      url: "https://bayramdoekmeci.de/sea/"
+      name: SEA für B2B & Google Ads Betreuung | Bayram Dökmeci
+      description: "SEA für B2B in DACH: Google Ads, Microsoft Ads und Conversion-Tracking mit Bayram Dökmeci. Direkt auf Deutsch, remote aus Antalya. Jetzt kennenlernen."
+      inLanguage: de
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+      about:
+        "@id": "https://bayramdoekmeci.de/sea/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/sea/#breadcrumb"
+      mainEntity:
+        "@id": "https://bayramdoekmeci.de/sea/#service"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/sea/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,SEA & Performance Marketing,"https://bayramdoekmeci.de/sea/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/sea/#service"
+      name: SEA für B2B und Google Ads Betreuung
+      serviceType: Suchmaschinenwerbung und Performance Marketing für Geschäftskunden
+      url: "https://bayramdoekmeci.de/sea/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: "Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz"
+      description: "SEA-Audits, Google Ads und Microsoft Ads, Conversion-Tracking, Kampagnenoptimierung und Reporting. Direkte Betreuung durch Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/sea/#faq"
+      inLanguage: de
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/sea/#page"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Für wen eignet sich deine SEA-Betreuung?,Answer,"Ich arbeite ausschließlich mit Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Die Betreuung passt zu Unternehmen, die mit Google Ads oder Microsoft Ads gezielt B2B-Anfragen gewinnen möchten. Ob Suchanzeigen für dein Angebot sinnvoll sind, klären wir anhand von Nachfrage, Zielkunden und Vertriebsprozess."
+        Question,Wie funktioniert die Zusammenarbeit aus der Türkei?,Answer,"Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Wir vereinbaren Kontaktzeiten, Aufgaben und Feedbacktermine zu Beginn. Du erreichst mich direkt per E-Mail, WhatsApp, Telefon oder vereinbartem Videogespräch."
+        Question,Welches Werbebudget brauche ich und was kostet die Betreuung?,Answer,"Ein sinnvolles Werbebudget hängt von Wettbewerb, Suchnachfrage, Zielregion und dem Wert einer qualifizierten Anfrage ab. Nach einer ersten Bestandsaufnahme vereinbaren wir einen passenden Testumfang und die Betreuungskosten. Das Werbebudget für die Plattformen und mein Honorar werden getrennt ausgewiesen; einen pauschalen Mindestbetrag nenne ich ohne Prüfung nicht."
+        Question,Kannst du bestehende Google-Ads-Konten übernehmen?,Answer,"Ja. Ich prüfe zuerst Kontostruktur, Suchbegriffe, Conversion-Ziele und vorhandene Daten. Darauf aufbauend priorisiere ich Verbesserungen und stimme Änderungen mit dir ab. Dein Unternehmen behält die Kontrolle über das Werbekonto; die Betreuung erfolgt über vereinbarte Zugriffsrechte."
+        Question,Wann lassen sich Ergebnisse sinnvoll bewerten?,Answer,"Nach dem Kampagnenstart prüfen wir zunächst Auslieferung, Suchbegriffe und Tracking. Eine belastbare Bewertung der Leadqualität braucht ausreichend Daten und Rückmeldungen aus deinem Vertrieb. Wie lange das dauert, hängt unter anderem von Suchvolumen, Budget und Verkaufszyklus ab; feste Leadzahlen oder Ergebnisse garantiere ich nicht."
+        Question,Unterstützt du Agenturen auch im White Label?,Answer,"Ja, ich unterstütze Agenturen bei Audits, Kampagnenaufbau, laufender Optimierung und Reporting. Eine mögliche White-Label-Zusammenarbeit sowie Kommunikation, Zugriffe und Verantwortlichkeiten vereinbaren wir projektbezogen. So kann ich eine definierte Aufgabe oder einen abgestimmten Teil der Betreuung übernehmen."

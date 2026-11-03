@@ -1,0 +1,71 @@
+title: E-Mail-Marketing Experte für B2B | Bayram Dökmeci
+description: "Dein E-Mail-Marketing Experte für B2B in DACH: Strategie, Newsletter und automatisierte E-Mail-Strecken. Direkt mit Bayram Dökmeci. Jetzt kennenlernen."
+url: "https://bayramdoekmeci.de/email-marketing/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/email-marketing/"
+  en: "https://bayramdoekmeci.de/en/email-marketing/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: B2B-Marketing- und Automation-Experte
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      areaServed[3]: Deutschland,Österreich,Schweiz
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/email-marketing/#service"
+      name: E-Mail-Marketing für B2B und Agenturen
+      serviceType: "E-Mail-Marketing, Newsletter und Marketing Automation"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen
+      description: "Strategie, Segmentierung, Newsletter, responsive E-Mail-Templates, automatisierte Kontaktstrecken, CRM-Anbindung und Kampagnenanalyse. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch."
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/email-marketing/#page"
+      url: "https://bayramdoekmeci.de/email-marketing/"
+      name: E-Mail-Marketing Experte für B2B | Bayram Dökmeci
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/email-marketing/#service"
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/email-marketing/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/email-marketing/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,E-Mail-Marketing,"https://bayramdoekmeci.de/email-marketing/"
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/email-marketing/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Für wen ist dein E-Mail-Marketing geeignet?,Answer,"Ich unterstütze ausschließlich Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit passt zu Unternehmen, die Newsletter, Lead Nurturing oder automatisierte E-Mail-Strecken aufbauen oder verbessern möchten."
+        Question,Kannst du mein bestehendes E-Mail-Tool übernehmen?,Answer,"Ja, wir prüfen zuerst dein vorhandenes Tool, die Verteilerstruktur, Templates und Schnittstellen. Ob wir mit dem bestehenden System weiterarbeiten oder ein Wechsel sinnvoll ist, hängt von deinen Anforderungen ab. Eine Migration wird bei Bedarf als eigener Leistungsumfang geplant."
+        Question,Wie gehst du mit Einwilligung und Datenschutz um?,Answer,"Im technischen Setup berücksichtige ich Einwilligungsstatus, Double-Opt-in, Abmeldemöglichkeiten und abgestimmte Tracking-Einstellungen. Vor dem Start klären wir außerdem Zugriffe, Verantwortlichkeiten und die Anforderungen an die Zusammenarbeit aus der Türkei. Die rechtliche Bewertung und Freigabe stimmen wir mit deinem Datenschutz- oder Rechtskontakt ab."
+        Question,Welche Ergebnisse kannst du versprechen?,Answer,"Ich verspreche keine festen Öffnungsraten, Umsätze oder Leadzahlen. Wir definieren passende Ziele und betrachten unter anderem Zustellung, Klicks, Anfragen und Abmeldungen. Die Zahlen auf dieser Seite sind ausschließlich illustrative Rechenbeispiele."
+        Question,Unterstützt du Agenturen auch im Hintergrund?,Answer,"Ja, ich unterstütze Agenturen bei Konzeption, Templates, Automation und Kampagnenumsetzung. Eine White-Label-Zusammenarbeit, Kommunikationswege und Freigaben vereinbaren wir passend zum Projekt. Du hast einen direkten deutschsprachigen Ansprechpartner."
+        Question,Was kostet die Zusammenarbeit und wie starten wir?,Answer,"Die Kosten hängen vom Zustand deines Setups, den benötigten Inhalten und dem Automatisierungsumfang ab. Im unverbindlichen Erstgespräch klären wir Ziele und Ausgangslage. Danach erhältst du einen abgestimmten Leistungsumfang mit Angebot und Zeitplan, bevor die Umsetzung beginnt."

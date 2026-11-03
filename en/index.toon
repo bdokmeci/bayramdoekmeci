@@ -1,0 +1,89 @@
+title: Digital services for B2B | Bayram Dökmeci
+description: "Web development, marketing, AI, design and business development: explore Bayram Dökmeci’s services for businesses and agencies in Germany, Austria and Switzerland."
+url: "https://bayramdoekmeci.de/en/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/"
+  en: "https://bayramdoekmeci.de/en/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[5]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digital architect and full-stack developer
+      knowsLanguage[4]: de,en,nl,tr
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Germany,Austria,Switzerland
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Customer service
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[4]: German,English,Dutch,Turkish
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci – MeinB2B
+      inLanguage[2]: de,en
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": CollectionPage
+      "@id": "https://bayramdoekmeci.de/en/#page"
+      url: "https://bayramdoekmeci.de/en/"
+      name: Digital services for B2B | Bayram Dökmeci
+      description: "Web development, marketing, AI, design and business development: explore Bayram Dökmeci’s services for businesses and agencies in Germany, Austria and Switzerland."
+      inLanguage: en
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+      about:
+        "@id": "https://bayramdoekmeci.de/#person"
+      mainEntity:
+        "@id": "https://bayramdoekmeci.de/en/#leistungen"
+    - "@type": ItemList
+      "@id": "https://bayramdoekmeci.de/en/#leistungen"
+      name: Digital services for businesses and agencies
+      numberOfItems: 25
+      itemListElement[25]{"@type",position,name,description,url}:
+        ListItem,1,Web development,Websites and digital systems that fit your business.,"https://bayramdoekmeci.de/en/webentwicklung/"
+        ListItem,2,Full-stack development,"Frontend, backend and integrations from one developer.","https://bayramdoekmeci.de/en/full-stack-entwickler/"
+        ListItem,3,WordPress & CMS,"Custom themes, plugins and flexible content systems.","https://bayramdoekmeci.de/en/wordpress-cms-entwickler/"
+        ListItem,4,Web apps,"Internal tools, customer portals and bespoke software.","https://bayramdoekmeci.de/en/web-app/"
+        ListItem,5,Shopware & E-Commerce,"Shop maintenance, quality assurance and Shopify support.","https://bayramdoekmeci.de/en/shopware/"
+        ListItem,6,Digital marketing,"Strategy, performance and MarTech to support your growth.","https://bayramdoekmeci.de/en/digitales-marketing/"
+        ListItem,7,Programmatic SEO,Scalable landing pages with a carefully planned site architecture.,"https://bayramdoekmeci.de/en/programmatic/"
+        ListItem,8,SEA & Google Ads,"Search advertising, conversion tracking and campaign optimisation.","https://bayramdoekmeci.de/en/sea/"
+        ListItem,9,LinkedIn,"B2B positioning, content, advertising and target account research.","https://bayramdoekmeci.de/en/linkedin/"
+        ListItem,10,Email marketing,Newsletters and automated journeys for your contacts.,"https://bayramdoekmeci.de/en/email-marketing/"
+        ListItem,11,Social Media,"Content, community and paid social with a clear plan.","https://bayramdoekmeci.de/en/social-media/"
+        ListItem,12,Local SEO & Maps,Location profiles and consistent data for local visibility.,"https://bayramdoekmeci.de/en/kartendienst/"
+        ListItem,13,AI automation,"AI workflows, knowledge search and controlled CRM handovers.","https://bayramdoekmeci.de/en/ki/"
+        ListItem,14,n8n & Workflows,Automate processes and connect tools effectively.,"https://bayramdoekmeci.de/en/n8n/"
+        ListItem,15,Data Engineering,"Data pipelines, data quality and a practical foundation for AI.","https://bayramdoekmeci.de/en/data-engineering/"
+        ListItem,16,Design & Content,Visual identity and content that move your brand forward.,"https://bayramdoekmeci.de/en/design-content/"
+        ListItem,17,Video production,"Video, editing and VFX for products, brands and social media.","https://bayramdoekmeci.de/en/videoproduktion/"
+        ListItem,18,Motion Graphics,"Animated explainers, brand motion and kinetic typography.","https://bayramdoekmeci.de/en/motion-graphics/"
+        ListItem,19,3D visualisation,"Architecture, interiors and virtual tours in 3D.","https://bayramdoekmeci.de/en/3d/"
+        ListItem,20,Business Development,B2B lead generation and qualified sales handovers.,"https://bayramdoekmeci.de/en/business-development/"
+        ListItem,21,International Sales,"Go-to-market planning, pipeline reviews and sales management.","https://bayramdoekmeci.de/en/international-sales/"
+        ListItem,22,B2B partnerships,"Partner strategy, partner acquisition and shared growth.","https://bayramdoekmeci.de/en/b2b/"
+        ListItem,23,Customer Success,"Onboarding, product adoption and long-term customer development.","https://bayramdoekmeci.de/en/customer-success/"
+        ListItem,24,Back-Office,"Tickets, CRM maintenance and operational support in German.","https://bayramdoekmeci.de/en/deutschsprachiges-back-office/"
+        ListItem,25,Customer care,Personal service and reliable follow-up for B2B.,"https://bayramdoekmeci.de/en/kundenbetreuer/"

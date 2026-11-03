@@ -1,0 +1,80 @@
+title: WordPress & CMS Developer for DACH | Bayram Dökmeci
+description: "WordPress & CMS developer for B2B businesses and agencies in DACH. Bespoke themes, plugins, CMS architecture and CDN integration. Work directly with Bayram Dökmeci."
+url: "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/"
+language: en
+locale: en_GB
+alternates:
+  de: "https://bayramdoekmeci.de/wordpress-cms-entwickler/"
+  en: "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[7]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Digital architect and full-stack developer
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Germany
+        Country,Austria
+        Country,Switzerland
+    - "@type": WebSite
+      "@id": "https://bayramdoekmeci.de/#website"
+      url: "https://bayramdoekmeci.de/"
+      name: Bayram Dökmeci
+      inLanguage[2]: de,en
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/#page"
+      url: "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/"
+      name: WordPress & CMS Developer for DACH | Bayram Dökmeci
+      inLanguage: en
+      isPartOf:
+        "@id": "https://bayramdoekmeci.de/#website"
+      about:
+        "@id": "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Home,"https://bayramdoekmeci.de/en/"
+        ListItem,2,WordPress & CMS Developer,"https://bayramdoekmeci.de/en/wordpress-cms-entwickler/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/#service"
+      name: WordPress and CMS development
+      serviceType: "Bespoke WordPress themes, plugins and CMS architectures"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Germany,Austria,Switzerland
+      audience:
+        "@type": BusinessAudience
+        audienceType: Business clients and agencies
+      description: "Bespoke theme and plugin development, CMS architecture, performance optimisation and CDN integration for business clients and agencies in DACH."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/en/wordpress-cms-entwickler/#faq"
+      mainEntity[5]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Do you develop WordPress themes from scratch?,Answer,"Yes. I develop bespoke themes to suit your design, content and editorial workflows. We determine which components and editor features make sense for your project. A custom theme is an option, not a blanket requirement for every project."
+        Question,Can you develop custom plugins and integrations?,Answer,"Yes. I develop project-specific plugins, for example for data imports, product catalogues or connections to CRM and ERP systems. We first review the available APIs, data structures and error cases. Implementation is documented and tested against the agreed use case."
+        Question,How do you optimise WordPress performance and CDN integration?,Answer,"I review the theme, plugins, database queries, hosting and existing caching. I then identify appropriate measures, such as leaner assets or delivery of cacheable content through Cloudflare. Dynamic and protected content is considered separately. Specific loading times can only be measured on the individual project."
+        Question,Do you take over existing WordPress sites and relaunches?,Answer,"Yes. I first review the existing technology and editorial requirements. We then plan incremental improvements or a relaunch, including data migration and relevant URL redirects. Scope and timing depend on the condition of the existing system."
+        Question,How does working with DACH agencies work?,Answer,"I work remotely from Antalya, communicate in fluent German and support only business clients and agencies in Germany, Austria and Switzerland. You coordinate directly with me. For agency projects, we can agree a white-label arrangement and an appropriate handover."

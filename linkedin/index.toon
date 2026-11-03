@@ -1,0 +1,85 @@
+title: LinkedIn Experte für B2B & Ads | Bayram Dökmeci
+description: "Dein LinkedIn Experte für B2B in DACH: LinkedIn Ads, Sales Navigator und klare Vertriebsprozesse. Direkt mit Bayram Dökmeci. Jetzt Erstgespräch buchen."
+url: "https://bayramdoekmeci.de/linkedin/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/linkedin/"
+  en: "https://bayramdoekmeci.de/en/linkedin/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: LinkedIn Experte und B2B Lead-Gen-Experte
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Kundenkontakt
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: de
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/linkedin/#page"
+      url: "https://bayramdoekmeci.de/linkedin/"
+      name: LinkedIn Experte für B2B & Ads | Bayram Dökmeci
+      description: "LinkedIn-Strategie, LinkedIn Ads und Sales Navigator für Geschäftskunden und Agenturen in DACH."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/linkedin/#service"
+      publisher:
+        "@id": "https://bayramdoekmeci.de/#business"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/linkedin/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/linkedin/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,LinkedIn für B2B,"https://bayramdoekmeci.de/linkedin/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/linkedin/#service"
+      name: "LinkedIn-Beratung, Ads und Sales Navigator für B2B"
+      serviceType: "LinkedIn-Strategie, Kampagnenbetreuung und Zielkundenrecherche"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      url: "https://bayramdoekmeci.de/linkedin/"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen
+      description: "Positionierung, Profil-Audits, Content-Planung, LinkedIn Ads Campaign Management, Recherche mit Sales Navigator und abgestimmte CRM-Übergaben. Remote aus Antalya mit direkter Kommunikation auf Deutsch."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/linkedin/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Für wen ist die LinkedIn-Betreuung gedacht?,Answer,"Ich arbeite ausschließlich mit Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Die Zusammenarbeit passt zu Teams, die LinkedIn gezielter für ihre Positionierung, B2B-Ansprache oder bezahlte Kampagnen einsetzen möchten."
+        Question,Brauche ich LinkedIn Ads und Sales Navigator gleichzeitig?,Answer,"Nein. Wir wählen die Bausteine anhand deines Ziels und deiner Ausgangslage aus. Sales Navigator unterstützt die Zielkundenrecherche, während LinkedIn Ads bezahlte Reichweite ermöglicht. Auch ein reines Profil- oder Strategieprojekt ist möglich."
+        Question,Was kostet die Zusammenarbeit?,Answer,"Die Kosten hängen von Ausgangslage, Leistungsumfang und Betreuungsbedarf ab. Nach dem Erstgespräch erhältst du ein individuelles Angebot. Werbebudget sowie gegebenenfalls benötigte LinkedIn- und CRM-Lizenzen werden separat eingeplant und vor dem Start abgestimmt."
+        Question,Wie schnell können Ergebnisse entstehen?,Answer,"Das hängt unter anderem von Angebot, Zielgruppe, Profil, Budget und Vertriebszyklus ab. Wir vereinbaren zunächst konkrete Arbeitsergebnisse wie ein Audit, eine Zielkundenliste oder ein Kampagnen-Setup und planen danach Tests und Reviews. Eine feste Anzahl von Leads, Terminen oder Abschlüssen verspreche ich nicht."
+        Question,Wie funktioniert die Zusammenarbeit aus der Türkei?,Answer,"Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Briefings, Freigaben und Reviews finden digital statt; Erreichbarkeit und Termine stimmen wir gemeinsam ab. Du hast mit Bayram Dökmeci einen direkten Ansprechpartner."
+        Question,Kannst du Agenturen im Hintergrund unterstützen?,Answer,"Ja. Ich unterstütze Agenturen bei Recherche, Positionierung, Kampagnen und Auswertung. Eine mögliche White-Label-Zusammenarbeit, Zuständigkeiten, Zugänge und die Kommunikation mit dem Endkunden vereinbaren wir vor Projektbeginn."

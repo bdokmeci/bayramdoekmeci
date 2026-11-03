@@ -1,0 +1,79 @@
+title: Deutschsprachiges Back-Office für KMU | Bayram Dökmeci
+description: "Deutschsprachiges Back-Office und Kundensupport für KMU und Agenturen in DACH. Mit Bayram Dökmeci: klare Abläufe, gepflegte Daten, direkter Kontakt."
+url: "https://bayramdoekmeci.de/deutschsprachiges-back-office/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/deutschsprachiges-back-office/"
+  en: "https://bayramdoekmeci.de/en/deutschsprachiges-back-office/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      jobTitle: Deutschsprachiger Back-Office- und Support-Partner
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: customer service
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage: German
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/deutschsprachiges-back-office/#page"
+      url: "https://bayramdoekmeci.de/deutschsprachiges-back-office/"
+      name: Deutschsprachiges Back-Office für KMU | Bayram Dökmeci
+      description: "Deutschsprachiges Back-Office und Kundensupport für KMU und Agenturen in Deutschland, Österreich und der Schweiz."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/deutschsprachiges-back-office/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/deutschsprachiges-back-office/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/deutschsprachiges-back-office/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Deutschsprachiges Back-Office,"https://bayramdoekmeci.de/deutschsprachiges-back-office/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/deutschsprachiges-back-office/#service"
+      name: Deutschsprachiges Back-Office und Kundensupport
+      serviceType: Externe Back-Office-Unterstützung für KMU und Agenturen
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: "Geschäftskunden, KMU und Agenturen"
+      description: "Operativer Kundensupport, E-Mail- und Ticketbearbeitung, CRM- und Datenpflege sowie administrative Koordination nach vereinbartem Leistungsumfang. Remote aus Antalya, mit direkter Kommunikation auf Deutsch."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/deutschsprachiges-back-office/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Welche Back-Office-Aufgaben kannst du übernehmen?,Answer,"Ich unterstütze bei deutschsprachigen Kundenanfragen, E-Mail- und Ticketbearbeitung, CRM-Pflege, Terminabstimmung und der Nachverfolgung offener Vorgänge. Wir legen fest, welche Aufgaben ich selbstständig bearbeite und wann dein Team entscheidet. Fachliche Freigaben und verbindliche Zusagen bleiben bei den vereinbarten Verantwortlichen."
+        Question,Für welche Unternehmen ist das Angebot gedacht?,Answer,"Das Angebot richtet sich ausschließlich an Geschäftskunden, kleine und mittlere Unternehmen sowie Agenturen in Deutschland, Österreich und der Schweiz. Es passt zu Teams, die wiederkehrende operative Aufgaben abgeben oder ihren Kundensupport strukturieren möchten. Privatkunden betreue ich nicht."
+        Question,Wie funktioniert die Zusammenarbeit aus der Türkei?,Answer,"Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Gemeinsame Arbeitsfenster, Kontaktwege und Rückmeldefristen vereinbaren wir vor dem Start. Du arbeitest direkt mit mir, Bayram Dökmeci von MeinB2B, ohne zusätzliche Agenturebenen."
+        Question,Kannst du mit unserem CRM und Ticketsystem arbeiten?,Answer,"Wir prüfen zunächst eure vorhandenen Systeme, Workflows und benötigten Zugänge. Ich arbeite mich in die vereinbarten Abläufe ein und dokumentiere Bearbeitungsregeln und Übergaben. Zugriffsrechte, der Umgang mit Daten und notwendige Vereinbarungen werden vor der Zusammenarbeit geklärt."
+        Question,Bietest du Telefonservice oder 24/7-Support an?,Answer,Der Schwerpunkt liegt auf schriftlichem Kundensupport und operativem Back-Office. Telefonische Aufgaben sind nur nach ausdrücklicher Abstimmung Bestandteil der Zusammenarbeit. Eine Rund-um-die-Uhr-Betreuung oder pauschale Reaktionszeit ist nicht automatisch enthalten.
+        Question,Was kostet die Unterstützung und wie starten wir?,Answer,"Der Preis richtet sich nach Aufgaben, Umfang, benötigten Systemen und vereinbarten Arbeitsfenstern. Im unverbindlichen Erstgespräch klären wir deinen Bedarf; anschließend erhältst du ein individuelles Angebot. Der Einstieg kann mit einem klar abgegrenzten Pilotumfang erfolgen, bevor wir die Zusammenarbeit erweitern."

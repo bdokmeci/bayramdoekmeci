@@ -1,0 +1,75 @@
+title: Deutschsprachiger Remote Kundenbetreuer | Bayram Dökmeci
+description: Deutschsprachiger Remote Kundenbetreuer für B2B und Agenturen in DACH. Persönliche Kundenkommunikation und klare Nachverfolgung mit Bayram Dökmeci.
+url: "https://bayramdoekmeci.de/kundenbetreuer/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/kundenbetreuer/"
+  en: "https://bayramdoekmeci.de/en/kundenbetreuer/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      knowsLanguage[2]: de,tr
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B – Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      telephone: "+905078827795"
+      email: kontakt@bayramdoekmeci.de
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Geschäftskundenanfragen
+        telephone: "+905078827795"
+        email: kontakt@bayramdoekmeci.de
+        availableLanguage[1]: German
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/kundenbetreuer/#page"
+      url: "https://bayramdoekmeci.de/kundenbetreuer/"
+      name: Deutschsprachiger Remote Kundenbetreuer | Bayram Dökmeci
+      description: "Persönliche deutschsprachige Kundenkommunikation, Servicekoordination und Nachverfolgung für B2B-Unternehmen und Agenturen in DACH."
+      inLanguage: de
+      about:
+        "@id": "https://bayramdoekmeci.de/kundenbetreuer/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/kundenbetreuer/#breadcrumb"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/kundenbetreuer/#breadcrumb"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Remote Kundenbetreuer,"https://bayramdoekmeci.de/kundenbetreuer/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/kundenbetreuer/#service"
+      name: Deutschsprachiger Remote Kundenbetreuer
+      serviceType: Persönliche B2B-Kundenbetreuung und Servicekoordination
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]: Deutschland,Österreich,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen in DACH
+      description: "Deutschsprachige Kundenkommunikation, Statusupdates, Klärung von Rückfragen, Beschwerdeannahme, Follow-ups und abgestimmte Eskalation an das Fachteam. Umfang und Erreichbarkeit werden individuell vereinbart."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/kundenbetreuer/#faq"
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Was übernimmt ein deutschsprachiger Remote Kundenbetreuer?,Answer,"Ich begleite den direkten Austausch mit deinen Geschäftskunden: Anfragen beantworten, Rückfragen klären, Statusupdates geben und nächste Schritte nachhalten. Dazu kommen Beschwerdeannahme und die koordinierte Übergabe an dein Fachteam. Welche Entscheidungen ich selbst treffen darf, legen wir vor dem Start fest."
+        Question,Für wen ist die Zusammenarbeit geeignet?,Answer,"Das Angebot richtet sich ausschließlich an Unternehmen und Agenturen in Deutschland, Österreich und der Schweiz. Es eignet sich für Teams, die eine feste Ansprechperson für laufende Kundenkommunikation suchen. Aufgaben und Umfang werden auf eure bestehenden Abläufe abgestimmt."
+        Question,Über welche Kanäle betreust du unsere Kunden?,Answer,"E-Mail, vereinbarte Kundenchats und euer bestehendes Ticket- oder CRM-System können Teil der Zusammenarbeit sein. Telefonische Betreuung und vereinbarte Rückrufe stimmen wir gesondert ab. Vor dem Start klären wir Zugänge, Tonalität, Freigaben und den Umgang mit Kundendaten."
+        Question,Wie stimmen wir Erreichbarkeit und Reaktionszeiten ab?,Answer,"Ich arbeite remote aus Antalya und kommuniziere fließend auf Deutsch. Wir vereinbaren gemeinsame Arbeitsfenster, Rückmeldefristen und eine Vertretungsregel für Abwesenheiten. Eine Rund-um-die-Uhr-Betreuung oder pauschale Antwortzeit ist nicht automatisch enthalten."
+        Question,Was passiert bei Beschwerden oder technischen Fragen?,Answer,"Ich nehme das Anliegen auf, kläre fehlende Informationen und informiere den Kunden über den vereinbarten nächsten Schritt. Fälle außerhalb meiner Freigabe übergebe ich mit Kontext an die zuständige Person. Verbindliche Kulanzentscheidungen, technische Zusagen und Freigaben bleiben bei den vereinbarten Verantwortlichen."
+        Question,Wie starten wir und was kostet die Betreuung?,Answer,"In einem unverbindlichen Erstgespräch klären wir Kundenkontakt, Kanäle und den gewünschten Umfang. Anschließend erhältst du ein individuelles Angebot auf Basis der Aufgaben und Arbeitsfenster. Ein abgegrenzter Pilot kann zeigen, wie die Zusammenarbeit in eurem Alltag funktioniert."

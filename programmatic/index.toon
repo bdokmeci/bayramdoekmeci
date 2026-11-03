@@ -1,0 +1,86 @@
+title: Programmatic SEO & Landingpages | Bayram Dökmeci
+description: "Programmatic SEO für B2B und Agenturen in DACH. Bayram Dökmeci entwickelt skalierbare SEO-Landingpages mit Daten, System und Qualitätsprüfung."
+url: "https://bayramdoekmeci.de/programmatic/"
+language: de
+locale: de_DE
+alternates:
+  de: "https://bayramdoekmeci.de/programmatic/"
+  en: "https://bayramdoekmeci.de/en/programmatic/"
+schema:
+  "@context": "https://schema.org"
+  "@graph"[6]:
+    - "@type": Person
+      "@id": "https://bayramdoekmeci.de/#person"
+      name: Bayram Dökmeci
+      url: "https://bayramdoekmeci.de/"
+      worksFor:
+        "@id": "https://bayramdoekmeci.de/#business"
+      knowsLanguage[1]: de
+      knowsAbout[5]: Programmatic SEO,SEO-Landingpages,Webentwicklung,B2B-Leadgenerierung,Marketing Automation
+      sameAs[2]: "https://www.linkedin.com/in/bayramdoekmeci/","https://github.com/bdokmeci"
+    - "@type": LocalBusiness
+      "@id": "https://bayramdoekmeci.de/#business"
+      name: MeinB2B
+      url: "https://bayramdoekmeci.de/"
+      founder:
+        "@id": "https://bayramdoekmeci.de/#person"
+      address:
+        "@type": PostalAddress
+        streetAddress: Konyaaltı Blv.
+        postalCode: "07070"
+        addressLocality: Antalya
+        addressCountry: TR
+      email: kontakt@bayramdoekmeci.de
+      telephone: "+905078827795"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      contactPoint:
+        "@type": ContactPoint
+        contactType: Projektanfragen
+        email: kontakt@bayramdoekmeci.de
+        telephone: "+905078827795"
+        availableLanguage[1]: de
+    - "@type": WebPage
+      "@id": "https://bayramdoekmeci.de/programmatic/#page"
+      url: "https://bayramdoekmeci.de/programmatic/"
+      name: Programmatic SEO & Landingpages | Bayram Dökmeci
+      description: "Programmatic SEO für B2B und Agenturen in DACH. Bayram Dökmeci entwickelt skalierbare SEO-Landingpages mit Daten, System und Qualitätsprüfung."
+      inLanguage: de
+      author:
+        "@id": "https://bayramdoekmeci.de/#person"
+      about:
+        "@id": "https://bayramdoekmeci.de/programmatic/#service"
+      breadcrumb:
+        "@id": "https://bayramdoekmeci.de/programmatic/#breadcrumbs"
+    - "@type": BreadcrumbList
+      "@id": "https://bayramdoekmeci.de/programmatic/#breadcrumbs"
+      itemListElement[2]{"@type",position,name,item}:
+        ListItem,1,Startseite,"https://bayramdoekmeci.de/"
+        ListItem,2,Programmatic SEO,"https://bayramdoekmeci.de/programmatic/"
+    - "@type": Service
+      "@id": "https://bayramdoekmeci.de/programmatic/#service"
+      name: Programmatic SEO und skalierbare SEO-Landingpages
+      serviceType: Programmatic SEO
+      url: "https://bayramdoekmeci.de/programmatic/"
+      provider:
+        "@id": "https://bayramdoekmeci.de/#business"
+      areaServed[3]{"@type",name}:
+        Country,Deutschland
+        Country,Österreich
+        Country,Schweiz
+      audience:
+        "@type": BusinessAudience
+        audienceType: Geschäftskunden und Agenturen in DACH
+      description: "Suchintent- und Seitenarchitektur, Datenmodelle, Content-Module, Seitenvorlagen, technische Umsetzung und Qualitätsprüfung für skalierbare B2B-Landingpages."
+    - "@type": FAQPage
+      "@id": "https://bayramdoekmeci.de/programmatic/#faq"
+      inLanguage: de
+      mainEntity[6]{"@type",name,acceptedAnswer{"@type",text}}:
+        Question,Was ist Programmatic SEO?,Answer,"Programmatic SEO, kurz pSEO, verbindet strukturierte Daten mit wiederverwendbaren Seitenvorlagen. Daraus entstehen Landingpages für klar abgegrenzte Suchanfragen, etwa zu Produkten, Branchen oder Integrationen. Jede Seite braucht passende Inhalte und einen eigenständigen Nutzen."
+        Question,Für welche Unternehmen lohnt sich Programmatic SEO?,Answer,"Der Ansatz eignet sich besonders für B2B-Unternehmen und Agenturen mit wiederkehrenden Angebotsmustern, mehreren Anwendungsfällen und belastbaren eigenen Daten. Entscheidend sind unterscheidbare Suchintentionen und genügend Substanz pro Seite. Bei wenigen Leistungen können individuelle Landingpages sinnvoller sein."
+        Question,Wie vermeidest du austauschbare SEO-Landingpages?,Answer,"Ich plane pro Seitentyp Pflichtinformationen, passende Inhaltsmodule und Kriterien für die Freigabe. Suchintention, Datenqualität und eigenständiger Nutzen werden vor Veröffentlichung geprüft. Seiten mit fehlender Substanz werden überarbeitet oder zunächst nicht veröffentlicht."
+        Question,Kann das System in meine bestehende Website integriert werden?,Answer,"Je nach technischer Ausgangslage ist eine Umsetzung im bestehenden CMS oder als statisch erzeugter Seitenbereich möglich. Wir prüfen zuerst Datenquellen, URL-Struktur, interne Verlinkung und Pflegeprozesse. Daraus leite ich eine passende technische Lösung und den benötigten Umfang ab."
+        Question,Was kostet die Umsetzung und wann sind Ergebnisse sichtbar?,Answer,"Kosten und Zeitplan hängen von Datenaufbereitung, Seitentypen, Integrationen und Prüfaufwand ab. Nach einer Bestandsaufnahme erhältst du einen konkreten Projektumfang; ein begrenzter Pilot ist häufig ein sinnvoller Einstieg. Indexierung, Rankings und Anfragen hängen auch von Wettbewerb und Website ab und lassen sich weder zu einem festen Termin noch in einer bestimmten Höhe zusagen."
+        Question,Wie läuft die Zusammenarbeit mit dir ab?,Answer,"Du arbeitest direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und fließend auf Deutsch. Das Angebot richtet sich ausschließlich an Geschäftskunden und Agenturen in Deutschland, Österreich und der Schweiz. Wir vereinbaren Leistungsumfang, Abstimmung, Verantwortlichkeiten und Übergabe vor Projektbeginn."
