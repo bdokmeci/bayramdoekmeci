@@ -12,48 +12,50 @@
 
 ## Leistungen
 
-- [B2B-Webentwicklung](https://bayramdoekmeci.de/webentwicklung/): Individuelle Websites, CMS, Web-Anwendungen und digitale Systeme für Unternehmen und Agenturen in DACH.
-- [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
-- [Full-Stack-Entwickler](https://bayramdoekmeci.de/full-stack-entwickler/): Frontend- und Backend-Entwicklung, Schnittstellen sowie Web-Infrastruktur.
-- [Digitales Marketing](https://bayramdoekmeci.de/digitales-marketing/): Digitales Marketing für B2B und Agenturen in DACH: Performance, Leadgenerierung und MarTech mit Bayram Dökmeci. Direkt, remote und auf Deutsch.
-- [Customer Success](https://bayramdoekmeci.de/customer-success/): Deutschsprachiges Kunden-Onboarding, User Adoption, proaktive B2B-Kundenbetreuung und Account-Entwicklung für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci, remote aus Antalya.
-- [B2B Leadgenerierung & Business Development](https://bayramdoekmeci.de/business-development/): Zielkundenrecherche, persönliche LinkedIn-Ansprache, Marketing Automation und qualifizierte Vertriebsübergabe für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
-- [B2B Design & Content](https://bayramdoekmeci.de/design-content/): Visuelles Design, Conversion-orientierte Web-Assets, Motion Design und kanalübergreifende B2B-Inhalte für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
-- [Videoproduktion & Motion Graphics](https://bayramdoekmeci.de/videoproduktion/): White-Label-Videoproduktion, Social-Media-Videoschnitt, Motion Graphics, 3D-Produktanimationen und VFX für Unternehmen und Agenturen in DACH. Projektbezogen oder als monatliche Zusammenarbeit mit Bayram Dökmeci von MeinB2B.
+Die folgenden Links führen direkt zu den Markdown-Textfassungen der Leistungen.
 
-- [Shopware Wartung & QA](https://bayramdoekmeci.de/shopware/): Shopware-Wartung, manuelle und automatisierte QA-Tests sowie Shopify-Theme- und App-Betreuung für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, projektbezogen oder mit individuell vereinbartem monatlichem Leistungsumfang.
+- [B2B-Webentwicklung](https://bayramdoekmeci.de/webentwicklung/index.md): Individuelle Websites, CMS, Web-Anwendungen und digitale Systeme für Unternehmen und Agenturen in DACH.
+- [WordPress & CMS Entwickler](https://bayramdoekmeci.de/wordpress-cms-entwickler/index.md): Individuelle Theme- und Plugin-Entwicklung, CMS-Architektur, Performance-Optimierung und CDN-Anbindung für B2B und Agenturen in DACH.
+- [Full-Stack-Entwickler](https://bayramdoekmeci.de/full-stack-entwickler/index.md): Frontend- und Backend-Entwicklung, Schnittstellen sowie Web-Infrastruktur.
+- [Digitales Marketing](https://bayramdoekmeci.de/digitales-marketing/index.md): Digitales Marketing für B2B und Agenturen in DACH: Performance, Leadgenerierung und MarTech mit Bayram Dökmeci. Direkt, remote und auf Deutsch.
+- [Customer Success](https://bayramdoekmeci.de/customer-success/index.md): Deutschsprachiges Kunden-Onboarding, User Adoption, proaktive B2B-Kundenbetreuung und Account-Entwicklung für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci, remote aus Antalya.
+- [B2B Leadgenerierung & Business Development](https://bayramdoekmeci.de/business-development/index.md): Zielkundenrecherche, persönliche LinkedIn-Ansprache, Marketing Automation und qualifizierte Vertriebsübergabe für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+- [B2B Design & Content](https://bayramdoekmeci.de/design-content/index.md): Visuelles Design, Conversion-orientierte Web-Assets, Motion Design und kanalübergreifende B2B-Inhalte für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+- [Videoproduktion & Motion Graphics](https://bayramdoekmeci.de/videoproduktion/index.md): White-Label-Videoproduktion, Social-Media-Videoschnitt, Motion Graphics, 3D-Produktanimationen und VFX für Unternehmen und Agenturen in DACH. Projektbezogen oder als monatliche Zusammenarbeit mit Bayram Dökmeci von MeinB2B.
 
-- [SEA & Google Ads Betreuung](https://bayramdoekmeci.de/sea/): Suchmaschinenwerbung für B2B und Agenturen in DACH: SEA-Audits, Google Ads, Microsoft Ads, Conversion-Tracking und laufende Optimierung. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+- [Shopware Wartung & QA](https://bayramdoekmeci.de/shopware/index.md): Shopware-Wartung, manuelle und automatisierte QA-Tests sowie Shopify-Theme- und App-Betreuung für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, projektbezogen oder mit individuell vereinbartem monatlichem Leistungsumfang.
 
-- [International Sales Director](https://bayramdoekmeci.de/international-sales/): Externe Unterstützung bei Go-to-Market-Strategie, Account-based Selling, LinkedIn, Pipeline Reviews und Vertriebssteuerung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+- [SEA & Google Ads Betreuung](https://bayramdoekmeci.de/sea/index.md): Suchmaschinenwerbung für B2B und Agenturen in DACH: SEA-Audits, Google Ads, Microsoft Ads, Conversion-Tracking und laufende Optimierung. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
-- [B2B Partnership Manager](https://bayramdoekmeci.de/b2b/): Partnerstrategie, Partnergewinnung, Co-Selling und Partner Operations für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+- [International Sales Director](https://bayramdoekmeci.de/international-sales/index.md): Externe Unterstützung bei Go-to-Market-Strategie, Account-based Selling, LinkedIn, Pipeline Reviews und Vertriebssteuerung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
 
-- [Deutschsprachiges Back-Office](https://bayramdoekmeci.de/deutschsprachiges-back-office/): Operativer Kundensupport, E-Mail- und Ticketbearbeitung, CRM-Pflege und administrative Koordination für KMU und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+- [B2B Partnership Manager](https://bayramdoekmeci.de/b2b/index.md): Partnerstrategie, Partnergewinnung, Co-Selling und Partner Operations für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
-- [Deutschsprachiger Remote Kundenbetreuer](https://bayramdoekmeci.de/kundenbetreuer/): Persönliche deutschsprachige Kundenkommunikation, Servicekoordination und Nachverfolgung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
+- [Deutschsprachiges Back-Office](https://bayramdoekmeci.de/deutschsprachiges-back-office/index.md): Operativer Kundensupport, E-Mail- und Ticketbearbeitung, CRM-Pflege und administrative Koordination für KMU und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
-- [LinkedIn Experte für B2B](https://bayramdoekmeci.de/linkedin/): LinkedIn-Strategie, Profil- und Content-Planung, LinkedIn Ads Campaign Management und Zielkundenrecherche mit Sales Navigator für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+- [Deutschsprachiger Remote Kundenbetreuer](https://bayramdoekmeci.de/kundenbetreuer/index.md): Persönliche deutschsprachige Kundenkommunikation, Servicekoordination und Nachverfolgung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
 
-- [Motion Graphics Experte](https://bayramdoekmeci.de/motion-graphics/): Deutschsprachiges Motion Design mit 2D-Erkläranimationen, Brand Motion, Kinetic Typography und animierten Social Creatives für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
+- [LinkedIn Experte für B2B](https://bayramdoekmeci.de/linkedin/index.md): LinkedIn-Strategie, Profil- und Content-Planung, LinkedIn Ads Campaign Management und Zielkundenrecherche mit Sales Navigator für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
-- [n8n Beratung & Workflow Automatisierung](https://bayramdoekmeci.de/n8n/): Prozessanalyse, n8n-Workflows, API-Integration und CRM-Automatisierung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+- [Motion Graphics Experte](https://bayramdoekmeci.de/motion-graphics/index.md): Deutschsprachiges Motion Design mit 2D-Erkläranimationen, Brand Motion, Kinetic Typography und animierten Social Creatives für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya.
 
-- [KI-Automatisierung für Unternehmen](https://bayramdoekmeci.de/ki/): KI-Workflows für B2B-Anfragen, Wissenssuche, Antwortentwürfe und kontrollierte CRM-Übergabe. Prozessanalyse, Prüfregeln, menschliche Freigaben und Dokumentation für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+- [n8n Beratung & Workflow Automatisierung](https://bayramdoekmeci.de/n8n/index.md): Prozessanalyse, n8n-Workflows, API-Integration und CRM-Automatisierung für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
-- [Programmatic SEO & skalierbare Landingpages](https://bayramdoekmeci.de/programmatic/): Datenmodelle, Suchintent- und Seitenarchitektur, Content-Module, Templates und Qualitätsprüfung für skalierbare SEO-Landingpages. Für B2B-Unternehmen und Agenturen in DACH, direkt mit Bayram Dökmeci von MeinB2B.
+- [KI-Automatisierung für Unternehmen](https://bayramdoekmeci.de/ki/index.md): KI-Workflows für B2B-Anfragen, Wissenssuche, Antwortentwürfe und kontrollierte CRM-Übergabe. Prozessanalyse, Prüfregeln, menschliche Freigaben und Dokumentation für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
 
-- [Web-App entwickeln lassen](https://bayramdoekmeci.de/web-app/): Individuelle Web-Apps, interne Software und Kundenportale für Unternehmen und Agenturen in DACH. Prozessanalyse, Konzeption, Entwicklung, Schnittstellen und abgestimmte Übergabe. Direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch.
+- [Programmatic SEO & skalierbare Landingpages](https://bayramdoekmeci.de/programmatic/index.md): Datenmodelle, Suchintent- und Seitenarchitektur, Content-Module, Templates und Qualitätsprüfung für skalierbare SEO-Landingpages. Für B2B-Unternehmen und Agenturen in DACH, direkt mit Bayram Dökmeci von MeinB2B.
 
-- [E-Mail-Marketing Experte für B2B](https://bayramdoekmeci.de/email-marketing/): E-Mail-Strategie, Newsletter, responsive Templates, Lead Nurturing, Marketing Automation und Kampagnenanalyse für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+- [Web-App entwickeln lassen](https://bayramdoekmeci.de/web-app/index.md): Individuelle Web-Apps, interne Software und Kundenportale für Unternehmen und Agenturen in DACH. Prozessanalyse, Konzeption, Entwicklung, Schnittstellen und abgestimmte Übergabe. Direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch.
 
-- [Social-Media-Experte für B2B](https://bayramdoekmeci.de/social-media/): Social-Media-Strategie, Redaktionsplanung, Content, Community-Management, Paid Social und Reporting für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
+- [E-Mail-Marketing Experte für B2B](https://bayramdoekmeci.de/email-marketing/index.md): E-Mail-Strategie, Newsletter, responsive Templates, Lead Nurturing, Marketing Automation und Kampagnenanalyse für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
-- [3D-Visualisierungen für Architekten](https://bayramdoekmeci.de/3d/): Architekturvisualisierung, Außen- und Innenansichten, Animationen und virtuelle Rundgänge für Architekturbüros, Geschäftskunden und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
+- [Social-Media-Experte für B2B](https://bayramdoekmeci.de/social-media/index.md): Social-Media-Strategie, Redaktionsplanung, Content, Community-Management, Paid Social und Reporting für B2B-Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, remote aus Antalya und auf Deutsch.
 
-- [Data Engineering & KI für B2B](https://bayramdoekmeci.de/data-engineering/): Datenpipelines, API-Integration, Datenmodellierung, Qualitätsprüfungen und Aufbereitung einer Wissensbasis für RAG. Für Unternehmen und Agenturen in DACH, direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch und remote aus Antalya.
+- [3D-Visualisierungen für Architekten](https://bayramdoekmeci.de/3d/index.md): Architekturvisualisierung, Außen- und Innenansichten, Animationen und virtuelle Rundgänge für Architekturbüros, Geschäftskunden und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B.
 
-- [Local-SEO-Spezialist & Kartendienste](https://bayramdoekmeci.de/kartendienst/): Google Business Profile, Apple Maps, Bing Places, konsistente Standortdaten und Local Listing Management für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch und remote aus Antalya.
+- [Data Engineering & KI für B2B](https://bayramdoekmeci.de/data-engineering/index.md): Datenpipelines, API-Integration, Datenmodellierung, Qualitätsprüfungen und Aufbereitung einer Wissensbasis für RAG. Für Unternehmen und Agenturen in DACH, direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch und remote aus Antalya.
+
+- [Local-SEO-Spezialist & Kartendienste](https://bayramdoekmeci.de/kartendienst/index.md): Google Business Profile, Apple Maps, Bing Places, konsistente Standortdaten und Local Listing Management für Unternehmen und Agenturen in DACH. Direkt mit Bayram Dökmeci von MeinB2B, auf Deutsch und remote aus Antalya.
 
 ## Kontakt
 
